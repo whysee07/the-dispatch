@@ -1,4 +1,4 @@
-# The Dispatch
+# Khat-TING
 
 A daily newsletter website with three channels — **Daily Brief**, **AI Insider**, and **PMM / PM** — each generated automatically every morning and published to one GitHub Pages site. The email versions still run where you want them (AI Insider keeps emailing; Brief and PMM are web-only).
 

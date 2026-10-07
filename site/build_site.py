@@ -31,7 +31,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 OUT_DIR = ROOT / "site" / "public"
 
-SITE_TITLE = "The Dispatch"
+SITE_TITLE = "Khat-TING"
 SITE_TAGLINE = "A daily intelligence briefing, compiled by Yash and one very caffeinated algorithm."
 
 # ── FEED CONFIG ──────────────────────────────────────────────────────────────
@@ -413,7 +413,7 @@ def masthead(depth: int) -> str:
     return f"""<header class="masthead" id="mast">
   <div class="wrap masthead-row">
     <div>
-      <h1 class="wordmark"><a href="{home}">The Dis<span>patch</span></a></h1>
+      <h1 class="wordmark"><a href="{home}">Khat-<span>TING</span></a></h1>
       <p class="tagline">{html_lib.escape(SITE_TAGLINE)}</p>
     </div>
     <div class="meta">
@@ -461,7 +461,7 @@ def build_issue_page(feed: dict, issue: dict, issues: list[dict]) -> str:
     return page_shell(body, feed["id"], 1, script)
 
 
-FOOTER = """<footer><div class="wrap foot"><span>The Dispatch — compiled daily</span><span id="genstamp"></span></div></footer>"""
+FOOTER = """<footer><div class="wrap foot"><span>Khat-TING — compiled daily</span><span id="genstamp"></span></div></footer>"""
 
 # ── CSS ──────────────────────────────────────────────────────────────────────
 
