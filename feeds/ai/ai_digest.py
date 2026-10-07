@@ -809,9 +809,11 @@ def render_html_email(digest_markdown: str, generated_at: datetime) -> str:
 def send_email(html_content: str, subject: str) -> None:
     """Send the HTML digest via Gmail SMTP over TLS (port 587)."""
     if not all([GMAIL_ADDRESS, GMAIL_APP_PASSWORD, RECIPIENT_EMAIL]):
-        raise ValueError(
-            "Missing one or more email env vars: GMAIL_ADDRESS, GMAIL_APP_PASSWORD, RECIPIENT_EMAIL"
+        log.warning(
+            "Email creds not set (GMAIL_ADDRESS / GMAIL_APP_PASSWORD / RECIPIENT_EMAIL) "
+            "— skipping email send. Add them as repo secrets to enable."
         )
+        return
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
@@ -892,6 +894,8 @@ def main() -> None:
     html = render_html_email(digest_md, now)
 
     # 5. Send — email stays ON for this feed by default. Set SEND_EMAIL=false to disable.
+    #    If Gmail creds aren't set yet, send_email() skips gracefully (web JSON is already written),
+    #    so the feed runs with only GEMINI_API_KEY and starts emailing the moment creds are added.
     if os.getenv("SEND_EMAIL", "true").lower() == "true":
         log.info("\n[5/5] Sending email…")
         subject = f"🤖 AI Insider Daily — {now.strftime('%B %-d, %Y')}"

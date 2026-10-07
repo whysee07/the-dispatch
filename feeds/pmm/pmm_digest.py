@@ -1186,13 +1186,25 @@ def fetch_github_trending() -> list[Signal]:
 
 
 def fetch_all_signals() -> dict[str, list[Signal]]:
-    """Run all signal fetchers and return results organized by type."""
-    return {
-        "reddit":      fetch_reddit_signals(),
-        "hn":          fetch_hn_signals(),
-        "producthunt": fetch_product_hunt(),
-        "github":      fetch_github_trending(),
+    """Run all signal fetchers and return results organized by type.
+
+    Each source is isolated: a missing key or a failing source yields an empty
+    list for that source instead of aborting the run, so the digest still builds
+    from whatever is available (e.g. with only GEMINI_API_KEY set)."""
+    sources = {
+        "reddit":      fetch_reddit_signals,
+        "hn":          fetch_hn_signals,
+        "producthunt": fetch_product_hunt,
+        "github":      fetch_github_trending,
     }
+    out: dict[str, list[Signal]] = {}
+    for key, fn in sources.items():
+        try:
+            out[key] = fn()
+        except Exception as e:
+            log.error(f"[Signals] {key} failed: {e}")
+            out[key] = []
+    return out
 
 
 # ═══════════════════════════════════════════════════════════════════════════
