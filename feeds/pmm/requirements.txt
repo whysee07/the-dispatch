@@ -1,0 +1,10 @@
+feedparser>=6.0
+requests>=2.31
+beautifulsoup4>=4.12
+google-genai>=1.0
+python-dotenv>=1.0
+praw>=7.7
+apify-client>=1.7
+lxml>=5.0
+pytz>=2024
+python-dateutil>=2.9

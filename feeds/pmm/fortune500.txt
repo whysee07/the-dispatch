@@ -1,0 +1,120 @@
+# fortune500.txt — One company name per line (lowercase), no quotes.
+# This file is checked before making any Crunchbase API calls.
+# Add or edit freely. The script reloads this file on every run.
+# Source: https://fortune.com/fortune500/
+
+walmart
+amazon
+apple
+unitedhealth group
+berkshire hathaway
+cvs health
+exxon mobil
+alphabet
+mckesson
+amerisourcebergen
+costco wholesale
+cigna
+at&t
+microsoft
+cardinal health
+chevron
+home depot
+walgreens boots alliance
+marathon petroleum
+elevance health
+kroger
+ford motor
+verizon communications
+jpmorgan chase
+general motors
+centene
+meta platforms
+comcast
+phillips 66
+valero energy
+target
+fannie mae
+dell technologies
+johnson & johnson
+humana
+freddie mac
+fedex
+wells fargo
+citigroup
+bank of america
+boeing
+pfizer
+general electric
+lockheed martin
+goldman sachs
+hartford financial
+morgan stanley
+ups
+caterpillar
+charter communications
+enterprise products
+sysco
+allstate
+tyson foods
+dow
+procter & gamble
+disney
+nike
+merck
+abbvie
+intel
+ibm
+abbott laboratories
+honeywell
+3m
+oracle
+hp
+western digital
+american express
+visa
+mastercard
+netflix
+adobe
+nvidia
+amd
+qualcomm
+broadcom
+texas instruments
+cisco
+pepsico
+coca-cola
+general mills
+colgate-palmolive
+estee lauder
+deere
+parker hannifin
+emerson electric
+illinois tool works
+raytheon
+northrop grumman
+general dynamics
+l3harris
+# ── Tech/SaaS large-caps (treat as Fortune 500 tier) ──
+servicenow
+workday
+zendesk
+twilio
+datadog
+snowflake
+atlassian
+splunk
+palo alto networks
+fortinet
+crowdstrike
+hubspot
+shopify
+square
+stripe
+zoom
+slack
+docusign
+salesforce
+sap
+oracle
+ibm

@@ -1,0 +1,54 @@
+name: PMM feed
+
+on:
+  schedule:
+    - cron: '0 10 * * *'   # 10:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-pmm
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r feeds/pmm/requirements.txt
+
+      - name: Run PMM digest
+        env:
+          GEMINI_API_KEY:       ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_ADDRESS:        ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD:   ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL:      ${{ secrets.RECIPIENT_EMAIL }}
+          CRUNCHBASE_API_KEY:   ${{ secrets.CRUNCHBASE_API_KEY }}
+          APIFY_API_KEY:        ${{ secrets.APIFY_API_KEY }}
+          REDDIT_CLIENT_ID:     ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT:    pmm_digest_bot/1.0
+          GITHUB_TOKEN:         ${{ secrets.GITHUB_TOKEN }}
+          # Email OFF for this feed (web-only). Set to "true" here to re-enable.
+          SEND_EMAIL:           "false"
+        run: python feeds/pmm/pmm_digest.py
+
+      - name: Commit issue to archive
+        run: |
+          git config user.name  "dispatch-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/pmm
+          git diff --staged --quiet || git commit -m "data(pmm): $(date -u +%F)"
+          git push

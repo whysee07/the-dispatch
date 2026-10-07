@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Generated site (built in CI, deployed to Pages — never committed)
+site/public/
+
+# Local generator previews
+feeds/**/pmm_digest_output.html
+feeds/**/digest_*.html
+
+.DS_Store

@@ -1,0 +1,48 @@
+name: AI Insider feed
+
+on:
+  schedule:
+    - cron: '0 11 * * *'   # 11:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-ai
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r feeds/ai/requirements.txt
+
+      - name: Run AI digest
+        env:
+          GEMINI_API_KEY:     ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL:    ${{ secrets.RECIPIENT_EMAIL }}
+          # Email STAYS ON for this feed (default). Set "false" to stop sending.
+          SEND_EMAIL:         "true"
+        run: python feeds/ai/ai_digest.py
+
+      - name: Commit issue to archive
+        run: |
+          git config user.name  "dispatch-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ai
+          git diff --staged --quiet || git commit -m "data(ai): $(date -u +%F)"
+          git push

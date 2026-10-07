@@ -1,0 +1,48 @@
+name: Build & deploy site
+
+on:
+  # Rebuild after any feed finishes (workflow_run fires even for bot commits)
+  workflow_run:
+    workflows: ["Daily Brief feed", "AI Insider feed", "PMM feed"]
+    types: [completed]
+  workflow_dispatch:
+  schedule:
+    - cron: '30 12 * * *'   # safety rebuild after all feeds have run
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build site
+        run: python site/build_site.py
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

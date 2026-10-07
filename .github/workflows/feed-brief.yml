@@ -1,0 +1,46 @@
+name: Daily Brief feed
+
+on:
+  schedule:
+    - cron: '0 12 * * *'   # 12:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-brief
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r feeds/brief/requirements.txt
+
+      - name: Run Daily Brief digest
+        env:
+          GEMINI_API_KEY:     ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL:    ${{ secrets.RECIPIENT_EMAIL }}
+          # Email OFF for this feed (web-only). Set to "true" here to re-enable.
+          SEND_EMAIL:         "false"
+        run: python feeds/brief/digest.py
+
+      - name: Commit issue to archive
+        run: |
+          git config user.name  "dispatch-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/brief
+          git diff --staged --quiet || git commit -m "data(brief): $(date -u +%F)"
+          git push
