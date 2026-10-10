@@ -21,6 +21,7 @@ SETUP
 
 # ── Standard library ──────────────────────────────────────────────────────────
 import os
+import re
 import json
 import time
 import logging
@@ -282,6 +283,8 @@ ITEM FORMAT — for every bulleted item in every section, write it as:
   The release matches last year's frontier on reasoning benchmarks but fits on a single consumer card, collapsing the gap between "frontier" and "runs on your desk."
 The bold headline must work on its own as a scannable one-liner; the detail is the deep-dive. (THE BIG STORY and EDGE INSIGHT may stay as short paragraphs without a bold lead.)
 
+SOURCE CITATION: the data below is numbered with [S#] markers. End each item with the marker(s) of the source(s) it's based on, e.g. [S3] or [S3][S9]. Use ONLY markers that appear in the data — never invent one. Items you can't tie to a specific source (e.g. a synthesized Edge Insight) need no marker.
+
 Write a polished daily digest with these exact sections:
 
 ---
@@ -365,13 +368,25 @@ def _build_data_payload(
     Caps at MAX_CONTENT_CHARS, prioritising recency then source authority.
     """
     lines: list[str] = []
+    sources: list[dict] = []
+    sid = 0
+
+    def _add(title, url, source):
+        nonlocal sid
+        if not url:
+            return None
+        sid += 1
+        sources.append({"id": sid, "title": title, "url": url, "source": source})
+        return sid
 
     # ── RSS articles ──────────────────────────────────────────────────────────
     lines.append("## RSS ARTICLES (newest first)\n")
     for a in articles:
         ts = datetime.fromtimestamp(a["published_ts"], tz=timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+        n = _add(a["title"], a.get("url"), a.get("source", "RSS"))
+        tag = f"[S{n}] " if n else ""
         lines.append(
-            f"[{a['category']} | {a['source']} | {ts}]\n"
+            f"{tag}[{a['category']} | {a['source']} | {ts}]\n"
             f"TITLE: {a['title']}\n"
             f"URL: {a['url']}\n"
             f"SUMMARY: {a['summary']}\n"
@@ -380,8 +395,10 @@ def _build_data_payload(
     # ── GitHub trending ───────────────────────────────────────────────────────
     lines.append("\n## GITHUB TRENDING AI REPOS\n")
     for r in github_repos:
+        n = _add(r["name"], r.get("url"), "GitHub")
+        tag = f"[S{n}] " if n else ""
         lines.append(
-            f"REPO: {r['name']} ({r['stars']:,} stars, {r['language']})\n"
+            f"{tag}REPO: {r['name']} ({r['stars']:,} stars, {r['language']})\n"
             f"DESC: {r['description']}\n"
             f"URL: {r['url']}\n"
         )
@@ -389,8 +406,10 @@ def _build_data_payload(
     # ── Hacker News ───────────────────────────────────────────────────────────
     lines.append("\n## HACKER NEWS — TOP AI POSTS (LAST 24H)\n")
     for p in hn_posts:
+        n = _add(p["title"], p.get("url") or p.get("hn_url"), "Hacker News")
+        tag = f"[S{n}] " if n else ""
         lines.append(
-            f"TITLE: {p['title']}\n"
+            f"{tag}TITLE: {p['title']}\n"
             f"POINTS: {p['points']}  COMMENTS: {p['comments']}\n"
             f"URL: {p['url']}\n"
             f"HN THREAD: {p['hn_url']}\n"
@@ -404,21 +423,21 @@ def _build_data_payload(
         )
         full = full[:MAX_CONTENT_CHARS] + "\n\n[... truncated to fit context window ...]"
 
-    return full
+    return full, sources
 
 
 def generate_digest(
     articles: list[dict],
     github_repos: list[dict],
     hn_posts: list[dict],
-) -> str:
-    """Call Gemini and return the markdown digest text."""
+) -> tuple[str, list[dict]]:
+    """Call Gemini; return (markdown digest text, numbered sources list)."""
     if not GEMINI_API_KEY:
         raise ValueError("GEMINI_API_KEY not set in .env")
 
     genai.configure(api_key=GEMINI_API_KEY)
 
-    data_payload = _build_data_payload(articles, github_repos, hn_posts)
+    data_payload, sources = _build_data_payload(articles, github_repos, hn_posts)
     today_str = datetime.now(timezone.utc).strftime("%A, %B %-d, %Y")
     prompt = DIGEST_PROMPT_TEMPLATE.format(today=today_str, data=data_payload)
 
@@ -439,13 +458,13 @@ def generate_digest(
                 ),
             )
             log.info("Gemini responded with %d chars (model: %s)", len(response.text), model_name)
-            return response.text
+            return response.text, sources
         except Exception as exc:
             log.error("Gemini call failed with %s: %s", model_name, exc)
-            if model_name == "gemini-1.5-flash-latest":
+            if model_name == "gemini-2.5-flash":
                 raise   # both models failed
 
-    return ""   # unreachable
+    return "", sources   # unreachable
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -675,7 +694,9 @@ def render_html_email(digest_markdown: str, generated_at: datetime) -> str:
 
     date_str     = generated_at.strftime("%A, %B %-d, %Y")
     ts_str       = generated_at.strftime("%Y-%m-%d %H:%M UTC")
-    body_html    = _md_to_html_sections(digest_markdown)
+    # Strip [S#] source markers from the emailed copy (web build renders them as links)
+    clean_md     = re.sub(r"\s*\[S\d+\](?:\[S\d+\])*", "", digest_markdown)
+    body_html    = _md_to_html_sections(clean_md)
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -855,7 +876,7 @@ def send_email(html_content: str, subject: str) -> None:
 # MAIN
 # ─────────────────────────────────────────────────────────────────────────────
 
-def write_web_json(feed: str, feed_name: str, raw_text: str) -> None:
+def write_web_json(feed: str, feed_name: str, raw_text: str, sources: list[dict] | None = None) -> None:
     """Persist the raw digest for the website build (feeds/<feed>/ -> repo root is parents[2])."""
     root = Path(__file__).resolve().parents[2]
     today = datetime.now(timezone.utc).date().isoformat()
@@ -869,6 +890,7 @@ def write_web_json(feed: str, feed_name: str, raw_text: str) -> None:
                 "date": today,
                 "generated_at": datetime.now(timezone.utc).isoformat(),
                 "raw_text": raw_text,
+                "sources": sources or [],
             },
             ensure_ascii=False,
             indent=2,
@@ -899,10 +921,10 @@ def main() -> None:
 
     # 3. Gemini digest
     log.info("\n[3/5] Generating digest with Gemini…")
-    digest_md = generate_digest(articles, github_repos, hn_posts)
+    digest_md, sources = generate_digest(articles, github_repos, hn_posts)
 
     # Persist for the website build (runs regardless of email setting)
-    write_web_json("ai", "AI Insider", digest_md)
+    write_web_json("ai", "AI Insider", digest_md, sources)
 
     # 4. Render HTML
     log.info("\n[4/5] Rendering HTML email…")

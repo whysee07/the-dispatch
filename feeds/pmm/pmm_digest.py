@@ -1228,7 +1228,7 @@ def build_gemini_context(
     articles: list[Article],
     jobs:     list[Job],
     signals:  dict[str, list[Signal]],
-) -> str:
+) -> tuple[str, list[dict]]:
     """
     Assemble all collected data into a single text string to pass to Gemini.
 
@@ -1325,11 +1325,13 @@ def build_gemini_context(
         )
 
     article_parts: list[str] = ["\n=== RSS ARTICLES (last 24h) ===\n"]
+    included_articles: list[Article] = []
     chars_used = 0
     for a in guaranteed:
         t = article_to_text(a)
         chars_used += len(t)
         article_parts.append(t)
+        included_articles.append(a)
 
     trimmed = 0
     for a in optional:
@@ -1339,15 +1341,47 @@ def build_gemini_context(
         t = article_to_text(a)
         chars_used += len(t)
         article_parts.append(t)
+        included_articles.append(a)
     if trimmed:
         log.info(f"[Context] Trimmed {trimmed} optional articles to stay under char cap")
 
     full_context = fixed_context + "\n".join(article_parts)
+
+    # ── SOURCES table (for [S#] citation) ─────────────────────────────────
+    sources: list[dict] = []
+    sid = 0
+
+    def _src(title: str, url: str, source: str):
+        nonlocal sid
+        if not url or not str(url).startswith("http"):
+            return
+        sid += 1
+        sources.append({"id": sid, "title": title.strip()[:160], "url": url, "source": source})
+
+    for a in included_articles:
+        _src(a.title, a.url, a.source)
+    for s in signals.get("reddit", []):
+        _src(s.title, s.url, f"r/{s.subreddit}")
+    for s in signals.get("hn", []):
+        _src(s.title, s.url, "Hacker News")
+    for s in signals.get("producthunt", []):
+        _src(s.title, s.url, "Product Hunt")
+    for s in signals.get("github", []):
+        _src(s.title, s.url, "GitHub")
+    for j in jobs:
+        _src(f"{j.title} — {j.company}", j.url, "Job listing")
+
+    if sources:
+        tbl = ["\n=== SOURCES (cite these by their [S#] marker) ===\n"]
+        for s in sources:
+            tbl.append(f"[S{s['id']}] {s['title']} ({s['source']}) — {s['url']}")
+        full_context += "\n" + "\n".join(tbl)
+
     log.info(
         f"[Context] Final size: {len(full_context):,} chars "
-        f"(cap: {MAX_GEMINI_CHARS:,})"
+        f"(cap: {MAX_GEMINI_CHARS:,}); {len(sources)} sources"
     )
-    return full_context
+    return full_context, sources
 
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -1591,6 +1625,7 @@ FORMATTING RULES:
 - Within a section, write each bullet as a bold one-line headline, a line break, then the detail — so it can be scanned fast and expanded for depth. Example:
   **Usage-based pricing is becoming table stakes.**
   Three more infra companies flipped from seat-based to consumption this week. If your pricing page still leads with "per seat," you're the outlier now.
+- SOURCE CITATION: TODAY'S DATA ends with a numbered SOURCES table. End each item with the [S#] marker(s) of the source(s) it draws on, e.g. [S12] or [S12][S30]. Use only markers from that table; never invent one. The JOBS PULSE section does not need per-row citations.
 - Never say 'consider doing X' — name the specific tool, prompt, or action
 - PMM: 60% / PM: 40%
 - If data is thin on a section, say so in one line and move on — no padding
@@ -2068,7 +2103,7 @@ def _print_summary(stats: dict) -> None:
     print("═" * width + "\n")
 
 
-def write_web_json(feed: str, feed_name: str, raw_text: str) -> None:
+def write_web_json(feed: str, feed_name: str, raw_text: str, sources: list[dict] | None = None) -> None:
     """Persist the raw digest for the website build (feeds/<feed>/ -> repo root is parents[2])."""
     root = Path(__file__).resolve().parents[2]
     today = datetime.now(timezone.utc).date().isoformat()
@@ -2082,13 +2117,14 @@ def write_web_json(feed: str, feed_name: str, raw_text: str) -> None:
                 "date": today,
                 "generated_at": datetime.now(timezone.utc).isoformat(),
                 "raw_text": raw_text,
+                "sources": sources or [],
             },
             ensure_ascii=False,
             indent=2,
         ),
         encoding="utf-8",
     )
-    log.info(f"[Web] JSON written -> {out}")
+    log.info(f"[Web] JSON written -> {out} ({len(sources or [])} sources)")
 
 
 def main() -> None:
@@ -2137,7 +2173,7 @@ def main() -> None:
 
     # Step 5 — Build Gemini context
     log.info("[4/5] Building Gemini context (enforcing 80k char cap)...")
-    context = build_gemini_context(articles, jobs_raw, signals)
+    context, sources = build_gemini_context(articles, jobs_raw, signals)
     stats["context_chars"] = len(context)
 
     # Step 6 — Generate digest
@@ -2151,7 +2187,7 @@ def main() -> None:
         sys.exit(1)
 
     # Persist for the website build (runs regardless of email setting)
-    write_web_json("pmm", "PMM / PM", digest_text)
+    write_web_json("pmm", "PMM / PM", digest_text, sources)
 
     # Step 7 — Format HTML (email for this feed is OFF by default; web-only)
     log.info("[6/5] Formatting HTML...")

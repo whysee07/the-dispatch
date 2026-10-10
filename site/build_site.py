@@ -23,16 +23,23 @@ from __future__ import annotations
 
 import html as html_lib
 import json
+import os
 import re
-from datetime import date, datetime
+import shutil
+from datetime import date, datetime, timezone
+from email.utils import format_datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 OUT_DIR = ROOT / "site" / "public"
+ASSETS_SRC = ROOT / "site" / "assets"          # committed assets (og images, etc.) copied into output
 
 SITE_TITLE = "The Khat-TING"
 SITE_TAGLINE = "A daily intelligence briefing, compiled by Yash and one very caffeinated algorithm."
+# Absolute base URL (no trailing slash). Override with SITE_URL env for a custom domain.
+SITE_URL = os.environ.get("SITE_URL", "https://whysee07.github.io/the-dispatch").rstrip("/")
+SITE_DESC = "A daily three-channel intelligence briefing — Daily Brief, AI Insider, and PMM / PM — auto-compiled every morning."
 
 # ── FEED CONFIG ──────────────────────────────────────────────────────────────
 # `mode` selects how raw_text is split into sections:
@@ -269,12 +276,42 @@ def _items_from_body(body: str) -> list[tuple]:
     return items
 
 
-def render_body(body: str, speed: bool = False) -> str:
+_CITE = re.compile(r"\s*\[S(\d+)\]")
+
+
+def _pop_cites(text: str) -> tuple[str, list[int]]:
+    """Pull [S#] markers out of text; return (clean_text, [ids])."""
+    ids = [int(n) for n in _CITE.findall(text)]
+    clean = _CITE.sub("", text)
+    return clean.strip(), ids
+
+
+def _render_source_links(ids: list[int], smap: dict) -> str:
+    """Render a small 'source' link row for the cited sources that have URLs."""
+    seen, links = set(), []
+    for i in ids:
+        if i in seen or i not in smap:
+            continue
+        seen.add(i)
+        s = smap[i]
+        if not s.get("url"):
+            continue
+        label = html_lib.escape(s.get("source") or "source")
+        links.append(f'<a class="src-link" href="{html_lib.escape(s["url"])}" '
+                     f'target="_blank" rel="noopener">{label} ↗</a>')
+    if not links:
+        return ""
+    return f'<div class="src-links">{"".join(links)}</div>'
+
+
+def render_body(body: str, speed: bool = False, smap: dict | None = None) -> str:
     """Render a section body. Normal sections become collapsible items
     (scannable headline, expand for detail); Speed Round stays a flat list."""
+    smap = smap or {}
     if speed:
         raw = [ln.strip() for ln in body.split("\n")]
-        raw = [re.sub(r"^\s*(?:[-–—*•]|\d+[.)])\s*", "", it) for it in raw if it.strip()]
+        raw = [_pop_cites(re.sub(r"^\s*(?:[-–—*•]|\d+[.)])\s*", "", it))[0] for it in raw if it.strip()]
+        raw = [it for it in raw if it]
         if not raw:
             return ""
         lis = "".join(f"<li>{_inline(it)}</li>" for it in raw)
@@ -283,26 +320,30 @@ def render_body(body: str, speed: bool = False) -> str:
     parts: list[str] = []
     for item in _items_from_body(body):
         if item[0] == "sub":
-            parts.append(f'<p class="subhead">{_inline(item[1])}</p>')
+            clean, _ = _pop_cites(item[1])
+            parts.append(f'<p class="subhead">{_inline(clean)}</p>')
             continue
-        headline, detail = _split_item(item[1])
+        clean, ids = _pop_cites(item[1])
+        headline, detail = _split_item(clean)
         detail_html = _render_detail(detail)
-        if detail_html:
+        src_html = _render_source_links(ids, smap)
+        if detail_html or src_html:
             parts.append(
                 f'<details class="item"><summary>{_inline(headline)}</summary>'
-                f'<div class="item-body">{detail_html}</div></details>'
+                f'<div class="item-body">{detail_html}{src_html}</div></details>'
             )
         else:
             parts.append(f'<div class="item item--flat">{_inline(headline)}</div>')
     return "\n".join(parts)
 
 
-def render_sections(feed: dict, raw_text: str) -> str:
+def render_sections(feed: dict, raw_text: str, sources: list[dict] | None = None) -> str:
+    smap = {s["id"]: s for s in (sources or []) if "id" in s}
     secs = parse_sections(feed, raw_text)
     out: list[str] = []
     for emoji, label, body in secs:
         speed = "speed round" in label.lower()
-        body_html = render_body(body, speed=speed)
+        body_html = render_body(body, speed=speed, smap=smap)
         if not body_html.strip():
             continue
         label_html = ""
@@ -363,7 +404,7 @@ def render_article(feed: dict, issue: dict | None, issues: list[dict], depth: in
                 f'<div class="layout"><div class="col"><section class="section"><div class="body">'
                 f'<p>Check back soon.</p></div></section></div>{rail}</div></article>')
 
-    sections_html = render_sections(feed, issue["raw_text"])
+    sections_html = render_sections(feed, issue["raw_text"], issue.get("sources"))
     rail = render_rail(feed, issues, issue["date"], depth)
     return f"""  <article class="issue" data-accent="{feed['id']}" data-feed="{feed['id']}" role="tabpanel" aria-labelledby="tab-{feed['id']}"{hidden_attr}>
     <div class="kicker"><span class="big">Issue {issue['_num']}</span><span class="sm">{fmt_kicker(issue['date'])}</span></div>
@@ -389,14 +430,40 @@ def nav_tabs(active: str, depth: int) -> str:
     return "\n      ".join(tabs)
 
 
-def page_shell(body: str, active: str, depth: int, script: str) -> str:
+def page_shell(body: str, active: str, depth: int, script: str,
+               title: str | None = None, desc: str | None = None,
+               page_url: str = "", og_image_feed: str | None = None,
+               og_type: str = "website") -> str:
     css = "../../assets/style.css" if depth else "assets/style.css"
+    base = "../../" if depth else ""
+    title = title or SITE_TITLE
+    desc = (desc or SITE_DESC).replace('"', "&quot;")
+    canonical = page_url or SITE_URL
+    og_img = f"{SITE_URL}/assets/og-{og_image_feed or 'brief'}.png"
+    title_esc = html_lib.escape(title)
     return f"""<!DOCTYPE html>
 <html lang="en" data-accent="{active}">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{SITE_TITLE}</title>
+<title>{title_esc}</title>
+<meta name="description" content="{desc}">
+<link rel="canonical" href="{canonical}">
+<meta property="og:site_name" content="{SITE_TITLE}">
+<meta property="og:title" content="{title_esc}">
+<meta property="og:description" content="{desc}">
+<meta property="og:type" content="{og_type}">
+<meta property="og:url" content="{canonical}">
+<meta property="og:image" content="{og_img}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{title_esc}">
+<meta name="twitter:description" content="{desc}">
+<meta name="twitter:image" content="{og_img}">
+<link rel="alternate" type="application/rss+xml" title="{SITE_TITLE} — Daily Brief" href="{base}feeds/brief.xml">
+<link rel="alternate" type="application/rss+xml" title="{SITE_TITLE} — AI Insider" href="{base}feeds/ai.xml">
+<link rel="alternate" type="application/rss+xml" title="{SITE_TITLE} — PMM / PM" href="{base}feeds/pmm.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700;12..96,800&family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap">
@@ -485,7 +552,8 @@ def build_index(feed_issues: dict[str, list[dict]]) -> str:
         articles.append(render_article(f, latest, issues, depth=0, hidden=not first))
         first = False
     body = masthead(0) + '\n<main class="wrap">\n' + "\n".join(articles) + "\n</main>\n" + FOOTER
-    return page_shell(body, "brief", 0, THEME_SCRIPT + INDEX_SCRIPT)
+    return page_shell(body, "brief", 0, THEME_SCRIPT + INDEX_SCRIPT,
+                      page_url=SITE_URL + "/", og_type="website")
 
 
 def build_issue_page(feed: dict, issue: dict, issues: list[dict]) -> str:
@@ -503,7 +571,11 @@ def build_issue_page(feed: dict, issue: dict, issues: list[dict]) -> str:
   });
 })();
 """ % feed["id"]
-    return page_shell(body, feed["id"], 1, script)
+    page_title = f"{feed['name']} · {fmt_long(issue['date'])} — {SITE_TITLE}"
+    page_desc = f"{feed['name']} for {fmt_long(issue['date'])}: {SITE_DESC}"
+    page_url = f"{SITE_URL}/issues/{feed['id']}/{issue['date']}.html"
+    return page_shell(body, feed["id"], 1, script, title=page_title, desc=page_desc,
+                      page_url=page_url, og_image_feed=feed["id"], og_type="article")
 
 
 FOOTER = """<footer><div class="wrap foot"><span>The Khat-TING — compiled daily</span><span id="genstamp"></span></div></footer>"""
@@ -608,6 +680,11 @@ a{color:inherit;}
 .body .item-body{padding:2px 0 17px 23px;}
 .body .item-body p{margin:0 0 10px;font-size:16.5px;line-height:1.55;color:var(--ink-soft);}
 .body .item-body p:last-child{margin-bottom:0;}
+.body .src-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px;}
+.body .src-links .src-link{font-family:var(--disp);font-weight:600;font-size:12px;letter-spacing:.01em;
+  text-decoration:none;color:var(--accent);background:var(--wash);border:1px solid var(--accent);
+  border-radius:999px;padding:3px 11px;white-space:nowrap;}
+.body .src-links .src-link:hover{background:var(--accent);color:var(--on-accent);}
 .body .item--flat{display:flex;gap:13px;align-items:baseline;padding:15px 0;border-bottom:1px solid var(--rule);
   font-family:var(--disp);font-weight:700;font-size:clamp(17px,2.4vw,20px);letter-spacing:-.018em;
   line-height:1.2;color:var(--ink);}
@@ -644,14 +721,81 @@ footer{border-top:3px solid var(--ink);padding-block:22px 44px;margin-top:20px;}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;}}
 """
 
+# ── FEEDS / SEO ──────────────────────────────────────────────────────────────
+
+def _plain_summary(raw_text: str, limit: int = 280) -> str:
+    """Strip markup/markers from a digest for an RSS description."""
+    t = re.sub(r"\[S\d+\]", "", raw_text)
+    t = re.sub(r"[#*_`>]", "", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    return (t[:limit] + "…") if len(t) > limit else t
+
+
+def _rfc822(date_str: str) -> str:
+    try:
+        dt = datetime.strptime(date_str, "%Y-%m-%d").replace(hour=12, tzinfo=timezone.utc)
+    except ValueError:
+        dt = datetime.now(timezone.utc)
+    return format_datetime(dt)
+
+
+def build_rss(feed: dict, issues: list[dict]) -> str:
+    items = []
+    for rec in issues[:30]:
+        url = f"{SITE_URL}/issues/{feed['id']}/{rec['date']}.html"
+        title = html_lib.escape(f"{feed['name']} — {fmt_long(rec['date'])}")
+        desc = html_lib.escape(_plain_summary(rec.get("raw_text", "")))
+        items.append(
+            f"    <item>\n"
+            f"      <title>{title}</title>\n"
+            f"      <link>{url}</link>\n"
+            f"      <guid isPermaLink=\"true\">{url}</guid>\n"
+            f"      <pubDate>{_rfc822(rec['date'])}</pubDate>\n"
+            f"      <description>{desc}</description>\n"
+            f"    </item>"
+        )
+    chan_title = html_lib.escape(f"{SITE_TITLE} — {feed['name']}")
+    return (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
+        '  <channel>\n'
+        f'    <title>{chan_title}</title>\n'
+        f'    <link>{SITE_URL}/</link>\n'
+        f'    <description>{html_lib.escape(feed["dek"])}</description>\n'
+        '    <language>en-us</language>\n'
+        f'    <atom:link href="{SITE_URL}/feeds/{feed["id"]}.xml" rel="self" type="application/rss+xml"/>\n'
+        + "\n".join(items) + "\n"
+        '  </channel>\n'
+        '</rss>\n'
+    )
+
+
+def build_sitemap(feed_issues: dict) -> str:
+    urls = [f"{SITE_URL}/"]
+    for f in FEEDS:
+        for rec in feed_issues[f["id"]]:
+            urls.append(f"{SITE_URL}/issues/{f['id']}/{rec['date']}.html")
+    body = "\n".join(f"  <url><loc>{u}</loc></url>" for u in urls)
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+            f"{body}\n</urlset>\n")
+
+
 # ── MAIN ─────────────────────────────────────────────────────────────────────
 
 def main() -> None:
     feed_issues = {f["id"]: load_issues(f["id"]) for f in FEEDS}
 
     (OUT_DIR / "assets").mkdir(parents=True, exist_ok=True)
+    (OUT_DIR / "feeds").mkdir(parents=True, exist_ok=True)
     (OUT_DIR / ".nojekyll").write_text("", encoding="utf-8")
     (OUT_DIR / "assets" / "style.css").write_text(STYLE_CSS, encoding="utf-8")
+
+    # Copy committed assets (OG images, etc.) into the output
+    if ASSETS_SRC.exists():
+        for p in ASSETS_SRC.iterdir():
+            if p.is_file():
+                shutil.copy2(p, OUT_DIR / "assets" / p.name)
 
     (OUT_DIR / "index.html").write_text(build_index(feed_issues), encoding="utf-8")
 
@@ -665,6 +809,14 @@ def main() -> None:
                 build_issue_page(f, rec, issues), encoding="utf-8"
             )
             total_issues += 1
+        # Per-channel RSS feed
+        (OUT_DIR / "feeds" / f'{f["id"]}.xml').write_text(build_rss(f, issues), encoding="utf-8")
+
+    # SEO: sitemap + robots
+    (OUT_DIR / "sitemap.xml").write_text(build_sitemap(feed_issues), encoding="utf-8")
+    (OUT_DIR / "robots.txt").write_text(
+        f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n", encoding="utf-8"
+    )
 
     print(f"Built site -> {OUT_DIR}")
     for f in FEEDS:

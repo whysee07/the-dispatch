@@ -90,11 +90,14 @@ def fetch_articles(feeds: dict) -> dict:
                         dropped_old += 1
                         continue
                     title = entry.get("title", "").strip()
+                    link = entry.get("link", "").strip()
                     summary = entry.get("summary", entry.get("description", "")).strip()
                     summary = re.sub(r"<[^>]+>", "", summary)[:300]
                     if title:
-                        day = dt.strftime("%b %-d")
-                        articles.append(f"[{source}, {day}] {title}: {summary}")
+                        articles.append({
+                            "title": title, "url": link, "source": source,
+                            "summary": summary, "day": dt.strftime("%b %-d"),
+                        })
                         kept += 1
             except Exception as e:
                 print(f"  Warning: could not fetch {url}: {e}")
@@ -104,19 +107,35 @@ def fetch_articles(feeds: dict) -> dict:
     return all_articles
 
 
-def build_prompt(articles: dict) -> str:
+def build_sources(articles: dict) -> list[dict]:
+    """Flatten fetched articles into a numbered source list [{id, title, url, source}]."""
+    sources = []
+    sid = 1
+    for cat in ("finance", "geopolitics", "tech", "creator_economy"):
+        for a in articles.get(cat, []):
+            if a.get("url"):
+                sources.append({"id": sid, "title": a["title"], "url": a["url"],
+                                "source": a["source"]})
+                sid += 1
+    return sources
+
+
+def build_prompt(articles: dict, sources: list[dict]) -> str:
     sections = {
         "finance": ("Money Talk", articles.get("finance", [])),
         "geopolitics": ("World Lore", articles.get("geopolitics", [])),
         "tech": ("Tech Tea", articles.get("tech", [])),
         "creator_economy": ("Creator Szn", articles.get("creator_economy", [])),
     }
+    url_to_id = {s["url"]: s["id"] for s in sources}
 
     article_block = ""
     for key, (label, items) in sections.items():
         article_block += f"\n## {label}\n"
-        for item in items:
-            article_block += f"- {item}\n"
+        for a in items:
+            sid = url_to_id.get(a.get("url"))
+            tag = f"[S{sid}] " if sid else ""
+            article_block += f"- {tag}[{a['source']}, {a['day']}] {a['title']}: {a['summary']}\n"
 
     today_str = datetime.now(timezone.utc).strftime("%A, %B %-d, %Y")
     prompt = f"""You are a sharp, witty friend who actually reads the news — think a cross between a finance bro, a foreign correspondent, a tech nerd, and a culture vulture. You write in a punchy, conversational tone with dry humor and the occasional hot take. No fluff, no filler.
@@ -138,6 +157,7 @@ FORMAT — read carefully:
   Crude jumped 4% after fresh tanker attacks in the strait. Asia imports the most through it, so watch shipping and insurance costs.
 - The bold headline must stand on its own as a scannable one-liner. The detail is the deep-dive.
 - Start each item's headline line with "- " (a dash) so items are clearly separated.
+- SOURCE CITATION: end each item (sections 1–4) with the citation marker of the article it's based on, exactly as shown in the data, e.g. [S4]. Use only the [S#] markers present in the data below; never invent one. If an item draws on two articles, cite both like [S4][S7]. Speed Round items do NOT need citations.
 - Speed Round is different: 5–7 one-sentence zingers, each on its own "- " line, NO bold headline, NO detail.
 - Write like you're texting a smart friend, not filing a report. Add your own color and hot takes.
 - Use the plain section titles exactly as above (Money Talk, World Lore, Tech Tea, Creator Szn, Speed Round). No numbering, no markdown # headers.
@@ -294,7 +314,7 @@ def send_email(html_body: str):
         server.sendmail(GMAIL_ADDRESS, RECIPIENT_EMAIL, msg.as_string())
 
 
-def write_web_json(feed: str, feed_name: str, raw_text: str) -> None:
+def write_web_json(feed: str, feed_name: str, raw_text: str, sources: list[dict] | None = None) -> None:
     """Persist the raw digest for the website build. Repo layout: feeds/<feed>/digest.py -> repo root is parents[2]."""
     root = Path(__file__).resolve().parents[2]
     today = datetime.now(timezone.utc).date().isoformat()
@@ -308,13 +328,14 @@ def write_web_json(feed: str, feed_name: str, raw_text: str) -> None:
                 "date": today,
                 "generated_at": datetime.now(timezone.utc).isoformat(),
                 "raw_text": raw_text,
+                "sources": sources or [],
             },
             ensure_ascii=False,
             indent=2,
         ),
         encoding="utf-8",
     )
-    print(f"  Web JSON written -> {out}")
+    print(f"  Web JSON written -> {out} ({len(sources or [])} sources)")
 
 
 def main():
@@ -323,13 +344,15 @@ def main():
     total = sum(len(v) for v in articles.values())
     print(f"  Fetched {total} articles across {len(articles)} categories.")
 
+    sources = build_sources(articles)
+
     print("Building prompt and calling Gemini...")
-    prompt = build_prompt(articles)
+    prompt = build_prompt(articles, sources)
     digest_text = call_gemini(prompt)
     print("  Gemini response received.")
 
     # Persist for the website build (runs regardless of email setting)
-    write_web_json("brief", "Daily Brief", digest_text)
+    write_web_json("brief", "Daily Brief", digest_text, sources)
 
     # Email for this feed is OFF by default (web-only). Set SEND_EMAIL=true to re-enable.
     if os.getenv("SEND_EMAIL", "false").lower() == "true":
