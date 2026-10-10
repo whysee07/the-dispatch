@@ -36,10 +36,12 @@ OUT_DIR = ROOT / "site" / "public"
 ASSETS_SRC = ROOT / "site" / "assets"          # committed assets (og images, etc.) copied into output
 
 SITE_TITLE = "The Khat-TING"
+# Longer, keyword-rich <title> for the homepage (SERP sweet spot ~55 chars).
+SITE_TITLE_SEO = "The Khat-TING — Daily AI, Product Marketing & World News"
 SITE_TAGLINE = "A daily intelligence briefing, compiled by Yash and one very caffeinated algorithm."
 # Absolute base URL (no trailing slash). Override with SITE_URL env for a custom domain.
 SITE_URL = os.environ.get("SITE_URL", "https://whysee07.github.io/the-dispatch").rstrip("/")
-SITE_DESC = "A daily three-channel intelligence briefing — Daily Brief, AI Insider, and PMM / PM — auto-compiled every morning."
+SITE_DESC = "A daily three-channel intelligence briefing — Daily Brief, AI Insider, and PMM / PM — auto-compiled every morning. Read today's issue."
 
 # ── FEED CONFIG ──────────────────────────────────────────────────────────────
 # `mode` selects how raw_text is split into sections:
@@ -457,10 +459,12 @@ def page_shell(body: str, active: str, depth: int, script: str,
 <meta property="og:image" content="{og_img}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{title_esc} — read today's issue">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{title_esc}">
 <meta name="twitter:description" content="{desc}">
 <meta name="twitter:image" content="{og_img}">
+<meta name="twitter:image:alt" content="{title_esc} — read today's issue">
 <link rel="alternate" type="application/rss+xml" title="{SITE_TITLE} — Daily Brief" href="{base}feeds/brief.xml">
 <link rel="alternate" type="application/rss+xml" title="{SITE_TITLE} — AI Insider" href="{base}feeds/ai.xml">
 <link rel="alternate" type="application/rss+xml" title="{SITE_TITLE} — PMM / PM" href="{base}feeds/pmm.xml">
@@ -553,7 +557,7 @@ def build_index(feed_issues: dict[str, list[dict]]) -> str:
         first = False
     body = masthead(0) + '\n<main class="wrap">\n' + "\n".join(articles) + "\n</main>\n" + FOOTER
     return page_shell(body, "brief", 0, THEME_SCRIPT + INDEX_SCRIPT,
-                      page_url=SITE_URL + "/", og_type="website")
+                      title=SITE_TITLE_SEO, page_url=SITE_URL + "/", og_type="website")
 
 
 def build_issue_page(feed: dict, issue: dict, issues: list[dict]) -> str:
