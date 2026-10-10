@@ -1,12 +1,13 @@
 import os
 import json
+import time
 import smtplib
 import feedparser
 from pathlib import Path
 from google import genai
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -43,27 +44,63 @@ FEEDS = {
 }
 
 MAX_ARTICLES_PER_FEED = 5
+LOOKBACK_HOURS = 48          # drop anything older than this so no stale news leaks in
+_CUTOFF = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
+
+
+def _entry_dt(entry):
+    """Best-effort published/updated datetime for an RSS entry, or None if absent."""
+    for attr in ("published_parsed", "updated_parsed"):
+        t = entry.get(attr)
+        if t:
+            try:
+                return datetime.fromtimestamp(time.mktime(t), tz=timezone.utc)
+            except (TypeError, ValueError, OverflowError):
+                continue
+    return None
 
 
 def fetch_articles(feeds: dict) -> dict:
+    import re
     all_articles = {}
+    dropped_old = dropped_undated = 0
     for category, urls in feeds.items():
         articles = []
         for url in urls:
             try:
                 feed = feedparser.parse(url)
                 source = feed.feed.get("title", url)
-                for entry in feed.entries[:MAX_ARTICLES_PER_FEED]:
+                # Newest first, so the freshest items win the per-feed cap
+                entries = sorted(
+                    feed.entries,
+                    key=lambda e: (_entry_dt(e) or _CUTOFF),
+                    reverse=True,
+                )
+                kept = 0
+                for entry in entries:
+                    if kept >= MAX_ARTICLES_PER_FEED:
+                        break
+                    dt = _entry_dt(entry)
+                    # Drop stale items. Undated entries are also dropped: feeds that
+                    # omit dates are the ones that surface evergreen/old stories.
+                    if dt is None:
+                        dropped_undated += 1
+                        continue
+                    if dt < _CUTOFF:
+                        dropped_old += 1
+                        continue
                     title = entry.get("title", "").strip()
                     summary = entry.get("summary", entry.get("description", "")).strip()
-                    # Strip HTML tags from summary crudely
-                    import re
                     summary = re.sub(r"<[^>]+>", "", summary)[:300]
                     if title:
-                        articles.append(f"[{source}] {title}: {summary}")
+                        day = dt.strftime("%b %-d")
+                        articles.append(f"[{source}, {day}] {title}: {summary}")
+                        kept += 1
             except Exception as e:
                 print(f"  Warning: could not fetch {url}: {e}")
         all_articles[category] = articles
+    print(f"  Date filter (last {LOOKBACK_HOURS}h): dropped {dropped_old} old, "
+          f"{dropped_undated} undated.")
     return all_articles
 
 
@@ -81,9 +118,12 @@ def build_prompt(articles: dict) -> str:
         for item in items:
             article_block += f"- {item}\n"
 
+    today_str = datetime.now(timezone.utc).strftime("%A, %B %-d, %Y")
     prompt = f"""You are a sharp, witty friend who actually reads the news — think a cross between a finance bro, a foreign correspondent, a tech nerd, and a culture vulture. You write in a punchy, conversational tone with dry humor and the occasional hot take. No fluff, no filler.
 
-Using the articles below, write a daily news digest with exactly these five sections:
+Today is {today_str}. Only write about events in the articles below — they are all from the last couple of days. Do NOT bring in older news from memory, and do NOT reference events you can't tie to one of these articles.
+
+Write a daily news digest with exactly these five sections:
 
 1. **Money Talk** — Finance & markets. What's moving money, who's winning, who's getting cooked.
 2. **World Lore** — Geopolitics & global news. Keep it sharp, not doom-scrolly.
@@ -91,12 +131,16 @@ Using the articles below, write a daily news digest with exactly these five sect
 4. **Creator Szn** — Creator economy, social media, digital culture.
 5. **Speed Round** — 5–7 punchy one-liners covering anything from any category. Like a lightning round of today's news.
 
-Rules:
-- Each section (except Speed Round) should have 3–5 digestible bullets or short paragraphs.
-- Write like you're texting a smart friend, not filing a report.
-- Add your own color, context, and opinions where it makes the writing better.
-- Speed Round bullets should be one sentence max, snappy, and varied.
-- Do NOT include any markdown headers or asterisks in your output — just plain section titles followed by content.
+FORMAT — read carefully:
+- Sections 1–4 each have 3–5 items. Write EACH item as: a bold one-line headline, then a line break, then 1–3 sentences of detail.
+  Example:
+  **Oil spikes on Hormuz tension.**
+  Crude jumped 4% after fresh tanker attacks in the strait. Asia imports the most through it, so watch shipping and insurance costs.
+- The bold headline must stand on its own as a scannable one-liner. The detail is the deep-dive.
+- Start each item's headline line with "- " (a dash) so items are clearly separated.
+- Speed Round is different: 5–7 one-sentence zingers, each on its own "- " line, NO bold headline, NO detail.
+- Write like you're texting a smart friend, not filing a report. Add your own color and hot takes.
+- Use the plain section titles exactly as above (Money Talk, World Lore, Tech Tea, Creator Szn, Speed Round). No numbering, no markdown # headers.
 
 Here are today's articles:
 {article_block}

@@ -204,59 +204,104 @@ def _inline(text: str) -> str:
 
 _BULLET = re.compile(r"^\s*[-–—*•]\s+(.*)$")
 _NUMBERED = re.compile(r"^\s*\d+[.)]\s+(.*)$")
-_SUBHEAD = re.compile(r"^\s*\*\*(.+?)\*\*:?\s*$")
+_SUBHEAD_ONLY = re.compile(r"^\s*\*\*([^*]+?)\*\*:?\s*$")
+_BOLD_LEAD = re.compile(r"^\s*\*\*(.+?)\*\*\s*[:.—–-]?\s*(.*)$", re.S)
+_FIRST_SENT = re.compile(r"^(.{0,200}?[.!?…])\s+(\S.*)$", re.S)
+
+
+def _split_item(text: str) -> tuple[str, str]:
+    """Split one item into (headline, detail). Prefer a bold lead-in; else first sentence."""
+    text = text.strip()
+    m = _BOLD_LEAD.match(text)
+    if m and m.group(1).strip():
+        return m.group(1).strip(), m.group(2).strip()
+    m = _FIRST_SENT.match(text)
+    if m:
+        return m.group(1).strip(), m.group(2).strip()
+    return text, ""
+
+
+def _render_detail(detail: str) -> str:
+    """Detail text -> paragraphs (blank-line separated; soft newlines joined)."""
+    out = []
+    for para in re.split(r"\n\s*\n", detail.strip()):
+        para = re.sub(r"\s*\n\s*", " ", para.strip())
+        if para:
+            out.append(f"<p>{_inline(para)}</p>")
+    return "".join(out)
+
+
+def _items_from_body(body: str) -> list[tuple]:
+    """Group a section body into ('sub', text) headings and ('item', text) units.
+
+    Bullet/numbered lines start items; following non-bullet lines are that item's
+    detail. If a section has no bullets, each blank-line-separated paragraph is an item."""
+    lines = body.split("\n")
+    has_bullets = any(_BULLET.match(l) or _NUMBERED.match(l) for l in lines)
+    items: list[tuple] = []
+    if has_bullets:
+        cur = None
+        for ln in lines:
+            s = ln.strip()
+            mb = _BULLET.match(ln) or _NUMBERED.match(ln)
+            if mb:
+                if cur is not None:
+                    items.append(("item", cur))
+                cur = mb.group(1).strip()
+            elif not s:
+                if cur is not None:
+                    cur += "\n"
+            elif _SUBHEAD_ONLY.match(s):
+                if cur is not None:
+                    items.append(("item", cur)); cur = None
+                items.append(("sub", _SUBHEAD_ONLY.match(s).group(1).strip()))
+            else:
+                cur = (cur + "\n" + s) if cur is not None else s
+        if cur is not None:
+            items.append(("item", cur))
+    else:
+        for para in re.split(r"\n\s*\n", body.strip()):
+            p = para.strip()
+            if not p:
+                continue
+            sm = _SUBHEAD_ONLY.match(p)
+            items.append(("sub", sm.group(1).strip()) if sm else ("item", p))
+    return items
 
 
 def render_body(body: str, speed: bool = False) -> str:
-    """Clean markdown-ish body -> styled HTML using the site's own classes."""
+    """Render a section body. Normal sections become collapsible items
+    (scannable headline, expand for detail); Speed Round stays a flat list."""
     if speed:
-        items = [ln.strip() for ln in body.split("\n")]
-        items = [re.sub(r"^\s*(?:[-–—*•]|\d+[.)])\s*", "", it) for it in items if it]
-        if items:
-            lis = "".join(f"<li>{_inline(it)}</li>" for it in items)
-            return f'<ul class="speed">{lis}</ul>'
-        return ""
+        raw = [ln.strip() for ln in body.split("\n")]
+        raw = [re.sub(r"^\s*(?:[-–—*•]|\d+[.)])\s*", "", it) for it in raw if it.strip()]
+        if not raw:
+            return ""
+        lis = "".join(f"<li>{_inline(it)}</li>" for it in raw)
+        return f'<ul class="speed">{lis}</ul>'
 
-    blocks = re.split(r"\n\s*\n", body.strip())
-    html_parts: list[str] = []
-    for block in blocks:
-        lines = [ln for ln in block.split("\n") if ln.strip()]
-        if not lines:
+    parts: list[str] = []
+    for item in _items_from_body(body):
+        if item[0] == "sub":
+            parts.append(f'<p class="subhead">{_inline(item[1])}</p>')
             continue
-        if all(_BULLET.match(ln) for ln in lines):
-            lis = "".join(f"<li>{_inline(_BULLET.match(ln).group(1))}</li>" for ln in lines)
-            html_parts.append(f"<ul>{lis}</ul>")
-        elif all(_NUMBERED.match(ln) for ln in lines):
-            lis = "".join(f"<li>{_inline(_NUMBERED.match(ln).group(1))}</li>" for ln in lines)
-            html_parts.append(f"<ol>{lis}</ol>")
-        elif len(lines) == 1 and _SUBHEAD.match(lines[0]):
-            html_parts.append(f"<p class=\"subhead\">{_inline(_SUBHEAD.match(lines[0]).group(1))}</p>")
+        headline, detail = _split_item(item[1])
+        detail_html = _render_detail(detail)
+        if detail_html:
+            parts.append(
+                f'<details class="item"><summary>{_inline(headline)}</summary>'
+                f'<div class="item-body">{detail_html}</div></details>'
+            )
         else:
-            # mixed block: emit bullets as a list, other lines as paragraphs, in order
-            run_ul: list[str] = []
-            for ln in lines:
-                mb = _BULLET.match(ln) or _NUMBERED.match(ln)
-                if mb:
-                    run_ul.append(f"<li>{_inline(mb.group(1))}</li>")
-                else:
-                    if run_ul:
-                        html_parts.append(f"<ul>{''.join(run_ul)}</ul>")
-                        run_ul = []
-                    sh = _SUBHEAD.match(ln)
-                    if sh:
-                        html_parts.append(f'<p class="subhead">{_inline(sh.group(1))}</p>')
-                    else:
-                        html_parts.append(f"<p>{_inline(ln.strip())}</p>")
-            if run_ul:
-                html_parts.append(f"<ul>{''.join(run_ul)}</ul>")
-    return "\n".join(html_parts)
+            parts.append(f'<div class="item item--flat">{_inline(headline)}</div>')
+    return "\n".join(parts)
 
 
 def render_sections(feed: dict, raw_text: str) -> str:
     secs = parse_sections(feed, raw_text)
     out: list[str] = []
     for emoji, label, body in secs:
-        speed = feed["id"] == "brief" and label.lower().startswith("speed")
+        speed = "speed round" in label.lower()
         body_html = render_body(body, speed=speed)
         if not body_html.strip():
             continue
@@ -543,16 +588,37 @@ a{color:inherit;}
   margin:0 0 18px;line-height:1.02;}
 .sectlabel .se{font-size:.8em;}
 .body > *:first-child{margin-top:0;}
-.body p{margin:0 0 14px;font-size:17.5px;color:var(--ink-soft);}
-.body p.subhead{font-family:var(--disp);font-weight:700;font-size:18px;color:var(--ink);margin:18px 0 8px;}
-.body ul,.body ol{margin:0 0 16px;padding-left:1.2em;}
-.body li{margin-bottom:9px;font-size:17.5px;color:var(--ink-soft);}
 .body a{color:var(--accent);text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 40%,transparent);}
 .body a:hover{border-bottom-color:var(--accent);}
 .body strong{color:var(--ink);font-weight:700;}
 .body code{font-family:ui-monospace,Menlo,monospace;font-size:.9em;background:var(--card-2);padding:1px 5px;border-radius:3px;}
-.body ul.speed{list-style:none;padding:0;counter-reset:s;}
-.body ul.speed li{display:flex;gap:14px;align-items:baseline;margin-bottom:13px;}
+
+/* ── Collapsible items ── */
+.body details.item{border-bottom:1px solid var(--rule);}
+.body details.item:last-child,.body .item--flat:last-child{border-bottom:none;}
+.body details.item > summary{list-style:none;cursor:pointer;display:flex;gap:13px;align-items:baseline;
+  padding:15px 0;font-family:var(--disp);font-weight:700;font-size:clamp(17px,2.4vw,20px);
+  letter-spacing:-.018em;line-height:1.2;color:var(--ink);transition:color .12s;}
+.body details.item > summary::-webkit-details-marker{display:none;}
+.body details.item > summary::before{content:"+";font-family:var(--disp);font-weight:800;font-size:1.1em;
+  color:var(--accent);flex-shrink:0;width:.9ch;line-height:1;}
+.body details.item[open] > summary::before{content:"\2013";}
+.body details.item > summary:hover{color:var(--accent);}
+.body details.item > summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px;}
+.body .item-body{padding:2px 0 17px 23px;}
+.body .item-body p{margin:0 0 10px;font-size:16.5px;line-height:1.55;color:var(--ink-soft);}
+.body .item-body p:last-child{margin-bottom:0;}
+.body .item--flat{display:flex;gap:13px;align-items:baseline;padding:15px 0;border-bottom:1px solid var(--rule);
+  font-family:var(--disp);font-weight:700;font-size:clamp(17px,2.4vw,20px);letter-spacing:-.018em;
+  line-height:1.2;color:var(--ink);}
+.body .item--flat::before{content:"\2022";color:var(--accent);flex-shrink:0;width:.9ch;}
+.body .subhead{font-family:var(--disp);font-weight:800;font-size:14px;letter-spacing:.02em;
+  text-transform:uppercase;color:var(--accent);margin:22px 0 2px;}
+
+/* Speed Round stays a flat numbered list */
+.body ul.speed{list-style:none;margin:0;padding:0;counter-reset:s;}
+.body ul.speed li{display:flex;gap:14px;align-items:baseline;margin-bottom:13px;font-size:17px;color:var(--ink-soft);}
+.body ul.speed li:last-child{margin-bottom:0;}
 .body ul.speed li::before{counter-increment:s;content:counter(s,decimal-leading-zero);
   font-family:var(--disp);font-weight:800;font-size:14px;color:var(--accent);flex-shrink:0;}
 

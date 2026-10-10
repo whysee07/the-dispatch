@@ -1371,6 +1371,8 @@ and what they should DO about it.\
 """
 
 _DIGEST_PROMPT = """\
+Today is {today}. Everything in TODAY'S DATA is from the last 1–3 days. Write only about what's in that data — do not pull older news or stale product/version details from memory. When naming an AI model or tool, use its plain current name without an old version number unless that version appears in the data.
+
 CRITICAL INSTRUCTION: You MUST write ALL 14 sections below, in order, without stopping early. \
 Do not truncate, summarize, or skip any section. Every section must be fully written out. \
 The 💼 JOBS PULSE section must list the actual job titles and companies from the JOB LISTINGS \
@@ -1586,6 +1588,9 @@ Write 4–5 sentences. Coffee conversation, not LinkedIn post.
 
 FORMATTING RULES:
 - Use the exact section headers and emojis above
+- Within a section, write each bullet as a bold one-line headline, a line break, then the detail — so it can be scanned fast and expanded for depth. Example:
+  **Usage-based pricing is becoming table stakes.**
+  Three more infra companies flipped from seat-based to consumption this week. If your pricing page still leads with "per seat," you're the outlier now.
 - Never say 'consider doing X' — name the specific tool, prompt, or action
 - PMM: 60% / PM: 40%
 - If data is thin on a section, say so in one line and move on — no padding
@@ -1619,7 +1624,10 @@ def generate_digest(context: str) -> str:
         raise ValueError("GEMINI_API_KEY not set in .env")
 
     client = genai.Client(api_key=GEMINI_API_KEY)
-    prompt = _DIGEST_PROMPT.format(context=context)
+    prompt = _DIGEST_PROMPT.format(
+        today=NOW_UTC.strftime("%A, %B %-d, %Y"),
+        context=context,
+    )
 
     # Try models newest-first — first one that responds wins.
     # Use versioned names (e.g. gemini-2.5-flash) which work on all account tiers.

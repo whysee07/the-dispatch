@@ -268,7 +268,21 @@ SYSTEM_PERSONA = (
 )
 
 DIGEST_PROMPT_TEMPLATE = """\
-Here are today's AI articles and signals. Write a polished daily digest with these exact sections:
+Today is {today}. Everything in TODAY'S DATA below was published in roughly the last 24 hours.
+
+CRITICAL FRESHNESS RULES — follow exactly:
+- Only discuss developments, tools, models, papers and repos that appear in TODAY'S DATA below. Do NOT pull in anything from your own memory or training.
+- NEVER name a specific model/version number (e.g. "GPT-4", "GPT-4o", "Claude 3.5 Sonnet", "Gemini 1.5") UNLESS that exact version appears in today's data. Your training is out of date, so any version number you recall from memory is almost certainly obsolete. When in doubt, refer to tools by their plain evergreen names — ChatGPT, Claude, Gemini, Midjourney, Cursor — with no version number.
+- For the Daily Challenge and Tool Drops: base them on a capability or release actually mentioned in today's data. If nothing fits a section, say so in one honest line rather than inventing or reaching for something old.
+
+ITEM FORMAT — for every bulleted item in every section, write it as:
+- a bold one-line headline, a line break, then 1–3 sentences of detail.
+  Example:
+  **Open-weight model ships that runs on one GPU.**
+  The release matches last year's frontier on reasoning benchmarks but fits on a single consumer card, collapsing the gap between "frontier" and "runs on your desk."
+The bold headline must work on its own as a scannable one-liner; the detail is the deep-dive. (THE BIG STORY and EDGE INSIGHT may stay as short paragraphs without a bold lead.)
+
+Write a polished daily digest with these exact sections:
 
 ---
 
@@ -321,13 +335,13 @@ The 3 most upvoted AI-related posts on HN today. For each: title, comment thread
 ---
 
 **🎮 TODAY'S DAILY CHALLENGE — TRY THIS IN 15 MINUTES**
-One specific, hands-on thing I can do TODAY to experience a new AI capability firsthand. Include:
-- The tool to use (with URL)
+One specific, hands-on thing I can do TODAY to experience a NEW AI capability firsthand — tied to something in today's data (a new release, feature, or tool mentioned above). Include:
+- The tool to use, by its plain current name (with URL). Do NOT pin it to an old version number.
 - The exact prompt or workflow to try
 - What I'm testing for / what to look for
-- Why this skill/tool matters right now
+- Why this matters right now
 
-Make the challenge achievable in one sitting but genuinely illuminating — something that builds muscle memory with cutting-edge AI, not just reading about it.
+The challenge must reflect a current, cutting-edge capability from today's data — never a stale model or a feature that shipped long ago. If today's data has no good hands-on hook, pick the single most current tool mentioned and design the challenge around its latest capability.
 
 ---
 
@@ -405,7 +419,8 @@ def generate_digest(
     genai.configure(api_key=GEMINI_API_KEY)
 
     data_payload = _build_data_payload(articles, github_repos, hn_posts)
-    prompt = DIGEST_PROMPT_TEMPLATE.format(data=data_payload)
+    today_str = datetime.now(timezone.utc).strftime("%A, %B %-d, %Y")
+    prompt = DIGEST_PROMPT_TEMPLATE.format(today=today_str, data=data_payload)
 
     log.info("Sending %d chars to Gemini (%s)…", len(prompt), GEMINI_MODEL)
 
