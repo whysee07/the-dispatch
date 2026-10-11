@@ -1,0 +1,339 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T17:29:43.137691+00:00",
+  "raw_text": "Here's your Sunday digest, straight from the digital trenches. Hope your coffee's strong.\n\nMoney Talk\n\n- **Retailers trim inventory to boost bottom line.**\n  From BJ's to Lululemon, brands are cutting back on product assortments. The goal? Less clutter, more curated offerings, and hopefully, a return to healthy growth in a tricky market. Smart move, sometimes less really is more. [S1]\n- **AI's quiet safety enforcers step into the spotlight.**\n  While everyone's buzzing about AI's potential, a small cohort of third-party evaluators is suddenly crucial. They're becoming the de facto gatekeepers in this multi-trillion-dollar industry, shaping what's safe and what gets released. Talk about holding the keys to the kingdom. [S3]\n- **Software developer jobs rise, but AI shifts the game.**\n  Good news for coders, mostly: job postings are actually up, especially for senior and AI-focused roles. Bad news for juniors? Entry-level hiring is soft, proving AI isn't killing all dev jobs, it's just making you specialize or get left behind. Adapt or get automated. [S4]\n- **Citroën brings back a classic, feeling Chinese EV heat.**\n  The iconic 2CV is getting an electric revival, as French carmaker Citroën tries to differentiate itself. This isn't just nostalgia; it's a direct response to intense pressure from rapidly rising, lower-priced Chinese EV rivals. The competition is fierce, even for legends. [S6][S11]\n- **Trump's Russian diesel deal sparks immediate backlash.**\n  President Trump's announcement of a deal to buy Russian diesel to lower US pump prices has ignited a firestorm. Zelensky called it \"an investment in war,\" while experts say the fuel quantity is too small and too slow to ship to actually impact US prices. And already, a House Republican is moving to block it. Talk about a politically charged fuel pump. [S10][S12][S20]\n\nWorld Lore\n\n- **Riyadh airport hit twice in two days, Houthi warnings escalate.**\n  King Khalid International Airport in Riyadh was struck by a projectile on Sunday, just a day after a similar attack killed 12 people. Yemen's Houthi rebels are claiming responsibility and warning that \"worse is yet to come.\" Not exactly the welcome mat you want for international travel. [S23][S31]\n- **Trump weighs joining Saudi fight against Houthis, resources stretch.**\n  Following the Riyadh airport attacks, President Trump is considering direct US military involvement against the Iran-backed Houthis. Analysts are already flagging concerns that this would significantly stretch existing US military resources in the Middle East. Another potential quagmire brewing? [S2][S25]\n- **Pope Leo XIV to undergo lung surgery this week.**\n  The first American pontiff, Pope Leo XIV, announced he will undergo surgery to remove a \"localized nodule\" from his lung. He reassured the public it was caught early. Wishing the 71-year-old Pope a swift recovery, especially given his recent stances putting him at odds with the White House. [S18][S21][S34]\n- **Trump's \"energy ceasefire\" for Ukraine met with confusion.**\n  President Trump claimed Russia and Ukraine agreed to an \"energy ceasefire,\" halting attacks on each other's energy infrastructure. However, Ukrainian President Zelensky swiftly countered, saying the announcement \"was news for me,\" though he'd agree if Russia did. Sounds less like a ceasefire and more like a PR gambit. [S16][S33]\n- **Migrant boat sinks off Djibouti, over 200 dead or missing.**\n  A grim update from the Horn of Africa: a migrant boat making its way to Yemen sank overnight off the coast of Djibouti, with the UN reporting at least 139 dead and 84 still missing. Another tragic reminder of the human cost of desperate journeys. [S35]\n\nTech Tea\n\n- **NBA eyes 'smart ball' tech for next season.**\n  Commissioner Adam Silver just hinted the NBA could roll out a new \"smart ball\" as early as next year. This isn't just about cool gadgets; it could fundamentally transform how officials make calls. Imagine a world with no more bad foul calls. [S5]\n- **Ukraine hits Yandex data center for the third time.**\n  Russian tech giant Yandex is having a rough week. Ukrainian forces have targeted one of its data centers three times in as many days, forcing the company to suspend operations. Cyber warfare is getting physical, and tech infrastructure is squarely in the crosshairs. [S7]\n- **Hollywood's new favorite villain? The tech billionaire.**\n  Move over, Bond villains. This fall, four major films are hitting theaters spotlighting figures like Elon Musk, Mark Zuckerberg, Sam Altman, and Elizabeth Holmes. Looks like Hollywood has found its new bogeyman, and he's probably wearing a Patagonia vest. [S17]\n- **NASA just dumped 800GB of Artemis II data online.**\n  If you thought you'd seen it all from the Artemis II mission, think again. NASA just unleashed over 800GB of raw science data, images, and hours of audio. Perfect for anyone who wants to deep-dive into space or just needs a new white noise generator. [S46]\n- **Apple's \"Welcome Home\" event set to debut new smart home tech.**\n  Get ready for more HomePod Minis, Apple TVs, and potentially a brand new smart home hub and \"homeOS.\" Apple's diving deeper into your living room, proving that the tech giants won't rest until every appliance has a Siri integration. [S49]\n\nCreator Szn\n\n- **Paramount's $111B Warner Bros. Discovery acquisition rocks media landscape.**\n  In a historic Hollywood megadeal, Paramount is planning to acquire Warner Bros. Discovery for a cool $111 billion. This isn't just big; it's a seismic shift in the content creation ecosystem. Get ready for a new streaming behemoth. [S45]\n- **Vertical video pushes for genre status in streaming wars.**\n  From Disney+ to HBO Max, everyone's dabbling in vertical content, desperately trying to keep up with TikTok and Instagram. Vurt, a new player, argues vertical videos should be considered a genre of their own. It's a land grab for eyeballs, and the format war is far from over. [S48]\n- **Muslim Manosphere influencers use religion to police women online.**\n  The \"Dawah Bros\" and Red Pill coaches are gaining traction, wrapping hypermasculinity and misogyny in religious language to appeal to audiences across social platforms. It's a concerning trend where traditional values get weaponized in the digital sphere. [S53]\n\nSpeed Round\n\n- Rep. Brian Fitzpatrick is already trying to block Trump's Russian diesel deal in the House.\n- German politics is getting spicy with \"lawfare,\" as politicians sue each other over accusations of antisemitism.\n- Self-driving trucks just cleared a major roadblock, get ready for robot truckers disrupting logistics.\n- New evidence just dropped in the climate deception case against ExxonMobil, adding to their woes.\n- Data center politics are heating up, with midterms set to decide their political fate across the US.\n- Hollywood clearly thinks tech billionaires are the hottest new villains, with four films hitting theaters this fall.\n- The global diesel crisis is still making charities and businesses struggle with pump prices.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
+      "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 2,
+      "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+      "url": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 3,
+      "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+      "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 4,
+      "title": "AI is automating coding. So why are software developer job postings on the rise?",
+      "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 5,
+      "title": "NBA commissioner Adam Silver says league could introduce ‘smart ball’ technology as soon as next year",
+      "url": "https://www.cnbc.com/2026/10/11/commissioner-adam-silver-nba-could-launch-smart-ball-tech-next-year.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 6,
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 7,
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 8,
+      "title": "Charities and businesses wrestle with diesel cost",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vn4dzz08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 9,
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 10,
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 11,
+      "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
+      "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 12,
+      "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
+      "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 13,
+      "title": "Pete Songi on Donald Trump’s plan to buy diesel from Russia – cartoon",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/11/pete-songi-donald-trump-plan-to-buy-diesel-from-russia-cartoon",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 14,
+      "title": "Why a Chilean salt flat is a microcosm of the extractive frontiers of green capitalism",
+      "url": "https://www.theguardian.com/world/2026/oct/11/chilean-salt-flat-extractive-frontiers-green-capitalism-atacama",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 15,
+      "title": "US’s Reagan-era economic promises return as Trump’s AI-fueled growth fantasy",
+      "url": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 16,
+      "title": "Trump claims Russia and Ukraine agree to energy ceasefire",
+      "url": "https://www.axios.com/2026/10/11/trump-russia-ukraine-energy-ceasefire-zelensky",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Silicon Valley's horror shows",
+      "url": "https://www.axios.com/2026/10/11/silicon-valley-tech-founder-movies",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Pope Leo to have \"nodule\" removed from lung",
+      "url": "https://www.axios.com/2026/10/11/pope-leo-nodule-lung",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "As youth sports booms, churches compete for American families' Sundays",
+      "url": "https://www.axios.com/2026/10/11/youth-sports-sunday-morning-church-attendance",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
+      "url": "https://www.axios.com/2026/10/10/fitzpatrick-trump-russia-diesel-discharge-petition",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Pope Leo XIV to undergo lung surgery this week",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 22,
+      "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
+      "url": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 23,
+      "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
+      "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 24,
+      "title": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 25,
+      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 26,
+      "title": "Nobel Peace Prize Goes to Former ICC Judge",
+      "url": "https://foreignpolicy.com/2026/10/09/nobel-peace-prize-navi-pillay-icc-israel-genocide-gaza-us-trump-sanctions/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "The Global Diesel Crisis, Explained",
+      "url": "https://foreignpolicy.com/2026/10/09/diesel-crisis-oil-fuel-refineries-iran-ukraine-war/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "Arnold Toynbee’s Chinese Century",
+      "url": "https://foreignpolicy.com/2026/10/09/china-history-decline-toynbee-spengler/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "Russian Sabotage in Europe Is No Longer ‘Symbolic’",
+      "url": "https://foreignpolicy.com/2026/10/09/russia-sabotage-europe-attacks-hybrid-warfare-estonia/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "The United States Is Not Ready for the Arctic Age",
+      "url": "https://foreignpolicy.com/2026/10/09/arctic-russia-china-canada-energy-icebreakers/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "Saudi Arabia: Second strike hits Riyadh airport",
+      "url": "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 32,
+      "title": "German 'lawfare': When lawsuits become a political weapon",
+      "url": "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 33,
+      "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
+      "url": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 34,
+      "title": "Pope Leo XIV to undergo surgery to remove lump on lung",
+      "url": "https://www.dw.com/en/pope-leo-xiv-to-undergo-surgery-to-remove-lump-on-lung/a-79633735?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 35,
+      "title": "A migrant boat sank off the coast of Djibouti with the UN reporting over 200 people dead or missing",
+      "url": "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 36,
+      "title": "The Corporate Happiness Treadmill and the Case for Doing Less",
+      "url": "https://0xff.nu/corp-burnout/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 37,
+      "title": "How to Build Wealth as a Career Person",
+      "url": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 38,
+      "title": "How I reverse engineered a commercial spatial audio effect",
+      "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 39,
+      "title": "I'm sorry, but you still have to think",
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 40,
+      "title": "Documents add to evidence in climate deception case against ExxonMobil",
+      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 41,
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+      "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+      "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+      "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "NASA dumped over 800GB of Artemis II data online",
+      "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+      "url": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Vurt wants you to look at vertical videos as a genre of their own",
+      "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "What to expect from Apple’s ‘Welcome Home’ event",
+      "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Horror is big business",
+      "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "source": "WIRED"
+    },
+    {
+      "id": 52,
+      "title": "13 Best Gifts for Every Traveler Should Have (2026)",
+      "url": "https://www.wired.com/story/best-gifts-for-travelers/",
+      "source": "WIRED"
+    },
+    {
+      "id": 53,
+      "title": "Inside the Muslim Manosphere Policing Women Online",
+      "url": "https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/",
+      "source": "WIRED"
+    },
+    {
+      "id": 54,
+      "title": "These Midterm Races Will Decide Data Centers’ Political Fate",
+      "url": "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/",
+      "source": "WIRED"
+    },
+    {
+      "id": 55,
+      "title": "How the 2026 Super El Niño and Climate Change Are Related",
+      "url": "https://www.wired.com/story/super-el-nino-climate-change-connections/",
+      "source": "WIRED"
+    }
+  ]
+}
