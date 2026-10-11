@@ -1,0 +1,159 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T16:00:30.882803+00:00",
+  "raw_text": "Here's your Sunday digest. Grab a coffee.\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\n**Microsoft CEO Satya Nadella wants us to assume all AI models are \"compromised.\"**\nHe laid out a vision for a \"trust architecture\" for AI, emphasizing transparency, independent audits, and \"tamper-proof human readable evidence\" in every model. This isn't just about security; it's a fundamental shift in how we approach AI product development and deployment, moving from black boxes to verifiable systems. For PMMs, this means trust, transparency, and auditability become non-negotiable selling points, moving far beyond feature lists. For PMs, it forces a hard look at your AI's internal workings, requiring built-in observability and explainability from day one, not as an afterthought. Start a conversation with your engineering and legal teams this week about how you'll build and market \"tamper-proof evidence\" for your AI. [S19][S20]\n\n---\n\n🎯 POSITIONING WATCH\n**Gboard — \"Kurukuru Version\" keyboard for mobile**\n- **Narrative angle:** Making mobile typing faster and more comfortable by bringing the keys to your fingers, not the other way around. It's about ergonomic efficiency and convenience for everyday mobile users.\n- **ICP signal:** Anyone who types frequently on a mobile device, likely younger demographics or power users who value speed and novelty. The \"Kurukuru\" name hints at a playful, innovative audience.\n- **What's sharp:** The core benefit is immediately clear: \"Your fingers stay put. The keys come around.\" It's a simple, visual concept that addresses a common pain point.\n- **What's fuzzy:** \"Kurukuru Version\" doesn't immediately convey what it *does* for someone unfamiliar with the concept. It relies on curiosity rather than explicit benefit in the name itself.\n- **Steal this:** Focus your hero message on a single, clear user action and its immediate benefit. \"Keys come around\" is a great example of describing a new interaction model simply. [S4]\n\n**Vurt — Vertical microdramas for widescreen TVs**\n- **Narrative angle:** Elevating vertical video beyond social media scraps into a legitimate, cinematic genre for home viewing. They're positioning it as premium \"microdramas\" that defy screen orientation norms.\n- **ICP signal:** Viewers tired of traditional horizontal content, early adopters of new media formats, and perhaps younger audiences who grew up with vertical video on TikTok/Instagram but now want a more curated, longer-form experience at home.\n- **What's sharp:** Directly challenges the established norm (\"vertical videos as a genre of their own\") and aims to differentiate from existing social platforms (\"unlike most vertical microdrama / series streaming platforms\"). This is a bold, contrarian stance.\n- **What's fuzzy:** Convincing a wide audience to watch vertical content on a widescreen TV might be a hard sell. The \"why\" for the viewer (beyond novelty) isn't immediately obvious from the description.\n- **Steal this:** If your product challenges an industry norm, lean into that contrarian positioning. Frame your innovation as a new \"genre\" or category, not just an improvement. [S8]\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n**Cloudflare vs. Edge Computing Platforms**\n- **What changed:** Cloudflare acquired Deno, a JavaScript/TypeScript runtime. This is explicitly aimed at improving Cloudflare's Workers programming model and platform. [S25]\n- **Why they did this now — what are they betting on?:** Cloudflare is betting big on the edge and serverless computing. Deno's modern runtime, security-first approach, and TypeScript support will likely make Workers more attractive to developers, accelerating adoption and giving them a stronger competitive advantage against other serverless providers (AWS Lambda, Vercel, Netlify) and even traditional cloud providers. They're trying to win the developer mindshare and make their edge platform the easiest to build on.\n- **PMM action item:** If you're in a competing edge platform or serverless provider, start drafting messaging that highlights your developer experience, existing ecosystem, and unique performance/cost advantages *beyond* just runtime features. Prepare for Cloudflare to push \"developer productivity\" and \"modern tooling\" hard.\n- **Battlecard update needed?** Yes. Add Deno's capabilities and Cloudflare's enhanced developer experience to the \"Strengths\" column for Cloudflare. Update \"Key Differentiators\" for your own product to preemptively counter Cloudflare's improved developer story.\n\n**DistroKid vs. AI-generated Music Platforms**\n- **What changed:** DistroKid is quietly taking down songs in response to a UMG lawsuit that claims DistroKid created an \"AI-slop pipeline.\" This directly impacts artists using AI tools and any platform distributing AI-generated content. [S22]\n- **Why they did this now — what are they betting on?:** DistroKid is likely trying to mitigate legal risk and protect its reputation as a legitimate distributor amidst rising concerns over copyright infringement and \"AI slop.\" They're betting that appeasing major labels and artists who create original work is more important than catering to the nascent, legally ambiguous AI music scene.\n- **PMM action item:** If your product involves AI-generated content (music, art, text, etc.) or its distribution, immediately review your terms of service, content moderation policies, and messaging around AI usage. Develop clear guidelines and communicate them proactively to your users to avoid being caught in similar legal crossfire.\n- **Battlecard update needed?** Yes. Add \"Legal/Copyright Risk\" as a potential weakness or challenge for AI-generated content platforms. Note that established distributors are taking aggressive action, indicating a tightening regulatory and legal environment.\n\n---\n\n🚀 LAUNCH DISSECTION\n**Gboard Kurukuru Version by Google**\n- **Launch tier:** T2 — It's a significant feature update to a widely used app, generating buzz and addressing a core interaction, but not a standalone product or category-defining innovation. It was positioned appropriately as an exciting new way to use an existing tool. [S4]\n- **Core message:** \"Your fingers stay put. The keys come around.\" This highlights the core mechanism and user benefit directly.\n- **GTM channels used:** Product Hunt (discussion), likely in-app notifications/updates, tech press mentions. Social media (X/Threads) would be a natural fit for this visual feature. [S4]\n- **Sales readiness signal:** Not applicable for a consumer product like Gboard, but the Product Hunt discussion provides immediate user feedback and engagement.\n- **Buyer emotion targeted:** Frustration (with traditional mobile typing), Ambition (to type faster/more efficiently), Novelty/Curiosity.\n- **What worked:** The visual concept is strong and immediately graspable. The name \"Kurukuru\" is memorable, even if not descriptive, and leans into a playful brand image.\n- **What's missing:** More hands-on demo videos or interactive explainers on launch day would have amplified the visual nature of the feature and helped users understand it faster.\n- **If you were the PMM:** I'd have created a short, loopable GIF or a 15-second \"how-it-works\" video as the primary asset for social and press, making the experience undeniable.\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n**Josh Woodward (Google Labs, Gemini, AI Studio) — Why every company now needs to think and operate like a lab team**\n- **The core argument or insight:** In the age of AI, rapid experimentation, iteration, and a willingness to \"kill\" ideas fast are crucial for all companies, not just R&D departments. This \"lab team\" mindset, focused on discovery and learning, is essential for finding and scaling new AI products.\n- **Community reaction:** Resonating. Many PMs and PMMs are grappling with the speed of AI development and the need for new organizational structures. The idea of structured experimentation and knowing when to quit is particularly hitting home for those in larger, slower organizations.\n- **The sharpest counter-take if one exists:** Some argue that while a \"lab team\" mindset is good for innovation, it can lead to a lack of focus on core product stability and customer commitments if not balanced with traditional product management rigor. Not every team can be a lab.\n- **Worth engaging?** Yes — this is a foundational shift in product strategy for the AI era. Understand the implications for your own team structure and GTM approach. [S3]\n\n**Satya Nadella (Microsoft) — Assume all AI models are 'compromised' and need an 'emergency brake'**\n- **The core argument or insight:** AI models cannot be treated as black boxes; we need a new \"trust architecture\" with transparency, independent audits, and verifiable data to ensure safety and accountability. This is a call for proactive risk management and ethical design.\n- **Community reaction:** Being debated. While many agree with the sentiment of safety and trust, the \"compromised\" label is strong and sparks discussion on the practicality of achieving such transparency and the potential for over-regulation stifling innovation.\n- **The sharpest counter-take if one exists:** Some believe that focusing too much on \"compromise\" and \"emergency brakes\" could lead to fear-mongering and slow down beneficial AI development, arguing that responsible deployment and continuous monitoring are sufficient.\n- **Worth engaging?** Yes — this sets a high bar for AI product development and GTM. Your customers will start asking about these guardrails. [S19][S20]\n\n**TechCrunch Execs — Voice AI hasn’t reached its ChatGPT moment yet**\n- **The core argument or insight:** Voice AI often fails to understand context, leading to broken user experiences and preventing it from achieving the breakthrough adoption seen with text-based generative AI.\n- **Community reaction:** Resonating. Many in the product community have experienced the limitations of current voice AI and are eager for solutions that deliver on the promise of natural interaction. It validates their frustrations.\n- **The sharpest counter-take if one exists:** Some point to specific niche applications where voice AI *does* excel, arguing that the \"ChatGPT moment\" might be more fragmented for voice, appearing in specialized contexts rather than a single general-purpose breakthrough.\n- **Worth engaging?** Skim — useful for understanding current limitations if you're building voice products, but the core problem isn't new. [S7]\n\n**The Verge — Learning to use local AI is exciting, overwhelming, and frustrating**\n- **The core argument or insight:** Running powerful AI models locally offers privacy benefits but comes with a steep learning curve, hardware demands, and significant user friction, making the journey \"overwhelming\" for non-experts.\n- **Community reaction:** Resonating. Many PMMs and PMs are hearing about local AI but haven't dived in, and this article validates their assumptions about the complexity. It highlights the gap between promise and current reality for mainstream adoption.\n- **The sharpest counter-take if one exists:** Enthusiasts argue that the setup friction is a temporary hurdle, and specialized UIs and simplified installers are rapidly emerging to make local AI more accessible.\n- **Worth engaging?** Skim — provides good user empathy for early adopters of complex tech. If you're building local AI tools, this is your target user's pain. [S13]\n\n---\n\n💡 USE CASE OF THE DAY\n**AI-Assisted Competitive Messaging Audit**\nCategory: Competitive Intel\nRole: PMM\n\n**The workflow:**\nStep 1: **Gather competitor messaging.** Collect 3-5 key messaging statements (homepage headlines, feature descriptions, value props) from a direct competitor's website or recent launch materials.\nStep 2: **Input into an AI model.** Paste the competitor's messaging into a large language model (e.g., Claude, Gemini, ChatGPT).\nStep 3: **Generate a critique and counter-points.** Ask the AI to identify weaknesses, assumptions, and potential areas for differentiation in their messaging, then suggest how your product's messaging could directly counter or improve upon it.\n\nTools used: Claude, Gemini, ChatGPT, competitor websites\nTime to complete: 20-30 minutes\nOutput you get: A structured analysis of competitor messaging with actionable suggestions for your own GTM.\nWhy it matters now: With constant AI product launches, quickly understanding and countering competitor claims is crucial for market positioning.\n\n**Prompt or template (if AI-assisted):**\n\"I am a PMM analyzing a competitor's messaging. Here are their key statements:\n[Competitor Statement 1]\n[Competitor Statement 2]\n[Competitor Statement 3]\n\nMy product, [Your Product Name], offers [Your Product's Key Differentiators/Benefits].\n\nAnalyze the competitor's messaging for:\n1. Implicit assumptions about their target audience.\n2. Any vague or generic language.\n3. Potential weaknesses or gaps that our product could address.\n4. Suggest 2-3 specific ways our messaging could directly counter or clearly differentiate from theirs, leveraging our [Your Product's Key Differentiators/Benefits].\"\n\n---\n\n📚 LEARNING PICK OF THE DAY\n**Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)** — Lenny's Newsletter [S3]\n\n**What it's about:** Josh Woodward, head of Google Labs, argues that the rapid pace of AI innovation demands a \"lab team\" culture across all companies. This means embracing continuous experimentation, quickly validating or invalidating ideas, and knowing when to pivot or kill projects. It's about fostering a distinctive product culture focused on discovery, not just execution, to succeed with AI products.\n\n**3 actionable takeaways:**\n1.  **Implement rapid experimentation cycles:** Instead of lengthy development, design small, fast experiments to test core hypotheses for new features or products. Get user feedback early and often.\n2.  **Define clear \"kill criteria\" upfront:** For any new project or feature, establish specific metrics or conditions that, if not met, signal it's time to stop or significantly re-evaluate. This avoids sunk cost fallacy.\n3.  **Cross-pollinate \"lab\" thinking:** Encourage product and marketing teams to adopt an experimental mindset, testing messaging, positioning, and GTM strategies with the same rigor as product features.\n\n**Who should read this:** Both PMM and PM — especially those at mid-to-senior career stages looking to influence organizational culture and strategy for AI products.\n**Read time:** ~30-45 minutes (podcast/long-form article)\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n**Voice AI's Contextual Gap**\n- **What was found or demonstrated:** Executive discussions highlight that voice AI frequently \"misses important points for its context layer\" causing \"the whole pipeline to break.\" This leads to frustrating user experiences and prevents it from achieving a \"ChatGPT moment\" of widespread, intuitive adoption. [S7]\n- **The method used:** Expert opinion and observation from industry executives, likely informed by user testing, product development cycles, and market feedback.\n- **How it changes or validates current best practice:** It validates the critical importance of context understanding in AI. For voice, this means not just transcribing words, but interpreting intent, user history, and environmental cues. Current best practices for voice AI discovery often focus on utterance accuracy; this pushes towards deeper contextual intelligence.\n- **PM action item:** In your next discovery sprint for any voice-enabled feature or product, prioritize user scenarios where contextual understanding is paramount. Conduct user interviews specifically asking about frustrating experiences with current voice assistants, focusing on *why* the AI \"missed the point,\" not just *what* it misheard. Use these insights to define stricter success metrics for contextual accuracy.\n\n---\n\n💼 PMM/PM JOBS PULSE\nNo job listings were provided in today's data, so specific job titles and companies cannot be listed. The collected data did not contain a \"JOB LISTINGS\" section.\n\nToday's signals collectively indicate a market still heavily focused on AI, with a strong emphasis on trust, transparency, and rapid experimentation. Companies are looking for product and marketing leaders who can navigate these complex, fast-moving waters, even if the specific roles aren't listed today.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n**Cloudflare — Acquisition of Deno**\n- **What they do:** Cloudflare provides global network services, including CDN, DDoS protection, security, and edge computing. Deno is a JavaScript/TypeScript runtime.\n- **GTM motion:** Product-led / Developer-led / Enterprise\n- **What this signals about B2B investment direction:** Continued investment in developer infrastructure, edge computing, and serverless technologies. Companies are consolidating to offer more comprehensive, developer-friendly platforms.\n- **PMM implication:** If you're in the developer tools or infrastructure space, prepare for Cloudflare to aggressively market an improved developer experience and broader capabilities on their Workers platform. You need to articulate your unique value proposition even more clearly.\n- **PM implication:** This acquisition means your team might face a stronger, more integrated competitor in the serverless/edge space. Evaluate how Deno's features could influence your own roadmap for developer productivity and runtime support. [S25]\n\n**Apple — Acquires team and licenses tech from Huxe**\n- **What they do:** Huxe is a personalized podcast startup.\n- **GTM motion:** Marketing-led / Product-led (via existing Apple ecosystem)\n- **What this signals about B2B investment direction:** Big tech continues to acquire niche AI talent and tech to enhance existing platforms, particularly in media consumption and personalization. It’s cheaper and faster than building from scratch.\n- **PMM implication:** If you're in audio, content, or personalization, expect Apple to push deeper into AI-generated or AI-curated experiences. Your messaging needs to highlight *human* curation or the unique *quality* of your AI if you're competing.\n- **PM implication:** This signals Apple's intent to advance its podcast platform with more sophisticated personalization. If you're building content platforms, consider how AI-driven personalization could become a standard expectation. [S21]\n\n**Petra Power — Funding for energy for data centers and defense vehicles**\n- **What they do:** Develops super-efficient fuel cells to modernize energy for data centers and defense.\n- **GTM motion:** Enterprise / Vertical SaaS (energy infrastructure)\n- **What this signals about B2B investment direction:** Significant investment continues into critical infrastructure, especially sustainable and efficient energy solutions for high-demand sectors like data centers and AI. Energy supply is a growing bottleneck.\n- **PMM implication:** If your product relies on data centers, energy efficiency, or sustainability, ensure your messaging highlights how your solution contributes to or benefits from modern energy infrastructure. This is becoming a key selling point for enterprise buyers.\n- **PM implication:** The energy demands of AI and data centers are a massive and growing problem. If your product is compute-intensive, consider how future energy costs and availability might impact your users and roadmap. [S23]\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n**Google’s AI Playground** — A tool for creating games with AI. [S12]\nCategory: Content / Prototyping\nBest for: Both (PMMs for understanding AI limitations, PMs for rapid prototyping)\nFree tier: Unclear from data, but typically Google tools have free tiers or trials.\nHonest take: Likely a feature dressed up as a launch, or an early-stage beta. The review mentions making \"terrible games,\" suggesting it's more for experimentation and learning about AI's current capabilities/limitations than for production-ready output.\nWho should try it this week: PMs interested in the practicalities of AI content generation and PMMs who need to understand the user experience and current output quality of creative AI tools.\n\n---\n\n⚡ SPEED ROUND\n👽 **NASA dumped 800GB of Artemis II data online.** Open science, open data, huge for researchers. [S1]\n🗣️ **Voice AI still hasn't had its ChatGPT moment.** Context is king, and voice AI often misses it. [S7]\n🏠 **Apple's 'Welcome Home' event is coming.** Expect smart home refreshes, HomePod Mini, and maybe homeOS. [S9]\n🎬 **Vurt wants vertical videos to be their own genre.** Microdramas on your widescreen TV. Bold. [S8]\n👻 **Horror is big business.** Resident Evil Requiem sold 8M copies. Cultural trend to watch. [S10]\n📚 **LeapPad couldn't survive the iPad.** A classic disruption story. Lessons in platform shifts. [S11]\n🌳 **California's Redwoods are getting heatstroke.** Climate change impacts on iconic natural assets. [S18]\n🗳️ **Midterm races will decide data centers' political fate.** NIMBYism for server farms is real. [S16]\n💰 **Warner Bros. Discovery sale is a $111B megadeal.** Media consolidation continues. [S6]\n🔐 **Ledger wallet tampering suspected.** Hardware security is paramount, and breaches erode trust fast. [S24]\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\n**Challenge: Crafting an AI Trust & Transparency Message**\nRole focus: PMM\n\n**The setup:** Satya Nadella just said we should assume all AI models are \"compromised.\" Your company is building an AI-powered feature or product. You need to proactively address this concern with your target customers.\n\n**What to do:**\nStep 1: **Identify your AI feature/product.** Pick one AI-powered feature or product your company offers or is developing. Go to your existing messaging or product brief.\nStep 2: **Brainstorm trust-building elements.** Think about how your product (or the underlying tech) *could* be transparent, auditable, or controlled. (e.g., specific data handling, human-in-the-loop, explainable AI components, privacy certifications).\nStep 3: **Draft a single, concise trust message.** Write a 1-2 sentence statement that addresses the \"compromised\" concern and highlights your product's commitment to trust and transparency.\n\n**The exact prompt or template:**\n\"Given the rising concerns about AI model 'compromise' and the need for a 'trust architecture,' draft a 1-2 sentence message for [Your Target ICP] about [Your AI-powered Feature/Product]. This message should proactively address trust and highlight our commitment to transparency and safety.\"\n\n**What good looks like vs. mediocre:**\nGood: Specific, actionable, and customer-centric. \"Our AI [Feature Name] uses federated learning to ensure your data never leaves your environment, and every decision is auditable through our transparent activity logs.\"\nMediocre: Vague and generic. \"Our AI is trustworthy and safe.\"\n\nWhy this skill matters in the next 6 months: Building trust in AI will be a primary differentiator. Being able to articulate your product's trust architecture clearly will be critical for GTM.\nTime: 15 minutes or less.\n\n---\n\n🧠 EDGE INSIGHT\nThe underlying thread today isn't just \"AI is everywhere,\" it's \"AI is everywhere, and we're just figuring out how to *trust* it.\" Nadella's call for assuming compromise and building an \"emergency brake\" isn't just regulatory talk; it's a profound market signal. It means the PMMs and PMs who explicitly articulate *how* their AI is transparent, auditable, and controllable will win. The \"lab team\" approach isn't just about speed; it's about building in those trust mechanisms through rapid, ethical experimentation. The DistroKid takedowns and Ledger wallet tampering are just early warnings that trust, data integrity, and ethical use are becoming GTM battlegrounds, not just engineering problems. If your AI product can't clearly explain its guardrails, you're already losing.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "NASA dumped over 800GB of Artemis II data online",
+      "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+      "url": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+      "source": "The Verge"
+    },
+    {
+      "id": 3,
+      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+      "url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 4,
+      "title": "Gboard Kurukuru Version",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 5,
+      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+      "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 6,
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 7,
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 8,
+      "title": "Vurt wants you to look at vertical videos as a genre of their own",
+      "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
+      "source": "The Verge"
+    },
+    {
+      "id": 9,
+      "title": "What to expect from Apple’s ‘Welcome Home’ event",
+      "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+      "source": "The Verge"
+    },
+    {
+      "id": 10,
+      "title": "Horror is big business",
+      "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+      "source": "The Verge"
+    },
+    {
+      "id": 11,
+      "title": "Why the LeapPad couldn&#8217;t survive the iPad",
+      "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
+      "source": "The Verge"
+    },
+    {
+      "id": 12,
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "source": "Wired"
+    },
+    {
+      "id": 13,
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "source": "The Verge"
+    },
+    {
+      "id": 14,
+      "title": "13 Best Gifts for Every Traveler Should Have (2026)",
+      "url": "https://www.wired.com/story/best-gifts-for-travelers/",
+      "source": "Wired"
+    },
+    {
+      "id": 15,
+      "title": "Inside the Muslim Manosphere Policing Women Online",
+      "url": "https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/",
+      "source": "Wired"
+    },
+    {
+      "id": 16,
+      "title": "These Midterm Races Will Decide Data Centers’ Political Fate",
+      "url": "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/",
+      "source": "Wired"
+    },
+    {
+      "id": 17,
+      "title": "How the 2026 Super El Niño and Climate Change Are Related",
+      "url": "https://www.wired.com/story/super-el-nino-climate-change-connections/",
+      "source": "Wired"
+    },
+    {
+      "id": 18,
+      "title": "California’s Tallest and Most Iconic Trees Are Getting Heatstroke",
+      "url": "https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/",
+      "source": "Wired"
+    },
+    {
+      "id": 19,
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "The Verge"
+    },
+    {
+      "id": 20,
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 21,
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 22,
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "source": "The Verge"
+    },
+    {
+      "id": 23,
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 24,
+      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+      "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+      "source": "The Verge"
+    },
+    {
+      "id": 25,
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "source": "TechCrunch"
+    }
+  ]
+}
