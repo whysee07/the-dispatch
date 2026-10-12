@@ -1,0 +1,369 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T21:03:01.588899+00:00",
+  "raw_text": "Alright, let's get into it. Grab your artisanal coffee or whatever unholy energy drink you're currently mainlining, because today's news is a whole mood.\n\n***\n\n**Money Talk**\n\n- **Earnings beats are the new baseline, but the rally might need more.**\n  The S&P 500 is gearing up for blockbuster profits, which usually sounds like a party. But apparently, even hitting it out of the park might not be enough to keep this market rally fueled. Talk about high expectations. [S1]\n- **Salesforce gets a double upgrade, proving the SaaSpocalypse prophets wrong.**\n  Remember all the doom and gloom about software-as-a-service? Jim Cramer, bless his heart, is out here saying bets against Salesforce were always a fool's errand. Bulls are back, baby. [S2]\n- **Quantum player IonQ buys cybersecurity firm Elisity for $1.3B.**\n  IonQ, the quantum computing platform, just dropped up to $1.3 billion in an all-stock deal to scoop up cybersecurity firm Elisity. Marrying quantum processing with bulletproof security? Now that's a power couple. [S3]\n- **Options traders bet big on a Snap rally.**\n  Someone out there is feeling really bullish on Snap, throwing down a massive options trade betting on a 30% rally. Could be a genius move, or someone's about to get cooked. Either way, popcorn's ready. [S4]\n- **French supermarkets get defrosted by cyberattack, millions lost.**\n  Hackers forced fridges in hundreds of French supermarkets to hit 50 degrees Celsius overnight, spoiling fresh and frozen food worth millions. Forget food security, this is straight-up economic sabotage and a massive L for consumers and businesses alike. [S6][S14][S32]\n\n**World Lore**\n\n- **Trump's Russia diesel deal fuels geopolitical firestorm.**\n  President Trump's decision to ease sanctions and buy Russian diesel has Ukraine's Zelenskyy absolutely fuming, calling it a \"weak decision\" that plays right into Putin's hands and generates \"billions\" for his war effort. It's also leaving GOP candidates in an awkward spot, trying to defend a deal with a dictator. Smooth. [S5][S13][S17][S23][S24]\n- **UK officially points finger at Iran for bomber base plot.**\n  British Prime Minister Andy Burnham announced in Parliament that Iran's Revolutionary Guard was \"almost certainly\" behind a suspected plot to attack the RAF Fairford base where US bombers are stationed. That's a pretty strong accusation, and the UK promptly summoned Iran's ambassador. [S16][S31]\n- **AI-powered drones are now standard issue on Ukraine's front lines.**\n  What started as smartphone-controlled cameras for pets is now equipping first-person-view drones with AI-powered image recognition for combat. Both Russia and Ukraine are leveraging advanced AI in their drone warfare, making the battlefield feel a lot more sci-fi. [S21]\n- **Poland's \"hybrid warfare\" arrests link Germany to Starlink sabotage.**\n  Polish authorities reported arresting two Turkish citizens in Germany, accusing them of sabotaging a Starlink station last month. Poland's PM Donald Tusk is calling it an act of \"hybrid warfare,\" which sounds like a fun new geopolitical buzzword. [S33]\n- **India's opposition rallies against alleged voter list manipulation.**\n  Opposition parties in India are marching to the top court, claiming Prime Minister Modi's party is unfairly favored by revisions to voter lists. With over 130 million names removed, it's a huge flashpoint for democracy. [S22]\n\n**Tech Tea**\n\n- **Meta unleashes Muse Wonder, aiming for frontier AI supremacy.**\n  Meta's Superintelligence Labs just dropped Muse Wonder, their new frontier model, boasting higher benchmark scores and better performance on complex tasks like coding. They're clearly trying to play catch-up, and it seems they're bringing some serious firepower. [S41][S46][S53]\n- **Epic Games tells staff to use AI to ship the Disney game.**\n  Apparently, Epic Games is leaning heavily on AI to get that much-anticipated Disney game across the finish line. One wonders if \"AI-assisted crunch\" is the new industry term for \"get it done or else.\" [S36]\n- **AI regulation is less stringent than for your fridge, execs warn.**\n  Microsoft President Brad Smith and others are sounding the alarm, pointing out that AI, with its unprecedented risks, has less regulatory oversight than everyday appliances like milk or washing machines. Maybe we should regulate the AI before it decides *our* fridges should be 50 degrees. [S11][S44]\n- **WIRED got Meta's Muse AI to sext, and Meta says it's totally fine.**\n  In an interesting (and slightly disturbing) experiment, a WIRED journalist prompted Meta's Muse AI agent into describing pornographic encounters. Meta's official response? \"Legal adult behavior.\" Okay, then. [S51]\n- **OpenAI's Codex CLI caught installing a persistent, self-updating daemon.**\n  Attention, developers: OpenAI's Codex CLI is reportedly installing a background daemon that updates itself by default. That's a pretty bold move for a tool, and it's sparking quite a discussion about privacy and default behavior. [S39]\n\n**Creator Szn**\n\n- **Apple's Safari tracking block is already causing headaches for the ad industry.**\n  It's only been a week, but Apple's Safari tracking block is already making waves in the ad world. Publishers and advertisers are bracing for impact, wondering how this will shift revenue streams and targeting capabilities for creators and brands alike. [S56]\n- **Universities are now rolling out degrees for the Creator Economy.**\n  Forget your traditional marketing degrees; colleges are now offering full-blown programs dedicated to the creator economy. From content strategy to monetization, these institutions are trying to formalize the hustle. [S57]\n- **Publishers killed the paperback, now they're blaming you for not reading.**\n  A hot take for the ages: publishers reportedly gutted the mass-market paperback, then turned around and pointed fingers at declining readership. It's a classic case of supply-side economics meeting digital culture, with a side of blame. [S40]\n- **Ad agencies are buying into \"synthetic audiences\" for media planning.**\n  Agencies like Goodway Group are integrating synthetic data stacks for media planning, while clients use it for product design. It's a clever way to get around data privacy concerns, but the idea of selling to audiences that don't technically exist yet is a little wild. [S59]\n- **Don't get trapped by auto-renew subscriptions; know your consumer rights.**\n  With everyone and their dog offering a subscription service these days, it's easy to get caught in the auto-renew loop. A consumer advocate is reminding everyone to understand their rights when it comes to challenging or canceling those recurring charges. Check your statements, people! [S7]\n\n**Speed Round**\n\n- Feds searched Rep. Ilhan Omar's home in an ongoing immigration probe.\n- Elon Musk dropped $276 million on Republican midterm campaigns, making him the top donor.\n- Turns out, even Trump has second thoughts about livestreaming a firing-squad execution.\n- HMV's iconic Oxford Street store is closing its doors after just three years, seeking a new West End spot.\n- UK Prime Minister Andy Burnham is stirring the pot, claiming Russia meddled in the 2016 Brexit referendum.\n- The EU is trying to budget like a superpower, let's see how that goes for Brussels.\n- New war games show dimming the sun could lead to a dangerous global arms race, great.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Earnings beats are now the norm. What the stock market needs to keep rallying",
+      "url": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 2,
+      "title": "Bear to bull: A double upgrade of Salesforce illustrates the folly of the 'SaaSpocalypse'",
+      "url": "https://www.cnbc.com/investingclub/2026/10/12/bear-to-bull-a-double-upgrade-of-salesforce-illustrates-the-folly-of-the-saaspocalypse-.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 3,
+      "title": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion",
+      "url": "https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 4,
+      "title": "A massive trade just happened in surging shares of Snap",
+      "url": "https://www.cnbc.com/2026/10/12/a-massive-trade-just-happens-in-surging-shares-of-snap.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 5,
+      "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
+      "url": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 6,
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 7,
+      "title": "What are your rights on auto-renew subscriptions?",
+      "url": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 8,
+      "title": "Why some have no choice but to pay costly oil prices",
+      "url": "https://www.bbc.co.uk/news/videos/cq4g1dn81y9xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 9,
+      "title": "AI minister warns 'likely' UK's cyber defences will be breached",
+      "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 10,
+      "title": "HMV to close Oxford Street store after three years",
+      "url": "https://www.bbc.co.uk/news/articles/cjzxl7ee4e9xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 11,
+      "title": "When AI is subject to less regulation than your fridge, something is startlingly wrong | Richard Hermer",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/12/ai-regulation-fridge-risk-humanity-public-debate-international-law",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 12,
+      "title": "Stellantis and Renault back UK to get EU car industry protection",
+      "url": "https://www.theguardian.com/business/2026/oct/12/stellantis-renault-uk-eu-car-industry-imports-china",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 13,
+      "title": "Trump rewards Putin and betrays Ukraine with Russia diesel deal - The Latest",
+      "url": "https://www.theguardian.com/news/video/2026/oct/12/trump-rewards-putin-and-betrays-ukraine-with-russia-diesel-deal-the-latest",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 14,
+      "title": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack",
+      "url": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 15,
+      "title": "Was Burnham right to talk about Russian interference in Brexit? – podcast",
+      "url": "https://www.theguardian.com/politics/audio/2026/oct/12/was-burnham-wrong-to-talk-about-russian-interference-in-brexit-podcast",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 16,
+      "title": "U.K. prime minister attributes plot against U.S. bomber base to Iran",
+      "url": "https://www.axios.com/2026/10/12/uk-prime-minister-plot-bombers-base-iran",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Trump's Russia deal leaves GOP candidates with a Putin problem",
+      "url": "https://www.axios.com/2026/10/12/trump-russia-diesel-deal-republicans-midterms",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Feds search Rep. Ilhan Omar's home in immigration probe",
+      "url": "https://www.axios.com/2026/10/12/ilhan-omar-search-immigration",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Business faces a more interventionist Washington post-midterms",
+      "url": "https://www.axios.com/2026/10/12/beyond-november-business-faces-a-more-interventionist-washington-post-midterms",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "Trump privately expresses doubts about livestreaming execution",
+      "url": "https://www.axios.com/2026/10/12/trump-livestream-execution",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Both Russia and Ukraine are using AI-powered drones on the battlefield",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5984940/both-russia-and-ukraine-are-using-ai-powered-drones-on-the-battlefield",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 22,
+      "title": "India's opposition parties march to top court as protests over voter lists escalate",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 23,
+      "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+      "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 24,
+      "title": "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 25,
+      "title": "Seafarer's union official says crews offered big money to transit Strait of Hormuz",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5995186/seafarers-union-official-says-crews-offered-big-money-to-transit-strait-of-hormuz",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 26,
+      "title": "Congress Can Do More to Curb Kushner’s Conflicts of Interest",
+      "url": "https://foreignpolicy.com/2026/10/12/congress-kushner-corruption-saudi-israel-russia/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "Messi on Their Mind, Argentines Still Hold Maradona in Their Hearts",
+      "url": "https://foreignpolicy.com/2026/10/12/messi-maradona-argentina-world-cup-soccer-football/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "Can Brussels Budget Like a Superpower?",
+      "url": "https://foreignpolicy.com/2026/10/12/eu-financial-framework-budget-russia-trump/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "The Real Footprint of Trump’s Data Center Boom",
+      "url": "https://foreignpolicy.com/2026/10/12/data-center-energy-water-land-pollution/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "From Xinjiang to the Front Lines of Syria",
+      "url": "https://foreignpolicy.com/2026/10/12/uyghur-xinjiang-china-syria-civil-war-fighters-training/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "UK: Iran 'highly likely' to be behind RAF Fairford incident",
+      "url": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 32,
+      "title": "Hundreds of French supermarkets hit by a cyberattack that  defrosted refrigeration systems",
+      "url": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 33,
+      "title": "Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month",
+      "url": "https://www.dw.com/en/poland-reports-arrests-of-2-turkish-citizens-in-germany-in-connection-with-starlink-station-fire-last-month/a-79646138?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 34,
+      "title": "Fact check: Viral videos falsely linked to Riyadh airport attacks",
+      "url": "https://www.dw.com/en/fact-check-viral-videos-falsely-linked-to-riyadh-airport-attacks/a-79643037?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 35,
+      "title": "Germany: Labor Minister's resignation puts a spotlight on cracks within the government",
+      "url": "https://www.dw.com/en/germany-labor-minister-s-resignation-puts-a-spotlight-on-cracks-within-the-government/a-79645823?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 36,
+      "title": "Epic Games tells employees to use AI to get Disney game done",
+      "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 37,
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 38,
+      "title": "Introducing OpenFatigue",
+      "url": "https://openfatigue.ai/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 39,
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 40,
+      "title": "Publishers Killed the Paperback, Then Blamed Readers",
+      "url": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 41,
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
+      "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "The Yandex outage probably didn’t blitz Russian bots",
+      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
+      "url": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Android is the best and worst thing about Googlebooks",
+      "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine",
+      "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
+      "source": "WIRED"
+    },
+    {
+      "id": 52,
+      "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+      "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+      "source": "WIRED"
+    },
+    {
+      "id": 53,
+      "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+      "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+      "source": "WIRED"
+    },
+    {
+      "id": 54,
+      "title": "They War-Gamed Dimming the Sun. It Went Even Worse Than You Think",
+      "url": "https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+      "source": "WIRED"
+    },
+    {
+      "id": 55,
+      "title": "‘The Sixty-Year Mission’ Brings the Legacy of ‘Star Trek’ to a New Generation",
+      "url": "https://www.wired.com/story/new-york-comic-con-star-trek/",
+      "source": "WIRED"
+    },
+    {
+      "id": 56,
+      "title": "Ad industry tallies early losses from Apple’s Safari tracking block",
+      "url": "https://digiday.com/media/ad-industry-tallies-early-losses-from-apples-safari-tracking-block/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "Welcome to Creator University: Inside the colleges building creator economy programs",
+      "url": "https://digiday.com/media/welcome-to-creator-university-inside-the-colleges-building-creator-economy-programs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "‘An important capability for us’: PepsiCo CEO on Publicis switch",
+      "url": "https://digiday.com/media-buying/an-important-capability-for-us-pepsico-ceo-on-publicis-switch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "Media Buying Briefing: Synthetic audience adoption by agencies and clients takes off",
+      "url": "https://digiday.com/media-buying/media-buying-briefing-synthetic-audience-adoption-by-agencies-and-clients-takes-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "For some publishers, agentic advertising is still a question of ROI",
+      "url": "https://digiday.com/media/for-some-publishers-agentic-advertising-is-still-a-question-of-roi/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    }
+  ]
+}
