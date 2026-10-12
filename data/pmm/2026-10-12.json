@@ -1,0 +1,297 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T19:27:58.428500+00:00",
+  "raw_text": "Here's your Monday intel drop. Lots of AI, some interesting positioning plays, and a peek into how Meta's actually building agents people don't hate.\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\nMeta just dropped Muse Wonder, its first true \"frontier\" AI model, alongside Muse Wonder Full, making a clear play for top-tier generative AI capabilities. This isn't just another incremental update; it's Meta signaling it's serious about foundational models and powering its consumer AI agent, Muse, with best-in-class tech, complete with API access for developers. The product angle most people are missing is how this release, especially given the concurrent deep dive into Muse's UX design, emphasizes that powerful models are only half the battle; the interface and interaction design for AI agents are now paramount. For PMMs, this means the battleground is shifting from raw model power to the tangible, user-facing agent experience, requiring messaging that highlights intuitive interaction and real-world utility over just benchmark scores. PMs need to obsess over how their users *actually interact* with AI, focusing on design principles like progressive disclosure and persistent relationships, rather than just plugging into the latest API. The one thing to act on or watch in the next 30 days is how Meta positions Muse as a *designed experience* rather than just a powerful backend, and what that means for your own product's AI integration strategy. [S1][S5][S9][S12][S13]\n\n---\n\n🎯 POSITIONING WATCH\n**Fitbit Edge — Google's new wearable slots between screenless and smartwatch.** [S19][S29][S31]\n- **Narrative angle:** They're telling a story for people who want a bit more than a basic tracker but are over the full smartwatch experience. It's about getting key notifications and an OLED display without the \"smartwatch fatigue.\"\n- **ICP signal:** \"Folks who don’t want to go totally screenless\" but also don't want the Pixel Watch. This targets active users who value battery life and sleek design, but still want quick info at a glance.\n- **What's sharp:** The \"middle ground\" positioning is smart. It acknowledges a specific user pain point (smartwatch fatigue) and carves out a clear niche in a crowded market.\n- **What's fuzzy:** \"Pixel Watch smarts\" is a bit vague. What *specific* smarts are carried over? The messaging could be clearer on that value prop.\n- **Steal this:** Identify a common user fatigue point with existing solutions in your market and position your product as the ideal \"middle ground\" alternative.\n\n**Honeyjar — AI tools to fix broken PR and comms.** [S15]\n- **Narrative angle:** They're selling a solution to a universally acknowledged problem: PR is a mess. Their AI claims to make it better and more efficient.\n- **ICP signal:** Any company struggling with PR and comms, from startups to enterprises. The broad appeal suggests they're targeting anyone frustrated with traditional methods.\n- **What's sharp:** Directly calling out \"the PR process is broken\" is a strong problem-first hook that immediately resonates with potential buyers.\n- **What's fuzzy:** \"Improve PR and comms at every company\" is too generic. What *specific* parts of PR? Media outreach, internal comms, crisis management? Needs focus.\n- **Steal this:** Don't be afraid to boldly state a widely accepted industry problem and position your product as the definitive fix.\n\n**Manifold MCP — Comprehensive AI agent data for marketing and sales.** [S10][S48]\n- **Narrative angle:** They're offering a unified data platform to empower AI agents across multiple GTM functions: SEO, social, ads, and lead generation.\n- **ICP signal:** Businesses building or deploying AI agents for marketing and sales, likely mid-market to enterprise given the scope of \"SEO, AI answers, social, ads and leads data.\"\n- **What's sharp:** The breadth of data sources integrated specifically for AI agents is a compelling value prop, suggesting a holistic solution.\n- **What's fuzzy:** \"For your agent\" is still a bit abstract. What *kind* of agent? A chatbot, an internal tool, a sales assistant? The immediate utility isn't crystal clear for a non-AI specialist.\n- **Steal this:** If your product serves a new technology paradigm (like AI agents), clearly list the *specific functions* it supports to help buyers connect the dots to their existing workflows.\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n**Microsoft Maia 300 vs Nvidia/GPU providers** [S30]\n- **What changed:** Microsoft launched its third-gen Maia in-house AI chip, Maia 300, designed to be the \"primary AI inference system\" for its products and services. It promises 40% more tokens per megawatt than leading GPU-based systems.\n- **Why they did this now:** Microsoft is betting on efficiency and cost reduction for running massive AI workloads, especially as AI agents become central to their offerings. It's a strategic move to reduce reliance on external hardware providers and optimize for their specific AI stack.\n- **PMM action item:** If you're selling AI infrastructure or services, start emphasizing your own efficiency metrics, cost-per-inference, and any unique optimizations for specific workloads. Don't just talk raw power; talk ROI.\n- **Battlecard update needed?** Yes. Add \"Maia 300\" as a key internal hardware development for Microsoft. Note its efficiency claims (40% more tokens/megawatt) and its role in inference for Microsoft's own products and services.\n\n**Googlebooks vs traditional laptops** [S23]\n- **What changed:** Google is pushing Android-powered laptops (\"Googlebooks\") into the market, aiming for a hybrid experience by leveraging native Android apps and phone connectivity.\n- **Why they did this now:** They're betting on the ubiquity of Android apps and the desire for seamless phone-to-laptop integration to differentiate from Windows/macOS, hoping to capture users who want that mobile-first experience on a larger screen.\n- **PMM action item:** If your product is a productivity app, ensure your Android app is top-notch and highlight its seamless integration with other Android devices. If you're a laptop maker, prepare messaging around your OS's existing app ecosystem and enterprise readiness.\n- **Battlecard update needed?** Yes. Add \"Googlebooks (Android-powered laptops)\" as an emerging competitor in the productivity/device space. Note its strengths (Android apps, phone notifications) and weaknesses (flaky connectivity, file sharing issues).\n\n**Kudos 3.0 vs traditional finance/budgeting apps** [S7][S46]\n- **What changed:** Kudos 3.0 is an AI that \"finds money you're missing and gets it back,\" moving beyond just tracking spending to actively recovering funds.\n- **Why they did this now:** They're betting on a proactive, AI-driven approach to personal finance, tapping into the desire for automation and tangible monetary benefits rather than just insights. It's a move from \"tell me where my money goes\" to \"get my money back.\"\n- **PMM action item:** If you're in fintech or personal finance, evaluate if your product can shift from passive tracking/reporting to active, AI-powered value creation (e.g., finding forgotten subscriptions, negotiating bills, optimizing refunds).\n- **Battlecard update needed?** Yes. Add \"Kudos 3.0\" as an emerging AI-driven personal finance tool. Highlight its core differentiator: active money recovery, not just budgeting.\n\n---\n\n🚀 LAUNCH DISSECTION\n**Fitbit Edge by Google** [S19][S29][S31]\n- **Launch tier:** T2 — It's a new product in an existing line, filling a specific gap, but not a category-defining launch. Positioned right for its actual impact as a \"middle ground\" option.\n- **Core message:** \"The Fitbit Edge is for folks who don’t want to go totally screenless\" but also want to avoid smartwatch fatigue. It's the sweet spot between a basic tracker and a full Pixel Watch.\n- **GTM channels used:** Press (TechCrunch, The Verge, Wired), assumed social and in-product promotion within the Google/Fitbit ecosystem.\n- **Sales readiness signal:** Specs were leaked beforehand, suggesting a planned rollout. Press coverage detailed pricing ($179.99), key features (OLED display, week-long battery, replaceable battery), and position in the lineup, indicating enablement content was ready for media.\n- **Buyer emotion targeted:** Frustration (with smartwatches being too much, basic trackers being too little) and Ambition (to stay fit, get notifications without distraction).\n- **What worked:** The clear articulation of its position in the product hierarchy (\"middle ground between Fitbit Air and Pixel Watch\") immediately helps buyers understand where it fits and who it's for.\n- **What's missing:** More specific use cases or user personas beyond \"folks who don't want to go totally screenless.\" Who is this *exactly* for, and what's their day like?\n- **If you were the PMM:** I'd launch with short, punchy comparison videos showing the Edge solving specific notification-fatigue scenarios contrasted with a smartwatch.\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n**Product Marketing Alliance — My AI prompting workflow for positioning** [S6]\n- **The core argument or insight:** Don't just ask AI for a positioning statement; use a structured, iterative workflow with specific prompts to get genuinely useful output, building on inputs like features and target audience.\n- **Community reaction:** Resonating. Many PMMs have tried generic prompts and been disappointed, so a practical workflow is welcomed.\n- **The sharpest counter-take if one exists:** Some argue that any AI-generated positioning, even with a good prompt, lacks the strategic depth and market intuition a human PMM brings, making it a drafting tool, not a replacement.\n- **Worth engaging?** Yes — This is a practical, actionable guide for PMMs looking to leverage AI effectively in their daily tasks.\n\n**SVPG — Predictability vs Outcomes** [S4]\n- **The core argument or insight:** Product teams should be measured by the outcomes they achieve (solving problems, delivering value) rather than just the outputs they ship (features, releases), a lesson often learned by engineers transitioning to leadership.\n- **Community reaction:** Resonating. This is a perennial topic in PM circles, always a good reminder.\n- **The sharpest counter-take if one exists:** While outcomes are critical, some argue that a degree of predictability (delivery cadence, roadmap visibility) is necessary for stakeholders, especially in larger organizations, creating a tension between the two.\n- **Worth engaging?** Skim — A good refresher on a core PM principle, but likely familiar to senior PMs.\n\n**Lenny's Newsletter — How Meta designed Muse with Alex Cornell** [S5][S9]\n- **The core argument or insight:** Meta's Muse AI agent prioritizes design principles like progressive disclosure, persistent relationships, and personalized generative UI to make the powerful AI approachable and engaging for users.\n- **Community reaction:** Resonating. This offers concrete design insights into building user-friendly AI, moving beyond just the underlying model.\n- **The sharpest counter-take if one exists:** Some might argue that no amount of design can fully overcome trust issues with a \"listening in the background\" AI, regardless of how approachable the interface is.\n- **Worth engaging?** Yes — Essential reading/listening for PMs and PMMs working on AI agents, offering practical design lessons.\n\n**Corporate Visions — Deficit Learning and Development: Enable Sellers When They’re Ready to Learn** [S3]\n- **The core argument or insight:** Sales enablement should be designed around \"deficit learning,\" meaning training is most effective when sellers face an immediate, undeniable gap in their knowledge or skills needed to close a deal.\n- **Community reaction:** Resonating. PMMs often struggle with sales adoption of enablement, so a new framework for timing and relevance is appealing.\n- **The sharpest counter-take if one exists:** Implementing deficit learning requires sophisticated tracking of sales challenges and agile content creation, which can be difficult for smaller teams or those with rigid training schedules.\n- **Worth engaging?** Yes — Offers a fresh perspective on how to make sales enablement truly impactful.\n\n---\n\n💡 USE CASE OF THE DAY\n**AI-Assisted Positioning Statement Refinement**\nCategory: Messaging\nRole: PMM\n\n**The workflow:**\nStep 1: **Define your core inputs.** Gather your product's key features, target ICP, primary pain points it solves, and existing (even rough) value propositions.\nStep 2: **Engage AI iteratively.** Use a structured prompt to generate initial positioning, then refine it by asking for alternatives based on specific criteria (e.g., \"make it more concise,\" \"focus on ROI,\" \"compare to [competitor] without naming them\").\nStep 3: **Validate and humanize.** Take the AI-generated options, stress-test them with internal stakeholders, and infuse human nuance and strategic insight that AI can't replicate.\n\nTools used: Claude, Notion (for inputs/outputs)\nTime to complete: 30-60 minutes\nOutput you get: Several refined, distinct positioning statement options, ready for internal review and further iteration.\nWhy it matters now: AI can significantly accelerate the drafting phase of positioning, freeing PMMs to focus on strategic validation and market insight. [S6]\n\nPrompt or template (if AI-assisted):\n```\nAct as a senior product marketing manager. I will provide you with:\n1. Product Name: [Your Product Name]\n2. Key Features: [List 5-7 core features]\n3. Target ICP: [Describe your ideal customer profile, e.g., \"mid-market SaaS companies, Head of Marketing\"]\n4. Core Problem Solved: [State the main problem your product solves for the ICP]\n5. Primary Benefit: [The main outcome for the ICP]\n\nBased on this, generate 3 distinct positioning statements (1-2 sentences each) that clearly articulate the product's value. For each, also provide:\n- The unique value proposition (UVP)\n- The primary differentiator\n- The emotional hook\n\nAfter generating, I will ask you to refine them further.\n``` [S6]\n\n---\n\n📚 LEARNING PICK OF THE DAY\n**Deficit Learning and Development: Enable Sellers When They’re Ready to Learn** — Corporate Visions — Corporate Visions Blog [S3]\n\n**What it's about:** This article introduces the concept of \"deficit learning,\" arguing that sales training is most effective when it directly addresses an immediate, critical knowledge or skill gap a seller faces in a real deal. It outlines three types of sales deficits (knowledge, skill, belief) and provides a framework for building enablement programs that deliver content precisely when and where it's needed.\n\n**3 actionable takeaways:**\n1.  **Map enablement to sales deficits:** Analyze your sales cycle and identify common points where sellers struggle (e.g., handling specific objections, articulating new feature value) and create targeted content for those \"deficit moments.\"\n2.  **Trigger content by real-world needs:** Instead of broad training, build systems (or simply communicate) where enablement content is easily accessible and recommended *at the point of need* – like a quick guide on a new competitor when a seller encounters them.\n3.  **Focus on belief deficits:** Don't just train on features and skills; address underlying beliefs that might hinder sales (e.g., \"this product is too expensive,\" \"our solution isn't unique enough\") with data-driven stories and proof points.\n\n**Who should read this:** PMMs — at all career stages, especially those responsible for sales enablement.\n**Read time:** 10 minutes\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n**Designing User-Friendly AI Agents (Meta Muse)** [S5][S9]\n- **What was found or demonstrated:** Meta's design director for Muse, Alex Cornell, shared insights into designing an AI agent people actually want to talk to. Key findings include the importance of progressive disclosure (not overwhelming users with complexity), maintaining a single persistent relationship with the agent, and using generative UI that feels personal without constant jarring changes.\n- **The method used:** Insights from Meta's design process for a consumer-facing AI agent, likely based on extensive user testing, iterative design, and qualitative feedback.\n- **How it changes or validates current best practice:** It validates the critical role of design in AI adoption, shifting focus from pure AI capability to the *interaction experience*. It challenges the idea that more complex AI needs a more complex interface, advocating for simplicity and familiarity.\n- **PM action item:** In your next AI-powered product or feature discovery sprint, prioritize user experience design as much as model performance. Specifically, explore how progressive disclosure can simplify complex AI capabilities, and consider how to build a sense of a persistent, evolving relationship with your AI agent.\n\n---\n\n💼 PMM/PM JOBS PULSE\nNo job listings were provided in today's data.\nThe current market signals, heavily dominated by AI product launches and discussions around AI agents, suggest a strong demand for PMMs and PMs who can strategically position and build AI-powered solutions. Companies are clearly investing in both foundational AI models and user-facing AI applications, indicating a future job market focused on AI literacy and GTM execution for these technologies.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n**WindBorne — $50M US Air Force contract** [S11]\n- **What they do:** A Silicon Valley startup that uses weather balloons and AI to predict the weather.\n- **GTM motion:** Enterprise / Government Sales-led / Vertical SaaS\n- **What this signals about B2B investment direction:** Significant government spending on AI and data solutions, particularly for specialized, data-intensive applications like weather prediction. It highlights the continued appetite for AI in critical infrastructure and defense.\n- **PMM implication:** If your product has potential government or large enterprise applications, start building out messaging and case studies that highlight reliability, data accuracy, and proven large-scale impact.\n- **PM implication:** Consider how your product's data capabilities and AI models could be adapted or positioned for high-stakes, specialized enterprise or government use cases, which often come with significant contracts.\n\n**AI app (former Plaud exec) — $26M raise** [S32]\n- **What they do:** An AI app that listens to you in the background to provide assistance and suggestions.\n- **GTM motion:** Product-led / Consumer (with potential B2B implications for personal productivity tools)\n- **What this signals about B2B investment direction:** Continued strong VC interest in AI personal assistants and ambient computing, betting on the promise that \"the more AI knows about a person, the better it will be able to assist them.\"\n- **PMM implication:** If you're building an AI assistant, your messaging needs to master the tightrope walk between \"helpful context\" and \"creepy surveillance,\" clearly articulating the value exchange for user data.\n- **PM implication:** Privacy and data ethics need to be baked into the product design from day one. PMs building such tools must develop robust controls and transparent explanations for how data is collected and used, as this will be a major user concern.\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n**ExcaliClaw — Hand-drawn diagrams your AI agent can draw with you** [S8][S47]\n- **Category:** Content / Collaboration / AI Productivity\n- **Best for:** Both\n- **Free tier:** No (implied, not specified) / Trial (likely)\n- **Honest take:** Genuinely new capability. Marries visual thinking with AI assistance in a collaborative, interactive way, which is a step beyond static diagram generation.\n- **Who should try it this week:** PMs needing to quickly visualize complex systems and PMMs wanting to rapidly prototype visual explanations for messaging.\n\n**Manifold MCP — SEO, AI answers, social, ads and leads data for your agent** [S10][S48]\n- **Category:** Competitive Intel / GTM Strategy / Analytics / AI Productivity\n- **Best for:** PMM\n- **Free tier:** No (implied, not specified) / Trial (likely)\n- **Honest take:** This is a feature set dressed up as a launch, but the *aggregation* of these data types specifically *for AI agents* is an interesting twist that makes it feel new. It's about feeding your AI the right GTM data.\n- **Who should try it this week:** PMMs who are already experimenting with AI agents for GTM tasks and need better data feeds for them.\n\n**Honeyjar — AI tools to improve PR and comms at every company** [S15]\n- **Category:** Content / Marketing / PR\n- **Best for:** PMM\n- **Free tier:** No (implied, not specified) / Trial (likely)\n- **Honest take:** Could be genuinely new capability if it truly automates broken parts of PR. Many \"AI for PR\" tools are just glorified content generators; the key is if it handles outreach, sentiment, and strategy well.\n- **Who should try it this week:** PMMs struggling with PR outreach or managing external comms agencies, to see if it delivers on its promise.\n\n**Kudos 3.0 — The AI that finds money you're missing and gets it back** [S7][S46]\n- **Category:** Analytics / FinTech / Consumer\n- **Best for:** Neither (Consumer focus)\n- **Free tier:** No (implied, not specified) / Trial (likely)\n- **Honest take:** A feature dressed up as a launch, but the \"gets it back\" part is the key differentiator. Many tools *find* money, fewer *act* on it.\n- **Who should try it this week:** PMs building consumer fintech products to study its proactive value proposition.\n\n**Blueprints AI — AI startup says it can generate permit-ready blueprints in minutes** [S18]\n- **Category:** AI Productivity / Vertical SaaS\n- **Best for:** PM (in construction/architecture tech)\n- **Free tier:** No (implied, not specified) / Trial (likely)\n- **Honest take:** Genuinely new capability for a specific vertical. Automating permit-ready documents from simple inputs is a significant efficiency gain if it works reliably.\n- **Who should try it this week:** PMs in proptech or construction SaaS to understand the potential of AI for specialized document generation.\n\n---\n\n⚡ SPEED ROUND\n🤖 Meta's Muse Wonder is a frontier model, aiming for top-tier AI capabilities. [S1][S12][S13]\n💰 Elon Musk donated $276M to Republican midterm efforts. Political spending's still wild. [S14]\n📈 Microsoft's Maia 300 AI chip promises 40% more tokens/megawatt for inference. Efficiency race is on. [S30]\n🗣️ Corporate Visions champions \"Deficit Learning\" for sales enablement – teach when sellers *need* to learn. [S3]\n📝 PMA shared a structured AI prompting workflow for better positioning statements. Stop asking for generic outputs. [S6]\n⌚ Google launched Fitbit Edge, bridging the gap between screenless trackers and smartwatches. Niche carved. [S19][S29][S31]\n✍️ ExcaliClaw lets AI agents draw hand-drawn diagrams with you. Visual collab just got an AI assistant. [S8][S47]\n🎧 Meta designed Muse with \"progressive disclosure\" and \"persistent relationships\" for user comfort. UX for AI matters. [S5][S9]\n☁️ WindBorne secured a $50M US Air Force contract for AI weather balloons. Gov loves niche AI. [S11]\n💸 Former Plaud exec raised $26M for an AI app that listens in the background. Privacy vs. personalization debate continues. [S32]\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\nChallenge: **Deconstruct a Competitor's Positioning with AI**\nRole focus: PMM\n\nThe setup: You need to understand how a key competitor is positioning their product against yours, without spending hours manually sifting through their website. You'll use an AI agent to quickly extract and analyze their core narrative.\n\nWhat to do:\nStep 1: **Pick a competitor.** Go to their homepage or a specific product page you want to analyze. Copy the main headline, sub-headline, and the first 2-3 paragraphs of their hero section. (e.g., `https://www.workos.com/`)\nStep 2: **Paste into Claude.** Use the prompt below to ask Claude to break down their positioning.\nStep 3: **Review and compare.** Analyze the output. Does it match your internal understanding of their positioning? What new angles or differentiators did Claude identify that you might have missed?\n\nThe exact prompt or template:\n```\nAct as a senior product marketing manager analyzing a competitor. I am providing you with text from a competitor's homepage. Your task is to extract and summarize their positioning.\n\nHere is the text:\n[PASTE COMPETITOR HOMEPAGE TEXT HERE]\n\nBased on this text, tell me:\n1. What is their primary product offering?\n2. Who is their target customer (ICP)?\n3. What is the core problem they are solving for that customer?\n4. What is their main value proposition?\n5. What are 2-3 potential differentiators they are highlighting (explicitly or implicitly)?\n6. What is the emotional hook or desired outcome they are trying to convey?\n```\n\nWhat good looks like vs. mediocre:\n- **Good:** Claude identifies specific customer segments (e.g., \"enterprise SaaS companies building B2B apps\"), articulates clear problems, and points out subtle differentiators from the text.\n- **Mediocre:** Claude provides generic answers (e.g., \"they help businesses grow\"), paraphrases the text without deep analysis, or misses implicit cues about the target audience or unique selling points.\n\nWhy this skill matters in the next 6 months: As AI agents become more sophisticated, leveraging them for rapid competitive analysis will save PMMs hours, allowing more time for strategic thinking and nuanced messaging.\nTime: 15 minutes or less.\n\n---\n\n🧠 EDGE INSIGHT\nThe sheer volume of AI news today, from Meta's frontier model Muse Wonder to Microsoft's in-house Maia 300 chip, and simultaneously, the deep dive into *how* Meta designed Muse's UX, tells a clear story: the AI gold rush is shifting from raw compute and model size to *applied intelligence*. It’s no longer just about having the biggest model; it’s about making that model efficient (Microsoft's chip) and, crucially, making it usable and desirable for humans (Meta's design principles). The market is maturing past \"AI can do X\" to \"how do we make AI *actually do X* for real people in a way they trust and understand?\" PMMs and PMs who treat AI as a design and experience challenge, not just a technical one, are going to win the next wave. This means putting human interaction, privacy, and clear value delivery at the forefront, rather than just chasing the latest benchmark.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 2,
+      "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+      "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+      "source": "Wired"
+    },
+    {
+      "id": 3,
+      "title": "Deficit Learning and Development: Enable Sellers When They’re Ready to Learn",
+      "url": "https://corporatevisions.com/blog/deficit-learning/",
+      "source": "Corporate Visions"
+    },
+    {
+      "id": 4,
+      "title": "Predictability vs Outcomes",
+      "url": "https://www.svpg.com/predictability-vs-outcomes/",
+      "source": "SVPG"
+    },
+    {
+      "id": 5,
+      "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 6,
+      "title": "My AI prompting workflow  for positioning",
+      "url": "https://www.productmarketingalliance.com/my-ai-prompting-workflow-for-positioning/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 7,
+      "title": "Kudos 3.0",
+      "url": "https://www.producthunt.com/products/kudos-smart-wallet",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "ExcaliClaw",
+      "url": "https://www.producthunt.com/products/excaliclaw",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 9,
+      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
+      "url": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 10,
+      "title": "Manifold MCP",
+      "url": "https://www.producthunt.com/products/manifold-mcp",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 11,
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 12,
+      "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+      "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+      "source": "Wired"
+    },
+    {
+      "id": 13,
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source": "The Verge"
+    },
+    {
+      "id": 14,
+      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
+      "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+      "source": "The Verge"
+    },
+    {
+      "id": 15,
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 16,
+      "title": "The Yandex outage probably didn’t blitz Russian bots",
+      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+      "source": "The Verge"
+    },
+    {
+      "id": 17,
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 18,
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 19,
+      "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+      "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 20,
+      "title": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
+      "url": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
+      "source": "The Verge"
+    },
+    {
+      "id": 21,
+      "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+      "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 22,
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 23,
+      "title": "Android is the best and worst thing about Googlebooks",
+      "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+      "source": "The Verge"
+    },
+    {
+      "id": 24,
+      "title": "No Man’s Sky is coming to the iPhone and iPad",
+      "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
+      "source": "The Verge"
+    },
+    {
+      "id": 25,
+      "title": "They War-Gamed Dimming the Sun. It Went Even Worse Than You Think",
+      "url": "https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+      "source": "Wired"
+    },
+    {
+      "id": 26,
+      "title": "‘The Sixty-Year Mission’ Brings the Legacy of ‘Star Trek’ to a New Generation",
+      "url": "https://www.wired.com/story/new-york-comic-con-star-trek/",
+      "source": "Wired"
+    },
+    {
+      "id": 27,
+      "title": "The OnePlus 16 is the company’s most interesting phone in years",
+      "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
+      "source": "The Verge"
+    },
+    {
+      "id": 28,
+      "title": "CMF’s first wireless speakers look like musical milk cartons",
+      "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
+      "source": "The Verge"
+    },
+    {
+      "id": 29,
+      "title": "The Fitbit Edge is for folks who don’t want to go totally screenless",
+      "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+      "source": "The Verge"
+    },
+    {
+      "id": 30,
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "source": "The Verge"
+    },
+    {
+      "id": 31,
+      "title": "Google Fitbit Edge: Specs, Features, Price, Release Date",
+      "url": "https://www.wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen/",
+      "source": "Wired"
+    },
+    {
+      "id": 32,
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 33,
+      "title": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 34,
+      "title": "How Apple Puts Indigenous Languages on the iPhone Keyboard",
+      "url": "https://www.wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/",
+      "source": "Wired"
+    },
+    {
+      "id": 35,
+      "title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer",
+      "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
+      "source": "Wired"
+    },
+    {
+      "id": 36,
+      "title": "AlterMe Review: Fitness Built Around My DNA",
+      "url": "https://www.wired.com/review/alterme-fitness-and-wellness-program/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age",
+      "url": "https://www.wired.com/story/new-anti-aging-drug-trial-for-skin/",
+      "source": "Wired"
+    },
+    {
+      "id": 38,
+      "title": "Far-Right Election Groups Are Now Targeting Nursing Homes",
+      "url": "https://www.wired.com/story/republican-election-groups-are-now-targeting-nursing-homes/",
+      "source": "Wired"
+    },
+    {
+      "id": 39,
+      "title": "The Best Gifts for the Techie in Your Life (2026)",
+      "url": "https://www.wired.com/story/best-tech-gifts/",
+      "source": "Wired"
+    },
+    {
+      "id": 40,
+      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 41,
+      "title": "Kindle Aluminum Review (2026): Gorgeous, but Expensive",
+      "url": "https://www.wired.com/review/kindle-aluminum-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 42,
+      "title": "The ecologist revealing the invisible networks that revive rainforests",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 43,
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Aaron Sorkin’s ‘The Social Reckoning’ is off to a weak start",
+      "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Kudos 3.0",
+      "url": "https://www.producthunt.com/products/kudos-smart-wallet",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 47,
+      "title": "ExcaliClaw",
+      "url": "https://www.producthunt.com/products/excaliclaw",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 48,
+      "title": "Manifold MCP",
+      "url": "https://www.producthunt.com/products/manifold-mcp",
+      "source": "Product Hunt"
+    }
+  ]
+}
