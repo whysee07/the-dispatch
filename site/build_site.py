@@ -667,17 +667,22 @@ a{color:inherit;}
 .body a{color:var(--accent);text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 40%,transparent);}
 .body a:hover{border-bottom-color:var(--accent);}
 .body strong{color:var(--ink);font-weight:700;}
-.body code{font-family:ui-monospace,Menlo,monospace;font-size:.9em;background:var(--card-2);padding:1px 5px;border-radius:3px;}
+.body code{font-family:ui-monospace,Menlo,monospace;font-size:.9em;background:var(--card-2);
+  padding:1px 5px;border-radius:3px;overflow-wrap:anywhere;word-break:break-word;}
+/* Everything in the body must wrap, never push the column wider (which overlapped the rail) */
+.body,.body details.item > summary,.body .item--flat,.body .item-body p{overflow-wrap:anywhere;}
 
-/* ── Collapsible items ── */
+/* ── Collapsible items ──
+   NOTE: these are block (not flex) with an absolutely-positioned marker, so inline
+   <strong>/<code>/<a> stay inline and wrap. Flex would make each a separate column. */
 .body details.item{border-bottom:1px solid var(--rule);}
 .body details.item:last-child,.body .item--flat:last-child{border-bottom:none;}
-.body details.item > summary{list-style:none;cursor:pointer;display:flex;gap:13px;align-items:baseline;
-  padding:15px 0;font-family:var(--disp);font-weight:700;font-size:clamp(17px,2.4vw,20px);
+.body details.item > summary{list-style:none;cursor:pointer;display:block;position:relative;
+  padding:15px 0 15px 23px;font-family:var(--disp);font-weight:700;font-size:clamp(17px,2.4vw,20px);
   letter-spacing:-.018em;line-height:1.2;color:var(--ink);transition:color .12s;}
 .body details.item > summary::-webkit-details-marker{display:none;}
-.body details.item > summary::before{content:"+";font-family:var(--disp);font-weight:800;font-size:1.1em;
-  color:var(--accent);flex-shrink:0;width:.9ch;line-height:1;}
+.body details.item > summary::before{content:"+";position:absolute;left:0;top:15px;
+  font-family:var(--disp);font-weight:800;color:var(--accent);line-height:1.2;}
 .body details.item[open] > summary::before{content:"\2013";}
 .body details.item > summary:hover{color:var(--accent);}
 .body details.item > summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px;}
@@ -689,10 +694,10 @@ a{color:inherit;}
   text-decoration:none;color:var(--accent);background:var(--wash);border:1px solid var(--accent);
   border-radius:999px;padding:3px 11px;white-space:nowrap;}
 .body .src-links .src-link:hover{background:var(--accent);color:var(--on-accent);}
-.body .item--flat{display:flex;gap:13px;align-items:baseline;padding:15px 0;border-bottom:1px solid var(--rule);
+.body .item--flat{display:block;position:relative;padding:15px 0 15px 23px;border-bottom:1px solid var(--rule);
   font-family:var(--disp);font-weight:700;font-size:clamp(17px,2.4vw,20px);letter-spacing:-.018em;
   line-height:1.2;color:var(--ink);}
-.body .item--flat::before{content:"\2022";color:var(--accent);flex-shrink:0;width:.9ch;}
+.body .item--flat::before{content:"\2022";position:absolute;left:0;top:15px;color:var(--accent);line-height:1.2;}
 .body .subhead{font-family:var(--disp);font-weight:800;font-size:14px;letter-spacing:.02em;
   text-transform:uppercase;color:var(--accent);margin:22px 0 2px;}
 
