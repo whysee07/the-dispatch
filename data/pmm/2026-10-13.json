@@ -1,0 +1,441 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T17:14:23.928308+00:00",
+  "raw_text": "Alright, let's get into it. Today was a lot of hardware and a little bit of existential dread about the AI business model.\n\n---\n\n### 🔥 THE GTM SIGNAL OF THE DAY\n\nApple just dropped an entire smart home ecosystem, not just a product. [S17][S36] The new HomeView smart display is the hero, but the real story is the \"Home Collection\"—a coordinated launch of co-developed hardware with partners like LG and Schneider Electric. The product angle most people are missing is that Apple isn't selling a better Amazon Echo Show; it's selling a secure, design-led, centrally-controlled nervous system for your house, leveraging the trust it has already built with your phone and watch. For PMMs, this is a masterclass in orchestrating a multi-product, multi-partner ecosystem launch where the whole is greater than the sum of its parts. For PMs, it’s a stark reminder that the winning product is often the one that best controls the entire platform, making the hardware just a friendly interface to a deep, sticky ecosystem. The one thing to watch in the next 30 days is the co-marketing between Apple, LG, and Schneider Electric—that's where you'll see how they translate this grand vision into a message for someone at Best Buy. [S20][S31][S39]\n\n---\n\n### 🎯 POSITIONING WATCH\n\n**Apple HomeView — The command center for your curated, private smart home.**\n- **Narrative angle:** They're telling a story about simplifying the chaos of the smart home with the elegance and security you expect from Apple. It's less about \"what this gadget does\" and more about \"how your home will feel.\" [S17][S36]\n- **ICP signal:** Existing high-LTV Apple users. People who have already bought into the ecosystem and value design and privacy enough to pay a premium for it. Definitely not for the person trying to find the cheapest smart plug on Amazon.\n- **What's sharp:** The physical design continuity. Calling it a \"giant Apple Watch for the home\" is instant positioning genius. [S38] It makes the product feel familiar and intuitive before you've even touched it.\n- **What's fuzzy:** The immediate, must-have value prop. Beyond being a beautiful controller for other new, expensive devices, the killer use case that justifies the $299 price tag isn't screaming from the headlines. [S23]\n- **Steal this:** The \"familiar but new\" design metaphor. How can you launch a new capability by making it look and feel like a natural, super-powered extension of a feature your users already love?\n\n**Google \"Vibe-Coded\" Apps — Making AI a personal creation tool, not just a corporate one.**\n- **Narrative angle:** AI is for makers. We're giving you a way to create your own personal apps with AI and get them on your phone without needing to be a full-blown developer. [S14][S15]\n- **ICP signal:** The prosumer, the tinkerer, the developer who wants to experiment. This isn't for your average consumer; it's for people who hear \"build your own app with AI\" and get excited, not intimidated.\n- **What's sharp:** The name \"vibe-coded.\" It's a little goofy, but it successfully reframes a technical process (generating and deploying code) as a casual, creative act. It lowers the barrier to entry psychologically.\n- **What's fuzzy:** The actual, practical use cases. What kind of private app is someone really going to build this way? It feels like a solution in search of a problem, but maybe that's the point.\n- **Steal this:** Rebrand a complex technical process with a more accessible, creative name. Turn \"Configure Your Integration Endpoint\" into \"Design Your Workflow.\"\n\n**Google Gemini 4 Argon — We're back in the frontier AI race, and we're fixing the annoying stuff.**\n- **Narrative angle:** We were quiet, but we were working. Here's our next-gen model that doesn't just chase benchmarks but addresses the qualitative pains of today's chatbots. [S21]\n- **ICP signal:** Enterprise developers and AI leaders at major companies who are making big bets on which foundation model to build on. This is a direct shot at OpenAI and Anthropic's developer base.\n- **What's sharp:** Explicitly calling out that they've cut down on \"hedging, repetition, and the cliches that continue to plague AI chatbots.\" It's a rare bit of self-awareness that shows they're listening to actual user frustration, not just optimizing for test scores.\n- **What's fuzzy:** The benchmark claims. Every new model launch comes with a chart showing it's the new king. It's become white noise until third-party testing and real-world applications prove it out.\n- **Steal this:** When you launch an improvement, don't just state the positive benefit. Acknowledge the specific, annoying user pain you are killing. It makes the benefit feel more real and earned.\n\n---\n\n### ⚔️ COMPETITIVE INTEL CORNER\n\n**Google vs. OpenAI / Anthropic**\n- **What changed:** Google launched Gemini 4 Argon, a new frontier model positioned as a direct competitor to GPT-6 Astra and Claude Fable 5.1, claiming superior performance in complex reasoning. [S21]\n- **Why they did this now:** The narrative was forming that Google had fallen behind in the AI arms race. This is a massive play to re-assert technical leadership and convince enterprises they are still the ones to bet on. They're betting \"smarter, less annoying\" is the next axis of competition.\n- **PMM action item:** If you compete with Google's AI, get your hands on the API today. Update your competitive decks with initial findings, and prepare a narrative that shifts the focus from their claimed benchmark wins to your model's strengths in specific, business-critical use cases.\n- **Battlecard update needed?** Yes. Add Gemini 4 Argon. Specifically, add Google's claim about \"reduced hedging and repetition\" and arm your sales team with a counter: \"That's great for casual chat, but for enterprise workflows, our model delivers [more reliable outputs / better structured data / stronger guardrails].\"\n\n**Apple vs. Amazon / Google**\n- **What changed:** Apple launched HomeView, entering the smart home display market not with one device, but an entire ecosystem of first-party and co-developed partner hardware. [S17][S39]\n- **Why they did this now:** They see a fragmented market ripe for a premium, integrated player to come in and clean up. They're betting customers are tired of privacy issues and clunky experiences and will pay the \"Apple tax\" for a seamless, secure solution.\n- **PMM action item:** If you're at Amazon or Google, your messaging needs to pivot to highlight your strengths: openness and affordability. Frame Apple as a beautiful but restrictive and expensive walled garden. Run a campaign highlighting the thousands of \"Works with Alexa/Google\" partners vs. Apple's two at launch.\n- **Battlecard update needed?** Yes, a whole new section. Key weaknesses to arm sales with: high price point ($299 hub + accessories), tiny partner ecosystem at launch, and the nickel-and-diming tactics like selling the wall mount separately. [S22]\n\n**SpaceXSI vs. Standalone Dev Tools**\n- **What changed:** X (the company formerly known as Twitter) is now bundling X Premium, Grok AI, and the AI code editor Cursor into a single subscription. [S29]\n- **Why they did this now:** It’s a classic bundling play to increase the perceived value of an X subscription and drive ARPU. They're betting that a \"good enough\" suite of tech tools is more attractive to a mass audience than paying for best-of-breed tools separately.\n- **PMM action item:** If you market a competing AI code editor, you now have to justify your standalone price against \"free with X.\" Your positioning has to scream \"for the professional who needs a real tool, not a toy that comes with a social media subscription.\"\n- **Battlecard update needed?** Yes. Add a TCO/ROI section comparing your tool to the \"free\" Cursor in the X bundle. Focus on developer productivity gains that make your subscription pay for itself in hours, not months.\n\n---\n\n### 🚀 LAUNCH DISSECTION\n\n**Apple HomeView by Apple**\n- **Launch tier:** T1. A major new hardware category entry aimed at capturing a multi-billion dollar market. They positioned it as the centerpiece of their entire \"Welcome Home\" event, which is exactly right. [S36]\n- **Core message:** \"The centerpiece for Apple's big push into the home.\" The story wasn't just about the device, but about Apple finally taking the smart home seriously with an integrated, secure system. [S17][S31]\n- **GTM channels used:** Press was the main weapon, with coordinated hands-on previews for every major tech outlet. Also partner (LG/Schneider Electric), social, email, and in-product promotion across Apple's properties. A full-court press. [S17][S20][S38]\n- **Sales readiness signal:** They didn't just ship a press release; they gave journalists hands-on time with the devices. This armed the media to write detailed, experience-based reviews, which is the B2C equivalent of sales enablement content.\n- **Buyer emotion targeted:** Ambition. The desire to have a perfectly curated, effortlessly functional, and beautiful high-tech home. Also, relief from the frustration of dealing with the current messy smart home landscape.\n- **What worked:** The ecosystem launch. By announcing the HomeView alongside the \"Home Collection\" of partner devices, they instantly created the perception of a complete system, not just an isolated gadget. It made the entire play feel more strategic and substantial. [S39]\n- **What's missing:** A clear \"magic moment\" or killer app. The coverage is full of what it *can* do (control things, make calls, show widgets), but lacks the one single, compelling story of something you can now do that you couldn't before, which makes the $299 price an immediate \"yes.\" [S23]\n- **If you were the PMM:** I'd have focused the launch story on one transformative use case—like a \"Leaving Home\" scene that locks the LG door, sets the thermostat, and turns on the security cameras with a single tap—to make the ecosystem's value tangible and emotional, not just a list of features.\n\n---\n\n### 📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n\n**Teresa Torres & Petra Wille — Stop Asking for Miracles in a One-Hour Training**\n- **The core argument:** You can't teach a complex, practice-based skill like continuous discovery in a single keynote. It's like asking a trainer to get you fit in one gym session; real change requires sustained effort. [S3]\n- **Community reaction:** Resonating. Every experienced leader has felt this pain. It's a collective sigh of relief to hear it stated so plainly.\n- **The sharpest counter-take:** A great one-hour session can't build the skill, but it can create the *will*. It can be the catalyst that gets leadership to invest in the real, long-term training that's needed.\n- **Worth engaging?** Skim. Good validation for what you probably already believe. Send it to your boss next time they ask you to \"do a quick lunch-and-learn on GTM strategy.\"\n\n**Lenny's Newsletter — What's a Moat in the Age of AI?**\n- **The core argument:** When AI can copy any feature, your moat is no longer your product's functionality. It's the stuff AI can't easily replicate: proprietary data flywheels, true network effects, brand affinity, and deep, painful-to-rip-out workflow integrations. [S4]\n- **Community reaction:** Resonating, hard. This is the central strategic question everyone is grappling with.\n- **The sharpest counter-take:** The only moat is speed. If you can consistently out-execute and out-ship everyone, the structural advantages matter less.\n- **Worth engaging?** Yes. This is foundational strategy. Understanding these concepts will directly impact how you prioritize your roadmap and position your product.\n\n**MIT Technology Review — AI Labs Are Buying Dead Startups' Data**\n- **The core argument:** There's a new market for the digital remains of failed startups. AI labs are paying real money for their Slack, Notion, and Figma archives, desperate for unique, human-generated training data. [S52]\n- **Community reaction:** A mix of fascination and horror. It's a logical, if slightly dystopian, conclusion of the AI data gold rush.\n- **The sharpest counter-take:** The value is likely overhyped. This \"data exhaust\" is messy and lacks context, making it less useful for training robust models than clean, purpose-built datasets.\n- **Worth engaging?** Skim. A fascinating signal about the value of data, but not immediately actionable unless your startup is on its last legs.\n\n**MIT Technology Review — The Open vs. Closed AI Model Debate**\n- **The core argument:** The fight over whether to open-source frontier AI models is intensifying. One side screams about safety risks and misuse, the other warns of the danger of concentrating this power in a few corporations. [S48]\n- **Community reaction:** Being debated. This is a fundamental philosophical schism in tech right now with no easy answers.\n- **The sharpest counter-take:** The \"safety\" argument from closed-model labs is just regulatory capture in disguise, an attempt to use fear to build a moat around their businesses.\n- **Worth engaging?** Skim. Good to be aware of the high-level debate, but it won't change your Tuesday.\n\n---\n\n### 💡 USE CASE OF THE DAY\n\n**\"Fluency Score\" Sales Enablement Loop**\nCategory: Sales Enablement\nRole: PMM\n\n**The workflow:**\nStep 1: In a Notion doc, script the perfect 2-minute pitch for your new launch, including key messages, proof points, and answers to the top two expected objections.\nStep 2: Require every AE to record themselves delivering the pitch on Loom and submit the link. No slides, just them talking to the camera.\nStep 3: Grade each submission against a simple scorecard (e.g., Message clarity: /10, Confidence: /10, Objection handle: /10). Reps must score above a 25/30 to be \"certified\" to talk about the new feature. If they don't, they get feedback and have to re-record. [S7]\n\n**Tools used:** Notion, Loom, a simple scorecard in Google Sheets.\n**Time to complete:** 30 minutes for the PMM to create the brief and scorecard; 10-15 minutes per rep.\n**Output you get:** Proof that your sales team can actually deliver the message you wrote, not just proof that they opened your enablement deck.\n**Why it matters now:** It closes the loop between \"we shipped enablement\" and \"our sellers can actually sell this thing,\" which is a gap that kills most launches.\n\n**Prompt or template (for AI-assisted feedback):**\n```\nYou are a world-class sales coach reviewing a practice pitch.\n\n**This is the required script and key messages:**\n[Paste your Notion doc script here]\n\n**This is the transcript of the rep's practice pitch:**\n[Paste the transcript from their Loom video]\n\n**Your task:**\n1. Score the rep's pitch from 0-100 based on how well they adhered to the script and conveyed the core value propositions.\n2. Provide 3 bullet points of specific, actionable feedback. Start with one thing they did well, then two areas for improvement.\n```\n\n---\n\n### 📚 LEARNING PICK OF THE DAY\n\n**How to tell if a startup has a moat — Lenny Rachitsky — Lenny's Newsletter**\n\n**What it's about:** A deep dive into what makes a business defensible when AI can copy features overnight. Lenny argues that the durable moats are now things like proprietary data that creates a flywheel, network effects that actually provide value, high switching costs, and a brand that people want to be associated with. [S4]\n\n**3 actionable takeaways:**\n1. **Map your data flywheel.** Don't just say \"we have a lot of data.\" A PM should literally draw the loop: More users → generate unique data → that data improves the product in a specific way → that improvement attracts more users. If you can't draw the loop, you don't have a data moat.\n2. **Calculate the \"pain of switching\" score.** A PMM can interview churned customers and prospects who chose a competitor. Create a qualitative score based on the effort, cost, and organizational pain required to leave your product. This is your real stickiness metric.\n3. **Position your brand as an identity.** Your features are temporary, but what your brand stands for isn't. PMMs should focus messaging on the *type of person or company* that uses your product, turning a purchase decision into an identity statement.\n\n**Who should read this:** Both PMMs and PMs, especially at the Director+ level.\n**Read time:** ~12 minutes.\n\n---\n\n### 🔬 DISCOVERY & RESEARCH SIGNAL\n\n**\"Data Necromancy\" for AI Training**\n- **What was found or demonstrated:** AI companies are creating a new market for corporate data by buying the digital archives—Slack messages, Notion docs, Figma files, codebases—of failed startups to use as high-quality training material. [S52]\n- **The method used:** Journalism. MIT Technology Review interviewed founders who have sold their defunct company's data through new brokerage firms.\n- **How it changes or validates current best practice:** It's a massive validation of the idea that unique, proprietary data is the most valuable asset in the AI age. It also introduces a wild new (and ethically gray) channel for data acquisition that goes way beyond web scraping.\n- **PM action item:** In your next product discovery sprint, ask: \"What unique 'data exhaust' is our product creating?\" Think about the proprietary insights generated by how users interact with your product. That data isn't just for dashboards; it could be the raw material for your most defensible AI feature in two years.\n\n---\n\n### 💼 PMM/PM JOBS PULSE\n\nNo job listings were included in today's data feed.\n\nThis is unusual and likely a blip in the data collection. We'll see if the feed picks back up tomorrow.\n\n---\n\n### 💸 GTM FUNDING & MARKET MOVES\n\n**Satlyt — $8M Seed Round**\n- **What they do:** An open software platform to run AI on satellites—think Android for orbital computing. [S19]\n- **GTM motion:** Vertical SaaS, highly sales-led targeting a small number of massive enterprise and government accounts.\n- **What this signals:** The appetite for \"picks and shovels\" in deep tech is strong. Investors are funding the infrastructure layer for massive, complex industries like space tech.\n- **PMM implication:** Your entire GTM strategy is about establishing credibility with a handful of hyper-technical buyers. Forget SEO; it's all about whitepapers, conference presentations, and case studies.\n- **PM implication:** You're building a platform, not just a product. Your key differentiator is interoperability and performance on a wide range of third-party hardware you don't control.\n\n**Bumble — $1.3B acquisition**\n- **What they do:** The dating app where women make the first move. [S27]\n- **GTM motion:** B2C Freemium, driven by brand marketing and subscriptions.\n- **What this signals:** The first wave of dating apps is over. The market is consolidating, and the focus is shifting from user growth to monetization and finding value in established user bases.\n- **PMM implication:** In a mature market, your job shifts from acquisition to retention and expansion revenue. You're launching features for existing power users, not just to lower your CPI.\n- **PM implication:** Product work becomes about optimizing the conversion funnel and increasing LTV, not just top-of-funnel virality.\n\n**Character.AI — Bankruptcy**\n- **What they do:** A platform for creating and chatting with AI characters. [S41]\n- **GTM motion:** B2C Product-Led Growth. Went viral, got tons of users.\n- **What this signals:** Engagement is not a business model. In a high-burn, capital-intensive category like AI, you can't \"figure out monetization later.\" The market has zero patience for that right now.\n- **PMM implication:** If you don't have a slide in your GTM deck titled \"How We Make Money,\" you don't have a strategy.\n- **PM implication:** The question \"who would pay for this and why?\" needs to be asked at the concept stage, not six months after launch.\n\n---\n\n### 🔧 TOOL DROP FOR PMMS & PMS\n\n**Toby — Mock interviews with an AI hiring manager.**\n- **One-line description:** A tool that lets you practice for job interviews by talking to a realistic AI persona that gives you instant feedback. [S9][S71]\n- **Category:** Career Development\n- **Best for:** Both\n- **Free tier:** Not specified, but these tools usually have a \"3 free interviews\" type of model.\n- **Honest take:** Genuinely useful application of AI. It solves the real problem of not being able to get enough high-quality practice reps in before a big interview.\n- **Who should try it this week:** Anyone with an interview coming up, or anyone who just wants to stay sharp and see how they sound answering \"tell me about a time you...\"\n\n---\n\n### ⚡ SPEED ROUND\n\n- 🍎 Apple's new $299 HomeView display requires a separate $59 wall mount. The Apple tax is alive and well. [S22]\n- 🤖 Google's new Gemini 4 Argon model claims to be less repetitive and cliché, which would make it the Shakespeare of LLMs. [S21]\n- 💔 Bumble's $1.3B acquisition signals the end of the honeymoon phase for dating apps. [S27]\n- 👻 Character.AI's bankruptcy proves that even with millions of users, you can still become a ghost in the machine. [S41]\n- 🛰️ A startup building \"Android for satellites\" just raised $8M. The TAM is literally out of this world. [S19]\n- 🗣️ You no longer have to say \"...on Spotify\" when asking Siri to play music. A small win for humanity. [S26]\n- 🧟 Your dead startup's Slack history could be sold to train an AI model. A new, weird form of corporate afterlife. [S52]\n- 💳 Amex is working on a way to keep your AI personal shopper from drunkenly ordering a llama on your credit card. [S37]\n- 👍 Facebook now lets you explicitly tell its algorithm what you're interested in, moving from mind-reading to just... reading. [S1]\n- 🤝 Apple is co-developing its new smart home hardware with LG and Schneider Electric, proving even giants need friends. [S20]\n\n---\n\n### 🎮 15-MINUTE PMM/PM CHALLENGE\n\n**Challenge: Map a Competitor's Ecosystem in 15 Minutes**\n**Role focus:** PMM\n\n**The setup:** Apple didn't launch a product today; they launched an ecosystem with key partners. This is how platforms win. Your job is to quickly visualize a competitor's ecosystem (e.g., Amazon Alexa, Google Home) to understand their strategy.\n\n**What to do:**\nStep 1: Open Miro or FigJam. In the center, put the core competitor product (e.g., \"Amazon Echo / Alexa\").\nStep 2: Create primary branches for 5 key smart home categories: Security, Lighting, Climate, Kitchen, Entertainment.\nStep 3: Spend 10 minutes on the competitor's \"Works With\" page or partner directory. Under each category branch, add the logos of the top 3-4 partner brands you see. Make a special note of which ones are first-party brands owned by the competitor (e.g., Ring, Blink for Amazon).\n\n**The exact prompt or template:**\nThis is a visual mapping exercise, not an AI prompt. The goal is a mind map that shows strategic depth at a glance.\n\n**What good looks like vs. mediocre:**\n- **Good:** A mind map that visually communicates the competitor's areas of strength (e.g., \"Wow, they have a ton of security partners\") and their mix of first-party vs. third-party plays. It's a strategic snapshot.\n- **Mediocre:** A flat list of partner names in a document. It has the data but provides zero insight.\n\n**Why this skill matters in the next 6 months:** Your competition is no longer a single product; it's an entire ecosystem. Being able to quickly visualize and analyze these networks is becoming a core skill for competitive strategy.\n\n---\n\n### 🧠 EDGE INSIGHT\n\nToday's signals aren't about AI features; they're about AI *environments*. Look at the pattern: Apple isn't launching a better speaker; it's launching HomeView as the central node for an ambient computing environment in the home. Google isn't just launching a code helper; it's creating a private channel on the Play Store for your personal AI creations to live and run. Amex is already building the financial plumbing for a world where our software agents act autonomously on our behalf.\n\nThis is the bigger game. While companies that treated AI as a feature-level novelty (Character.AI) are going bankrupt, the platform players are quietly building the worlds our AIs will inhabit. The most valuable commodity in this new world is unique, human-context data—so valuable that labs are now buying the digital ghosts of dead startups to get it. The next frontier isn't a better chatbot. It's the race to build the most compelling, integrated environment for our agents to operate within, with your product at the center.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Facebook will let you customize your feed algorithm using AI",
+      "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
+      "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 3,
+      "title": "Training Expectations - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/training-expectations-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "source": "Teresa Torres"
+    },
+    {
+      "id": 4,
+      "title": "How to tell if a startup has a moat",
+      "url": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 5,
+      "title": "GotEmail",
+      "url": "https://www.producthunt.com/products/gotemail",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 6,
+      "title": "The Drive AI",
+      "url": "https://www.producthunt.com/products/the-drive-ai-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 7,
+      "title": "Fluency Coaching: Turn Sales Practice into Proof Your Sellers Are Ready",
+      "url": "https://corporatevisions.com/blog/fluency-coaching/",
+      "source": "Corporate Visions"
+    },
+    {
+      "id": 8,
+      "title": "OpenFlowKit 2",
+      "url": "https://www.producthunt.com/products/openflowkit",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 9,
+      "title": "Toby",
+      "url": "https://www.producthunt.com/products/toby-5",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 10,
+      "title": "HarnessHive",
+      "url": "https://www.producthunt.com/products/harnesshive",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 11,
+      "title": "AdHelm CLI",
+      "url": "https://www.producthunt.com/products/adhelm-cli",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 12,
+      "title": "OpenCode 2.0",
+      "url": "https://www.producthunt.com/products/opencode",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 13,
+      "title": "vibesmonitor.com",
+      "url": "https://www.producthunt.com/products/vibesmonitor",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 14,
+      "title": "Google Play now supports private, vibe-coded apps built just for you",
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 15,
+      "title": "Google makes it easier to launch your vibe-coded apps",
+      "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+      "source": "The Verge"
+    },
+    {
+      "id": 16,
+      "title": "A redesigned Play Store is coming to cars with Google built-in",
+      "url": "https://www.theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store",
+      "source": "The Verge"
+    },
+    {
+      "id": 17,
+      "title": "I tried out Apple&#8217;s HomeView smart display",
+      "url": "https://www.theverge.com/tech/1009877/apple-homeview-smart-home-display-hands-on",
+      "source": "The Verge"
+    },
+    {
+      "id": 18,
+      "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+      "source": "The Verge"
+    },
+    {
+      "id": 19,
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 20,
+      "title": "Hands-on with the Apple Home Collection",
+      "url": "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on",
+      "source": "The Verge"
+    },
+    {
+      "id": 21,
+      "title": "Google finally releases Gemini 4 Argon",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "source": "The Verge"
+    },
+    {
+      "id": 22,
+      "title": "Buying Apple’s wall-mounted HomeView? The mount costs extra",
+      "url": "https://www.theverge.com/tech/1010164/apple-homeview-wall-mounted-sold-separately",
+      "source": "The Verge"
+    },
+    {
+      "id": 23,
+      "title": "Apple’s HomeView display is now available to preorder",
+      "url": "https://www.theverge.com/gadgets/1010054/apple-homeview-display-preorder-buy",
+      "source": "The Verge"
+    },
+    {
+      "id": 24,
+      "title": "Here are all the new HomePod Mini 2 colors",
+      "url": "https://www.theverge.com/tech/1009935/apple-homepod-mini-2-hands-on",
+      "source": "The Verge"
+    },
+    {
+      "id": 25,
+      "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+      "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 26,
+      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
+      "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 27,
+      "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
+      "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 28,
+      "title": "TechCrunch Disrupt 2026: Day 1",
+      "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 29,
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 30,
+      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
+      "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 31,
+      "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
+      "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 32,
+      "title": "The ‘Godzilla Minus Zero’ Filmmakers Terrified Bystanders With Their Monster Sounds",
+      "url": "https://www.wired.com/story/new-york-comic-con-panel/",
+      "source": "Wired"
+    },
+    {
+      "id": 33,
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 34,
+      "title": "India delays digital payments fee rollout amid retailer pushback",
+      "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 35,
+      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+      "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 36,
+      "title": "Apple makes another push into the smart home market with HomeView",
+      "url": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 37,
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 38,
+      "title": "The Apple HomeView Is Like a Giant Apple Watch for the Home",
+      "url": "https://www.wired.com/story/apple-homeview-smart-display/",
+      "source": "Wired"
+    },
+    {
+      "id": 39,
+      "title": "Apple Reboots Its Smart-Home Strategy With New Hardware and a ‘Home Collection’",
+      "url": "https://www.wired.com/story/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/",
+      "source": "Wired"
+    },
+    {
+      "id": 40,
+      "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
+      "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 41,
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 43,
+      "title": "40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026)",
+      "url": "https://www.wired.com/gallery/best-gifts-under-100/",
+      "source": "Wired"
+    },
+    {
+      "id": 44,
+      "title": "30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés",
+      "url": "https://www.wired.com/gallery/best-tech-books-to-gift/",
+      "source": "Wired"
+    },
+    {
+      "id": 45,
+      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+      "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "source": "Wired"
+    },
+    {
+      "id": 46,
+      "title": "Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/",
+      "source": "Wired"
+    },
+    {
+      "id": 47,
+      "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+      "source": "Wired"
+    },
+    {
+      "id": 48,
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 49,
+      "title": "What’s the Best Kindle of 2026 (So Far)?",
+      "url": "https://www.wired.com/gallery/best-kindle/",
+      "source": "Wired"
+    },
+    {
+      "id": 50,
+      "title": "6 Best Coffee Grinders Based on Particle Analysis and Tasting (2026)",
+      "url": "https://www.wired.com/gallery/best-coffee-grinders-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 51,
+      "title": "What Flock Actually Costs Cities Across the Country",
+      "url": "https://www.wired.com/story/how-much-does-flock-actually-cost-cities/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 53,
+      "title": "Wayfair Coupons: Up to 80% Off October 2026",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
+      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Google Workspace Promo Codes: 14% Off for October 2026",
+      "url": "https://www.wired.com/story/google-workspace-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Nike Promo Codes and Discounts: 30% for October 2026",
+      "url": "https://www.wired.com/story/nike-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 57,
+      "title": "Booking.com Promo Codes: 20% Off | October 2026",
+      "url": "https://www.wired.com/story/booking-com-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 58,
+      "title": "B&H Photo Promo Codes and Deals This October 2026",
+      "url": "https://www.wired.com/story/bh-photo-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 59,
+      "title": "Lego Promo Code | 20% Off October 2026",
+      "url": "https://www.wired.com/story/lego-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 60,
+      "title": "Newegg Promo Codes and Coupons for October 2026",
+      "url": "https://www.wired.com/story/newegg-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 61,
+      "title": "Squarespace Promo Codes: 20% Off in October 2026",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 62,
+      "title": "ExpressVPN Coupons: 80% Off",
+      "url": "https://www.wired.com/story/expressvpn-coupons/",
+      "source": "Wired"
+    },
+    {
+      "id": 63,
+      "title": "20% Off Samsung Promo Code | October 2026",
+      "url": "https://www.wired.com/story/samsung-promo-codes/",
+      "source": "Wired"
+    },
+    {
+      "id": 64,
+      "title": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine",
+      "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
+      "source": "Wired"
+    },
+    {
+      "id": 65,
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 66,
+      "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+      "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+      "source": "Wired"
+    },
+    {
+      "id": 67,
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 68,
+      "title": "HarnessHive",
+      "url": "https://www.producthunt.com/products/harnesshive",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 69,
+      "title": "GotEmail",
+      "url": "https://www.producthunt.com/products/gotemail",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 70,
+      "title": "OpenCode 2.0",
+      "url": "https://www.producthunt.com/products/opencode",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 71,
+      "title": "Toby",
+      "url": "https://www.producthunt.com/products/toby-5",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 72,
+      "title": "The Drive AI",
+      "url": "https://www.producthunt.com/products/the-drive-ai-2",
+      "source": "Product Hunt"
+    }
+  ]
+}
