@@ -1,0 +1,369 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T19:01:15.271587+00:00",
+  "raw_text": "Here's your daily dose of everything that matters, delivered straight to your inbox (or brain, whatever). It's Tuesday, October 13, 2026, and the world is, as usual, a chaotic masterpiece.\n\n**Money Talk**\n\n-   **Meta's AI models give stock a boost.**\n    Shares in Meta are up for a second straight day, seemingly fueled by investor enthusiasm for their new family of AI models. Looks like Zuckerberg's AI gamble might actually be paying off. [S1]\n-   **Walmart steps up employee benefits, covering GLP-1s.**\n    The retail giant is now covering the cost of popular weight-loss/diabetes drugs like Ozempic and Mounjaro, plus inhalers and insulin, for eligible employees. Big move for healthcare access in corporate America – watch for others to follow. [S3]\n-   **JPMorgan Chase slams the door on rogue AI agents.**\n    CEO Jamie Dimon is taking no chances, blocking outside AI access to accounts and warning about large-scale \"rogue agents.\" Guess they're not letting Skynet handle your savings. [S4]\n-   **Dating app Bumble acquired for $1.3 billion.**\n    The \"women-first\" (now just \"women-had-first-dibs\") dating app was bought by an investment firm, who apparently sees a future in human connection, even if it's algorithmically mediated. [S6]\n-   **UK's Poundland in rescue talks amidst administration fears.**\n    Northern Irish firm Martin Property Group is in talks to save the discount retailer, with the management team attempting a buyout. Meanwhile, unions are reportedly bracing for the worst – tough times for bargain hunters. [S7][S10]\n\n**World Lore**\n\n-   **Trump and Netanyahu reportedly weighed pre-election strike on Iran.**\n    Sources indicate a major new operation against Iran was discussed between the two leaders before upcoming Israeli and U.S. elections. Talk about an October surprise that would make your head spin. [S16]\n-   **Trump's Russian diesel deal sparks international fury.**\n    President Trump's decision to lift sanctions for increased diesel supplies from Russia is being called a \"betrayal of Ukraine\" by a bipartisan Senate coalition and has angered European allies. Zelenskyy is apparently questioning motives. What could possibly go wrong? [S18][S24]\n-   **UK warns Iran seeking 'harder targets' abroad.**\n    Britain's domestic security agency head issued a stark warning following an attempted plot at a UK air force base hosting US bombers, which PM Burnham says was \"almost certainly\" coordinated by Tehran. Tensions are *not* easing. [S33]\n-   **Pakistan declares emergency rule in former PM Khan's stronghold.**\n    The province governed by Imran Khan's party is now under emergency rule, a move that could further strain already tense relations with Afghanistan. Just what the region needed. [S23][S34]\n-   **Argentina pushes Interpol for Falklands oil arrests, UK resists.**\n    Britain is appealing to Interpol to reject Javier Milei's government's \"politically motivated\" requests for the arrest of individuals linked to an oil project off the Falkland Islands. Never a dull moment over those islands, eh? [S12]\n\n**Tech Tea**\n\n-   **AI infrastructure exposure up 63%, new security risks abound.**\n    The AI boom isn't just about cool new models; it's creating a massive, exposed software layer. Censys data shows a huge jump in AI-related infrastructure accessible online, meaning more attack surfaces for bad actors. Time to patch up! [S19]\n-   **Google's Gemini 4 Argon steps into the robotics arena.**\n    Google's pushing its advanced AI into robotics with Gemini 4 Argon. Expect your future robot overlords to be smarter, faster, and probably more efficient at their tasks. [S39]\n-   **Cyberattack halts major Denmark-Germany tunnel construction.**\n    A significant infrastructure project has been derailed by a cyberattack. This isn't just about data breaches anymore; it's about physical world disruption, reminding us digital vulnerabilities have real-world consequences. [S40]\n-   **Xbox leans into chaotic AI-powered retro game ports.**\n    Microsoft is embracing the wild west of retro gaming, where AI is used to port classic titles to new devices or even merge different games. Skateboarding in Call of Duty? Why not. [S46]\n-   **Apple reboots smart-home strategy with new hardware.**\n    Apple is making its biggest smart home push in years, introducing new hardware like the \"HomeView,\" which looks like a giant Apple Watch for your house. Expect more seamless (and expensive) integration. [S53][S54]\n\n**Creator Szn**\n\n-   **Sabrina Carpenter clip nets 22-year-old £120,000 annually.**\n    Turns out, being a \"clipper\" — someone who makes short, vertical social media videos — can be seriously lucrative, proving that sometimes, less is more (if it's the right clip). [S8]\n-   **Publicis targets AI-anxious CEOs directly, bypassing CMOs.**\n    Ad agency giant Publicis is reportedly skipping traditional CMO pitches and going straight to the top, selling their AI solutions directly to CEOs fretting about the future. Smart move, or desperate? [S57]\n-   **CNN All Access expands globally for subscriber growth.**\n    CNN is taking its subscription service to the UK and Canada, trying to convert its international reach into hard cash. Everyone wants a piece of that recurring revenue pie. [S58]\n-   **Creator economy splits into two distinct tiers.**\n    The landscape is bifurcating: mega-creators like MrBeast are becoming agencies themselves, while micro-creators are increasingly treated like media buys by brands. The hustle just got a whole lot more complex. [S60]\n\n**Speed Round**\n\n-   Meta's new AI models are sending its stock soaring, making investors happy.\n-   JPMorgan is taking a hardline stance against third-party AI agents, citing \"rogue\" risks.\n-   Bumble sold for a cool $1.3 billion, an investment firm's \"bet on the future of humanity.\"\n-   Elon Musk dropped $366 million on the US midterms, mainly backing right-wing causes.\n-   Trump's Russian diesel deal has Europe and a bipartisan Senate coalition seeing red.\n-   A cyberattack managed to halt construction on a major tunnel between Denmark and Germany.\n-   Xbox is now openly embracing the wild west of AI-powered game ports and mods.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Meta shares rise for a second straight day as new AI model family impresses",
+      "url": "https://www.cnbc.com/investingclub/2026/10/13/meta-shares-rise-for-a-second-straight-day-as-new-ai-model-family-impresses.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 2,
+      "title": "Social Security cost-of-living adjustment for 2027 may be above average. Some say it's not enough",
+      "url": "https://www.cnbc.com/2026/10/13/social-security-cola-2027.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 3,
+      "title": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
+      "url": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 4,
+      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 5,
+      "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
+      "url": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 6,
+      "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 7,
+      "title": "NI company in talks to save Poundland from administration",
+      "url": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 8,
+      "title": "The Sabrina Carpenter clip which helped a 22-year-old make £120,000 a year",
+      "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 9,
+      "title": "Car finance compensation payments delayed until next year",
+      "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 10,
+      "title": "Poundland in rescue talks as owners seek buyer",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 11,
+      "title": "UK high street bosses urge chancellor to cut cost of employing young people",
+      "url": "https://www.theguardian.com/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 12,
+      "title": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 13,
+      "title": "The Guardian view on Burnham’s Brexit reset: overdue, but proceed with care | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/the-guardian-view-on-burnhams-brexit-reset-an-overdue-show-of-ambition",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 14,
+      "title": "Elon Musk becomes biggest donor of US midterms cycle with $366m spent",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 15,
+      "title": "The Conservatives’ ‘better tomorrow’ only includes rich people | Letters",
+      "url": "https://www.theguardian.com/politics/2026/oct/13/the-conservatives-better-tomorrow-only-includes-rich-people",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 16,
+      "title": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait",
+      "url": "https://www.axios.com/2026/10/13/netanyahu-trump-iran-war-elections",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Hegseth wants a livestream execution. Here's how firing squads work",
+      "url": "https://www.axios.com/2026/10/13/execution-nidal-hasan-firing-squad-hegseth-stream",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Russian diesel deal \"a betrayal,\" bipartisan coalition says",
+      "url": "https://www.axios.com/2026/10/13/trump-russian-diesel-deal-betrayal-bipartisan-letter",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Companies are building with AI — and exposing new security risks",
+      "url": "https://www.axios.com/2026/10/13/censys-ai-vibe-coding-exposures",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "White House pushes out Kimberly Guilfoyle after misconduct reports",
+      "url": "https://www.axios.com/2026/10/13/kimberly-guilfoyle-greece-ambassador-resigns-trump",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Zelenskyy tells NPR Ukraine wants peace but will hit Russia until it follows ceasefire",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 22,
+      "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+      "url": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 23,
+      "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 24,
+      "title": "Trump's diesel deal with Putin angers Europe",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5998764/trumps-diesel-deal-with-putin-angers-europe",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 25,
+      "title": "How NATO plans to combat potential attacks on the alliance from Russia",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5998721/how-nato-plans-to-combat-potential-attacks-on-the-alliance-from-russia",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 26,
+      "title": "Mapping Global Impunity",
+      "url": "https://foreignpolicy.com/2026/10/13/global-impunity-atlas-press-freedom-map/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "How JFK Helped Pave the Way for Trump’s Crackdown on Dissent",
+      "url": "https://foreignpolicy.com/2026/10/13/trump-crackdown-dissent-history-jfk-william-worthy/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "Congress Can Do More to Curb Kushner’s Conflicts of Interest",
+      "url": "https://foreignpolicy.com/2026/10/12/congress-kushner-corruption-saudi-israel-russia/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "Messi on Their Mind, Argentines Still Hold Maradona in Their Hearts",
+      "url": "https://foreignpolicy.com/2026/10/12/messi-maradona-argentina-world-cup-soccer-football/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "Can Brussels Budget Like a Superpower?",
+      "url": "https://foreignpolicy.com/2026/10/12/eu-financial-framework-budget-russia-trump/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
+      "url": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 32,
+      "title": "Ukraine and the US: What's next after Trump’s diesel deal with Russia?",
+      "url": "https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 33,
+      "title": "Iran seeking 'harder targets' for attacks abroad, UK warns",
+      "url": "https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 34,
+      "title": "How will emergency rule in Pakistan's northwest affect Afghan ties?",
+      "url": "https://www.dw.com/en/how-will-emergency-rule-in-pakistan-s-northwest-affect-afghan-ties/a-79654262?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 35,
+      "title": "Saudi Arabia's military struggle against Houthi attacks",
+      "url": "https://www.dw.com/en/saudi-arabia-s-military-struggle-against-houthi-attacks/a-79650857?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 36,
+      "title": "Show HN: XY Music Notation",
+      "url": "https://music.xy.dev/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 37,
+      "title": "Coris (YC S22) Is Hiring Back End Engineer",
+      "url": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 38,
+      "title": "Show HN: How Random Are You?",
+      "url": "https://lab.specr.net/rigged-draw/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 39,
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 40,
+      "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
+      "url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 41,
+      "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
+      "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field",
+      "url": "https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "The Nothing Headphone A are half off for the first time",
+      "url": "https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Russian bot farms are still trolling, even after Ukraine&#8217;s drone strikes on Yandex",
+      "url": "https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "Rivian spinoff Mind Robotics hires Doug Field as president",
+      "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+      "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "The 9 Best Movies to Stream This Month (October 2026)",
+      "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "source": "WIRED"
+    },
+    {
+      "id": 52,
+      "title": "The ‘Godzilla Minus Zero’ Filmmakers Terrified Bystanders With Their Monster Sounds",
+      "url": "https://www.wired.com/story/new-york-comic-con-panel/",
+      "source": "WIRED"
+    },
+    {
+      "id": 53,
+      "title": "The Apple HomeView Is Like a Giant Apple Watch for the Home",
+      "url": "https://www.wired.com/story/apple-homeview-smart-display/",
+      "source": "WIRED"
+    },
+    {
+      "id": 54,
+      "title": "Apple Reboots Its Smart-Home Strategy With New Hardware and a ‘Home Collection’",
+      "url": "https://www.wired.com/story/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/",
+      "source": "WIRED"
+    },
+    {
+      "id": 55,
+      "title": "40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026)",
+      "url": "https://www.wired.com/gallery/best-gifts-under-100/",
+      "source": "WIRED"
+    },
+    {
+      "id": 56,
+      "title": "Amazon News, Politico and Warner Bros. Discovery are finalists for the 2026 Digiday Awards finalists",
+      "url": "https://digiday.com/announcement/awards/amazon-news-politico-and-warner-bros-discovery-are-finalists-for-the-2026-digiday-awards-finalists/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "Publicis is selling directly to AI-anxious CEOs as it steps away from traditional pitches",
+      "url": "https://digiday.com/media-buying/publicis-is-selling-directly-to-ai-anxious-ceos-as-it-steps-away-from-traditional-pitches/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "CNN takes All Access abroad to turn global reach into paying subscribers",
+      "url": "https://digiday.com/media/cnn-takes-all-access-abroad-to-turn-global-reach-into-paying-subscribers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "Ad Tech Briefing: Zeta goes big as Apple casts a shadow over Advertising Week",
+      "url": "https://digiday.com/media-buying/ad-tech-briefing-zeta-goes-big-as-apple-casts-a-shadow-over-advertising-week/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "Media buys and mega partnerships: How the creator economy is splitting in two",
+      "url": "https://digiday.com/podcasts/media-buys-and-mega-partnerships-how-the-creator-economy-is-splitting-in-two/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    }
+  ]
+}
