@@ -1,0 +1,357 @@
+{
+  "feed": "ai",
+  "feed_name": "AI Insider",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T15:44:13.160116+00:00",
+  "raw_text": "Here is your AI digest for Wednesday, October 14, 2026.\n\n---\n\n**🔥 THE BIG STORY**\n\nThe era of one-shot AI tasks is over. The new frontier is persistence. A new showcase reveals AI systems running 10,000 autonomous agents simultaneously for over 36 hours, using models like GPT-6 Astra and GPT-6.1 Sol to tackle complex cybersecurity challenges. This isn't about asking a chatbot a question; it's about deploying armies of AI agents that can work tirelessly on a problem for days, learning and adapting as they go. The implication most will miss is that the competitive moat is shifting from model performance to operational excellence — the ability to reliably deploy, monitor, and orchestrate thousands of agents at scale will define the next winners in enterprise AI. [S16]\n\n---\n\n**🛠️ TOOL DROPS & UPDATES**\n\n*   **Google DeepMind unveils Gemini 4 Argon, its next-gen flagship model.**\n    This new model is being positioned as the engine for solving the \"hardest problems,\" with specific applications already being developed for advanced robotics. [S36][S37]\n*   **Google and Singapore government deploy on-device scam detection.**\n    Using lightweight Gemma models, this collaboration can intercept conversational scams in private chats without user data ever leaving the device for the cloud. Who cares? It's a huge win for privacy-first AI that solves a real, expensive problem. [S17]\n*   **Meta ships Muse Wonder, a model built for agentic tasks.**\n    Early analysis suggests the new model shows promise for powering autonomous agents but falls short on creative or design-oriented tasks. [S9]\n*   **Google Play opens the door to private, AI-generated apps.**\n    Android users can now build and deploy personal apps without listing them on the public Play Store, creating a sandbox for bespoke, AI-coded utilities. [S34]\n*   **Facebook rolls out \"Your Algorithm\" controls.**\n    Following its launch on Instagram, Meta is now giving Facebook users more direct influence over the content they see in their feeds. [S30]\n*   **Deezer will let you silence AI-generated music.**\n    The music streaming service is adding a toggle by year-end to allow users to filter out purely AI-created tracks, a nod to the growing debate over human vs. machine artistry. [S2]\n\n---\n\n**🎯 USE CASE SPOTLIGHT — BY ROLE**\n\n*   **📣 Product Marketer**\n    Use a tool like Floqer to deploy AI agents that automatically research sales prospects, delivering deep-dive briefings on their needs and business context before your first outreach. [S5]\n*   **📋 Product Manager**\n    Adopt the \"scaffolding\" mindset for AI features; focus less on tweaking the model and more on building robust software engineering structures around it to ensure your AI applications can evolve and be maintained over time. [S12]\n*   **🎨 Designer (UI/UX)**\n    When using new generative models like Meta's Muse Wonder for ideation, be skeptical of their design taste. The model may be powerful for agentic logic but currently lacks the aesthetic refinement needed for production-quality design work. [S9]\n*   **📸 Photographer**\n    Today's data contains no new tools or capabilities directly applicable to photographers.\n*   **🎬 Videographer & Filmmaker**\n    Today's data contains no new tools or capabilities directly applicable to videographers and filmmakers.\n*   **📱 App Developer**\n    Leverage Google Play's new support for private apps to quickly build and test AI-generated personal utilities on Android without the friction of a public App Store review process. [S34]\n\n---\n\n**🔬 FROM THE LABS**\n\n**Federated learning just got smarter with feature voting.**\nResearchers have developed a new method called \"Voting on Features\" that allows distributed parties, like hospitals or banks, to collaboratively identify the most important data features for a model without ever sharing the underlying sensitive data. Instead of sharing data rows, they share \"votes\" on which features are most predictive. This technique, runnable in frameworks like NVIDIA FLARE, beats methods that train on siloed data and approaches the performance of training on a centralized dataset. For products in the next 6-12 months, this unlocks privacy-preserving AI in regulated industries, allowing companies to build more powerful models without compromising user data. [S8]\n\n---\n\n**💸 MONEY & MOVES**\n\n*   **Zenzap raises $44M for an AI-powered workplace chat app.**\n    The funding targets replacing WhatsApp for internal business communication at large enterprises like Starbucks and Taco Bell. This signals that investors see a massive opportunity in building specialized, AI-native communication tools for the enterprise. [S4]\n*   **Pluto Security lands $42M to secure enterprise AI.**\n    As companies give employees broad access to AI, security vulnerabilities are exploding. This funding signals that securing the AI layer of the enterprise stack is becoming a critical, well-funded category. [S32]\n*   **Scimplify scores $25M to apply AI to the critical materials supply chain.**\n    The company aims to challenge China's dominance by using AI to optimize the manufacturing and procurement of specialty chemicals. This signals a strategic investor focus on using AI to de-risk and re-shore critical global supply chains. [S10]\n*   **Satlyt gets $8M to build the \"Android for satellites.\"**\n    The startup is building an open software platform to run AI on orbital hardware from various manufacturers. This signals that the \"AI at the edge\" trend is literally extending to outer space. [S35]\n\n---\n\n**🤖 OPEN SOURCE WATCH**\n\n*   **NousResearch/hermes-agent (253.7k stars)**\n    An open-source agent designed to improve and grow with user interaction. Developers building personalized or adaptive AI assistants should be watching this closely. [S39]\n*   **firecrawl/firecrawl (191.5k stars)**\n    A library for turning any website into clean, structured data for RAG and agentic workflows. It's a critical piece of infrastructure for any team building agents that need to interact with the live web. [S40]\n*   **Significant-Gravitas/AutoGPT (187.6k stars)**\n    One of the original autonomous agent projects, it continues to evolve with a vision of making agentic AI accessible to everyone. It remains a foundational repo for anyone experimenting with agent architectures. [S41]\n\n---\n\n**🗣️ HACKER NEWS PULSE**\n\n*   **Show HN: Parsimony – an open-source benchmark for how much code AI models add**\n    The thread vibe is appreciative and technical, with users digging into the methodology for measuring code \"bloat\" from AI code generators. The sharpest take: AI might be great at generating boilerplate, but this benchmark reveals the hidden cost of verbosity and maintenance that developers will have to pay later. [S44]\n*   **Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop**\n    The vibe is niche but positive, focusing on the efficiency gains from not using a full LLM for every step of the web crawling process. The sharpest take: \"Smart\" crawling for agents doesn't mean putting an LLM everywhere; it means using cheaper, faster methods for data extraction and saving the expensive model for the actual reasoning. [S45]\n*   **I just got our entire company's Claude Enterprise account suspended**\n    The thread vibe is a mix of sympathy and cautionary alarm about the fragility of relying on a single AI provider. The sharpest take: This is a stark reminder that API access is a privilege, not a right, and building provider-agnostic workflows is no longer optional for businesses building on AI. [S46]\n\n---\n\n**⚡ SPEED ROUND**\n\n- Cerebras CEO predicts personal AI assistants will soon be as common as a microwave in every home. [S21]\n- A new Harvard study suggests men are significantly more likely than women to pretend they understand fictional AI concepts. [S13]\n- An OpenAI employee was accused of using a chatbot to get instructions on how to plant a listening device in an executive meeting room. [S19]\n- Apple's trade secrets lawsuit against former employees now at OpenAI gets a boost as a judge orders OpenAI to turn over hiring records. [S25]\n- Max Hodak's Science Corp has successfully implanted its vision-restoring chip in its first patient with Stargardt disease. [S20]\n- A new report warns that AI models can be easily jailbroken to provide detailed instructions for terrorist and extremist activities. [S14]\n- AI startup Flox Intelligence is using computer vision and targeted sounds to keep wildlife away from trains, airports, and roads. [S28]\n- Meta is reportedly giving its new agentic model, Muse Wonder, high marks for agentic capabilities but poor grades for design. [S9]\n\n---\n\n**🎮 TODAY'S DAILY CHALLENGE — TRY THIS IN 15 MINUTES**\n\nToday's news is buzzing with AI agents that can interact with the world. Let's try a core component of that: turning messy web data into clean input for an AI. We'll use a tool featured in today's Open Source Watch.\n\n*   **Tool:** Firecrawl (via its free API playground at https://firecrawl.dev/)\n*   **Workflow:**\n    1.  Go to the Firecrawl website and find a complex, content-heavy webpage to scrape. A news article, a long blog post, or a product page works well. (e.g., any article from `techcrunch.com`).\n    2.  In the Firecrawl playground, paste the URL into the \"Crawl a single URL\" box and hit \"Crawl\".\n    3.  Copy the clean \"Markdown\" output it generates.\n    4.  Paste this clean markdown into your chatbot of choice (ChatGPT, Claude, Gemini, etc.) with the prompt: `Based on the following text, write a 3-bullet summary for a busy executive and identify the three most important entities (people, companies, or products) mentioned.`\n*   **What to look for:** Notice how Firecrawl strips out all the ads, navigation, and junk, leaving only the core content in a clean format. This is the essential first step for any reliable RAG or agentic system.\n*   **Why this matters right now:** The performance of advanced agents depends entirely on the quality of the data they can access. Tools like Firecrawl are the unglamorous but critical infrastructure that makes sophisticated, web-aware AI possible.\n\n---\n\n**🧠 EDGE INSIGHT**\n\nThe dominant narrative is that AI is becoming more powerful by centralizing in massive, frontier models. But today's data reveals a powerful counter-current: the real action is in decentralization and specialization at the edge. Google isn't just building Gemini 4 Argon; it's deploying small Gemma models on-device in Singapore to fight scams [S17]. A startup just got funded to run AI directly on satellites, explicitly avoiding the cloud [S35].\n\nThis isn't about running a smaller ChatGPT on your phone. It's about a fundamental shift toward deploying purpose-built, computationally efficient agents that live where the data is generated. The next 90 days will see a quiet explosion of these edge agents solving specific, high-value problems in privacy (on-device fraud), latency (on-satellite data processing), and reliability (on-robot navigation). The smartest teams aren't just asking \"how do we use the best API?\" — they're asking \"where does this AI model actually need to live to do its job?\"",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Does Stacking Beat Your Best Model?",
+      "url": "https://towardsdatascience.com/does-stacking-beat-your-best-model/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 2,
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 3,
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last two days in San Francisco’s Moscone West",
+      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 4,
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 5,
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 6,
+      "title": "TechCrunch Disrupt 2026: Day 2",
+      "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 7,
+      "title": "How Do Word Embeddings Capture Relationships Between Words?",
+      "url": "https://towardsdatascience.com/how-do-word-embeddings-capture-relationships-between-words/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 8,
+      "title": "Voting on Features: Federated Feature Selection Without Sharing Data",
+      "url": "https://towardsdatascience.com/voting-on-features-federated-feature-selection-without-sharing-data/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 9,
+      "title": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
+      "url": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 10,
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 11,
+      "title": "My Friend Has No Soul",
+      "url": "https://www.wired.com/story/my-friend-has-no-soul/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 12,
+      "title": "A Scaffold at the Gate: Building AI Applications That Can Evolve",
+      "url": "https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 13,
+      "title": "Men Can’t Stop Faking How Much They Know About AI",
+      "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 14,
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 15,
+      "title": "OpenAI finds a bug in its boardroom",
+      "url": "https://www.therundown.ai/articles/openai-finds-a-bug-in-its-boardroom",
+      "source": "The Rundown AI"
+    },
+    {
+      "id": 16,
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI Blog"
+    },
+    {
+      "id": 17,
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind"
+    },
+    {
+      "id": 18,
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI Blog"
+    },
+    {
+      "id": 19,
+      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+      "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 20,
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 21,
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 22,
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 23,
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 24,
+      "title": "The Continual Constitutional Convention: How language models revise the documents that govern them",
+      "url": "https://www.alignmentforum.org/posts/c9woewdY9ddsPqf3J/the-continual-constitutional-convention-how-language-models",
+      "source": "AI Alignment Forum"
+    },
+    {
+      "id": 25,
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 26,
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "source": "Google DeepMind"
+    },
+    {
+      "id": 27,
+      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 28,
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 29,
+      "title": "Your Agent Doesn't Need More Freedom",
+      "url": "https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 30,
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 31,
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 32,
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 33,
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": 34,
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 35,
+      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 36,
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "source": "Google DeepMind"
+    },
+    {
+      "id": 37,
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "source": "Google DeepMind"
+    },
+    {
+      "id": 38,
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI Blog"
+    },
+    {
+      "id": 39,
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub"
+    },
+    {
+      "id": 40,
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub"
+    },
+    {
+      "id": 41,
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub"
+    },
+    {
+      "id": 42,
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub"
+    },
+    {
+      "id": 43,
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "source": "GitHub"
+    },
+    {
+      "id": 44,
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 45,
+      "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+      "url": "https://github.com/RayenMlayeh/jevcrawl",
+      "source": "Hacker News"
+    },
+    {
+      "id": 46,
+      "title": "I just got our entire company's Claude Enterprise account suspended",
+      "url": "https://twitter.com/heinenbros/status/2110081812169162923",
+      "source": "Hacker News"
+    },
+    {
+      "id": 47,
+      "title": "Nvidia Reportedly Ending the RTX 5090, Reserves GB202 for Workstation GPUs",
+      "url": "https://www.techpowerup.com/353578/nvidia-reportedly-ending-the-rtx-5090-reserves-gb202-silicon-for-workstation-gpus",
+      "source": "Hacker News"
+    },
+    {
+      "id": 48,
+      "title": "Visa gets Beijing's green light for bank card business",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "source": "Hacker News"
+    },
+    {
+      "id": 49,
+      "title": "Apples to Apples: Getting Type Mappings Right in LLM-Based Code Translation",
+      "url": "https://www.codemetal.ai/research/apples-to-apples-getting-type-mappings-right-in-llm-based-code-translation",
+      "source": "Hacker News"
+    },
+    {
+      "id": 50,
+      "title": "Chinese cheap LLMs could trigger trillion-dollar AI infrastructure reset",
+      "url": "https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774",
+      "source": "Hacker News"
+    },
+    {
+      "id": 51,
+      "title": "Who Decided AI Gets to Have Feelings?",
+      "url": "https://middlelayer.substack.com/p/who-decided-ai-gets-to-have-feelings",
+      "source": "Hacker News"
+    },
+    {
+      "id": 52,
+      "title": "Open source Scion – Anthropic's Git alternative in open source",
+      "url": "https://github.com/tinyhumansai/openscion",
+      "source": "Hacker News"
+    },
+    {
+      "id": 53,
+      "title": "ChatGPT and 18 = Chat18GPT",
+      "url": "https://news.ycombinator.com/item?id=50076748",
+      "source": "Hacker News"
+    },
+    {
+      "id": 54,
+      "title": "Show HN: Geneva, a Rust FFmpeg CLI alternative with HTML/CSS graphics",
+      "url": "https://genevarender.com",
+      "source": "Hacker News"
+    },
+    {
+      "id": 55,
+      "title": "AI causes uproar in mathematics after OpenAI shares 722 manuscripts and proofs",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-causes-uproar-in-mathematics-as-experts-warn-against-sharing-research-with-llms-after-openai-shares-722-manuscripts-and-proofs-professor-argues-that-the-field-must-focus-on-building-community-over-raw-solutions",
+      "source": "Hacker News"
+    },
+    {
+      "id": 56,
+      "title": "Show HN: Evaluate and improve your agent steering",
+      "url": "https://news.ycombinator.com/item?id=50081857",
+      "source": "Hacker News"
+    },
+    {
+      "id": 57,
+      "title": "Chrome Full-Chain Exploit with GPT 5.6",
+      "url": "https://xbow.com/blog/xbow-built-a-chrome-full-chain-exploit",
+      "source": "Hacker News"
+    },
+    {
+      "id": 58,
+      "title": "AI 3D Prints: Are Claude's Defaults Enough?",
+      "url": "https://www.youtube.com/watch?v=qcWOvPLFXgg",
+      "source": "Hacker News"
+    }
+  ]
+}
