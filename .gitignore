@@ -12,7 +12,4 @@ site/public/
 feeds/**/pmm_digest_output.html
 feeds/**/digest_*.html
 
-# UI/UX Pro Max skill (local design-assist tool, not part of the site build)
-.claude/
-
 .DS_Store
