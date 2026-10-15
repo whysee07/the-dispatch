@@ -1,0 +1,423 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T14:31:27.815469+00:00",
+  "raw_text": "Here's your PMM/PM briefing for October 15, 2026.\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\n**Microsoft and Nvidia just launched the RTX Spark platform, ushering in a new era of Arm-based AI PCs.**\nThese aren't just faster laptops; they're a fundamental architectural shift designed to run AI workloads directly on the device, moving processing power from the cloud to the endpoint. This means software performance and capabilities will increasingly depend on optimizing for these new Arm chips and powerful integrated GPUs. PMMs must now understand how their product's AI features perform on these new architectures and be ready to articulate the benefits of on-device AI for privacy, speed, and cost. PMs need to bake Arm compatibility and on-device AI capabilities into their roadmaps, prioritizing features that leverage this local power. Watch closely for early adoption rates and the maturity of developer tooling for RTX Spark to see how quickly this platform shift gains momentum. [S1]\n\n---\n\n🎯 POSITIONING WATCH\n**Google — Launched Universal Cart shopping tool in the US.** [S2][S28]\n- **Narrative angle:** Simplify holiday shopping by saving products from multiple retailers in one place, making it easier to organize and save money.\n- **ICP signal:** US consumers, especially those who browse widely and are looking for deals during peak shopping seasons.\n- **What's sharp:** The \"universal\" aspect is a powerful hook, promising to solve the fragmentation of online shopping.\n- **What's fuzzy:** How \"universal\" it truly is in practice – will it work flawlessly with *every* obscure retailer, or just major ones?\n- **Steal this:** Frame your product as the single, unified solution to a common, fragmented problem your buyers face.\n\n**Actually Asked — Launched a self-improving branded AI FAQ page.** [S16][S66]\n- **Narrative angle:** Automate and enhance customer support by providing an AI-powered FAQ that learns and gets better over time.\n- **ICP signal:** Businesses with customer support teams looking to reduce inbound queries and improve self-service options.\n- **What's sharp:** Leading with \"self-improving\" highlights the core AI benefit of continuous optimization, which is a strong value prop.\n- **What's fuzzy:** \"Branded\" is a given for most enterprise tools; it's not a differentiator. What specific problems does it solve *better* than existing chatbots?\n- **Steal this:** If your product leverages AI for continuous improvement, make \"self-improving\" or \"adaptive\" a hero message, clearly showing the benefit of reduced manual effort.\n\n**withHuman — Launched an open-source human approval layer for AI Agents.** [S15][S67]\n- **Narrative angle:** Ensure the safety and accuracy of AI agents by providing a human-in-the-loop mechanism for critical decisions.\n- **ICP signal:** Developers, AI teams, and companies building or deploying autonomous AI agents that require oversight and error prevention.\n- **What's sharp:** \"Human approval layer\" directly addresses a major concern with AI agents: reliability and control. \"Open-source\" builds trust and encourages adoption.\n- **What's fuzzy:** The core problem isn't just \"AI agents\" but *unreliable* AI agents. The messaging could be more problem-centric.\n- **Steal this:** Explicitly name the common failure points of the technology you're improving, then position your product as the solution to those specific risks.\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n**Crayon vs Competitive Intelligence Tools (or SharePoint as a CI source)**\n- **What changed:** Crayon now integrates with SharePoint, allowing users to pull competitive content directly from their existing document libraries and folders into Crayon for battlecard insights. [S6]\n- **Why they did this now — what are they betting on?** Crayon is betting that a significant amount of competitive intel lives in unstructured documents within internal systems like SharePoint. By integrating, they aim to become the central hub for CI, reducing manual input and increasing the freshness of insights. They're capitalizing on the \"single source of truth\" demand for GTM teams.\n- **PMM action item:** This week, audit where your team stores competitive content. If it's fragmented across SharePoint, Google Drive, Notion, etc., assess if your current CI platform connects to all of them. If not, highlight this gap to your vendor or investigate Crayon's capabilities to streamline intel gathering.\n- **Battlecard update needed?** Yes — Add \"SharePoint Integration\" under Crayon's strengths/feature set, noting it automates competitive intel gathering from internal docs.\n\n**Flock Safety vs Privacy Advocates / Public Opinion**\n- **What changed:** Flock CEO Garrett Langley is publicly defending the company's surveillance technology amidst a \"national backlash\" and \"growing privacy concerns,\" asserting that its crime-fighting benefits outweigh risks. He claimed their microphones detect \"just gunshots,\" which contradicts information on their own website. [S22][S50][S56][S59]\n- **Why they did this now — what are they betting on?** The company is under intense scrutiny, including congressional testimony. Langley is betting on a \"public safety first\" narrative to counter privacy advocates, trying to control the narrative and maintain customer (police department) relationships.\n- **PMM action item:** If your product or company operates in a sensitive industry (e.g., data, privacy, security, AI ethics), proactively develop a robust, transparent messaging strategy around data handling, ethical use, and privacy safeguards. Ensure all public statements and website content are consistent and accurate to avoid credibility issues.\n- **Battlecard update needed?** Yes — Add \"Significant public privacy concerns and ethical debate\" as a key weakness or risk factor for Flock Safety, noting the CEO's inconsistent statements.\n\n---\n\n🚀 LAUNCH DISSECTION\n**Superdraft by Superdraft** [S12][S68]\n- **Launch tier:** T2 — This is a solid, useful feature for many businesses, but not a category-defining product. The positioning aligns well with its impact.\n- **Core message:** \"Automatically identify opportunities to email your customers.\"\n- **GTM channels used:** Product Hunt (implies community, social media), likely direct website, potentially email marketing to early adopters.\n- **Sales readiness signal:** No explicit mention of sales enablement content or a dedicated sales team. This suggests a product-led growth motion, relying on self-serve onboarding and clear in-product value.\n- **Buyer emotion targeted:** Ambition (grow revenue, improve customer engagement) and Frustration (missing customer opportunities, manual identification of segments).\n- **What worked:** The core message is incredibly clear and directly speaks to a common pain point for PMMs and marketers. The name \"Superdraft\" is memorable and suggestive of efficiency.\n- **What's missing:** Specific examples or categories of \"opportunities.\" Does it identify abandoned carts, inactive users, feature engagement, or something else? Without examples, it's hard to visualize the direct impact.\n- **If you were the PMM:** I'd immediately add a few concrete, quantifiable use cases to the landing page and Product Hunt listing, like \"Identify users who viewed your pricing page twice but didn't convert\" or \"Find customers who haven't logged in for 30 days but interacted with a key feature last week.\"\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n**HubSpot Marketing — Tracking AI Overviews: What the data actually shows** [S7]\n- **The core argument or insight:** AI Overviews are fundamentally changing how users discover brands in search results, often providing answers directly without users clicking through to websites. This requires marketers to rethink how they track brand visibility and impact beyond traditional website traffic.\n- **Community reaction:** Resonating – this is a major, ongoing shift that PMMs and SEO specialists are actively grappling with, seeking new strategies and measurement frameworks.\n- **The sharpest counter-take:** While direct clicks might decrease, being prominently cited in an AI Overview could be a more powerful signal of authority and trust for brand building, even if it doesn't immediately drive a website visit.\n- **Worth engaging?** Yes – this is critical for understanding the evolving search landscape and adapting your content and SEO strategies.\n\n**HubSpot Marketing — Claude skills vs. plugins vs. MCP connectors: A simple guide** [S8]\n- **The core argument or insight:** This guide clarifies the distinct functions within Claude: Skills teach Claude procedures, MCP connectors give it authorized access to external tools or data, and Plugins package both for specific workflows.\n- **Community reaction:** Resonating – many users find the terminology around AI capabilities confusing and are looking for practical distinctions.\n- **The sharpest counter-take:** While technically distinct, the user experience for these features should be more unified and intuitive, as the current distinctions add unnecessary cognitive load for non-developers.\n- **Worth engaging?** Skim – useful for clarity if you're directly building or integrating with Claude, but less essential for broader PMM/PM strategic insights.\n\n**Teresa Torres — Building an AI Voice Agent for 360 Degree Feedback: How Your360 AI Uses State Machines, Evals, and Layered Synthesis** [S3]\n- **The core argument or insight:** Building a sophisticated, empathetic AI voice agent for sensitive tasks like 360 feedback requires meticulous design using state machines for conversational flow, continuous human evaluation (\"evals\") for quality, and layering multiple AI models for different functions (e.g., moderation, synthesis, coaching).\n- **Community reaction:** Resonating – PMs are hungry for practical, in-depth advice on building robust AI products, especially those that involve nuanced human interaction.\n- **The sharpest counter-take:** The level of engineering and design rigor described, while ideal, might be out of reach for many startups and teams with limited AI resources, leading to a gap between best practice and feasible implementation.\n- **Worth engaging?** Yes – an excellent deep dive for PMs leading AI product development, offering concrete architectural and design strategies.\n\n---\n\n💡 USE CASE OF THE DAY\n**Designing Conversational AI for Sensitive Feedback** [S3]\nCategory: Discovery / Roadmapping / Customer Research\nRole: Both\n\n**The workflow:**\nStep 1: **Define explicit use cases for AI intervention.** Clearly articulate the specific human tasks or interactions the AI agent is intended to automate or assist, focusing on areas where consistency, scalability, or bias reduction are critical (e.g., conducting unbiased 360-degree feedback interviews).\nStep 2: **Implement state machines for conversational flow.** Design a detailed map of the AI agent's conversational turns, potential user responses, and fallback mechanisms. This ensures the agent can navigate complex, sensitive dialogues gracefully and effectively, maintaining context and empathy.\nStep 3: **Establish rigorous evaluation metrics and human-in-the-loop processes.** Continuously test the AI's performance against human benchmarks. Integrate human review for quality control, sentiment analysis, factual accuracy, and empathetic tone, especially in high-stakes or sensitive interactions.\n\nTools used: Custom AI models, conversation design platforms (implied), user testing tools, LLM evaluation frameworks.\nTime to complete: Weeks to months, depending on the complexity and sensitivity of the AI agent's domain.\nOutput you get: A robust, effective conversational AI agent capable of handling nuanced and sensitive user interactions with high reliability and user satisfaction.\nWhy it matters now: As AI agents become more prevalent, designing them for trust and efficacy in critical domains is paramount, moving beyond simple prompt engineering to deep conversational architecture.\n\nPrompt or template (if AI-assisted): N/A (this is a process, not a prompt)\n\n---\n\n📚 LEARNING PICK OF THE DAY\n**Building an AI Voice Agent for 360 Degree Feedback: How Your360 AI Uses State Machines, Evals, and Layered Synthesis** — Teresa Torres — Product Talk [S3]\n\n**What it's about:** This podcast episode offers a rare, detailed look into the product development journey of Your360 AI, an AI voice agent designed to facilitate sensitive 360-degree feedback. It emphasizes the critical role of structured conversation design (state machines), continuous human evaluation (\"evals\"), and a layered AI architecture to create a truly effective and empathetic AI product that users trust for deep self-discovery.\n\n**3 actionable takeaways:**\n1.  **Map conversational AI with state machines:** For any AI agent handling complex or sensitive user interactions, don't just rely on an LLM. Architect the conversation flow using state machines to ensure consistency, manage context, and design for graceful error recovery.\n2.  **Prioritize human evaluation (evals) for AI outputs:** Beyond automated metrics, regularly have humans assess the AI's responses and interactions for quality, empathy, and goal achievement. This is crucial for iterating on nuanced AI products.\n3.  **Adopt a layered AI approach:** Instead of a single monolithic AI, break down complex tasks into sub-problems, each handled by specialized AI models (e.g., one for moderation, one for synthesis, one for coaching). This improves robustness and allows for more precise control.\n\n**Who should read this:** Both – PMs will gain deep insights into AI product architecture and development, while PMMs will better understand the technical underpinnings required to build trustworthy AI, informing their messaging. Relevant for all career stages, especially those working on AI products.\n**Read time:** 44 minutes (podcast)\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n**Designing for Deep, Sensitive AI Conversations** [S3]\n- **What was found or demonstrated:** Your360 AI successfully built an AI voice agent that engages users for 44-minute conversations on sensitive personal topics (360-degree feedback). This was achieved through meticulous conversational design, robust state machines, and continuous human evaluation, demonstrating that AI can facilitate deep, personal discovery if engineered with empathy and rigor.\n- **The method used:** The team employed iterative product development, extensive user research, a state machine-based conversational architecture, and a layered approach to AI models. Crucially, they prioritized human \"evals\" to continuously assess and refine the AI's performance in nuanced interactions.\n- **How it changes or validates current best practice:** This validates that deep qualitative user research and explicit conversational design are paramount for AI products, especially when dealing with sensitive user data or emotions. It moves beyond the idea that an LLM alone can handle complex human interaction, highlighting the need for structured engineering to ensure trust and effectiveness.\n- **PM action item:** For your next AI feature, particularly one involving sensitive user interactions, dedicate significant time to mapping out the conversational flow with state machines. Implement a process for regular human \"evals\" of AI outputs to ensure quality, empathy, and alignment with user needs, rather than relying solely on automated metrics.\n\n---\n\n💼 PMM/PM JOBS PULSE\n**No specific job listings were provided in today's data.**\nHowever, the ongoing discussions around AI adoption, new hardware platforms (RTX Spark), and the need for robust GTM strategies in complex markets (like surveillance tech) collectively signal a high demand for PMMs and PMs who can navigate technological shifts, articulate clear value propositions for AI, and build trust in increasingly scrutinized product categories.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n**Ambrosia Energy — Building a 10 GWh factory in Texas** [S62]\n- **What they do:** Manufacturing batteries specifically for off-grid data centers.\n- **GTM motion:** Enterprise / Vertical SaaS (targeting data center operators)\n- **What this signals about B2B investment direction:** Significant capital is flowing into sustainable infrastructure and energy independence solutions, particularly for compute-intensive sectors like AI. The \"compute crisis\" is driving innovation in power solutions.\n- **PMM implication:** If your product is compute-heavy or cloud-dependent, start positioning around energy efficiency, sustainability, and compatibility with emerging green infrastructure. \"Green compute\" could become a key differentiator.\n- **PM implication:** Consider the energy consumption of your product's underlying infrastructure. Explore features or architectural choices that reduce energy footprint, which could become a critical selling point for enterprise clients.\n\n**Jio — Seeks to raise $3.2B in what could be India’s biggest IPO** [S55]\n- **What they do:** A major Indian telecom and digital services provider.\n- **GTM motion:** Marketing-led / Consumer / Enterprise (broad market penetration)\n- **What this signals about B2B investment direction:** Continued, massive growth and investment in emerging markets, especially India, for digital infrastructure, connectivity, and integrated services.\n- **PMM implication:** Pay close attention to global market expansion, particularly in high-growth regions like India. Understand localized GTM strategies and market nuances if your company has international ambitions.\n- **PM implication:** When designing products, consider internationalization and scalability for diverse user bases and infrastructure conditions from the outset. Emerging markets often present unique challenges and opportunities.\n\n**Colossal Biosciences — Announces new AI platform to help accelerate de-extinction efforts** [S57]\n- **What they do:** Genetic engineering to bring back extinct species, now with a new AI platform.\n- **GTM motion:** Science-led / Research-driven / Partner-led (a new fund backs startups using it)\n- **What this signals about B2B investment direction:** AI's application is expanding into highly specialized, long-term, and even speculative scientific domains, attracting significant venture capital and ecosystem development.\n- **PMM implication:** Even if your product isn't \"de-extinction,\" this shows the power of positioning AI as an accelerator for complex, ambitious scientific or engineering challenges. Focus on \"accelerating discovery\" or \"solving impossible problems.\"\n- **PM implication:** Think expansively about \"AI for X.\" There's appetite for truly novel AI applications that tackle grand challenges, even if the path to commercialization is long. Look for opportunities to apply AI to previously intractable problems in your domain.\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n**Atticus — \"Hold a key, talk, and your Mac does what you asked\"** [S11]\nCategory: Productivity / AI Assistant\nBest for: Both\nFree tier: Unspecified, likely trial.\nHonest take: This is an incremental UX improvement for desktop AI assistants, making interaction slightly faster and more seamless. It's not a genuinely new capability class, but a refinement of existing AI assistant concepts.\nWho should try it this week: Anyone looking for a more fluid, keyboard-driven way to interact with their Mac using AI commands.\n\n**siliXon — \"Turn a plain English idea into a circuit board you can order\"** [S14][S69]\nCategory: Design / Prototyping / AI Engineering\nBest for: PM (especially hardware, IoT, or R&D PMs and engineers)\nFree tier: Unspecified, likely paid.\nHonest take: Genuinely new capability. AI designing physical hardware from natural language is a significant leap towards democratizing complex engineering and accelerating prototyping cycles. This moves AI beyond software and content creation into tangible product development.\nWho should try it this week: PMs in hardware, IoT, or R&D departments who want to radically accelerate their prototyping and development timelines for custom electronics.\n\n**withHuman — \"A open-source human approval layer for AI Agents\"** [S15][S67]\nCategory: AI Safety / Workflow Automation / Compliance\nBest for: PM (AI product builders), PMM (for compliance and trust messaging)\nFree tier: Yes (open-source)\nHonest take: This is a crucial, genuinely new capability for building reliable and trustworthy AI agents. It directly addresses the \"hallucination\" and \"control\" problems by providing a necessary human-in-the-loop mechanism. The open-source nature is a smart GTM move for building community and trust.\nWho should try it this week: PMs and engineering leads building or planning to deploy agentic AI systems where accuracy, safety, and human oversight are critical requirements.\n\n---\n\n⚡ SPEED ROUND\n💻 Microsoft claims Windows 11 is now 20% more responsive, runs better on 8GB RAM, addressing long-standing performance critiques. [S24]\n🛒 Google’s Universal Cart launched in the US, allowing users to save products from multiple retailers in one place, just in time for holiday shopping. [S2][S28]\n📱 Apple's iPhone Duo foldable phone preorders open tomorrow, hitting the market at a $1,999 price point. [S19]\n🕵️‍♂️ Security researchers found \"zero-click\" spyware infecting phones via targeted online ads, calling it a \"nightmare scenario.\" [S18][S33][S34]\n🎶 YouTube Music is launching new labels to clearly identify AI-generated music, tackling authenticity issues on streaming platforms. [S64]\n🧠 Ricursive Intelligence is betting on AI-designed chips as a solution to the growing compute crisis in the AI industry. [S49]\n🎨 Figma announced new features to define how AI agents work on its platform, further embedding AI into the design workflow. [S48]\n🔋 Ambrosia Energy will build a massive 10 GWh factory in Texas to produce batteries specifically for off-grid data centers. [S62]\n🧬 Colossal Biosciences launched a new AI platform aimed at accelerating de-extinction efforts, attracting new investment. [S57]\n👽 Maka, a new streaming platform, launched with the goal of providing high-quality kids' content and fighting \"AI slop.\" [S31]\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\nChallenge: **Audit Your Brand's AI Overview Visibility & Messaging**\nRole focus: PMM\n\nThe setup: AI Overviews in search results are rapidly becoming a primary channel for brand discovery. It's crucial to understand if your brand is appearing, how it's being represented, and how competitors are showing up.\n\nWhat to do:\nStep 1: Go to Google Search (or your primary search engine) and perform 5-7 searches for key problems your ICP is trying to solve that your product addresses. Use natural language queries.\nStep 2: For each search, observe if an AI Overview appears. If so, note which brands or sources are cited. Analyze the language used to describe the solution or problem, especially if your brand isn't mentioned or is misrepresented.\nStep 3: Compile a brief (1-page) report summarizing your findings. Identify specific instances where your brand is missing from AI Overviews, where competitors are cited, or where your product's value proposition could be better optimized for AI-generated summaries.\n\nThe exact prompt or template: N/A (this is a manual audit)\n\nWhat good looks like vs. mediocre:\n- Good: Identifies specific search queries, lists competitor insights, and proposes concrete content or SEO adjustments (e.g., creating specific FAQ content, optimizing schema markup) to improve AI Overview visibility and messaging.\n- Mediocre: General observations, no specific brands or content identified, vague recommendations to \"do better SEO.\"\n\nWhy this skill matters in the next 6 months: AI Overviews are fundamentally shifting buyer journeys. Being present and correctly positioned in these AI-generated summaries is becoming as critical as traditional search engine optimization. [S7]\n\n---\n\n🧠 EDGE INSIGHT\nThe market is rapidly bifurcating around AI quality and trust, and it's creating clear opportunities and risks. On one side, we're seeing the proliferation of \"AI slop\" in content (like kids' media) and escalating ethical debates around surveillance AI (Flock Safety's transparency issues). This directly drives the need for solutions like \"human approval layers\" (withHuman) and platforms explicitly fighting low-quality AI (Maka). Conversely, highly sophisticated AI products like Your360 AI succeed precisely because they've meticulously engineered for human nuance, empathy, and trust, using state machines and continuous human evaluation. The lesson here isn't just about building *with* AI, but about building *trustworthy* AI. PMMs need to lean heavily into trust, transparency, and clear human-in-the-loop messaging, or risk being lumped in with the \"slop\" and the \"surveillance backlash\" that's clearly brewing.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 3,
+      "title": "Building an AI Voice Agent for 360 Degree Feedback: How Your360 AI Uses State Machines, Evals, and Layered Synthesis",
+      "url": "https://www.producttalk.org/building-an-ai-voice-agent-for-360-degree-feedback-how-your360-ai-uses-state-machines-evals-and-layered-synthesis/",
+      "source": "Teresa Torres"
+    },
+    {
+      "id": 4,
+      "title": "Audio Lip Sync Pro for Blender",
+      "url": "https://www.producthunt.com/products/audio-lip-sync-pro-for-blender",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 5,
+      "title": "Brussle",
+      "url": "https://www.producthunt.com/products/brussle-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 6,
+      "title": "SharePoint Integration: Turn Docs into Competitive Intel",
+      "url": "https://www.crayon.co/blog/sharepoint-integration",
+      "source": "Crayon Blog"
+    },
+    {
+      "id": 7,
+      "title": "Tracking AI Overviews: What the data actually shows",
+      "url": "https://blog.hubspot.com/marketing/tracking-ai-overviews",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 8,
+      "title": "Claude skills vs. plugins vs. MCP connectors: A simple guide",
+      "url": "https://blog.hubspot.com/marketing/claude-skills-plugins-mcp",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 9,
+      "title": "Basedash Connector gallery",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 10,
+      "title": "CinemaLut",
+      "url": "https://www.producthunt.com/products/cinemalut",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 11,
+      "title": "Atticus",
+      "url": "https://www.producthunt.com/products/atticus",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 12,
+      "title": "Superdraft",
+      "url": "https://www.producthunt.com/products/superdraft",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 13,
+      "title": "Ubuntu 26.10 (Stonking Stingray)",
+      "url": "https://www.producthunt.com/products/ubuntu",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 14,
+      "title": "siliXon",
+      "url": "https://www.producthunt.com/products/silixon",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 15,
+      "title": "withHuman",
+      "url": "https://www.producthunt.com/products/withhuman",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 16,
+      "title": "Actually Asked",
+      "url": "https://www.producthunt.com/products/actually-asked",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 17,
+      "title": "Rushilo",
+      "url": "https://www.producthunt.com/products/rushilo",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 18,
+      "title": "An Israeli firm is sending spyware through online ads, researchers say",
+      "url": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
+      "source": "The Verge"
+    },
+    {
+      "id": 19,
+      "title": "Prep your cart before iPhone Duo preorders open tomorrow",
+      "url": "https://www.theverge.com/news/1011902/apple-iphone-duo-get-ready-preorder",
+      "source": "The Verge"
+    },
+    {
+      "id": 20,
+      "title": "Nobody is safe from celebrity AI deepfakes",
+      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "source": "The Verge"
+    },
+    {
+      "id": 21,
+      "title": "TechCrunch Disrupt 2026: Last day",
+      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 22,
+      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+      "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+      "source": "The Verge"
+    },
+    {
+      "id": 23,
+      "title": "Some great games to play before GTA VI and Zelda launch",
+      "url": "https://www.theverge.com/entertainment/1011816/october-2026-game-reviews-dressmaker-castlevania",
+      "source": "The Verge"
+    },
+    {
+      "id": 24,
+      "title": "Microsoft says Windows 11 is now &#8216;more responsive&#8217; and runs better on 8GB of RAM",
+      "url": "https://www.theverge.com/news/1011891/microsoft-windows-11-speed-memory-improvements",
+      "source": "The Verge"
+    },
+    {
+      "id": 25,
+      "title": "Junji Ito’s Manga Horrors Hit Harder as Live-Action TV",
+      "url": "https://www.wired.com/story/new-york-comic-con-panel-2/",
+      "source": "Wired"
+    },
+    {
+      "id": 26,
+      "title": "GTA VI’s new trailer gives you one more look at Vice City",
+      "url": "https://www.theverge.com/entertainment/1011879/gta-6-launch-trailer",
+      "source": "The Verge"
+    },
+    {
+      "id": 27,
+      "title": "Quick question: Who exactly is iPhone Handoff for?",
+      "url": "https://www.theverge.com/tech/1011338/iphone-handoff-t-mobile-work-iphone",
+      "source": "The Verge"
+    },
+    {
+      "id": 28,
+      "title": "Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays",
+      "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+      "source": "The Verge"
+    },
+    {
+      "id": 29,
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 30,
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 31,
+      "title": "Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It",
+      "url": "https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/",
+      "source": "Wired"
+    },
+    {
+      "id": 32,
+      "title": "Democrats Are Gearing Up to Investigate the Trump Administration. It Won’t Be Easy",
+      "url": "https://www.wired.com/story/democrats-are-gearing-up-to-investigate-the-trump-administration-it-wont-be-so-easy/",
+      "source": "Wired"
+    },
+    {
+      "id": 33,
+      "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
+      "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 34,
+      "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
+      "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+      "source": "Wired"
+    },
+    {
+      "id": 35,
+      "title": "How much more can nuclear power plants give?",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 36,
+      "title": "The Best Permanent Outdoor Lights (2026): Govee, Eufy, Cync",
+      "url": "https://www.wired.com/story/should-you-get-permanent-outdoor-lights/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "Artemis III Scientist Shares What to Expect From NASA’s Next Lunar Mission",
+      "url": "https://www.wired.com/story/artemis-iii-scientist-shares-what-to-expect-from-nasas-next-lunar-mission/",
+      "source": "Wired"
+    },
+    {
+      "id": 38,
+      "title": "Over $600 Million in Polymarket Election Trades Took Place After Races Ended",
+      "url": "https://www.wired.com/story/over-dollar600-million-traded-on-polymarket-election-contracts-after-races-ended/",
+      "source": "Wired"
+    },
+    {
+      "id": 39,
+      "title": "Six wild ideas for perpetuating your mind",
+      "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 40,
+      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 41,
+      "title": "Lenovo Coupon Codes: 15% Off in October 2026",
+      "url": "https://www.wired.com/story/lenovo-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 42,
+      "title": "Walmart Promo Codes: 20% Off for October 2026",
+      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+      "source": "Wired"
+    },
+    {
+      "id": 43,
+      "title": "Hotels.com Coupon Codes for October 2026",
+      "url": "https://www.wired.com/story/hotels-com-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 44,
+      "title": "ABT Promo Codes & Discounts for October 2026",
+      "url": "https://www.wired.com/story/abt-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 45,
+      "title": "Groupon Promo Codes: 60% Off in October 2026",
+      "url": "https://www.wired.com/story/groupon-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 46,
+      "title": "Design Within Reach Promo Codes: 30% Off | October 2026",
+      "url": "https://www.wired.com/story/design-within-reach-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 47,
+      "title": "Ancestry Coupons│50% Off│October 2026",
+      "url": "https://www.wired.com/story/ancestry-coupon-codes/",
+      "source": "Wired"
+    },
+    {
+      "id": 48,
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 49,
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 50,
+      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 51,
+      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 52,
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 53,
+      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 54,
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 55,
+      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+      "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 56,
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 57,
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 58,
+      "title": "Trump Aides Admit the House Is a Lost Cause",
+      "url": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
+      "source": "Wired"
+    },
+    {
+      "id": 59,
+      "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 60,
+      "title": "Electric vehicle sales in the US are showing signs of life",
+      "url": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 61,
+      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+      "url": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 62,
+      "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+      "url": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 63,
+      "title": "Hiyd is a health tracker that attaches to the watch you already wear",
+      "url": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 64,
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 65,
+      "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+      "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+      "source": "Wired"
+    },
+    {
+      "id": 66,
+      "title": "Actually Asked",
+      "url": "https://www.producthunt.com/products/actually-asked",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 67,
+      "title": "withHuman",
+      "url": "https://www.producthunt.com/products/withhuman",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 68,
+      "title": "Superdraft",
+      "url": "https://www.producthunt.com/products/superdraft",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 69,
+      "title": "siliXon",
+      "url": "https://www.producthunt.com/products/silixon",
+      "source": "Product Hunt"
+    }
+  ]
+}
