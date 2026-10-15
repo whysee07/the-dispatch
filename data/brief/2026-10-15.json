@@ -1,0 +1,369 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T16:32:14.602102+00:00",
+  "raw_text": "Alright, what's shaking, news junkies? Your resident chaos commentator is back with the latest intel. Looks like the market's having a mid-life crisis, geopolitics is still doing its thing, and AI is both everything and nothing. Let's dive in.\n\n**Money Talk**\n\n- **Tech Stocks Get Cooked, AI Hype Cools.**\n  Nvidia, AMD, and Dell are getting brutalized in a global tech sell-off, with investors suddenly realizing that all that AI infrastructure costs a metric ton of cash. Money's fleeing to the \"safety\" of bonds, proving that even the shiny new toys eventually get old. [S2][S4][S8][S13]\n- **Inflation's Back with a Vengeance.**\n  Wholesale prices — what producers pay — jumped a whopping 6.3% annually in September, way higher than forecasts. This is the biggest leap since 2022, so brace yourselves, those costs are definitely coming for your latte budget. [S3][S13]\n- **UK Economy Shows a Pulse, But Banks Might Pay the Price.**\n  The UK economy actually grew by 0.1% in August, surprising everyone. But don't pop the champagne just yet: the Chancellor is reportedly eyeing new taxes on banks in his upcoming budget to offset \"Iran war\" damage to public finances. Read: good news, but someone's still gotta pay. [S7][S11]\n- **JetBlue Joins the First Class Race.**\n  JetBlue just launched \"BlueFirst,\" their new domestic first-class option, available for booking on over 30 routes starting in December. Because nothing says \"flight to safety\" like a fancier seat, amirite? [S5]\n- **UK Power Grid Chaos Hits £50M Daily.**\n  Great Britain's power grid is now costing nearly £50 million *a day* to balance. They're literally paying to shut down wind farms due to bottlenecks while firing up gas plants elsewhere. Talk about a disconnect. [S12]\n\n**World Lore**\n\n- **Ukraine Resumes Refinery Strikes After \"Truce\" Flops.**\n  Turns out the \"energy ceasefire\" Trump claimed to have brokered was either imaginary or just ignored. Zelenskyy declared \"we're done,\" and Ukraine immediately hit a Russian oil refinery in Ryazan. Guess some truces are shorter than others. [S19][S22][S33]\n- **Starlink/Starshield Back Online for Ukraine.**\n  After some unexpected throttling this week, Ukraine's crucial Starlink and Starshield satellite services are back to full capacity. This means their offensive drone attacks on Russia are back in business. [S19][S24][S25]\n- **Russia Nabs Swedish Man, Claims He's a Ukrainian Fighter.**\n  Russian intel arrested a Swedish national at the border, accusing him of leading a Ukrainian drone unit and planning acts of terrorism. This feels less like a border crossing and more like a fresh diplomatic headache. [S32]\n- **Algeria Makes a Geopolitical Move.**\n  Algeria is making a \"sharp break\" with the UAE, flexing its muscles to reassert regional influence after basically being on the sidelines for decades. Watch out, the quiet kid is speaking up. [S26]\n- **EU Summit to Tackle China, Ukraine, and Cash.**\n  EU leaders are meeting in Brussels to figure out how to curb their massive trade deficit with China, solidify Ukraine support, and nail down the next EU budget. A full plate, as always. [S35]\n\n**Tech Tea**\n\n- **AI Funding Jitters Spark Tech Sell-Off.**\n  The tech market is in a full-blown sell-off, with chip makers and big investors like Samsung and SoftBank getting hammered. Fears over US inflation and the massive debt financing AI infrastructure are spooking markets. [S13][S2]\n- **Amazon's Bee Unleashes Personal AI Gadgets.**\n  Amazon-owned Bee just launched two new AI devices: a wearable and a credit-card-sized recorder. They're designed to summarize conversations, make to-do lists, and integrate with Alexa and Amazon shopping. Basically, more ways for Amazon to be in *all* your business. [S45]\n- **Don't Let AI Agents Spy on You (and Your Friends).**\n  The Verge is sounding the alarm on a growing trend: \"AI personal assistants\" like Meta's Muse that cheerfully ask you to feed them all your data, and by extension, everyone else's around you. Just because it's convenient doesn't mean it's not creepy. [S46]\n- **Steam Client Beats Epic's \"Vibe Coded\" Launcher.**\n  In news that surprises exactly zero PC gamers, the Steam client is reportedly faster than Epic's new \"Vibe Coded Launcher.\" Sometimes, less \"vibe\" and more \"code that works\" is all you need. [S36]\n- **Nvidia's RTX Spark: Everything on Arm?**\n  Nvidia's new RTX Spark is reportedly betting that \"everything\" will run on Arm chips. Given Microsoft's original Nvidia Tegra-powered Surface was a legendary flop, this is a bold play. Let's see if this time it's actually... good. [S48]\n\n**Creator Szn**\n\n- **Brands Battle for AI Search Supremacy.**\n  Fender and Marshall are launching content series specifically to improve their visibility in AI search answers. Because if AI can't find your brand, did you even exist in the first place? The new SEO is LLM-O. [S56]\n- **Wirecutter Diversifies Beyond Affiliate Links.**\n  Wirecutter, everyone's favorite review site, is pushing beyond its affiliate commerce model, adding new categories and ad opportunities. Smart move as AI reshapes search and likely cuts into traditional affiliate revenue. [S60]\n- **The Ad Tech World is Still Untangling \"Addressability.\"**\n  At the Prebid Summit, \"addressability\" was a hot topic, with \"UMPs\" (presumably user-managed preferences?) being decried as the new ad networks. Sounds like a lot of buzzwords and not a lot of clarity, par for the course in ad tech. [S57]\n- **Dentsu Wants Brands to Fund Entertainment.**\n  Dentsu is making a big push to integrate entertainment into every brand's budget, betting it's the next big agency account. Get ready for more branded short films and surprisingly high-production sponsored content. [S58]\n- **Kids' Content is Broken, Maka Tries to Fix It.**\n  With AI-generated garbage flooding kids' media, a new streaming platform called Maka, run by child development experts, is offering a curated alternative. Finally, a platform for kids that isn't just an algorithm's fever dream. [S52]\n\n**Speed Round**\n\n- Treasury yields slid as investors fled the tech rout and rotated into bonds.\n- Trump says the Fort Hood shooter's execution won't be livestreamed after bipartisan backlash.\n- US lawmakers unveiled a new bill to hold Wall Street's \"Epstein-connected\" bosses accountable.\n- A severe drought has been declared in six areas of England, with some reservoirs at critical levels.\n- Ramp, the AI-powered finance platform, reached a $60B valuation as its revenue crossed $2B.\n- Google’s Universal Cart shopping tool just launched in the US across Search and the Gemini app.\n- About 6,000 workers in Northern Ireland are getting a pay bump as the Real Living Wage rises.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Trump says Nidal Hasan execution won't be livestreamed",
+      "url": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 2,
+      "title": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 3,
+      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+      "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 4,
+      "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
+      "url": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 5,
+      "title": "JetBlue’s new domestic first class, BlueFirst, is now on sale",
+      "url": "https://www.cnbc.com/2026/10/15/jetblue-bluefirst-first-class.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 6,
+      "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 7,
+      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+      "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 8,
+      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 9,
+      "title": "Thousands of NI workers to get pay bump as Real Living Wage rises",
+      "url": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 10,
+      "title": "'I paid thousands to a company for jobs that never came'",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 11,
+      "title": "John Healey poised to raise taxes on banks in budget",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 12,
+      "title": "Cost of balancing Great Britain’s power grid reaches nearly £50m a day",
+      "url": "https://www.theguardian.com/business/2026/oct/15/cost-of-balancing-great-britain-power-grid-50m-daily",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 13,
+      "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+      "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 14,
+      "title": "US lawmakers unveil bill to hold Wall Street’s ‘Epstein-connected’ bosses to account",
+      "url": "https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 15,
+      "title": "Severe drought declared in six areas of England as reservoirs run low",
+      "url": "https://www.theguardian.com/environment/2026/oct/15/severe-drought-declared-six-areas-england-public-water-supplies-threat",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 16,
+      "title": "DOJ gave California a voter list, a 48-hour deadline — and a threat of court action",
+      "url": "https://www.axios.com/2026/10/14/doj-california-noncitizen-voters-mail-ballots",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "America's wits' end election approaches",
+      "url": "https://www.axios.com/2026/10/15/americas-wits-end-election-approaches",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Trump says Fort Hood shooter's execution will not be livestreamed",
+      "url": "https://www.axios.com/2026/10/15/trump-hegseth-fort-hood-execution-livestream",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Ukraine hits Russian refinery as Starlink satellite services are restored",
+      "url": "https://www.axios.com/2026/10/15/ukraine-starlink-restored-strikes-russia-trump-musk",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "CEO confidence drops into negative territory",
+      "url": "https://www.axios.com/2026/10/15/ceo-confidence-conference-board",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 22,
+      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 23,
+      "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 24,
+      "title": "Ukraine says its Starshield access is back",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 25,
+      "title": "Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6001653/rep-mike-quigley-d-ill-on-reports-ukraines-starshield-access-was-restricted",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 26,
+      "title": "Algeria’s New Bid for Regional Influence",
+      "url": "https://foreignpolicy.com/2026/10/15/algeria-foreign-policy-uae-break-united-states-western-sahara-dispute-morocco-tebboune/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "Why Spain Is Standing Up to Trump",
+      "url": "https://foreignpolicy.com/2026/10/15/jose-manuel-albares-spain-foreign-policy-nato-trump-international-law/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "The Radioactive Ore That Could Break China’s Grip on Rare Earths",
+      "url": "https://foreignpolicy.com/2026/10/15/monazite-china-rare-earths-radioactive/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "The West Needs a Pax Biologica",
+      "url": "https://foreignpolicy.com/2026/10/15/china-us-biomanufacturing-competition-industrial-policy/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "Trump’s Midterm Strategy Harks Back to 1970",
+      "url": "https://foreignpolicy.com/2026/10/15/trump-midterm-strategy-positive-polarization/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "Trump says execution of Fort Hood shooter will not be livestreamed",
+      "url": "https://www.dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 32,
+      "title": "Russia arrests Swedish national, claims he's Ukraine fighter",
+      "url": "https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 33,
+      "title": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
+      "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 34,
+      "title": "Can Kenya preserve the democratic space Raila Odinga fought for?",
+      "url": "https://www.dw.com/en/can-kenya-preserve-the-democratic-space-raila-odinga-fought-for/a-79668443?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 35,
+      "title": "EU summit to focus on China, Ukraine and bloc budget",
+      "url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 36,
+      "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
+      "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 37,
+      "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
+      "url": "https://snoutcover.com/one-year",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 38,
+      "title": "Celebrating 70 Years of Fortran",
+      "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 39,
+      "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 40,
+      "title": "Prompt injection in HTTP headers: what 217M web responses show",
+      "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 41,
+      "title": "AI agents are coming to Rivian’s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+      "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "TechCrunch Disrupt 2026: Last day",
+      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Friends don&#8217;t let friends feed their data to AI agents",
+      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "E Ink upgraded the screen found in most color e-readers",
+      "url": "https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm",
+      "url": "https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
+      "url": "https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Shelly’s new presence sensor simultaneously detects up to 10 people without a camera",
+      "url": "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "Junji Ito’s Manga Horrors Hit Harder as Live-Action TV",
+      "url": "https://www.wired.com/story/new-york-comic-con-panel-2/",
+      "source": "WIRED"
+    },
+    {
+      "id": 52,
+      "title": "Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It",
+      "url": "https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/",
+      "source": "WIRED"
+    },
+    {
+      "id": 53,
+      "title": "Democrats Are Gearing Up to Investigate the Trump Administration. It Won’t Be Easy",
+      "url": "https://www.wired.com/story/democrats-are-gearing-up-to-investigate-the-trump-administration-it-wont-be-so-easy/",
+      "source": "WIRED"
+    },
+    {
+      "id": 54,
+      "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
+      "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+      "source": "WIRED"
+    },
+    {
+      "id": 55,
+      "title": "The Best Permanent Outdoor Lights (2026): Govee, Eufy, Cync",
+      "url": "https://www.wired.com/story/should-you-get-permanent-outdoor-lights/",
+      "source": "WIRED"
+    },
+    {
+      "id": 56,
+      "title": "Brands turn to content series and Jimi Hendrix to improve AI search performance",
+      "url": "https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "Addressability is back as a headline concern for attendees at this year’s Prebid Summit",
+      "url": "https://digiday.com/media-buying/addressability-is-back-as-a-headline-concern-for-attendees-at-this-years-prebid-summit/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "Inside Dentsu’s plan to make entertainment a part of every brand’s budget",
+      "url": "https://digiday.com/marketing/inside-dentsus-plan-to-make-entertainment-a-part-of-every-brands-budget/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "Media Briefing: Overheard from publishers at Digiday London Media Strategies Town Hall",
+      "url": "https://digiday.com/media/media-briefing-overheard-from-publishers-at-digiday-london-media-strategies-town-hall/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "Inside Wirecutter’s push to diversify beyond affiliate revenue as AI reshapes discovery",
+      "url": "https://digiday.com/media/inside-wirecutters-push-to-diversify-beyond-affiliate-revenue-as-ai-reshapes-discovery/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    }
+  ]
+}
