@@ -1,0 +1,369 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T14:23:30.941442+00:00",
+  "raw_text": "🔥 THE GTM SIGNAL OF THE DAY\nMeta just updated its business terms, seemingly giving itself free rein to scrape and train its AI models on content from any website \"associated\" with businesses using its platforms, including news publishers. This move, effective October 30th, could bypass licensing agreements and fundamentally change how content creators and companies interact with Meta's ecosystem. The product angle most people are missing is how this redefines the value exchange for businesses on Meta's platforms, effectively turning their content into free training data for Meta's AI. For PMMs, this means a critical need to re-evaluate content strategy, IP protection, and the true cost/benefit of distributing on Meta properties. PMs must consider the ethical implications of data ingestion for their own AI products, and how user-generated or partner content is sourced and utilized. The one thing to act on or watch in the next 30 days is how major publishers and B2B content creators react and if any legal challenges or alternative platform strategies emerge. [S1]\n\n---\n\n🎯 POSITIONING WATCH\n**Apple iPhone Duo — First foldable iPhone launch with immediate delays**\n- **Narrative angle:** Apple is finally in the foldable game, touting innovation and premium design for early adopters who want the latest tech.\n- **ICP signal:** High-end consumers, Apple loyalists, and tech enthusiasts willing to pay $1,999 and endure delivery delays into 2027. [S13][S19]\n- **What's sharp:** The immediate sell-out and delays, whether intentional or not, create intense FOMO and reinforce its \"must-have\" status.\n- **What's fuzzy:** The initial lack of Face ID and Apple Pencil support \"later this year\" feels like a compromise for a premium device.\n- **Steal this:** Create artificial scarcity or highlight demand to build buzz for your next high-tier product launch.\n\n**Microsoft Surface Laptop Ultra — Positioning as the \"First Real AI PC\" for developers**\n- **Narrative angle:** This is not just a laptop; it's a dedicated AI workstation, a true MacBook Pro competitor for Windows users, especially developers who need local AI model processing.\n- **ICP signal:** Developers, AI/ML engineers, and power users who value local AI model execution and demand MacBook Pro-level performance on Windows. [S14][S20]\n- **What's sharp:** Direct comparison to MacBook Pro and emphasis on \"local AI model execution\" clearly differentiates it from generic Windows machines.\n- **What's fuzzy:** The $5,900 price tag and \"lack of battery life\" might be a tough sell even for a niche audience.\n- **Steal this:** Don't shy away from naming your direct competitor and articulate *why* your product is better for a specific persona, even if it has trade-offs.\n\n**Veritas — Expanding anti-counterfeit chip to luxury goods beyond initial category**\n- **Narrative angle:** Tackling the growing problem of \"superfakes\" by providing unforgeable digital verification for high-value physical goods, securing brand integrity.\n- **ICP signal:** Luxury brands in jewelry, fragrance, and trophy manufacturing, concerned about brand dilution and revenue loss from counterfeits. [S2]\n- **What's sharp:** The term \"superfakes\" immediately resonates with the problem, highlighting the advanced nature of the threat they're solving.\n- **What's fuzzy:** The article doesn't detail the chip's actual mechanics or integration process, which could be a hurdle for adoption.\n- **Steal this:** Identify a trending problem (like \"superfakes\") and position your solution as the definitive answer to that specific, urgent pain point.\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n**Meta vs News Publishers (and all content-driven businesses)**\n- **What changed:** Meta's new business terms unilaterally allow it to scrape and train AI models on content from businesses using its platforms, including publishers. This effectively redefines the terms of content distribution and value extraction. [S1]\n- **Why they did this now — what are they betting on?:** Meta is betting on its platform's indispensability for reach and distribution, assuming businesses will accept these terms rather than abandon Meta. They're prioritizing their AI ambitions over potential content licensing costs.\n- **PMM action item:** For any PMM whose company relies on Meta for content distribution, immediately flag this with legal and leadership. Begin assessing alternative distribution channels and consider how to gate or segment premium content from general Meta feeds.\n- **Battlecard update needed?** Yes — under \"Content Strategy & Distribution\" and \"Legal/Compliance Risk.\" Specifically, add a section on \"Meta Content Rights & AI Training\" outlining the new terms and potential impact.\n\n**Ramp vs Expense Management & Fintech incumbents**\n- **What changed:** Ramp reached a $60B valuation with $2B in annualized revenue and 85,000 customers, explicitly attributing part of this growth to pushing deeper into AI. [S58]\n- **Why they did this now — what are they betting on?:** Ramp is betting that embedding AI deeply into financial operations (expense, spend, and maybe broader GTM) is the key to continued hyper-growth and market dominance, differentiating them from older, less AI-native platforms. They're also signaling strong investor confidence in this AI-first approach.\n- **PMM action item:** If you're in fintech or expense management, conduct an immediate competitive audit of Ramp's AI features. Develop a competitive response plan highlighting your own AI capabilities or a clear story on how you're *better* addressing specific AI-driven needs.\n- **Battlecard update needed?** Yes — under \"Market Position,\" \"Funding,\" and \"Product Strategy (AI focus).\" Add a new section on \"AI-Driven Value Prop.\"\n\n---\n\n🚀 LAUNCH DISSECTION\n**Muse Spark Open by Meta**\n- **Launch tier:** T2 — A significant technical release for developers and the AI community, but not a mass-market consumer product. It was positioned appropriately for its impact on the developer ecosystem. [S7][S47]\n- **Core message:** \"The most capable US open weights model to date\" and \"an open-weight AI model that runs on Macs.\" Emphasis on capability, openness, and local execution. [S7][S47]\n- **GTM channels used:** Product Hunt, tech press (TechCrunch, Wired), community (implied through \"open weights model\"). [S7][S44][S47]\n- **Sales readiness signal:** Unclear from the data; given it's an \"open weights model,\" the \"sales\" motion is likely self-serve developer adoption rather than traditional sales enablement.\n- **Buyer emotion targeted:** Ambition (for developers to build new things), Curiosity (to experiment with a powerful new open model), and perhaps a touch of FOMO (to be on the cutting edge).\n- **What worked:** Highlighting the \"open weights\" and \"runs on Macs\" aspects immediately made it accessible and appealing to a broad developer audience, distinguishing it from cloud-only or proprietary models. [S47]\n- **What's missing:** More concrete examples or starter kits for *what* developers can specifically build, beyond general \"specialized agents,\" to accelerate adoption beyond early experimenters.\n- **If you were the PMM:** I'd launch with a gallery of impressive, easy-to-fork demo applications that showcase its unique capabilities on local hardware.\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n**HubSpot Marketing — The marketing automation model that drove 9x qualified lead growth in a secondary market**\n- **The core argument or insight:** A team in Japan dramatically increased qualified leads by rebuilding their email automation programs with zero additional headcount, focusing on localizing content and optimizing existing tools. [S3]\n- **Community reaction:** Highly resonating, especially with PMMs and marketers in companies expanding globally or facing resource constraints. The \"zero additional headcount\" angle is a huge draw.\n- **The sharpest counter-take if one exists:** Some might argue that \"zero additional headcount\" might still mean significant *time* investment from existing staff, which is often an unacknowledged resource cost.\n- **Worth engaging?** Yes — if your company operates in secondary markets or is looking to scale marketing automation efficiently; this provides a practical, replicable framework.\n\n**Replit CEO Amjad Masad — The future of work is the ‘self-driving company’**\n- **The core argument or insight:** AI agents will handle most day-to-day tasks, freeing humans to focus on higher-level strategic decisions, leading to fully autonomous, \"self-driving\" companies. [S15]\n- **Community reaction:** Being debated. Some see it as visionary, others as overly optimistic or a threat to jobs. It touches on deep anxieties and ambitions about AI's role in the enterprise.\n- **The sharpest counter-take if one exists:** While agents can automate tasks, true strategic decision-making requires human intuition, empathy, and contextual understanding that AI currently lacks. The \"self-driving\" metaphor might be overblown.\n- **Worth engaging?** Skim — useful for understanding long-term AI vision and how it might shape product roadmaps, but the immediate practical implications for PMMs/PMs are still distant.\n\n**Amazon Devices Chief Panos Panay — AI devices replace the need to use apps**\n- **The core argument or insight:** Future ambient AI devices will anticipate user needs and replace the traditional app-centric interaction model, working in the background without explicit commands. [S48]\n- **Community reaction:** Resonating, especially among PMs working on device ecosystems or AI assistants. It's a clear vision for the next paradigm shift in user interaction.\n- **The sharpest counter-take if one exists:** User privacy concerns and the complexity of truly anticipating needs without intrusive data collection remain significant hurdles. Also, \"apps\" provide distinct, focused experiences that ambient AI may struggle to replicate seamlessly.\n- **Worth engaging?** Yes — crucial for PMs thinking about future product interfaces and interaction models, and for PMMs considering how to position products in an app-less world.\n\n**Benchmark — AI is eroding the venture pact against backing rivals**\n- **The core argument or insight:** The rapid pace and disruptive nature of AI development are making the traditional Silicon Valley rule of VCs not backing competing companies increasingly difficult to maintain. [S32]\n- **Community reaction:** Being debated in startup and venture circles. It highlights the unique competitive landscape and investment pressures in the AI space.\n- **The sharpest counter-take if one exists:** While AI is fast, the fundamental principles of avoiding conflicts of interest and maintaining trust with portfolio companies should still hold, even if it means VCs have to be more selective.\n- **Worth engaging?** Skim — more relevant for founders and VCs, but PMMs/PMs should be aware of the intensified competitive environment and potential for unexpected rivals.\n\n---\n\n💡 USE CASE OF THE DAY\n**Replicate Regional GTM Success with Automation**\nCategory: Marketing Automation / GTM Strategy\nRole: PMM\n\nThe workflow:\nStep 1: **Audit existing regional content:** Identify high-performing email sequences, blog posts, and landing pages from a successful market (e.g., US) that are ripe for localization. [S3]\nStep 2: **Localize and adapt:** Translate core messages, adjust cultural nuances, and update examples for the target secondary market. Prioritize high-impact transactional and educational emails first. [S3][S4]\nStep 3: **Automate with existing tools:** Rebuild the highest-performing email journeys using your current marketing automation platform (e.g., HubSpot), segmenting by the new regional audience.\n\nTools used: HubSpot (or equivalent marketing automation platform), Google Translate (for initial drafts), a local reviewer/translator, your existing content repository. [S3]\nTime to complete: 2-4 weeks for initial setup of core sequences.\nOutput you get: A localized, automated marketing funnel generating qualified leads in a new region without additional headcount.\nWhy it matters now: Efficient global expansion is critical for growth, and leveraging automation is key to doing it lean.\n\nPrompt or template (if AI-assisted):\n\"Analyze our top 5 performing email sequences for [Primary Market]. For each, identify the core value proposition, CTA, and key messaging pillars. Then, suggest cultural adaptations and localization considerations for [Secondary Market], focusing on tone, relevant examples, and common objections.\"\n\n---\n\n📚 LEARNING PICK OF THE DAY\n**The marketing automation model that drove 9x qualified lead growth in a secondary market** — HubSpot Marketing Team — HubSpot Marketing Blog [S3]\n\n**What it's about:** This article details how HubSpot's Japan team transformed a failing marketing automation program, increasing qualified leads by 9x in two months using their existing resources and a smart, replicable strategy focused on localization and automation. It's a practical guide, not just theory.\n**3 actionable takeaways:**\n1.  **Start with the problem:** Don't just implement automation; identify the specific GTM bottleneck (e.g., low qualified leads, poor conversion rates) in a new market first. → *PMM application: Before building any new GTM assets, clearly define the problem you're solving for a specific regional sales team.*\n2.  **Leverage existing success:** Instead of reinventing the wheel, adapt and localize proven content and workflows from a mature market. → *PMM application: Audit your best-performing US/primary market campaigns and create a localization playbook for new regions.*\n3.  **Prioritize transactional & educational emails:** These are often overlooked but are crucial for building trust and guiding buyers, especially in new markets. → *PMM application: Work with product and sales to ensure your transactional emails are optimized for clarity and next steps, and create educational sequences for common buyer questions.*\n**Who should read this:** PMM — especially those supporting international expansion or trying to scale marketing efforts with limited resources. Also useful for PMs who want to understand GTM challenges in new markets.\n**Read time:** 8 minutes\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n**Kids are outsmarting social media bans**\n- **What was found or demonstrated:** Studies show that age restrictions and social media bans for minors (e.g., under 15 or 16) are easily circumvented by kids. Australia's 2024 ban, for example, saw kids finding ways around it. [S18][S31]\n- **The method used:** The article refers to a study published earlier this year, likely involving surveys or observational data on youth behavior post-ban implementation.\n- **How it changes or validates current best practice:** This validates the long-held belief that attempting to restrict digital access often leads to users finding workarounds. It challenges the efficacy of top-down age-gating as a primary solution for online safety.\n- **PM action item:** When designing features or policies aimed at user safety or age-gating, assume users will actively try to circumvent them. Focus discovery efforts on understanding *why* users circumvent and design for safer engagement within the product rather than relying solely on external restrictions.\n\n---\n\n💼 PMM/PM JOBS PULSE\nNo specific job listings were provided in today's data.\n\nToday's market signals indicate a continued strong demand for AI-focused roles across both hardware and software, with companies like Microsoft, Meta, and Rivian pushing AI PCs and AI agents. The significant valuation of Ramp also suggests a healthy, if competitive, B2B SaaS market, particularly for companies that can clearly articulate and deliver AI-driven value.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n**Ramp — $60B valuation**\n- **What they do:** Provides corporate cards and finance automation software, now deeply integrating AI for spend management. [S58]\n- **GTM motion:** Product-led / Sales-led / Enterprise (85,000 customers, $2B ARR implies strong scale and enterprise traction).\n- **What this signals about B2B investment direction:** Investors are pouring money into B2B SaaS that can demonstrate clear AI integration and deliver measurable efficiency gains for businesses, especially in historically manual processes like finance.\n- **PMM implication:** If you're in B2B SaaS, double down on articulating the tangible ROI of your AI features. Your competitive narrative needs to highlight not just *that* you have AI, but *how* it directly impacts customer outcomes.\n- **PM implication:** Prioritize AI features that directly address core pain points and deliver clear, quantifiable value to users. Focus on seamless integration rather than just \"AI for AI's sake.\"\n\n**Intero Biosystems — Won Startup Battlefield at Disrupt 2026 ($100,000 prize)**\n- **What they do:** (Summary doesn't specify beyond \"Biosystems,\" implying biotech/life sciences innovation). [S42]\n- **GTM motion:** Likely Enterprise / Vertical SaaS (given \"Biosystems\" and startup competition win, targeting specific industry).\n- **What this signals about B2B investment direction:** Continued investment in deep tech and vertical SaaS, especially solutions addressing complex industry-specific problems, where a significant prize indicates strong market validation.\n- **PMM implication:** For deep tech or vertical SaaS PMMs, focus your messaging on the specific, transformative impact on industry workflows and outcomes, rather than just features. Winning awards like this is a huge trust signal.\n- **PM implication:** Prioritize solving critical, high-value problems within a specific industry niche. Validation from industry experts and competitions can be a powerful product development accelerant.\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n**GBrain Tools — A password manager for AI**\n- **One-line description:** Manages credentials and access for various AI models and tools. [S6][S60]\n- **Category:** Security / Productivity / AI Management\n- **Best for:** Both (PMMs using multiple AI tools for content/research, PMs managing dev team access to models).\n- **Free tier:** Unclear from data (Product Hunt doesn't specify), likely trial.\n- **Honest take:** Genuinely new capability. As PMMs and PMs increasingly use multiple AI tools, managing API keys, accounts, and prompts becomes a nightmare. This solves a real emerging pain point.\n- **Who should try it this week:** Anyone juggling more than three different AI tools for their daily work.\n\n**Parallax — Every coding agent you run, in one place.**\n- **One-line description:** A unified dashboard/environment for managing and monitoring AI coding agents. [S8]\n- **Category:** Developer Tools / AI Management / Productivity\n- **Best for:** PM (especially technical PMs), developers.\n- **Free tier:** Unclear from data (Product Hunt doesn't specify), likely trial.\n- **Honest take:** Addresses a growing need as AI agents become more prevalent in development workflows. It's a \"feature dressed up as a launch\" in the sense that managing agents will become a standard requirement, but Parallax is early in defining that standard.\n- **Who should try it this week:** PMs leading teams experimenting heavily with AI coding agents.\n\n**Toad — Point your agent at any machine you own.**\n- **One-line description:** Allows AI agents to interact with and control local machines. [S10]\n- **Category:** Developer Tools / AI Infrastructure / Automation\n- **Best for:** PM (technical), developers.\n- **Free tier:** Unclear from data (Product Hunt doesn't specify), likely trial.\n- **Honest take:** Genuinely new capability, pushing the boundaries of local AI agent autonomy. This aligns with the \"AI PC\" and \"ambient AI\" trends, enabling agents to operate across a user's personal computing environment.\n- **Who should try it this week:** PMs exploring local AI agent applications and integrating AI into hardware or desktop experiences.\n\n---\n\n⚡ SPEED ROUND\n📱 **iPhone Duo preorders delayed into 2027.** Apple's foldable is already a hit, or a supply nightmare. [S13]\n💻 **Microsoft Surface Laptop Ultra is the \"First Real AI PC.\"** High price, low battery, but designed for developers. [S14][S20]\n🚗 **Tesla Roadster flew, drove upside down, hit 60mph in under a second.** Musk's car reveals are still stunt shows. [S38][S39][S40]\n🤖 **Meta can now train AI on news sites for free.** New terms are a land grab for content. [S1]\n💰 **Ramp hits $60B valuation, fueled by AI.** AI-driven finance automation is printing money. [S58]\n🤝 **Meta launches Muse Spark Open, runs on Macs.** Open-weight AI models are getting more accessible. [S7][S47]\n🛡️ **Veritas expands anti-counterfeit chip to luxury goods.** Battling \"superfakes\" is a growing market. [S2]\n👨‍💻 **Replit CEO envisions \"self-driving companies\" with AI agents.** The future is autonomous, apparently. [S15]\n🛒 **Google's Universal Cart shopping tool launches in US.** Trying to consolidate your online purchases. [S59]\n⏳ **Leap second will be discontinued next year.** Global timekeeping gets simpler, averting Y2K-like issues. [S24]\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\nChallenge: **Craft a \"Why Now?\" for Localized AI-Powered GTM**\nRole focus: PMM\n\nThe setup: Your company has an AI-powered SaaS product that's crushing it in the US. Leadership wants to expand into Japan, but resources are tight. You need to convince them to invest in localizing your automated GTM, specifically highlighting the \"why now\" for an AI-driven approach.\n\nWhat to do:\nStep 1: **Review the HubSpot Japan case study:** Read the \"Marketing automation model that drove 9x qualified lead growth in a secondary market\" article from HubSpot [S3].\nStep 2: **Identify 3 key \"why now\" points:** Extract three compelling reasons why *now* is the time to invest in localized, AI-powered marketing automation for a new market. Think about market trends, competitive landscape, and internal capabilities.\nStep 3: **Draft a \"Why Now?\" slide:** Create 3 bullet points, each with a headline and 1-2 sentences of explanation, for a hypothetical internal presentation.\n\nThe exact prompt or template:\n\"Based on the HubSpot Japan case study and current market trends (e.g., AI adoption, global competition), draft three compelling 'Why Now?' arguments for investing in localized, AI-powered marketing automation for our expansion into Japan. Each argument should have a bold headline and 1-2 supporting sentences.\"\n\nWhat good looks like vs. mediocre:\n-   **Good:** Specific, data-backed (even if from the case study), ties directly to business outcomes (e.g., \"capture market share from competitors not leveraging AI,\" \"unlock 9x lead growth potential\").\n-   **Mediocre:** Generic statements about \"AI is important\" or \"we need to go global,\" without connecting to specific, urgent opportunities or threats.\n\nWhy this skill matters in the next 6 months: As companies push for global growth with lean teams, articulating a clear \"why now\" for leveraging automation and AI in new markets is critical for securing resources and driving adoption.\nTime: 15 minutes or less.\n\n---\n\n🧠 EDGE INSIGHT\nToday’s news paints a picture of AI’s dual nature: a tool for unprecedented growth and efficiency, but also a stealthy mechanism for data extraction and control. On one hand, you have companies like Ramp hitting massive valuations by deeply embedding AI into B2B workflows [S58], and Meta launching open-weight models that run locally [S47], pushing accessibility. On the other, Meta’s new terms allow it to freely train its AI on publisher content [S1], a clear power grab that redefines content ownership and value. This isn't just about privacy; it's about the future of GTM where the platforms you rely on for distribution might be simultaneously cannibalizing your IP for their own AI products. PMMs and PMs need to stop viewing AI as a feature or a cost-saver, and start seeing it as a fundamental shift in market dynamics and competitive leverage – for better or worse.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 3,
+      "title": "The marketing automation model that drove 9x qualified lead growth in a secondary market",
+      "url": "https://blog.hubspot.com/marketing/marketing-automation-secondary-market-playbook",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 4,
+      "title": "Transactional email: What it is and how it works",
+      "url": "https://blog.hubspot.com/marketing/best-transactional-email-platforms",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 5,
+      "title": "Tesla Roadster",
+      "url": "https://www.producthunt.com/products/tesla-roadster",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 6,
+      "title": "GBrain Tools",
+      "url": "https://www.producthunt.com/products/gbrain",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 7,
+      "title": "Muse Spark Open",
+      "url": "https://www.producthunt.com/products/muse-spark-open",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "Parallax",
+      "url": "https://www.producthunt.com/products/parallax-5",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 9,
+      "title": "Maybloc",
+      "url": "https://www.producthunt.com/products/maybloc",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 10,
+      "title": "Toad",
+      "url": "https://www.producthunt.com/products/toad-4",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 11,
+      "title": "Nemotron 3.5 Super VL",
+      "url": "https://www.producthunt.com/products/nvidia",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 12,
+      "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
+      "url": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
+      "source": "The Verge"
+    },
+    {
+      "id": 13,
+      "title": "iPhone Duo orders are already delayed into 2027",
+      "url": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
+      "source": "The Verge"
+    },
+    {
+      "id": 14,
+      "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
+      "url": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
+      "source": "Wired"
+    },
+    {
+      "id": 15,
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 16,
+      "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
+      "url": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
+      "source": "The Verge"
+    },
+    {
+      "id": 17,
+      "title": "The first vibe-coded gun is here",
+      "url": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
+      "source": "The Verge"
+    },
+    {
+      "id": 18,
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 19,
+      "title": "The iPhone Duo is now available to preorder at $1,999",
+      "url": "https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable",
+      "source": "The Verge"
+    },
+    {
+      "id": 20,
+      "title": "Surface Laptop Ultra review: a different kind of MacBook Pro",
+      "url": "https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review",
+      "source": "The Verge"
+    },
+    {
+      "id": 21,
+      "title": "AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy",
+      "url": "https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector/",
+      "source": "Wired"
+    },
+    {
+      "id": 22,
+      "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+      "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+      "source": "Wired"
+    },
+    {
+      "id": 23,
+      "title": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Greenlight",
+      "url": "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
+      "source": "Wired"
+    },
+    {
+      "id": 24,
+      "title": "Time is a-changin’: say goodbye to the leap second",
+      "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
+      "source": "The Verge"
+    },
+    {
+      "id": 25,
+      "title": "Jabra Enhance Select M3 Review (2026): A Big Price for Small Wins",
+      "url": "https://www.wired.com/review/review-jabra-enhance-select-m3/",
+      "source": "Wired"
+    },
+    {
+      "id": 26,
+      "title": "The New Fan’s Guide to the Unreal World of Nathan Fielder",
+      "url": "https://www.wired.com/story/the-new-fans-guide-to-the-unreal-world-of-nathan-fielder/",
+      "source": "Wired"
+    },
+    {
+      "id": 27,
+      "title": "Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat",
+      "url": "https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/",
+      "source": "Wired"
+    },
+    {
+      "id": 28,
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 29,
+      "title": "Love is infrastructure",
+      "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 30,
+      "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+      "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 31,
+      "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+      "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 32,
+      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 33,
+      "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
+      "url": "https://www.wired.com/story/total-wireless-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 34,
+      "title": "Skechers Coupon Codes 20% Off",
+      "url": "https://www.wired.com/story/skechers-coupon-codes/",
+      "source": "Wired"
+    },
+    {
+      "id": 35,
+      "title": "Surfshark Promo Codes: 87% Off | October 2026",
+      "url": "https://www.wired.com/story/surfshark-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 36,
+      "title": "HP Coupon Codes and Deals October 2026",
+      "url": "https://www.wired.com/story/hp-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "A Tesla Flying Car? I Don’t Know, Man",
+      "url": "https://www.wired.com/story/tesla-flying-car-faa/",
+      "source": "Wired"
+    },
+    {
+      "id": 38,
+      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+      "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+      "source": "The Verge"
+    },
+    {
+      "id": 39,
+      "title": "The Tesla Roadster 2 Is Here—and It Flies",
+      "url": "https://www.wired.com/story/tesla-roadster-2-launch/",
+      "source": "Wired"
+    },
+    {
+      "id": 40,
+      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 41,
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Steam can now show game achievements in separate ‘sets’",
+      "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+      "source": "The Verge"
+    },
+    {
+      "id": 44,
+      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+      "source": "Wired"
+    },
+    {
+      "id": 45,
+      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+      "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+      "source": "Wired"
+    },
+    {
+      "id": 46,
+      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 47,
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 48,
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 49,
+      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 50,
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 51,
+      "title": "Upgrade Your Thermostat for Winter With This Ecobee Deal for $120",
+      "url": "https://www.wired.com/story/ecobee-fall-sale-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 53,
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 54,
+      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
+      "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 55,
+      "title": "White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM",
+      "url": "https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 57,
+      "title": "AI agents are coming to Rivian’s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 58,
+      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+      "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 59,
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 60,
+      "title": "GBrain Tools",
+      "url": "https://www.producthunt.com/products/gbrain",
+      "source": "Product Hunt"
+    }
+  ]
+}
