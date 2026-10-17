@@ -1,0 +1,267 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T13:19:43.002348+00:00",
+  "raw_text": "Here's your daily digest, sharp and to the point.\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\n**Websites are actively blocking AI agents and demanding licensing fees for data access.**\nAutonomous AI agents from Meta, xAI, OpenAI, and Instinct are hitting walls on major sites like Yelp and Delta, which are now explicitly requiring payment for data access or blocking agents outright [S1]. The product angle most people are missing is that this isn't just a technical challenge for AI providers; it's a fundamental GTM and business model friction point for the entire AI agent ecosystem. For PMMs, this means you need to rethink value propositions that rely on unfettered access to third-party data, focusing instead on proprietary data, licensed partnerships, or unique data generation. For PMs, it's a call to design features with robust data fallback strategies, prioritize first-party data collection, or build explicit data licensing into your product roadmap. The one thing to act on or watch in the next 30 days is to audit your product's reliance on external web data and start identifying which critical features are at risk if access is restricted or monetized.\n\n---\n\n🎯 POSITIONING WATCH\n**Apple Home Collection & HomeView** — Apple's first major foray into smart home devices and a dedicated smart display. [S7][S25]\n- **Narrative angle:** Simplifying the chaotic daily routines of families with seamlessly integrated, user-friendly smart home technology that just works.\n- **ICP signal:** Busy families, existing Apple ecosystem users, and those who prioritize effortless integration and privacy over open-source flexibility.\n- **What's sharp:** The ad campaign focusing on a \"messy, frantic morning routine\" is incredibly relatable and instantly communicates a clear problem-solution fit beyond generic smart home convenience.\n- **What's fuzzy:** The \"codeveloped with partners\" (LG, Schneider) aspect could create confusion about the true \"Apple quality\" and control, which is often a key selling point for Apple products.\n- **Steal this:** Find the most chaotic, frustrating moment in your ICP's day that your product solves, and build your primary narrative around that specific emotional trigger.\n\n**HTC Vive Eagle Smart Glasses** — Positioned as the \"anti-Meta\" smart glasses, emphasizing privacy and independence from social media platforms. [S12]\n- **Narrative angle:** Offering a private, non-surveilled wearable tech experience for users wary of big tech's data practices.\n- **ICP signal:** Privacy-conscious consumers, enterprise users with strict data security requirements, and anyone actively looking for alternatives to Meta's ecosystem.\n- **What's sharp:** Directly calling themselves the \"anti-Meta\" is a bold, clear competitive statement that immediately carves out a niche and communicates a strong value proposition.\n- **What's fuzzy:** Stating it \"does just about everything Meta glasses can\" implies parity but doesn't highlight *superiority* beyond privacy. Feature set beyond privacy needs to be clearer.\n- **Steal this:** If your product has a clear, strong differentiator against a dominant competitor, explicitly name the competitor and position yourself as the direct, superior alternative.\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n**Replit vs Anthropic (and OpenAI)** — Replit, a prominent coding platform, ceased its partnership with Anthropic, citing cost, and is now working with OpenAI. [S20]\n- **What changed:** Replit replaced Anthropic's AI models with OpenAI's as the backend for its coding assistance features. This is a significant vendor swap in a core product area.\n- **Why they did this now:** Cost was a primary driver, indicating intense price competition and potentially a superior performance-to-cost ratio from OpenAI for Replit's specific use cases.\n- **PMM action item:** If your product relies on third-party AI models, immediately review your current provider's contract, pricing, and performance against key alternatives. Prepare a \"cost of inaction\" analysis if you don't switch.\n- **Battlecard update needed?** Yes — update the \"AI Backend Providers\" section for any developer tools or AI-powered platforms. Note the cost sensitivity and dynamic nature of the LLM market.\n\n**Veritas vs Counterfeiters** — Veritas expanded its anti-counterfeit chip technology to new luxury verticals like jewelry, trophies, and fragrance bottles. [S42]\n- **What changed:** Veritas is extending its existing anti-counterfeit chip solution into new, high-value product categories where authenticity is critical.\n- **Why they did this now:** \"Counterfeiters are getting better at replicating brands' marks,\" suggesting an escalating problem that creates a ripe market for advanced verification solutions. They're capitalizing on a growing pain point.\n- **PMM action item:** Look for adjacent industries or unmet needs where your existing product's core technology can solve a critical, escalating problem. Develop targeted messaging for these new verticals.\n- **Battlecard update needed?** No — unless you're a direct competitor in the anti-counterfeit space, this is more of a market expansion signal than a direct competitive feature change.\n\n---\n\n🚀 LAUNCH DISSECTION\n**Apple Home Collection & HomeView** by Apple [S7][S25]\n- **Launch tier:** T1 — This represents a major strategic shift for Apple into a new core hardware category (smart home devices and a smart display), backed by a new ad campaign and significant ecosystem expansion.\n- **Core message:** Simplify the \"messy, frantic morning routine\" with an integrated, easy-to-use Apple-powered smart home experience.\n- **GTM channels used:** Press (extensive coverage from The Verge, TechCrunch), social (implied by new ad campaign), in-product (integration with iOS/HomeKit), partner (LG, Schneider co-development), paid (new ad campaign), pre-orders/discounts [S34].\n- **Sales readiness signal:** Yes, the immediate availability of pre-orders and even a small discount on the new Apple TV 4K (which integrates with HomeView) indicates a well-oiled sales and distribution machine ready for the November launch.\n- **Buyer emotion targeted:** Frustration (with complex, fragmented smart home setups and daily chaos), Ambition (for a more organized, seamless home life).\n- **What worked:** The focus on a specific, highly relatable pain point (morning chaos for families) rather than generic \"smart home convenience.\" This makes the value tangible and emotionally resonant.\n- **What's missing:** More transparency or a clear certification program around the \"codeveloped with partners\" aspect. This could raise questions about Apple's legendary quality control if not addressed proactively.\n- **If you were the PMM:** I'd launch an \"Apple Home Certified Partner\" program, clearly outlining quality and integration standards, to proactively address concerns about third-party hardware and accelerate ecosystem growth.\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n**Emma Stratton, Punchy — Silencing self-doubt for PMMs** [S5]\n- **The core argument or insight:** Even experienced PMMs struggle with self-doubt. This internal messaging is a crucial, often overlooked, aspect of a PMM's effectiveness, and there are specific mindset tools to combat it.\n- **Community reaction:** Resonating. Many PMMs face high pressure and imposter syndrome, so practical advice on mental resilience and personal \"positioning\" is always welcome.\n- **The sharpest counter-take if one exists:** While valuable, some might argue that focusing on mindset alone can sometimes distract from the need for concrete skill development or process improvements to build confidence.\n- **Worth engaging?** Skim — good for a quick mental reset and personal reflection, but not directly tactical for immediate product or market strategy.\n\n**The Verge / TechCrunch — Websites blocking AI agents** [S1][S28]\n- **The core argument or insight:** Major websites are putting up walls against AI agents, either blocking them outright or demanding licensing fees for data access, creating a new challenge for AI product development. Rogue AI agent activity is also a concern.\n- **Community reaction:** Being debated. This touches on fundamental issues of data ownership, the future of web scraping, and the viability of AI agent business models. It's a hot-button issue.\n- **The sharpest counter-take if one exists:** Some argue this is a necessary move for content creators and data owners to monetize their assets, preventing AI companies from freely exploiting their intellectual property.\n- **Worth engaging?** Yes — this directly impacts the long-term viability and strategy for any AI-powered GTM tool or product that relies on external web data.\n\n**Wired — Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’** [S40]\n- **The core argument or insight:** MIT professor Sherry Turkle warns that using first-person pronouns for chatbots (\"I,\" \"me\") encourages dangerous anthropomorphism and over-enmeshment, blurring human-AI boundaries.\n- **Community reaction:** Resonating, but also controversial. The ethics of AI persona and how it influences user perception are actively debated among AI product teams.\n- **The sharpest counter-take if one exists:** Many argue that using \"I\" makes chatbot interactions more natural, engaging, and user-friendly, and that users are generally aware they are interacting with an AI.\n- **Worth engaging?** Skim — relevant for product voice and tone guidelines for AI features, especially in sensitive domains, but less about immediate GTM strategy.\n\n**TechCrunch — Robotics hasn’t hit its ChatGPT moment, yet** [S30]\n- **The core argument or insight:** An Nvidia insider-turned-VC argues that general robotics is still in its \"Lego era,\" meaning the fundamental building blocks (actuators, software, safety standards) are still being developed, unlike the more mature foundation models in generative AI.\n- **Community reaction:** Resonating. Many PMs and PMMs in hardware and robotics are grappling with the foundational challenges and slower pace of development compared to pure software AI.\n- **The sharpest counter-take if one exists:** While general robotics may be nascent, specific vertical robotics applications are seeing rapid advancements and adoption, suggesting a \"ChatGPT moment\" might first occur in specialized niches.\n- **Worth engaging?** Yes — frames expectations for market readiness and investment in the robotics sector, useful for long-term strategic planning and managing stakeholder expectations.\n\n---\n\n💡 USE CASE OF THE DAY\n**Quick Competitive GPU Pricing Scan**\nCategory: Competitive Intel\nRole: Both\n\nThe workflow:\nStep 1: **Define your AI/ML workload's GPU needs.**\nIdentify the specific GPU model, RAM, and usage hours (e.g., 2x NVIDIA A100 80GB, 1000 hours/month) that are most relevant to your product's AI/ML infrastructure or your customers' compute requirements.\nStep 2: **Use GPU Terminal by Context.dev to compare prices.**\nInput your target GPU configuration into GPU Terminal to get an immediate comparison of rental prices across major cloud providers (AWS, Azure, GCP, etc.). [S4]\nStep 3: **Analyze and document pricing variations.**\nScreenshot or export the comparison, noting significant price differences, regional variations, or any bundled discounts.\nTools used: GPU Terminal by Context.dev\nTime to complete: 10-15 minutes\nOutput you get: A clear, actionable snapshot of competitive GPU infrastructure costs, highlighting potential cost advantages or disadvantages for your own cloud deployments or for your customers if you offer AI services.\nWhy it matters now: In a highly competitive AI market, infrastructure cost efficiency directly impacts profitability and allows for more aggressive pricing strategies.\n\n---\n\n📚 LEARNING PICK OF THE DAY\n**Emma Stratton, Founder of Punchy, shares three mindset tools to help you silence self-doubt** — Emma Stratton — Product Marketing Alliance [S5]\n\nWhat it's about: This piece dives into the often-unspoken internal challenges PMMs face, specifically self-doubt. It argues that building confidence in your messaging – both for your product and for yourself – is crucial for effective product marketing, offering practical mental tools to overcome internal barriers.\n3 actionable takeaways:\n1.  **Map your negative self-talk:** Identify the specific, recurring negative thoughts or beliefs you have about your capabilities. Write them down to make them tangible and less amorphous.\n2.  **Challenge the evidence:** For each negative thought, objectively ask what concrete evidence supports it. Often, these thoughts are based on feelings or assumptions, not facts.\n3.  **Craft your personal positioning statement:** Just as you position a product, create a concise statement defining your unique value, strengths, and impact as a PMM. Use it to reframe your internal narrative.\nWho should read this: PMM — especially those mid-career or in high-pressure roles looking to boost their internal confidence and mental resilience.\nRead time: 5-7 minutes\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n**AI Isn’t Ready to Tackle Our Convoluted Genomes** [S15]\n- **What was found or demonstrated:** Current AI models, despite their advancements, lack the nuanced data and sophisticated understanding required to fully decode the highly dynamic and complex nature of human genomes. DNA is far more than just a static instruction set.\n- **The method used:** Expert analysis and synthesis of the current state of AI capabilities in genomics compared against the known biological complexity of DNA.\n- **How it changes or validates current best practice:** It validates the critical need for deep domain expertise and rich, context-specific data in highly complex scientific fields. AI is a powerful tool, but it's not a magic bullet for problems where fundamental biological understanding is still evolving.\n- **PM action item:** If your product involves AI in complex scientific or specialized domains, ensure your AI development teams are deeply integrated with domain experts. Manage stakeholder expectations about AI's current limitations and focus on building AI that *assists* human expertise rather than fully replacing it in these nascent areas.\n\n---\n\n💼 PMM/PM JOBS PULSE\nNo job listings were provided in today's data.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n**Mark Wahlberg's Affordable Gym Concept** — New venture [S16]\n- **What they do:** Launching an affordable gym chain offering longevity-focused services like cold plunges, blood panels, and healthy food, aiming to democratize high-end wellness.\n- **GTM motion:** Marketing-led (leveraging celebrity brand), potentially community-led, with a focus on value and accessibility in the burgeoning longevity market.\n- **What this signals about B2B investment direction:** A growing market for B2B solutions that enable the democratization and scale of wellness, health tech, and longevity services, moving beyond just the ultra-wealthy.\n- **PMM implication:** Look for opportunities to position your product as an enabler of affordability, accessibility, or scale within niche, high-value markets.\n- **PM implication:** Consider how to unbundle premium services or integrate multiple offerings to create more accessible, holistic solutions for a broader consumer base.\n\n**Waymo to Canada** — Geographic expansion [S33]\n- **What they do:** Waymo is expanding its autonomous robotaxi testing to Toronto, Canada.\n- **GTM motion:** Product-led (the robotaxi service itself is the core offering), regulatory/partner-led (requiring local government approval and infrastructure understanding).\n- **What this signals about B2B investment direction:** Continued, albeit cautious, investment and expansion in autonomous vehicle technology, with a focus on proving viability in diverse international urban environments.\n- **PMM implication:** When entering new geographic markets, conduct thorough research into local regulations, infrastructure, and cultural nuances. Craft messaging that directly addresses local concerns (e.g., safety, economic impact).\n- **PM implication:** Product localization extends beyond language to include adapting to local regulatory frameworks, weather conditions, driving behaviors, and urban planning.\n\n**Replit drops Anthropic for OpenAI** — Strategic vendor shift [S20]\n- **What they do:** Replit, a popular coding platform, switched its primary AI model provider from Anthropic to OpenAI, citing cost as a key factor.\n- **GTM motion:** Product-led (AI integration is a core value proposition for developers), developer-led.\n- **What this signals about B2B investment direction:** The underlying AI model market is fiercely competitive, with cost and performance being critical differentiators. Companies are willing to switch providers to optimize their stack.\n- **PMM implication:** If your product relies on an underlying AI model, prepare messaging for potential vendor changes, highlighting reliability, performance, and cost-efficiency.\n- **PM implication:** Prioritize modularity in AI integrations to minimize switching costs. Continuously evaluate alternative AI models for performance, cost, and feature parity to ensure optimal outcomes.\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n**Salience** — See every request to your website and how it responds. [S3]\n- **Category:** Analytics, Performance Monitoring\n- **Best for:** PM (for deep site performance diagnostics, error tracking), PMM (for understanding how website health impacts user journeys and conversion).\n- **Free tier:** Unclear from provided data, likely a trial.\n- **Honest take:** If it truly provides granular insights into \"every request\" in an actionable way, this is a genuine upgrade from standard analytics. Sounds like a detailed debugging and optimization tool.\n- **Who should try it this week:** PMs and web ops teams struggling with intermittent website performance issues or looking for deeper insights into user request patterns.\n\n**GPU Terminal by Context.dev** — Compare GPU rental prices across cloud providers. [S4]\n- **Category:** Competitive Intel, Cost Optimization\n- **Best for:** Both (PMM for understanding the cost structure of AI services, PM for optimizing infrastructure spend).\n- **Free tier:** Unclear from provided data, likely a trial or freemium for basic comparisons.\n- **Honest take:** Genuinely useful. GPU costs are a massive variable for AI-driven products. A tool that simplifies this complex comparison provides immediate, tangible value.\n- **Who should try it this week:** PMs and PMMs whose products have significant GPU infrastructure costs, or whose pricing models are heavily influenced by compute expenses.\n\n**Step 5 Preview** — 600B open weights, trained for long-running agents. [S6][S43]\n- **Category:** AI Development, Foundation Models\n- **Best for:** PM (for evaluating next-gen AI capabilities), PMM (for understanding the frontier of AI agent applications and potential use cases).\n- **Free tier:** Unclear, but \"open weights\" typically implies potential for self-hosting.\n- **Honest take:** Potentially a genuinely new capability, especially the \"long-running agents\" aspect, which addresses a key limitation of earlier AI models. The 600B parameter count is substantial.\n- **Who should try it this week:** PMs actively building or considering building products around autonomous AI agents, particularly if current models struggle with task persistence and multi-step reasoning.\n\n---\n\n⚡ SPEED ROUND\n*   🤖 AI agents are hitting a paywall: major websites are blocking them or charging for data access. [S1]\n*   📱 Apple finally launched its foldable, the iPhone Duo, with iOS 27 revamped for it. [S17]\n*   🏡 Apple's Home Collection and HomeView mark a big new push into smart home hardware. [S7][S25]\n*   🎧 Wired earbuds are cool again with Gen Z, driving a sales resurgence for old tech. [S2]\n*   🍎 Apple updated App Store rules to ban \"nudify\" AI apps after recent deepfake scandals. [S18]\n*   🏎️ Tesla driver claims he was asleep using FSD during a highway patrol car crash. Yikes. [S22]\n*   🧬 AI still can't fully decode our complex genomes; human expertise remains critical. [S15]\n*   💸 Replit ditched Anthropic for OpenAI, citing cost. The AI model market is cutthroat. [S20]\n*   🇨🇦 Waymo's robotaxis are expanding to Canada, starting with testing in Toronto. [S33]\n*   🗣️ An MIT professor warns against chatbots using \"I\" or \"me\" to avoid dangerous human-AI enmeshment. [S40]\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\nChallenge: **Audit Your AI Agent's External Data Dependencies**\nRole focus: Both\n\nThe setup: Today's news makes it clear: the era of free, unfettered web data for AI agents is ending. Websites are blocking access or demanding licensing fees. This is a critical GTM and product risk for any AI solution relying on external web scraping or automated interaction.\n\nWhat to do:\nStep 1: **List AI features with external dependencies.**\nOpen a spreadsheet (Google Sheets, Notion, Excel). Create columns for \"Feature Name,\" \"External Data Source/API,\" \"Key Data Points Used,\" \"Current Licensing? (Yes/No/N/A),\" \"Risk Level (High/Medium/Low),\" and \"Mitigation/Fallback Idea.\"\nStep 2: **Populate and assess risk.**\nList all AI-powered features in your product that interact with external websites or third-party APIs. For each, identify the specific external data sources and note whether you have explicit licensing. Assign a risk level based on criticality and likelihood of access issues.\nStep 3: **Brainstorm mitigation strategies.**\nFor each \"High\" or \"Medium\" risk item, briefly brainstorm a \"Mitigation/Fallback Idea\" (e.g., \"Explore data licensing,\" \"Focus on proprietary data,\" \"Develop user-provided input mechanisms\").\n\nThe exact prompt or template:\n```\nAI Agent External Data Dependency Audit\n\n| Feature Name | External Data Source/API | Key Data Points Used | Current Licensing? (Yes/No/N/A) | Risk Level (High/Medium/Low) | Mitigation/Fallback Idea |\n|---|---|---|---|---|---|\n| [e.g., AI-powered competitive analysis] | [e.g., Competitor marketing sites, industry news feeds] | [e.g., Pricing, feature updates, market sentiment] | [e.g., No (relying on scraping)] | High | [e.g., Research data licensing options, implement manual data input for critical gaps, partner with data aggregators] |\n| [e.g., Automated customer support agent] | [e.g., Third-party knowledge base, social media feeds] | [e.g., Product FAQs, public customer complaints] | [e.g., Yes (for KB), No (for social)] | Medium | [e.g., Prioritize first-party data for KB, implement social listening tools with API access] |\n```\n\nWhat good looks like vs. mediocre:\n-   **Good:** A comprehensive list that includes specific external sources, an honest and well-justified risk assessment, and concrete initial ideas for mitigation for each high-risk item.\n-   **Mediocre:** A vague list, generic \"the internet\" as a data source, an overly optimistic \"Low\" risk for critical, un-licensed data, or no ideas for how to address the risks.\n\nWhy this skill matters in the next 6 months: Proactive risk management for AI data access will be a defining factor for which AI products survive and thrive as the internet pushes back against unfettered scraping.\n\n---\n\n🧠 EDGE INSIGHT\nThe biggest GTM signal today isn't about a new AI model or a fancy product launch, it's about the internet finally pushing back. Websites blocking AI agents and demanding licensing isn't just a technical hurdle; it's the beginning of the end for the \"free data\" era that fueled the first wave of AI innovation. This implies a massive shift in how AI-first products will acquire and monetize data. The real advantage won't just be in having the best models, but in securing proprietary data, navigating complex licensing, or building products that *generate* unique, valuable data rather than just consuming it. This is going to redefine competitive moats in AI, making data ownership and access a far more critical strategic asset than it's been in years.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "Bose’s new wired earbuds are simple in the best way",
+      "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+      "source": "The Verge"
+    },
+    {
+      "id": 3,
+      "title": "Salience",
+      "url": "https://www.producthunt.com/products/salience",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 4,
+      "title": "GPU Terminal by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 5,
+      "title": "Emma Stratton, Founder of Punchy,  shares three mindset tools to help you silence self-doubt",
+      "url": "https://www.productmarketingalliance.com/3-mindset-tools-to-silence-self-doubt/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 6,
+      "title": "Step 5 Preview",
+      "url": "https://www.producthunt.com/products/step-3-5-flash",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 7,
+      "title": "Apple’s HomeView is just the latest threat to online recipe writers",
+      "url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+      "source": "The Verge"
+    },
+    {
+      "id": 8,
+      "title": "It’s a dream week for tech docs",
+      "url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
+      "source": "The Verge"
+    },
+    {
+      "id": 9,
+      "title": "Encryption Is Getting Squeezed From All Sides",
+      "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+      "source": "Wired"
+    },
+    {
+      "id": 10,
+      "title": "The Best LED Grow Lights for Houseplants This Winter (2026)",
+      "url": "https://www.wired.com/story/best-led-grow-lights/",
+      "source": "Wired"
+    },
+    {
+      "id": 11,
+      "title": "These 12 Automatic Cat Feeders Were the Best We Tested in 2026",
+      "url": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
+      "source": "Wired"
+    },
+    {
+      "id": 12,
+      "title": "HTC Made Smart Glasses That Are Way More Private",
+      "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+      "source": "Wired"
+    },
+    {
+      "id": 13,
+      "title": "Don’t Let a Crypto Inheritance Get Stuck on the Blockchain",
+      "url": "https://www.wired.com/story/crypto-inheritance-how-to/",
+      "source": "Wired"
+    },
+    {
+      "id": 14,
+      "title": "Microplastics React With Water, a New Study Says. That’s a Problem for Biology",
+      "url": "https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/",
+      "source": "Wired"
+    },
+    {
+      "id": 15,
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "source": "Wired"
+    },
+    {
+      "id": 16,
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 17,
+      "title": "All the news about the iPhone Duo",
+      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "source": "The Verge"
+    },
+    {
+      "id": 18,
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "source": "The Verge"
+    },
+    {
+      "id": 19,
+      "title": "The Leap Second Is No More",
+      "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+      "source": "Wired"
+    },
+    {
+      "id": 20,
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 21,
+      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "source": "The Verge"
+    },
+    {
+      "id": 22,
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "source": "The Verge"
+    },
+    {
+      "id": 23,
+      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+      "source": "Wired"
+    },
+    {
+      "id": 24,
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 25,
+      "title": "Why Apple is finally making its own smart home devices",
+      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "source": "The Verge"
+    },
+    {
+      "id": 26,
+      "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
+      "url": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
+      "source": "Wired"
+    },
+    {
+      "id": 27,
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 28,
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 29,
+      "title": "Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’",
+      "url": "https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/",
+      "source": "Wired"
+    },
+    {
+      "id": 30,
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 31,
+      "title": "Razer Barracuda V2 Pro Review: A Gaming Headset for the Office",
+      "url": "https://www.wired.com/review/razer-barracuda-v2-pro/",
+      "source": "Wired"
+    },
+    {
+      "id": 32,
+      "title": "Thank Gen Z for the ‘Girls’ Revival",
+      "url": "https://www.wired.com/story/thank-gen-z-for-the-girls-revival/",
+      "source": "Wired"
+    },
+    {
+      "id": 33,
+      "title": "Waymo’s robotaxis are headed to Canada",
+      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 34,
+      "title": "The new Apple TV 4K just got its first (very small) discount",
+      "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 35,
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 36,
+      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 37,
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+      "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 38,
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 39,
+      "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
+      "url": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
+      "source": "Wired"
+    },
+    {
+      "id": 40,
+      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+      "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+      "source": "Wired"
+    },
+    {
+      "id": 41,
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Step 5 Preview",
+      "url": "https://www.producthunt.com/products/step-3-5-flash",
+      "source": "Product Hunt"
+    }
+  ]
+}
