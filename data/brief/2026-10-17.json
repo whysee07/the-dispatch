@@ -1,0 +1,369 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T15:11:44.812465+00:00",
+  "raw_text": "Alright, here's the rundown from the last couple of days. Grab a coffee, or a perfectly crafted artisanal cocktail — dealer's choice.\n\n### Money Talk\n\n-   **Managed Futures flex on bonds.**\n    Hedge funds betting on managed futures could be the smart money move for the next decade, especially if you're tired of bonds being \"dead money.\" Time to check your asset allocation. [S1]\n-   **Timberland: The ultimate long game (or profit trap).**\n    Institutional investors are sinking serious cash into US timberland, playing a multi-decade game for returns. Risky? Absolutely. But if it pays off, those pension funds will be looking verdant. [S2]\n-   **Berkshire Hathaway defies the market.**\n    While the rest of us are watching portfolios dip, Berkshire shares just hit a new high since Buffett announced his retirement. Turns out, some legacies just keep printing money. [S5]\n-   **Trump's loan overhaul could spike bankruptcies.**\n    A former bankruptcy judge warns that Trump's student loan changes might lead to a surge in filings. Seems \"forgiveness\" has its own price, legally speaking. [S3]\n-   **Rolls-Royce goes full bespoke.**\n    Forget off-the-rack luxury; Rolls-Royce is thriving on insane custom requests, from 3,000 feathers to pet portraits. Proof that the super-rich will always pay for unique. [S15]\n\n### World Lore\n\n-   **Trump waives Russia sanctions, draws ire.**\n    Just weeks after signing new sanctions, Trump hit the 'pause' button late Friday, citing \"national interests.\" Zelenskyy is not thrilled, calling it a boost for Putin's war efforts in Ukraine. [S16][S21][S34]\n-   **West Bank settler attacks escalate.**\n    Masked Israeli settlers attacked Palestinians and even a US photojournalist during an olive harvest. Netanyahu promised to investigate, but stopped short of outright condemnation. This isn't exactly a new phenomenon. [S24][S26]\n-   **Pope Leo discharged after cancer surgery.**\n    Good news from the Vatican: Pope Leo XIV is out of the hospital after successful lung cancer surgery, clearing his rigorous travel schedule. No leadership vacuum fears, at least for now. [S18][S32]\n-   **India protests intensify over voter lists.**\n    New Delhi is seeing massive crowds waving flags as protests mount over a voter list review critics say is politically motivated. Modi's administration denies it, but the \"Cockroach\" movement founder was just released under conditions, so it's clearly a hot mess. [S25][S28][S33]\n-   **UK's central banker walks out on Russia.**\n    Bank of England Governor Andrew Bailey joined other finance leaders in walking out of an IMF summit in Bangkok when Russia's finance minister spoke. A clear signal, even if mostly symbolic. [S14]\n\n### Tech Tea\n\n-   **Tesla drops a flying car? Maybe.**\n    Elon Musk apparently showcased a \"flying car\" developed with SpaceX. Details are sparse, but if it's real, expect traffic to get a whole new dimension of awful. [S10]\n-   **Websites close doors to AI scrapers.**\n    Autonomous AI agents are the \"hottest thing\" until websites decide they don't want their content scraped for free. Meta just removed language that allowed it, and others are following suit. The internet's wild west era for AI might be ending. [S46][S50]\n-   **Solar power lights up the grid.**\n    For the first time ever, solar power has globally surpassed nuclear power. Good news for climate and energy grids, bad news if you like glowing green rods. [S36]\n-   **India reports \"rogue AI agent\" activity.**\n    Looks like AI gone wild isn't just a Silicon Valley problem. India's latest report cites rogue agents exploiting exposed credentials and configs. Time to tighten up those app settings, folks. [S44]\n-   **SpaceX aims to be a major wireless carrier.**\n    Musk's empire is gunning for AT&T and Verizon, acquiring a big chunk of low-band spectrum to expand Starlink. Bet on the man who wants to literally blanket the world in internet. [S49]\n\n### Creator Szn\n\n-   **Ruggable ditches Meta for creators.**\n    The rug company is pulling ad dollars from Meta and shifting focus to ShopMy creators ahead of a potential IPO. A clear sign where marketing budgets are heading. [S56]\n-   **Social commerce outpaces SEO for The Independent.**\n    For the first time, The Independent's revenue from social commerce surpassed its SEO-driven commerce. Content is king, but apparently, social selling is the new queen. [S58]\n-   **Media execs pressure OpenAI over scraping.**\n    Reach CEO Piers North is not only touting his Google AI content deal as a blueprint but also sending cease-and-desist letters to OpenAI for scraping. The battle for content compensation heats up. [S57]\n-   **Brands still mapping creator microseries.**\n    Everyone wants a piece of creator-led microseries, but brands are still figuring out the ownership, control, and margin structure. The wild west of brand partnerships continues. [S59]\n\n### Speed Round\n\n-   Mark Wahlberg is getting into the \"affordable\" gym biz with cold plunges and blood panels.\n-   An underwater shadow war is reportedly raging, mostly out of sight.\n-   Pikmin 4 just got a $20 discount ahead of its Nintendo Switch 2 update.\n-   Elon Musk believes AI and robots are the only way to fix the national deficit.\n-   Canada's new surveillance law is the latest global squeeze on encryption.\n-   The Porsche Macan Turbo EV is a 630hp \"automotive existential crisis.\"\n-   Nightclubs are disappearing, leaving young people without a place to \"let loose.\"",
+  "sources": [
+    {
+      "id": 1,
+      "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+      "url": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 2,
+      "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
+      "url": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 3,
+      "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
+      "url": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 4,
+      "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
+      "url": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 5,
+      "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
+      "url": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 6,
+      "title": "Low-cost clinic helps pet owners with vet bills",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 7,
+      "title": "Call for more food funding due to high living cost",
+      "url": "https://www.bbc.co.uk/news/articles/cqde8zk6d916o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 8,
+      "title": "Charity reflects on changing needs over 25 years",
+      "url": "https://www.bbc.co.uk/news/articles/c615jnxv7n45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 9,
+      "title": "Nightclubs are disappearing - and it's affecting young people",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yngn0pl2ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 10,
+      "title": "Watch: Did Tesla really just unveil a flying car?",
+      "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 11,
+      "title": "Why Britain should reject the lure of cheap – and  scary – Chinese AI",
+      "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 12,
+      "title": "Move over, pervert glasses – the latest toxic trend is robogroping",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/smartglasses-robogroping-toxic-trends",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 13,
+      "title": "Inside the long, bitter fight over one man’s quest to build the biggest AI datacenter in California",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 14,
+      "title": "Bank of England governor walks out of IMF summit in protest against Russia",
+      "url": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 15,
+      "title": "From 3,000 feathers to pet portraits, Rolls-Royce rides high on custom craze",
+      "url": "https://www.theguardian.com/business/2026/oct/17/rolls-royce-customised-cars",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 16,
+      "title": "Trump waives new Russia sanctions in the \"national interests\"",
+      "url": "https://www.axios.com/2026/10/17/trump-russia-sanctions",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+      "url": "https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "A welcome recovery milestone for Pope Leo after cancer surgery",
+      "url": "https://www.axios.com/2026/10/17/pope-leo-xiv-lung-cancer-treatment-hospital-discharge",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Trump ratchets up the chaos in an October barrage",
+      "url": "https://www.axios.com/2026/10/17/trump-october-midterms-controversy",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "Exclusive: Musk tells Isaacson \"AI and robots\" will need to fix deficit",
+      "url": "https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 22,
+      "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 23,
+      "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
+      "url": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 24,
+      "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 25,
+      "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
+      "url": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 26,
+      "title": "Israeli Settlers Launch a Coordinated Attack in the West Bank",
+      "url": "https://foreignpolicy.com/2026/10/16/israel-settler-attacks-palestinians-west-bank-washington-post-levine/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "An Underwater Shadow War Is Raging",
+      "url": "https://foreignpolicy.com/2026/10/16/undersea-war-book-review-cables-ocean-gray-zone-tactics/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "What in the World?",
+      "url": "https://foreignpolicy.com/2026/10/16/news-quiz-houthi-saudi-strikes-trump-commercials-india-protests/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "How This Year’s Economics Nobel Winners Shaped the World",
+      "url": "https://foreignpolicy.com/2026/10/16/economics-nobel-central-banks-fed-warsh-woodford-hall/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "Nostalgia and Tonic",
+      "url": "https://foreignpolicy.com/2026/10/16/gin-tonic-churchill-nostalgia-invented-tradition/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "China's influence in the gaming industry is growing",
+      "url": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 32,
+      "title": "Pope Leo leaves hospital after cancer surgery",
+      "url": "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 33,
+      "title": "India news: CJP founder released a day after detention",
+      "url": "https://www.dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 34,
+      "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+      "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 35,
+      "title": "Germany news: Merz faces conservative youth wing in Bonn",
+      "url": "https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 36,
+      "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 37,
+      "title": "Making Chicken Transparent Using Dorito Dust",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 38,
+      "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+      "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 39,
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 40,
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 41,
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+      "url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
+      "url": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
+      "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "Encryption Is Getting Squeezed From All Sides",
+      "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+      "source": "WIRED"
+    },
+    {
+      "id": 52,
+      "title": "The Best LED Grow Lights for Houseplants This Winter (2026)",
+      "url": "https://www.wired.com/story/best-led-grow-lights/",
+      "source": "WIRED"
+    },
+    {
+      "id": 53,
+      "title": "These 12 Automatic Cat Feeders Were the Best We Tested in 2026",
+      "url": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
+      "source": "WIRED"
+    },
+    {
+      "id": 54,
+      "title": "HTC Made Smart Glasses That Are Way More Private",
+      "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+      "source": "WIRED"
+    },
+    {
+      "id": 55,
+      "title": "Don’t Let a Crypto Inheritance Get Stuck on the Blockchain",
+      "url": "https://www.wired.com/story/crypto-inheritance-how-to/",
+      "source": "WIRED"
+    },
+    {
+      "id": 56,
+      "title": "Ruggable’s new ad spend strategy shifts focus to ShopMy creators",
+      "url": "https://digiday.com/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "Reach CEO touts Google AI deal as a template, steps up pressure on OpenAI over scraping",
+      "url": "https://digiday.com/media/reach-ceo-touts-google-ai-deal-as-a-template-steps-up-pressure-on-openai-over-scraping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "Social commerce edges past SEO at The Independent for the first time",
+      "url": "https://digiday.com/media/social-commerce-edges-past-seo-at-the-independent-for-the-first-time/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "Ownership, control, margins: the brand playbook for microseries is still taking shape",
+      "url": "https://digiday.com/media/ownership-control-margins-the-brand-playbook-for-microseries-is-still-taking-shape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "Future of Marketing Briefing: The holdcos long, awkward courtship of the C-suite",
+      "url": "https://digiday.com/marketing/future-of-marketing-briefing-the-holdcos-long-awkward-courtship-of-the-c-suite/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    }
+  ]
+}
