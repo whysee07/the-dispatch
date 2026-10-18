@@ -1,0 +1,339 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T15:33:38.026626+00:00",
+  "raw_text": "Today is Sunday, October 18, 2026. Let's get into it.\n\nMoney Talk\n- **US warns Ukraine to play nice about Starlink.**\n  Bessent, a U.S. official, apparently told Zelenskyy to \"be very careful\" with his claims that the U.S. is throttling Starlink. Guess satellite internet is the new geopolitical chess piece, especially when it's critical for defense. [S1]\n- **Iran flexes \"new operational plan\" amid shipping woes.**\n  Mohsen Rezaei from Iran's Supreme National Security Council announced they've got a response ready if the U.S. attacks again, right as shipping vessels are reporting strikes. Bet your bottom dollar the oil markets are watching this closely. [S3]\n- **UK government to regulate heating oil prices.**\n  As the winter chill approaches, heating oil customers are bracing for a tough season. Good thing the government is planning to step in and regulate prices, because nothing says \"free market\" like government price controls. [S10]\n- **Manchester City owner's £55m housing loan investigated.**\n  A £55m loan to the Abu Dhabi owners of Manchester City for a housing project is under the microscope, with the PM demanding \"full transparency.\" Just another day in the world of high-stakes sports-adjacent real estate, I guess. [S11]\n- **EPA quietly walks back Pfas phase-out claims.**\n  The Environmental Protection Agency has discreetly changed its website after previously claiming two of the most dangerous Pfas compounds were phased out. Meanwhile, a Texas chemical firm keeps manufacturing plastic containers with the stuff. \"Quietly backtracks\" is doing some heavy lifting there. [S15]\n\nWorld Lore\n- **French protests erupt into widespread social unrest.**\n  Cost-of-living demonstrations have boiled over in France, leading to hundreds of thousands of protesters, 1,800 arrests, violent clashes, and shops being looted—including Limoges' historic town hall getting torched. The French don't just protest, they make a statement. [S23][S25][S35]\n- **Trump backs Netanyahu days before Israeli election.**\n  With just nine days to go, President Trump has endorsed Israeli Prime Minister Benjamin Netanyahu. A timely nod from a former POTUS could be exactly what Bibi needs in a tight race. [S16]\n- **Zelenskyy talks with Trump envoys amid U.S.-Ukraine \"crisis.\"**\n  Ukrainian President Zelenskyy had his first call with senior U.S. officials Steve Witkoff and Jared Kushner since \"tensions\" flared, focusing on resuming peace talks with Russia. Sounds like a delicate diplomatic dance. [S17]\n- **Ukraine apologizes after suspected drone lands in Lithuania.**\n  A drone, possibly Ukrainian, crashed in Lithuania, prompting NATO jets to scramble. Kyiv blames Russian jamming for diverting drones targeting Russia. An accidental international incident, just what we needed. [S31]\n- **Gabon fights to protect sacred plant from US drug companies.**\n  Gabon is moving to safeguard its traditional Iboga root, believed to treat addiction and mental illnesses, from being monopolized by U.S. drug companies. It's the classic tale of cultural heritage vs. corporate pharma. [S14]\n\nTech Tea\n- **Anthropic warns of impending \"AI worms.\"**\n  The AI company Anthropic is sounding the alarm about self-replicating \"AI worms\" potentially becoming feasible by the end of the year. Because, you know, we needed another thing to worry about from AI. [S12]\n- **Microsoft bails on UK AI datacenter due to power issues.**\n  Microsoft has pulled out of a massive AI datacenter project in Essex, UK, citing concerns about power supply. Guess all that generative AI needs more juice than the grid can handle right now. [S13]\n- **Websites start blocking AI web agents.**\n  More and more websites are shutting their digital doors to AI agents, likely to prevent rampant content scraping for training models. It’s like the internet’s version of a \"no soliciting\" sign. [S37]\n- **Anthropic's AI safety bill needs 50 deaths or $1B in damages to kick in.**\n  Their proposed AI safety legislation sets a remarkably high bar for intervention: 50 deaths or $1 billion in damages. So, basically, the Commerce Department only gets involved after the catastrophe has already happened. Bold strategy. [S38]\n- **Tesla admits Roadster reservations might never deliver.**\n  If you're still holding out for your new Tesla Roadster, the company just stated they \"cannot guarantee\" you'll ever get the car. Yet another reminder that putting down deposits for future tech is basically a lottery ticket. [S39]\n\nCreator Szn\n- **OnlyFans creators fume over Meta's AI sexting hypocrisy.**\n  Adult performers are publicly calling out Meta for allowing its AI agent, Muse, to \"talk dirty\" while simultaneously enforcing strict content restrictions on human creators' accounts. Seems like a clear case of \"rules for thee, but not for AI.\" [S52]\n- **TikTok bans 'Musk' documentary advertising account.**\n  A four-hour documentary about Elon Musk has had its advertising account permanently banned by TikTok. Apparently, even mentioning the tech titan can be too controversial for the platform. [S42]\n- **Meta quietly tweaks AI data scraping language.**\n  Meta has removed language that raised concerns about how it scrapes data and trains AI. While they insist it doesn't change their actual practices, it’s a good reminder that your digital content is always part of a bigger data game. [S41]\n\nSpeed Round\n- Parents who teach their kids six specific lessons early on are raising resilient, successful adults.\n- A new tidal energy generator could literally energize struggling coastal towns.\n- Decades-long GOP winning streaks are on the line as Democrats contest historically red states.\n- California and Louisiana lead the nation in poverty when you factor in the insane cost of living.\n- Pope Leo XIV is back and gradually resuming duties after lung surgery, so the pontiff is a trooper.\n- The State Department is still dealing with the fallout from the Kimberly Guilfoyle scandal, which probably isn't helping morale.\n- Trump claimed Google \"kisses his ass\" and bragged about renaming the Gulf of Mexico, because why not?",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
+      "url": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 2,
+      "title": "The bloated workweek is coming for Sundays—as some embrace flexibility, others worry about job security",
+      "url": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 3,
+      "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+      "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 4,
+      "title": "I've studied over 200 kids—parents who raise resilient, successful children teach them these 6 lessons early on",
+      "url": "https://www.cnbc.com/make-it/2026/10/18/parenting-lessons-resilient-successful-well-adjusted.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 5,
+      "title": "Roth conversions: When the ‘juice isn't really worth the squeeze,’ according to a top-ranked advisor",
+      "url": "https://www.cnbc.com/2026/10/18/roth-conversion-2026.html",
+      "source": "US Top News and Analysis"
+    },
+    {
+      "id": 6,
+      "title": "Gleaning group gives £1m of produce to food banks",
+      "url": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 7,
+      "title": "What is the Budget and what could be in it?",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 8,
+      "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
+      "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 9,
+      "title": "'I took a chance on the whisky industry and I haven't looked back'",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 10,
+      "title": "Heating oil customers face tough winter",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News"
+    },
+    {
+      "id": 11,
+      "title": "Manchester City owner’s £55m housing loan while Burnham was mayor investigated",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 12,
+      "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
+      "url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 13,
+      "title": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 14,
+      "title": "The next ayahuasca? Gabon fights to protect sacred plant from US drug companies",
+      "url": "https://www.theguardian.com/environment/2026/oct/18/gabon-sacred-plant-said-to-cure-addiction-trauma-pharmaceutical-companies-iboga-root-aoe",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 15,
+      "title": "EPA quietly backtracks on claims US has phased out toxic Pfas compounds",
+      "url": "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins",
+      "source": "Business | The Guardian"
+    },
+    {
+      "id": 16,
+      "title": "Trump endorses Netanyahu 9 days before Israel election",
+      "url": "https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Zelensky speaks to Witkoff, Kushner amid U.S.-Ukraine crisis",
+      "url": "https://www.axios.com/2026/10/18/zelensky-witkoff-kushner-ukraine-russia-crisis",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Decades-old GOP winning streaks are suddenly at risk",
+      "url": "https://www.axios.com/2026/10/18/democrat-2026-republican-winning-streak-kansas",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Anti-party, anti-politician candidates surge in midterms",
+      "url": "https://www.axios.com/2026/10/18/unconventional-candidates-2026-midterms",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "The overlooked geography of American poverty",
+      "url": "https://www.axios.com/2026/10/18/american-poverty-map-states-california-louisiana",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+      "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 22,
+      "title": "Major fire breaks out in Alberta after deadly incident at military base",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 23,
+      "title": "Student protests widen into greater social unrest in France",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 24,
+      "title": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 25,
+      "title": "French police arrest 1,800 after violent clashes and looting mar protests",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
+      "source": "NPR Topics: World"
+    },
+    {
+      "id": 26,
+      "title": "Israeli Settlers Launch a Coordinated Attack in the West Bank",
+      "url": "https://foreignpolicy.com/2026/10/16/israel-settler-attacks-palestinians-west-bank-washington-post-levine/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "An Underwater Shadow War Is Raging",
+      "url": "https://foreignpolicy.com/2026/10/16/undersea-war-book-review-cables-ocean-gray-zone-tactics/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "What in the World?",
+      "url": "https://foreignpolicy.com/2026/10/16/news-quiz-houthi-saudi-strikes-trump-commercials-india-protests/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "How This Year’s Economics Nobel Winners Shaped the World",
+      "url": "https://foreignpolicy.com/2026/10/16/economics-nobel-central-banks-fed-warsh-woodford-hall/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "Nostalgia and Tonic",
+      "url": "https://foreignpolicy.com/2026/10/16/gin-tonic-churchill-nostalgia-invented-tradition/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "Ukraine apologizes after a suspected drone crashes in Lithuania, damaging a moving car.",
+      "url": "https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 32,
+      "title": "Pope appears in public for first time since surgery",
+      "url": "https://www.dw.com/en/pope-appears-in-public-for-first-time-since-surgery/a-79692583?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 33,
+      "title": "France: Young voters blase about Glucksmann's Socialists",
+      "url": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 34,
+      "title": "Is Germany's eight-hour workday under threat?",
+      "url": "https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 35,
+      "title": "France reports more than 1,800 arrests after riots, looting and arson during cost-of-living protests",
+      "url": "https://www.dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle"
+    },
+    {
+      "id": 36,
+      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 37,
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 38,
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 39,
+      "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
+      "url": "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 40,
+      "title": "Theranos-Style Fraud Has Become the Norm",
+      "url": "https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "id": 41,
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+      "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+      "url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "J Mascis has nothing better to do",
+      "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Trump says Google kisses his ass",
+      "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "The best gadget I bought this year is a milk frother",
+      "url": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "How overhead projectors took over your classroom",
+      "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
+      "url": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/",
+      "source": "WIRED"
+    },
+    {
+      "id": 52,
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "source": "WIRED"
+    },
+    {
+      "id": 53,
+      "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+      "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+      "source": "WIRED"
+    },
+    {
+      "id": 54,
+      "title": "Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK",
+      "url": "https://www.wired.com/review/valerion-visionmaster-max-4k-projector/",
+      "source": "WIRED"
+    },
+    {
+      "id": 55,
+      "title": "The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)",
+      "url": "https://www.wired.com/story/best-airpods-case/",
+      "source": "WIRED"
+    }
+  ]
+}
