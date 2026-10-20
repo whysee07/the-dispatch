@@ -1,0 +1,315 @@
+{
+  "feed": "ai",
+  "feed_name": "AI Insider",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T15:35:21.148399+00:00",
+  "raw_text": "Here is your AI digest for Tuesday, October 20, 2026.\n\n---\n\n**🔥 THE BIG STORY**\n\nAn AI agent joined a private listserv for 7,500 of the world's top internet researchers, and the resulting \"reply-all\" chaos is the perfect parable for the current state of AI. The incident wasn't a malicious attack but a clumsy integration, revealing how unprepared our social and technical systems are for autonomous agents acting in human spaces. This isn't just a funny story about email spam; it’s a preview of the coming social friction as agents move from sandboxed chats to the open world. The missed implication is that the biggest barrier to agent adoption won't be technical capability, but the lack of social protocols and digital etiquette to govern them. [S3]\n\n---\n\n**🛠️ TOOL DROPS & UPDATES**\n\n*   **ChatGPT gets new voices with GPT-Live-1.1.**\n    Anthropic's co-founder may be talking singularity, but OpenAI is shipping more human-sounding voices, letting you interact with ChatGPT in a more natural, conversational way. Who cares: Better voices make AI more accessible and usable for voice-first applications, from customer service to personal companions. [S14]\n\n*   **Yelp's AI can now call a restaurant for you.**\n    The Yelp app is rolling out new AI features, including an agent that will phone a restaurant to check on wait times on your behalf. Who cares: This moves AI from a passive information retriever to an active real-world task-doer, blurring the line between digital assistant and personal concierge. [S11]\n\n*   **Nvidia releases open models for on-device and enterprise agents.**\n    Nvidia is pushing to get agents running everywhere, dropping new open models designed for both private enterprise data centers and local PCs. Who cares: This is a direct play to create an ecosystem for private, powerful AI agents that don't rely on a cloud API call for every thought. [S31]\n\n*   **Amazon launches TorchNeuron to compete with Nvidia's software stack.**\n    Amazon is trying to break Nvidia's stranglehold on AI development by releasing TorchNeuron, a tool designed to make it easier for developers using the popular PyTorch framework to run their apps on Amazon's custom chips. Who cares: The AI wars are fought with silicon, but they're won with software; this is Amazon's biggest move yet to capture developer loyalty. [S21]\n\n---\n\n**🎯 USE CASE SPOTLIGHT — BY ROLE**\n\n*   **📣 Product Marketer**\n    **Audit your chatbot's guardrails.** Meta's leaked instructions for its WhatsApp bot reveal a list of \"WHAT NOT TO SAY,\" including not recommending regulators. Use this as a template to review your own AI assistants for embarrassing or brand-damaging hidden instructions. [S30][S37]\n\n*   **📋 Product Manager**\n    **Model your AI feature's true cost.** A new analysis shows that routing tasks between different LLMs to save money can backfire, as the context-switching cost erases the savings from cheaper inference. Before building a multi-model system, model the cost of re-prompting and context loss for a real-world user session. [S8]\n\n*   **🎨 Designer (UI/UX)**\n    **Prototype \"subtractive AI\" interfaces.** People are now using AI agents to strip bloatware and ads from their smart TVs. Use this as inspiration to design interfaces where AI's primary job is to *remove* complexity and unwanted features, creating a \"dumbed down\" but superior user experience. [S29]\n\n*   **📸 Photographer**\n    **Prepare for better AI object segmentation.** New research shows models can learn to identify and segment objects in real photos after being trained only on synthetic, computer-generated images. This will lead to more powerful and precise editing tools that can isolate subjects, objects, or backgrounds with minimal manual input. [S1]\n\n*   **🎬 Videographer & Filmmaker**\n    **Use new AI voices for scratch tracks and animatics.** Instead of recording your own temp voiceovers, use ChatGPT's new, more expressive voices in GPT-Live-1.1 to quickly generate high-quality scratch audio for storyboards, animatics, or client review cuts. [S14]\n\n*   **📱 App Developer**\n    **Build web data pipelines with Firecrawl.** Your AI agents need data. Instead of wrestling with complex scraping infrastructure, use the trending Firecrawl library to turn any website into clean, structured data, ready to be fed into a RAG pipeline or agentic workflow. [S33]\n\n---\n\n**🔬 FROM THE LABS**\n\n**ALTK-Evolve beats bigger models with 'learned memory'.**\nIBM Research has developed a new technique called ALTK-Evolve that allows smaller, specialized models to outperform frontier models on complex customer service tasks. Instead of relying on sheer scale, the system uses a form of \"learned memory\" to improve its performance over time. It just topped the τ²-bench leaderboard, a key benchmark for evaluating AI on real-world business process automation. This matters because it proves that targeted, efficient architectures can beat brute-force scale, paving the way for cheaper, faster, and more specialized AI agents in enterprise products within the next year. [S2]\n\n---\n\n**💸 MONEY & MOVES**\n\n*   **Otter.ai lands $320M to own the AI meeting space.**\n    The meeting transcription and summarization tool raised a massive non-dilutive round from General Catalyst. What this signals: The market for embedding AI into core, high-frequency enterprise workflows like meetings is enormous and still has room for dominant players to grow. [S10]\n\n*   **Eka Robotics hits $1.45B valuation for its human-like robotic arm.**\n    The startup's \"physical AI model\" is being praised for its smooth, dexterous ability to pick up a wide variety of objects. What this signals: After years of hype, capital is flooding into robotics companies that can demonstrate tangible, human-level dexterity, unlocking automation in logistics and manufacturing. [S7]\n\n*   **Tenstorrent raises $1.5B to scale its open-weight AI chips.**\n    The Nvidia challenger, led by chip legend Jim Keller, secured the funding to remain independent and ramp up production. What this signals: The demand for AI compute is so high that investors are willing to place billion-dollar bets on companies that have a credible shot at breaking Nvidia's monopoly. [S26]\n\n*   **Anthropic and Nscale are in talks for a $45B compute deal.**\n    This potential deal underscores the colossal, unending demand for computing power from frontier AI labs. What this signals: Access to massive-scale compute is now the primary bottleneck and key strategic asset in the race to build next-generation models, dwarfing almost any other expense. [S18]\n\n---\n\n**🤖 OPEN SOURCE WATCH**\n\n*   **NousResearch/hermes-agent (255k stars)**\n    This repo offers an AI agent designed to learn and adapt over time, promising an assistant that \"grows with you.\" Developers building personalized, long-term agents should be watching this closely. [S32]\n\n*   **firecrawl/firecrawl (193k stars)**\n    A library built to supercharge AI agents by scraping and processing data from the web and other sources. It's a critical piece of infrastructure for anyone building RAG pipelines or agents that need to interact with live web data. [S33]\n\n*   **langgenius/dify (159k stars)**\n    An all-in-one platform for building and deploying agentic workflows and RAG pipelines. Teams looking to move from AI prototypes to production without duct-taping multiple services together are flocking to it. [S36]\n\n---\n\n**🗣️ HACKER NEWS PULSE**\n\n*   **WhatsApp's help pages hid LLM instructions: \"don't recommend a regulator.\"**\n    The thread vibe is a mix of dark humor and resignation, with users unsurprised by Meta's heavy-handed instructions for its chatbot. Sharpest take: \"The most interesting part is that they needed to write this down. The base model is apparently more helpful and pro-consumer than the fine-tuned corporate version.\" [S37]\n\n*   **Publish fake stats, get cited in LLMs.**\n    The vibe is cynical validation, as a researcher proves how easily fabricated data can be laundered into \"truth\" by being scraped and repeated by LLMs. Sharpest take: \"This is the SEO of the AI age. We're moving from optimizing for Google's crawler to optimizing for the data scrapers of OpenAI, Google, and Anthropic.\" [S40]\n\n*   **How abliterated models can get you pwned.**\n    The discussion is deeply technical and security-focused, exploring how model compression and distillation techniques can introduce vulnerabilities. Sharpest take: \"We're so focused on 'lobotomizing' models for safety alignment that we're ignoring the fact that the process of 'abliteration' itself can create new, purely technical attack surfaces.\" [S38]\n\n---\n\n**⚡ SPEED ROUND**\n\n- Microsoft is warning enterprises to treat AI agents like potential \"insider threats\" because frontier models can't be fully trusted. [S20]\n- The US government has ordered federal agencies to remove all products from Chinese AI firm DeepSeek, citing national security risks. [S6]\n- An OpenAI engineer accused of spying for the Saudi government has been ordered to remain in custody by a US judge. [S22]\n- To meet insatiable AI demand, Samsung is building out a massive new semiconductor manufacturing hub in South Korea. [S13]\n- AI companion app Tolan has raised $30M to help its 250,000 active users \"navigate life.\" [S24]\n- Hackers compromised the popular open-source AI coding tool OpenCode, stealing user API keys and racking up charges. [S23]\n- The co-founder of Anthropic claims the singularity isn't a future event but a process that is already underway. [S14]\n- Figma co-founder Dylan Field stated that while his company will support open standards, it won't expose all of its data. [S4]\n\n---\n\n**🎮 TODAY'S DAILY CHALLENGE — TRY THIS IN 15 MINUTES**\n\nToday's news mentions that ChatGPT has rolled out new voices with GPT-Live-1.1. Let's test if they've moved beyond robotic narration to genuine emotional expression.\n\n1.  **Tool:** ChatGPT (mobile app with the latest version).\n2.  **Workflow:** Activate the voice conversation mode (the headphone icon).\n3.  **Prompt:** Say this exact phrase: \"First, in a very excited and optimistic voice, say: 'Wow, I think we're really onto something big here!' Then, pause for a second, and in a much more serious, concerned tone, say: 'But wait... what if we overlooked a critical security flaw?'\"\n4.  **What to look for:** Does the AI actually change its tone, pitch, and pacing between the two sentences? Can you hear the shift from excitement to concern? Or does it just read both lines in the same default narrator voice?\n5.  **Why this matters right now:** The quality of text-to-speech is a key bottleneck for believable AI agents and companions. A voice that can convey emotional nuance makes the entire interaction feel dramatically more intelligent and less like a machine reading a script. This is a quick test of how close we are to that reality. [S14]\n\n---\n\n**🧠 EDGE INSIGHT**\n\nToday's data reveals the opening shots in a new war for the soul of the internet: The Agentic Web vs. The Human Web.\n\nOn one side, you have a push to make the internet more structured and machine-readable for AIs. You see it in the rise of agent-first data scrapers like Firecrawl [S33] and the debate over making the web \"better for agents\" [S27]. This is the Agentic Web: a world optimized for bots, APIs, and automated information exchange.\n\nOn the other side, you see a human rebellion using AI to reclaim personal space. People are deploying agents to de-bloat their smart TVs [S29], fighting back against the ad-filled, corporate-controlled interfaces forced upon them. This is the Human Web: messy, personal, and prioritizing user control over machine efficiency.\n\nThe conflict is that these two visions are fundamentally incompatible. An internet that's perfectly structured for agents might be sterile and inhuman. An internet that's a chaotic bastion of human expression is inefficient and difficult for agents to parse. The chaos on the internet researchers' listserv [S3] is a perfect example of this collision. For the next 90 days, watch where platforms and developers place their bets: Are they building tools for the agents, or tools for the humans fighting back? The answer will define the next layer of the internet.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Synthetic-to-Real Transfer with Frozen DINOv3 Features",
+      "url": "https://towardsdatascience.com/synthetic-to-real-transfer-with-frozen-dinov3-features/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 2,
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": 3,
+      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+      "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 4,
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 5,
+      "title": "Skill or MCP Server? Ask What Stops the LLM From Disobeying",
+      "url": "https://towardsdatascience.com/skill-or-mcp-server-ask-what-stops-the-llm-from-disobeying/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 6,
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 7,
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 8,
+      "title": "The Hidden Cost of LLM Routing: Why Switching Models Costs More",
+      "url": "https://towardsdatascience.com/the-hidden-cost-of-llm-routing-why-switching-models-costs-more/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 9,
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "id": 10,
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 11,
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 12,
+      "title": "What's in the Box? Distinguishing Acceptable Traces from Unacceptable Ones",
+      "url": "https://towardsdatascience.com/whats-in-the-box-distinguishing-acceptable-traces-from-unacceptable-ones/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 13,
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "id": 14,
+      "title": "Anthropic co-founder says the singularity is underway",
+      "url": "https://www.therundown.ai/articles/anthropic-co-founder-says-the-singularity-is-underway",
+      "source": "The Rundown AI"
+    },
+    {
+      "id": 15,
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 16,
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": 17,
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": 18,
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 19,
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 20,
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 21,
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 22,
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 23,
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 24,
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 25,
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 26,
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 27,
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "id": 28,
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "id": 29,
+      "title": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 30,
+      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 31,
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 32,
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub"
+    },
+    {
+      "id": 33,
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub"
+    },
+    {
+      "id": 34,
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub"
+    },
+    {
+      "id": 35,
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub"
+    },
+    {
+      "id": 36,
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "source": "GitHub"
+    },
+    {
+      "id": 37,
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "How abliterated models can get you pwned",
+      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+      "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "There is no official XScreenSaver GitHub repository",
+      "url": "https://github.com/xscreensaver-official/xscreensaver",
+      "source": "Hacker News"
+    },
+    {
+      "id": 42,
+      "title": "How I got over 300 Tor exit nodes removed",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 43,
+      "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
+      "url": "https://news.ycombinator.com/item?id=50154029",
+      "source": "Hacker News"
+    },
+    {
+      "id": 44,
+      "title": "Ask HN: How to get the most intelligence out of your agents?",
+      "url": "https://news.ycombinator.com/item?id=50161627",
+      "source": "Hacker News"
+    },
+    {
+      "id": 45,
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "url": "https://news.ycombinator.com/item?id=50167583",
+      "source": "Hacker News"
+    },
+    {
+      "id": 46,
+      "title": "What is still hard to become good at as AI makes coding easier?",
+      "url": "https://news.ycombinator.com/item?id=50157098",
+      "source": "Hacker News"
+    },
+    {
+      "id": 47,
+      "title": "Ask HN: Best value/money AI coding plan bundle?",
+      "url": "https://news.ycombinator.com/item?id=50167220",
+      "source": "Hacker News"
+    },
+    {
+      "id": 48,
+      "title": "Should LLMs write in mainstream languages?",
+      "url": "https://www.nobodywho.ai/posts/why-is-pi-not-written-in-lisp/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 49,
+      "title": "GPT Rosalind",
+      "url": "https://openai.com/rosalind/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 50,
+      "title": "Show HN: Vibe Prospecting – B2B Prospecting from Claude and Claude Code via MCP",
+      "url": "https://github.com/explorium-ai/vibeprospecting-mcp",
+      "source": "Hacker News"
+    },
+    {
+      "id": 51,
+      "title": "Show HN: Craig – A TUI for running parallel coding agents",
+      "url": "https://craig-cli.com/",
+      "source": "Hacker News"
+    }
+  ]
+}
