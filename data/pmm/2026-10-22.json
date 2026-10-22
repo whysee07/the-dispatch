@@ -1,0 +1,411 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T14:44:45.500000+00:00",
+  "raw_text": "Alright, let's get into it. Here's what's actually moving the needle today.\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\nWalmart is rolling out the welcome mat for AI agents to make purchases on customers' behalf, complete with spending controls and approval flows [S56]. This directly contrasts with Amazon's stance, which is currently blocking AI agents from shopping on its site [S56]. The product angle most people are missing here is that this isn't just about retail; it's a foundational split in how platforms will either enable or restrict future automated commerce and B2B workflows. For PMMs, this means the \"channel\" of AI agents is either opening or closing for your product, demanding a clear strategy on agent compatibility and how your product integrates (or doesn't) with automated purchasing. For PMs, it’s a direct challenge to design for agent-driven interactions, considering new authentication methods like 1Password for Agents [S25], approval flows, and data privacy. The one thing to act on or watch in the next 30 days is how other major B2B platforms and marketplaces react to this divergence, as it will dictate future market access.\n\n---\n\n🎯 POSITIONING WATCH\n\n**Claude Duet by Anthropic — Launching a proactive personal AI agent** [S5][S12][S16]\n- **Narrative angle:** They're telling a story of a highly polished, proactive personal assistant that lives on your phone and leverages your existing Claude plugins to manage your attention and get things done. It's about reducing cognitive load for busy professionals.\n- **ICP signal:** \"Small business owners and busy professionals\" [S5] are clearly targeted, implying a need for efficiency and a willingness to adopt new AI workflows.\n- **What's sharp:** Lenny notes the \"thoughtful onboarding, task lists, first-class artifacts, and Slack-style channels\" [S5], indicating a strong focus on user experience and habit formation for a complex tool.\n- **What's fuzzy:** Despite the polish, Lenny \"still forgot to use it\" [S5], suggesting that even excellent UX doesn't guarantee adoption against ingrained habits or competing attention. The core value proposition, while polished, might not be *painful enough* to displace existing workflows.\n- **Steal this:** Invest heavily in \"first-class artifacts\" and thoughtful onboarding. For complex AI tools, showing tangible outputs and guiding the first few successful interactions is critical for adoption.\n\n**1Password for Agents by 1Password — Enabling AI agents to use passwords securely** [S25]\n- **Narrative angle:** They're positioning themselves as the secure bridge between human-managed credentials and AI agent actions, emphasizing control (\"you'll still need to grant approval\") while removing friction.\n- **ICP signal:** Companies deploying AI agents for tasks requiring logins to various services, where security and auditability are paramount.\n- **What's sharp:** Directly addresses a critical and obvious security gap for AI agents: how do they log in without exposing sensitive credentials? This is a proactive solution to a looming problem.\n- **What's fuzzy:** The messaging around \"doesn't give bots free reign\" might still leave some enterprises wary about the level of control and potential for misuse, even with approvals.\n- **Steal this:** Identify a critical, unaddressed trust or security bottleneck in an emerging technology trend (like AI agents) and create a focused product to solve *that specific problem*.\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n\n**Walmart vs Amazon — AI Agent Access** [S56]\n- **What changed:** Walmart is now explicitly welcoming AI agents to make purchases, offering controls for spending and transaction approvals. Amazon, conversely, is blocking AI agents from its platform.\n- **Why they did this now:** Walmart is betting on a future where AI agents are a primary purchasing channel, aiming to capture early market share and provide a seamless, automated shopping experience. Amazon appears to be protecting existing revenue streams (like affiliate marketing) or prioritizing control over its platform.\n- **PMM action item:** If your product involves e-commerce or platform integrations, immediately assess which approach aligns with your long-term strategy. Develop messaging around your product's compatibility (or intentional incompatibility) with AI agents.\n- **Battlecard update needed?** Yes. Add a new section: \"AI Agent Strategy & Platform Access.\" Detail whether you enable or restrict agents, and what the implications are for buyer access and automated workflows.\n\n**Birdbuddy vs Coolfly (and Insta360) — Budget-friendly versions of smart tech** [S1][S21][S22][S24]\n- **What changed:** Birdbuddy launched the \"Nook,\" a smaller, more affordable smart bird feeder, alongside its flagship \"Home\" model. Coolfly and Birdfy are also heavily discounting their smart bird feeders. Insta360 launched a cheaper version of its wireless mics.\n- **Why they did this now:** This is a clear play to expand market reach beyond early adopters, tap into budget-conscious consumers, and fend off competition in maturing smart home/personal tech categories. It's about democratizing access and increasing TAM.\n- **PMM action item:** Review your own product's pricing and packaging. Is there a \"lite\" or \"essential\" version you could launch to capture a broader market segment without cannibalizing your premium offerings? Map out your competitive price points.\n- **Battlecard update needed?** Yes. Update \"Pricing & Packaging\" to include entry-level/budget options from competitors and note any aggressive discounting strategies.\n\n---\n\n🚀 LAUNCH DISSECTION\n\n**Claude Duet by Anthropic** [S5][S12][S16]\n- **Launch tier:** T1 — This is a major player (Anthropic) launching a new product in a critical, emerging category (personal AI agents). It's a significant strategic bet. Was positioned right for its actual impact, leveraging existing brand equity.\n- **Core message:** \"Proactive agent that understands what needs your attention.\" The emphasis is on taking initiative and being intelligent about what truly matters to the user, not just executing commands.\n- **GTM channels used:** Product Hunt [S12], TechCrunch coverage [S16], and influential newsletters like Lenny's [S5] indicate a mix of developer/early adopter focus, tech press, and thought leadership.\n- **Sales readiness signal:** Available through a waitlist for Pro and Max plan users [S16], signaling an initial focus on existing, higher-tier customers for adoption and feedback, rather than a broad, immediate sales push. No explicit enablement content mentioned.\n- **Buyer emotion targeted:** Ambition (to be more productive, to manage information overload) and Frustration (with the sheer volume of digital tasks and notifications).\n- **What worked:** The focus on \"polish\" and \"thoughtful onboarding\" [S5] is a strong differentiator in a crowded agent market. Leveraging existing plugin ecosystems for Claude users is smart.\n- **What's missing:** A clearer, more immediate \"killer use case\" that makes adoption undeniable. Lenny's feedback (\"I still forgot to use it\") points to a gap in habit formation that polish alone can't solve.\n- **If you were the PMM:** I'd launch with a series of quick-win use cases and templates, baked directly into onboarding, demonstrating how Duet *proactively* saves time on common tasks, making it indispensable from day one.\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n\n**Lenny's Newsletter — Claude Duet is beautiful. I still forgot to use it** [S5]\n- **The core argument or insight:** Anthropic's Claude Duet is incredibly polished, but even with top-tier UX, getting users to adopt and consistently integrate a new AI agent into their daily workflow is a massive challenge.\n- **Community reaction:** Resonating. Many PMMs and PMs are grappling with AI product adoption and the difficulty of changing user habits, even for seemingly superior tools.\n- **The sharpest counter-take if one exists:** Polish alone isn't enough; the agent must solve a problem so painful or deliver value so immediately obvious that it *forces* a habit change.\n- **Worth engaging?** Yes — This is a fundamental discussion for anyone building or marketing AI products.\n\n**SVPG — Experimentation, AI and the Product Model** [S6]\n- **The core argument or insight:** This piece, a keynote summary, explores how experimentation principles apply to AI products and the broader product organization, emphasizing a data-driven approach to building AI.\n- **Community reaction:** Resonating. SVPG is a respected voice, and the intersection of AI development and robust experimentation is a hot topic for PMs.\n- **The sharpest counter-take if one exists:** While crucial, AI experimentation often requires different metrics, longer feedback loops, and more complex ethical considerations than traditional software A/B testing.\n- **Worth engaging?** Skim — Good for foundational thinking, but likely high-level for immediate tactical application.\n\n**MIT Technology Review — AI’s hidden storage bill: What inference leaves behind** [S37]\n- **The core argument or insight:** Beyond GPU costs, the massive, often overlooked expense in AI infrastructure is data storage, as inference generates billions of daily prompts, images, and videos that need to be saved, growing exponentially.\n- **Community reaction:** Resonating. Product and engineering leaders are increasingly aware of the total cost of AI ownership, and this highlights a less obvious, but significant, component.\n- **The sharpest counter-take if one exists:** Cloud providers are rapidly innovating with new storage tiers optimized for AI data lifecycles, but proactive cost modeling and data retention policies remain critical.\n- **Worth engaging?** Yes — Direct impact on product cost models, pricing, and infrastructure planning.\n\n**TechCrunch — While Amazon blocks AI agents, Walmart rolls out the welcome mat** [S56]\n- **The core argument or insight:** Two retail giants are taking opposing strategic stances on AI agents making purchases on their platforms, signaling a significant divergence in the future of e-commerce and automated consumer interaction.\n- **Community reaction:** Being debated. This has massive implications for customer acquisition, sales channels, and consumer trust across the entire digital economy.\n- **The sharpest counter-take if one exists:** Amazon's blocking likely protects its existing advertising and affiliate revenue streams, while Walmart sees an opportunity to innovate and capture new, agent-driven transactions.\n- **Worth engaging?** Yes — Critical for anyone in e-commerce, platform strategy, or AI product development, as it defines future market access.\n\n---\n\n💡 USE CASE OF THE DAY\n\n**Evaluate AI Agent Compatibility for Your Product**\nCategory: GTM Strategy\nRole: Both\n\n**The workflow:** The rapid divergence in how major platforms (like Walmart vs. Amazon) are approaching AI agents means you need a clear stance. This workflow helps you identify where AI agents could interact with your product and what the strategic implications are.\n\n**Step 1:** Identify 3-5 core user workflows in your product that *could* be automated or significantly assisted by an AI agent (e.g., data entry, report generation, scheduling, customer support, lead qualification).\n**Step 2:** Research how major agent platforms (like Claude Duet, Bits) or agent-friendly ecosystems (like Walmart's approach) handle integration (APIs, plugins, specific authentication methods like 1Password for Agents).\n**Step 3:** Draft a brief internal memo outlining the potential opportunities (e.g., new user segments, efficiency gains for existing users) and risks (e.g., security vulnerabilities, data privacy concerns, brand control issues) of AI agent integration for your product.\n\nTools used: Claude [S5][S16], Notion, 1Password for Agents (for understanding security implications) [S25], TechCrunch/The Verge (for market signals) [S56]\nTime to complete: 2 hours\nOutput you get: A prioritized list of AI agent integration opportunities and a comprehensive risk assessment for your product, informing your strategic direction.\nWhy it matters now: The market is rapidly bifurcating on AI agent acceptance, and making an informed decision now is crucial for future market positioning and competitive advantage.\n\nPrompt or template (if AI-assisted):\n\"Analyze the current market landscape for AI agents (e.g., Claude Duet, Bits, Walmart's stance on purchasing agents) and identify key integration patterns (APIs, authentication, user controls). For [My Product/Feature], identify 3 core user workflows that could be enhanced or automated by an AI agent. For each workflow, list potential benefits, necessary technical integrations, and associated risks (security, data privacy, brand control). Suggest a preliminary recommendation on whether to pursue integration aggressively, cautiously, or to monitor the trend.\"\n\n---\n\n📚 LEARNING PICK OF THE DAY\n\n**Claude Duet is beautiful. I still forgot to use it** — Lenny Rachitsky — Lenny's Newsletter [S5]\n\n**What it's about:** This candid and insightful piece reviews Anthropic's new personal AI agent, Claude Duet. Despite its impressive polish, thoughtful onboarding, and robust feature set, the author highlights the persistent challenge of getting users to consistently adopt and integrate a new AI tool into their daily habits. It's a critical look at the gap between product quality and user stickiness in the AI agent space.\n\n**3 actionable takeaways:**\n1.  **Polish isn't the sole driver of AI adoption:** While essential for a good first impression, superior UX alone won't guarantee sustained usage if the AI doesn't solve a truly painful problem that disrupts existing, ingrained habits.\n2.  **Design for habit formation, not just features:** PMMs and PMs need to think beyond feature lists and focus on designing clear, repeatable workflows that slot seamlessly into (or significantly improve) a user's existing routine.\n3.  **Acknowledge \"attention competition\":** Your AI agent isn't just competing with other agents; it's competing with every other demand on a user's attention. The value proposition must be strong enough to cut through the noise.\n\n**Who should read this:** Both — particularly PMMs focused on launch and adoption strategies for AI products, and PMs designing the next generation of AI-powered features.\n**Read time:** 5-7 minutes.\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n\n**Topic:** User preference for less personalized ads impacts platform revenue [S29]\n- **What was found or demonstrated:** Meta's ad revenue has slowed since the European Union introduced a \"Less-Personalized Ads\" model at the beginning of this year. This indicates that when given the choice, a significant portion of users opt out of highly personalized advertising.\n- **The method used:** An earnings briefing on Wednesday revealed the impact, suggesting analysis of user opt-in/opt-out rates and their correlation with ad revenue [S29].\n- **How it changes or validates current best practice:** This validates that user privacy and control over data directly impact business models. It challenges the long-held assumption that \"more personalization always equals better engagement/revenue,\" demonstrating a clear user preference for less tracking when given agency.\n- **PM action item:** Conduct user research (surveys, interviews, A/B tests on control granularity) to understand your users' comfort levels with data collection and personalization. Design in clear, granular controls for data usage from day one, rather than treating them as a compliance afterthought.\n\n---\n\n💼 PMM/PM JOBS PULSE\n\nNo job listings were found in today's data.\n\nToday's lack of job listings prevents any signal analysis.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n\n**DeepSeek — Reportedly $15B** [S20]\n- **What they do:** An AI lab, reportedly raising a massive round days after US restrictions.\n- **GTM motion:** Likely developer-focused, enterprise AI models, with a strong geopolitical component.\n- **What this signals about B2B investment direction:** Continued, massive investment in foundational AI models, even amidst escalating international restrictions and geopolitical tensions. Money is still pouring into core AI capabilities.\n- **PMM implication:** If you're building AI, you need to be acutely aware of the geopolitical landscape, data sovereignty, and compliance. Position your AI's ethical use and regional availability.\n- **PM implication:** Factor in regional data access, model availability, and potential restrictions into your product roadmap and architecture decisions.\n\n**Nirva — $33M** [S17]\n- **What they do:** Shipping a $249 ambient AI pendant that \"only listens to you,\" prioritizing user privacy.\n- **GTM motion:** Direct-to-consumer (hardware), privacy-led, emphasizing a specific value proposition.\n- **What this signals about B2B investment direction:** Strong investment in privacy-first AI hardware and consumer devices, indicating a growing market demand for AI tools with explicit, transparent user controls over data and listening.\n- **PMM implication:** Craft messaging that deeply resonates with user control and data privacy. Lean into the \"only listens to you\" as a core, trust-building differentiator.\n- **PM implication:** Prioritize privacy-by-design for any AI-powered hardware or software. Ensure transparent data handling and build in clear, intuitive user controls for AI interactions.\n\n**Legora — $550M Series E at $8.8B valuation** [S58]\n- **What they do:** A legal AI startup.\n- **GTM motion:** Vertical SaaS, enterprise, likely sales-led into a highly regulated industry.\n- **What this signals about B2B investment direction:** Continued robust investment in vertical-specific AI solutions, especially in high-value, regulated industries like legal where efficiency gains are significant. The market still sees huge potential in specialized AI.\n- **PMM implication:** Deeply understand the specific personas and pain points within your target vertical. Tailor messaging to compliance, accuracy, and domain expertise.\n- **PM implication:** Focus on accuracy, explainability, and compliance features specific to the legal domain. Build strong feedback loops with legal professionals to ensure product-market fit.\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n\n**Radaric — AI feed reader that learns your editorial taste** [S11][S67]\n- **Category:** Content / Competitive Intel / Customer Research\n- **Best for:** Both\n- **Free tier:** Unclear (Product Hunt link only)\n- **Honest take:** AI-powered feed readers aren't new, but the promise of genuinely \"learning your editorial taste\" is compelling. If it cuts through the noise better than existing RSS readers, it's useful. Otherwise, it's just a new skin.\n- **Who should try it this week:** PMMs struggling to keep up with industry news, competitor announcements, or thought leadership relevant to their space.\n\n**Agentic CleanSlop — Authenticate, scan and fix your app from your agent** [S3]\n- **Category:** Developer Tools / Security / AI Agents\n- **Best for:** PM\n- **Free tier:** Unclear\n- **Honest take:** \"Fix your app from your agent\" is a genuinely new and ambitious capability if it works reliably. If it's just advanced reporting, it's a feature dressed up as a launch. The \"authenticate\" part is critical for trust.\n- **Who should try it this week:** PMs managing dev tools, security products, or internal platforms, especially those exploring AI for code quality.\n\n**Resend Inboxes — Create shared inboxes, connect your agents, build workflows** [S7]\n- **Category:** Collaboration / AI Agents / Workflow Automation\n- **Best for:** Both\n- **Free tier:** Unclear\n- **Honest take:** Shared inboxes are old news, but the ability to \"connect your agents\" and \"build workflows\" around them is the novel part. This could be genuinely powerful for automating customer support, sales inquiries, or internal communication.\n- **Who should try it this week:** PMMs and PMs exploring how AI agents can automate or enhance customer-facing and internal communication workflows.\n\n---\n\n⚡ SPEED ROUND\n\n📱 Coolpad's $150 Cool X Wide offers a wide screen like foldables, without the fold or price tag [S2].\n🎮 The Atari VCS software store is shutting down Feb 1, 2027, ending a decade-long saga [S19].\n🎙️ Insta360 launched cheaper wireless mics with color screens, aiming for broader market appeal [S21].\n🐦 Birdbuddy's new Nook is a compact, budget-friendly smart bird feeder, hitting a sweet spot for value [S22][S24].\n💻 Googlebooks are still struggling with software, feeling more like Android tablets than cohesive laptops [S23].\n🤖 Mori, a cute robot mushroom, exists but doesn't actually *do* much, highlighting AI's sometimes superficial presence [S26].\n🗓️ Greenlight Family Hub delivers a digital wall calendar with a voice assistant, a long-sought convenience [S32].\n🧬 Hugging Face's new AI biology model lets researchers \"chat with DNA\" to understand gene activity [S33].\n🚨 Developer platform Railway urged all users to revoke secret keys after a cyberattack decrypted some customer secrets [S14].\n💸 Meta plans a new class of stock to fund its massive AI buildout, signaling aggressive capital allocation [S41].\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\n\n**Challenge:** Map a User Journey for an AI-Assisted Workflow\nRole focus: Both\n\n**The setup:** The market is split on AI agent adoption (Walmart embracing, Amazon blocking), and even polished agents struggle with user habits. You need to visualize how a user would interact with an AI agent in your product, focusing on trust and control.\n\n**What to do:**\n**Step 1:** Pick a specific user workflow in your product that could be enhanced or partially automated by an AI agent (e.g., a user submitting a support ticket, a sales rep researching a lead, a user configuring a complex feature).\n**Step 2:** Use a simple diagramming tool (like Figma, Miro, or even a Google Doc with shapes) to map the *current* user journey for this workflow. Detail each step, user action, system response, and any current pain points.\n**Step 3:** Overlay how an AI agent (e.g., using 1Password for Agents for secure authentication, or Claude Duet for proactive assistance) would interact with the user and your product at each step. Highlight explicit decision points where the user would need to approve an agent's action.\n\n**The exact prompt or template:**\n\"User Journey Map: [Current Workflow Name] with AI Agent Integration.\n1. Current User Journey (list steps, user actions, system responses, pain points).\n2. AI Agent Integration Points (identify specific stages where an agent would intervene or assist).\n3. AI-Assisted User Journey (detail new steps, agent actions, *explicit user approval points*, and the value added by the agent).\n4. Key Trust/Control Considerations (where might users feel uneasy? How would 1Password for Agents' approach to approvals be relevant here?).\"\n\n**What good looks like vs. mediocre:**\nGood: Clearly identifies specific agent actions, precise user decision points for approval, and how trust/control is maintained (e.g., \"User clicks 'Approve Agent Action'\"). It highlights new value and potential friction points.\nMediocre: Generic statements like \"AI helps here\" without specific interaction details, or failing to consider user agency and necessary approval steps.\n\n**Why this skill matters in the next 6 months:** As AI agents become more prevalent, understanding and designing for transparent, trusted human-agent interaction is critical for product adoption, user satisfaction, and avoiding privacy backlash.\nTime: 15 minutes or less.\n\n---\n\n🧠 EDGE INSIGHT\n\nThe market is in a weird, contradictory phase with AI agents. On one hand, you have Anthropic launching a highly polished agent like Claude Duet, but even its creator sometimes forgets to use it, signaling a deep challenge in user habit formation. Simultaneously, Walmart is rolling out the red carpet for AI agents, while Amazon is slamming the door. This isn't just a tech trend; it's a fundamental GTM and product strategy fork in the road. The true battle isn't about who builds the best agent, but who builds the most *trusted* and *integrated* agent into daily routines, where \"integrated\" can mean either deeply embedded or intentionally excluded based on platform strategy.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off",
+      "url": "https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold",
+      "url": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
+      "source": "The Verge"
+    },
+    {
+      "id": 3,
+      "title": "Agentic CleanSlop",
+      "url": "https://www.producthunt.com/products/cleanslop",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 4,
+      "title": "Tetriz Engg Intelligence + Connectors",
+      "url": "https://www.producthunt.com/products/tetriz-engg-intelligence-connectors",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 5,
+      "title": "Claude Duet is beautiful. I still forgot to use it",
+      "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 6,
+      "title": "Experimentation, AI and the Product Model",
+      "url": "https://www.svpg.com/experimentation-ai-and-the-product-model/",
+      "source": "SVPG"
+    },
+    {
+      "id": 7,
+      "title": "Resend Inboxes",
+      "url": "https://www.producthunt.com/products/resend",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "Sponkly",
+      "url": "https://www.producthunt.com/products/sponkly",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 9,
+      "title": "Bits",
+      "url": "https://www.producthunt.com/products/bits-4",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 10,
+      "title": "Teclo",
+      "url": "https://www.producthunt.com/products/teclo",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 11,
+      "title": "Radaric",
+      "url": "https://www.producthunt.com/products/radaric",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 12,
+      "title": "Claude Duet",
+      "url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 13,
+      "title": "Archivist",
+      "url": "https://www.producthunt.com/products/archivist",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 14,
+      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+      "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 15,
+      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "source": "The Verge"
+    },
+    {
+      "id": 16,
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 17,
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 18,
+      "title": "Apple will label apps that are ‘Made for iPhone Duo’",
+      "url": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
+      "source": "The Verge"
+    },
+    {
+      "id": 19,
+      "title": "The Atari VCS saga will come to an end next year when its software store closes",
+      "url": "https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027",
+      "source": "The Verge"
+    },
+    {
+      "id": 20,
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 21,
+      "title": "Insta360 launches a cheaper version of its wireless mics with color screens",
+      "url": "https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen",
+      "source": "The Verge"
+    },
+    {
+      "id": 22,
+      "title": "Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets",
+      "url": "https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification",
+      "source": "The Verge"
+    },
+    {
+      "id": 23,
+      "title": "Googlebooks just aren’t ready",
+      "url": "https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review",
+      "source": "The Verge"
+    },
+    {
+      "id": 24,
+      "title": "Birdbuddy’s budget feeder foiled my squirrels",
+      "url": "https://www.theverge.com/tech/1015791/birdbuddy-home-nook-smart-bird-feeder-hands-on",
+      "source": "The Verge"
+    },
+    {
+      "id": 25,
+      "title": "1Password lets AI agents use your passwords without seeing them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "source": "The Verge"
+    },
+    {
+      "id": 26,
+      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+      "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+      "source": "Wired"
+    },
+    {
+      "id": 27,
+      "title": "The Download: computing’s next leap and permafrost’s climate threat",
+      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 28,
+      "title": "Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid",
+      "url": "https://www.wired.com/story/microsoft-surface-buying-guide/",
+      "source": "Wired"
+    },
+    {
+      "id": 29,
+      "title": "Meta’s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization",
+      "url": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+      "source": "Wired"
+    },
+    {
+      "id": 30,
+      "title": "I Worked for a Whole Day Using Only the iPhone Duo. Here’s How It Went",
+      "url": "https://www.wired.com/story/i-worked-for-a-whole-day-using-only-the-iphone-duo-heres-how-it-went/",
+      "source": "Wired"
+    },
+    {
+      "id": 31,
+      "title": "They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028",
+      "url": "https://www.wired.com/story/they-believe-2020-was-stolen-they-could-be-in-charge-of-elections-in-2028/",
+      "source": "Wired"
+    },
+    {
+      "id": 32,
+      "title": "Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant",
+      "url": "https://www.wired.com/story/greenlight-hub-voice-assistant-feature/",
+      "source": "Wired"
+    },
+    {
+      "id": 33,
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "source": "Wired"
+    },
+    {
+      "id": 34,
+      "title": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 35,
+      "title": "Three things you should know about permafrost",
+      "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 36,
+      "title": "This Preamp Costs More Than a Fancy Sports Car",
+      "url": "https://www.wired.com/story/goldmund-preamp-costs-more-than-a-sports-car/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 38,
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "source": "Wired"
+    },
+    {
+      "id": 39,
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 40,
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 41,
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "source": "Wired"
+    },
+    {
+      "id": 43,
+      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores",
+      "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/",
+      "source": "Wired"
+    },
+    {
+      "id": 45,
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 47,
+      "title": "‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms",
+      "url": "https://www.wired.com/story/its-the-presidents-fault-the-white-house-blame-game-starts-early-ahead-of-the-midterms/",
+      "source": "Wired"
+    },
+    {
+      "id": 48,
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 49,
+      "title": "Trump Isn’t Even Good at TV Anymore",
+      "url": "https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/",
+      "source": "Wired"
+    },
+    {
+      "id": 50,
+      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 51,
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 52,
+      "title": "Automattic begins layoffs following board upheaval and executive departures",
+      "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 53,
+      "title": "Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds",
+      "url": "https://www.wired.com/story/bose-acquires-skullcandy-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 55,
+      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
+      "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 56,
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 57,
+      "title": "The internet is having a very bad cybersecurity day",
+      "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 58,
+      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 59,
+      "title": "Eufy Security Wall Light Cam S4 Deal: Save $80 on This Versatile Gadget",
+      "url": "https://www.wired.com/story/eufy-security-camera-deals-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 60,
+      "title": "Ruggable’s Washable Rugs Are Worth It and Now on Sale (2026)",
+      "url": "https://www.wired.com/story/ruggable-october-hosting-sale-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 61,
+      "title": "GM is giving OnStar an AI makeover",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 62,
+      "title": "GM Wants Your Car to Do Your Chores",
+      "url": "https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/",
+      "source": "Wired"
+    },
+    {
+      "id": 63,
+      "title": "The Best Art TV Deals: Samsung Frame, Hisense Canvas, and More (2026)",
+      "url": "https://www.wired.com/story/art-tv-samsung-frame-tv-sale-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 64,
+      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+      "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+      "source": "Wired"
+    },
+    {
+      "id": 65,
+      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+      "source": "Wired"
+    },
+    {
+      "id": 66,
+      "title": "7 Best Phones You Can’t Buy in the US (2026)",
+      "url": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
+      "source": "Wired"
+    },
+    {
+      "id": 67,
+      "title": "Radaric",
+      "url": "https://www.producthunt.com/products/radaric",
+      "source": "Product Hunt"
+    }
+  ]
+}
