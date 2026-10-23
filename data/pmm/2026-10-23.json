@@ -1,0 +1,441 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T14:31:25.297464+00:00",
+  "raw_text": "Alright, let's cut through the noise and get to what matters. Here's your Friday morning download.\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\n**Enterprise AI isn't about models anymore; it's about the \"serving harness.\"**\nUber just pushed ChatGPT Work to all 30,000 employees, while 1Password rolled out a new way for AI agents to log in without seeing your actual credentials [S52][S64]. This isn't just about using AI; it's about building the secure, scalable infrastructure around it that makes it reliable for critical business functions. The MIT Tech Review calls this the \"serving harness\" – moving AI from experimental capabilities to lasting, trustworthy value [S46]. This means the battleground for AI adoption is shifting from model performance to integration, security, and operational reliability.\n**What this means specifically for PMMs:** Your messaging needs to pivot from \"AI capabilities\" to \"AI reliability, security, and integration.\" Buyers already get the promise of AI; they're now looking for proof it won't break their business or expose their data. Start talking about your guardrails, your compliance, and your seamless workflows.\n**What this means specifically for PMs:** Focus on building robust APIs, clear governance controls, and comprehensive monitoring for your AI features. Think about how your product acts as that \"serving harness\" for enterprise customers, not just as a wrapper for an LLM. Security and data privacy are no longer just table stakes; they are competitive differentiators.\n**The one thing to act on or watch in the next 30 days:** Audit your current AI feature messaging and roadmap. Are you still leading with \"powered by [LLM name]\" or are you talking about \"enterprise-grade AI for secure operations\"? If it's the former, you're already behind.\n\n---\n\n🎯 POSITIONING WATCH\n**Profound vs. Scrunch — AEO tools clarify their niches.**\n- **Narrative angle:** HubSpot broke down two Answer Engine Optimization (AEO) tools, Profound and Scrunch, showing how they're telling distinct stories to different buyers [S9]. Profound is for market analysis and content creation, while Scrunch focuses on technical optimization and task handoff. It's not about who tracks more answer engines, but *where your workflow stalls*.\n- **ICP signal:** Profound targets content marketers and strategists needing market insights. Scrunch is for technical SEOs and operations teams who need to automate optimization and agent workflows. The language explicitly calls out \"market analysis\" vs. \"technical optimization.\"\n- **What's sharp:** This article itself is a masterclass in competitive positioning. Instead of a bland feature comparison, it frames the choice around the *buyer's specific problem* and workflow bottleneck. It's a great example of a PMM-led content piece.\n- **What's fuzzy:** For a new buyer, the initial distinction between \"market analysis\" and \"technical optimization\" in the AEO space might still be a little murky without deeper context on what an \"answer engine\" truly is.\n- **Steal this:** When comparing your product to a competitor, don't just list features side-by-side. Frame the comparison around *two distinct buyer personas or workflow pain points* that each product solves best.\n\n**Etsy — Cracking down on \"AI slop\" in listings.**\n- **Narrative angle:** Etsy is positioning itself as the champion of authentic, human-made goods by introducing stricter rules against AI-generated content [S38]. They're telling a story of quality, transparency, and protecting both buyers and legitimate sellers from misleading AI-produced items.\n- **ICP signal:** Their target is clearly buyers who value authentic, handcrafted, or unique items, and sellers who genuinely create those. They're explicitly alienating \"AI slop\" generators.\n- **What's sharp:** Requiring \"at least one unedited photo of the actual item against a real background\" is a brilliant, concrete rule. It forces authenticity and directly addresses the problem of AI-generated images that don't match the product.\n- **What's fuzzy:** The term \"AI slop\" is a bit informal for official policy, though it resonates with the community.\n- **Steal this:** If your market is getting flooded with low-quality, AI-generated content or products, take a clear, public stance. Implement specific, verifiable policies that differentiate your authentic offerings and protect your brand integrity.\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n**Oura vs Ultrahuman — Patent war heats up in smart rings.**\n- **What changed:** Oura is suing Ultrahuman again, alleging that Ultrahuman's Ring Pro infringes on two of Oura's patents [S35]. This is a full-on legal battle to protect market share and IP.\n- **Why they did this now:** Oura is betting on legal action to block Ultrahuman's \"U.S. smart ring comeback.\" They're trying to shut down a competitor's momentum and reinforce their own market dominance before Ultrahuman can gain significant traction. It's a defensive play to protect their established position.\n- **PMM action item:** If you're in a competitive hardware or deeply IP-driven SaaS space, ensure your product claims are bulletproof and your legal team is aligned with your competitive strategy. Start gathering evidence of competitor IP infringement *now* if you suspect it.\n- **Battlecard update needed?** Yes. Add a section on \"Legal Risks / IP Challenges\" for Ultrahuman, noting the ongoing patent dispute. For Oura, highlight their aggressive IP defense as a strength.\n\n**OpenAI vs Jev — Decision model competition heats up.**\n- **What changed:** OpenAI just made its decision model, a direct competitor to Jev, widely available [S55]. This is a clear move to expand its footprint beyond foundational LLMs into more specialized AI applications.\n- **Why they did this now:** OpenAI is betting on its brand recognition and existing customer base to quickly grab market share in the burgeoning decision model space. They likely see Jev as an incumbent that needs to be challenged as enterprises move past basic generative AI to more complex, actionable intelligence.\n- **PMM action item:** If you're competing in the decision intelligence or specialized AI model space, immediately assess OpenAI's offering. What are its strengths/weaknesses compared to your product? Update your sales enablement with key differentiators and potential objections.\n- **Battlecard update needed?** Yes. Create a new entry for OpenAI's decision model under \"Decision Intelligence / Specialized AI Models.\" Focus on core capabilities, pricing, and integration points compared to Jev and others.\n\n---\n\n🚀 LAUNCH DISSECTION\n**Instant Search by Instant Search [S11][S68]**\n- **Launch tier:** T2 — positioned as a quick, useful utility. The \"fastest, most precise local AI Search for your files\" sounds like a solid productivity boost, but not a category creator.\n- **Core message:** \"The fastest, most precise local AI Search for your files.\" It's direct, benefit-oriented, and emphasizes speed and accuracy.\n- **GTM channels used:** Product Hunt. Likely relies on organic discovery and word-of-mouth given the platform.\n- **Sales readiness signal:** No explicit enablement content mentioned, typical for a PH launch. The product's simplicity might mean less is needed.\n- **Buyer emotion targeted:** Frustration. Specifically, the frustration of not being able to find files quickly or precisely on their local machine.\n- **What worked:** The clear, concise core message. \"Fastest, most precise\" directly hits common pain points with local search. It's easy to grasp the value proposition immediately.\n- **What's missing:** A clear use case beyond \"find your files.\" Does it integrate with specific apps? Does it offer advanced filtering for developers, designers, or writers? More context on *how* it's faster/more precise would help.\n- **If you were the PMM:** I'd launch with a quick demo video highlighting a specific, painful scenario (e.g., \"finding that one PDF buried in 3 years of downloads\") and show exactly how Instant Search cuts that time to seconds.\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n**Product Marketing Alliance — Building a buyer brain with AI: What works and what doesn’t [S8]**\n- **The core argument or insight:** Most PMMs are misusing AI for buyer insights. The article, based on learnings from GetWhys, argues AI excels at certain parts of buyer understanding but fails dangerously in others, and PMMs need to know the difference to avoid bad data.\n- **Community reaction:** Resonating. There's widespread frustration with generic AI output, so a practical guide on what *actually* works for buyer insights is hitting home. People are tired of the hype.\n- **The sharpest counter-take if one exists:** Some might argue that the \"dangers\" are overstated if PMMs apply critical human judgment to AI outputs, but the article's point is that many *don't* know how to tell the difference.\n- **Worth engaging?** Yes. This is a critical topic for PMMs right now. Attend the session if you can, or at least skim the takeaways.\n\n**Product Marketing Alliance — Can tokenized loyalty programs replace points-based pricing incentives? [S4]**\n- **The core argument or insight:** Traditional points-based loyalty programs are failing modern customers, with about half sitting unused. Tokenized loyalty programs, leveraging blockchain, could offer more flexible, transferable, and engaging rewards that meet current expectations and drive better retention.\n- **Community reaction:** Being debated. Some are intrigued by the \"future of loyalty,\" others are skeptical about the complexity and perceived \"crypto\" baggage of tokenization for mass-market adoption.\n- **The sharpest counter-take if one exists:** \"Most customers don't care about the tech, they care about the reward. Tokenization adds unnecessary friction and trust issues unless the *value proposition* is overwhelmingly superior.\"\n- **Worth engaging?** Skim. It's a forward-looking trend, but the immediate applicability for most B2B SaaS PMMs might be limited unless you're in fintech or a highly consumer-facing space.\n\n**Corporate Visions — How Revenue Teams Use AI Without Losing the Human Edge [S7]**\n- **The core argument or insight:** Scaling enablement, proving impact, deploying AI agents, and sharpening human skills are all key to using AI effectively in revenue teams without sacrificing the essential human element in customer experience.\n- **Community reaction:** Resonating. This balances the AI hype with the reality of sales and customer relationships. Everyone's trying to figure out how to use AI without sounding like a robot.\n- **The sharpest counter-take if one exists:** Some may argue that the \"human edge\" is already being eroded by efficiency demands, and AI *will* replace more human tasks than currently acknowledged.\n- **Worth engaging?** Skim. Good reinforcement on balancing tech with human skills, especially for sales enablement PMMs.\n\n**HubSpot Marketing — How to build an AI agent: from goal to live deployment [S10]**\n- **The core argument or insight:** Building an AI agent involves defining tasks, connecting data/tools, and setting action limits. Marketers (and others) can easily build agents for specific use cases once they master these basics, as agent adoption is growing rapidly.\n- **Community reaction:** Resonating. With AI agents popping up everywhere (e.g., 1Password, Termi Protocol, Monish), practical \"how-to\" guides are highly sought after. People want to move from theory to execution.\n- **The sharpest counter-take if one exists:** \"The 'ease' of building an agent often hides the complexity of maintenance, governance, and ensuring ethical behavior in production environments.\"\n- **Worth engaging?** Yes. This is a foundational skill for PMMs and PMs who need to understand how these new tools are built and deployed, whether for internal use or as part of their product.\n\n---\n\n💡 USE CASE OF THE DAY\n**Build an AI-Powered Buyer Brain for Competitive Messaging**\nCategory: Messaging / Competitive Intel / Customer Research\nRole: PMM\n\n**The workflow:**\nStep 1: **Identify your core buyer persona and 2-3 key competitors.** Focus on a specific product or feature set.\nStep 2: **Use an AI-powered GTM platform (like GetWhys mentioned in [S8]) or an advanced LLM (Claude, GPT-4) with a specific prompt** to analyze competitor messaging, review sites, and public customer feedback.\nStep 3: **Cross-reference AI outputs with human qualitative data** (sales calls via Gong, win/loss interviews, customer surveys) to validate and refine the \"AI brain's\" understanding of buyer needs, pain points, and how competitors are addressing them (or failing to).\n\nTools used: Claude/GPT-4, GetWhys (or similar), Gong/Chorus, Notion/Airtable\nTime to complete: 2-4 hours (initial setup + analysis)\nOutput you get: A validated \"buyer brain\" document outlining buyer priorities, competitor positioning gaps, and actionable messaging recommendations for your product.\nWhy it matters now: AI outputs are only as good as your validation. This workflow ensures you don't build messaging on \"AI slop\" (as Etsy would say).\n\nPrompt or template (if AI-assisted):\n```\nAct as a senior Product Marketing Manager. Your goal is to build a \"buyer brain\" for [Your Product/Feature Name] targeting [ICP Persona, e.g., Mid-market SaaS CTOs].\n\nHere are our top 3 competitors:\n1. [Competitor A]\n2. [Competitor B]\n3. [Competitor C]\n\nPlease perform the following analysis:\n1. Identify the top 3-5 pain points our ICP faces that our product/feature addresses.\n2. For each competitor, analyze their public messaging (website, recent press releases, G2/Capterra reviews) to understand:\n    a. How they position themselves against these pain points.\n    b. What unique value propositions they emphasize.\n    c. What common criticisms or unmet needs their customers express.\n3. Based on this, identify 2-3 significant messaging gaps or opportunities for our product/feature to differentiate itself.\n4. Suggest a refined core message for our product/feature that leverages these gaps and resonates deeply with our ICP.\n\nPresent your findings in a structured format, clearly separating the analysis for each competitor and then providing the consolidated opportunities and recommendations.\n```\n\n---\n\n📚 LEARNING PICK OF THE DAY\n**\"Designing an AI serving harness built to last\" — MIT Technology Review [S46]**\n\n**What it's about:** This piece argues that the real competitive edge in enterprise AI isn't just picking the best model, but building robust, reliable, and scalable infrastructure *around* it. It shifts the focus from \"what the model can do\" to \"can we deliver that intelligence reliably, economically, and at scale?\" This includes data, engineering, platforms, operating models, and governance to ensure AI moves from experimentation to production.\n**3 actionable takeaways:**\n1.  **Shift your internal AI narrative:** Stop fixating on model benchmarks. Start talking about the *operational reliability* and *scalability* of your AI solutions. This is what enterprise buyers actually care about for production-grade systems.\n2.  **Collaborate on AI governance:** PMMs need to work closely with PMs, engineering, and legal to define and communicate the guardrails, compliance, and ethical considerations for your AI features. This isn't just an engineering problem; it's a trust and messaging problem.\n3.  **Position your platform as the \"harness\":** If your product integrates third-party AI, highlight how your platform provides the security, data privacy, and workflow orchestration that makes that AI truly enterprise-ready. This is your unique value.\n**Who should read this:** Both PMM / PM — especially those at Series B+ startups or Fortune 500 companies dealing with enterprise AI adoption.\n**Read time:** 10 minutes\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n**AI agents started playing when left alone [S37]**\n- **What was found or demonstrated:** MIT researchers marooned 13 AIs on a virtual island. When given no specific tasks, these agents didn't just sit idle; they began inventing games, mourning a lost ring, and, over time, actually improved at their assigned jobs.\n- **The method used:** A virtual simulation environment with AI agents given basic needs and objectives, then observed without direct human intervention.\n- **How it changes or validates current best practice:** This highlights the emergent, almost \"human-like\" behavior of advanced AI agents, even in unsupervised settings. It suggests that AI agents, left to their own devices, can develop complex interactions and even self-improvement mechanisms. It validates the idea that agents can learn and adapt beyond explicit programming.\n- **PM action item:** When designing AI agent features, consider how \"idle time\" or unstructured environments might lead to unexpected, potentially valuable, or even problematic emergent behaviors. Plan for robust monitoring and guardrails, but also consider how to harness self-organizing capabilities for discovery or optimization.\n\n---\n\n💼 PMM/PM JOBS PULSE\nNo specific job listings data was provided in today's input. Therefore, I cannot list actual job titles and companies.\n\nToday's market signals, however, suggest a continued strong demand for PMMs and PMs who can navigate the complexities of AI integration and strategy. Roles focusing on enterprise AI adoption, security, and ethical deployment are likely to be in high demand as companies move AI from experimentation to core infrastructure.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n**Warhound — $200M Seed Round [S24][S40][S41]**\n- **What they do:** Genetically engineer dogs for military and law enforcement, equipping them with advanced military tech (from Anduril, Palmer Luckey's other company).\n- **GTM motion:** Enterprise / Vertical SaaS (Defense/Government)\n- **What this signals about B2B investment direction:** Extreme niche, high-risk, high-reward deep tech and defense sectors are attracting massive capital, especially when backed by known figures like Palmer Luckey and Ben Lamm. It also highlights the growing intersection of biotech, AI, and defense.\n- **PMM implication:** If you're in a highly specialized, regulated, or controversial space, know your audience and prepare for intense scrutiny. Your messaging needs to be precise, address ethical concerns head-on, and clearly articulate the *mission* behind the tech.\n- **PM implication:** Building products in these spaces requires not just technical prowess but a deep understanding of ethical frameworks, regulatory compliance, and potential societal impacts. The product *is* the policy.\n\n**OpenAI — $30B raise at $1.25T valuation [S45]**\n- **What they do:** Leading AI research and product development (e.g., ChatGPT, Jev competitor).\n- **GTM motion:** Product-led / Enterprise / API-led\n- **What this signals about B2B investment direction:** AI remains the undisputed king of venture capital. Investors are still pouring unprecedented amounts into foundational AI companies, especially those with clear paths to enterprise adoption and continued innovation. The race for AI dominance is far from over.\n- **PMM implication:** If you're integrating with OpenAI or competing with them, their valuation and upcoming IPO mean they'll be even more aggressive. Watch their product roadmap and pricing closely. Position your solutions as complementary or as superior \"serving harnesses\" (see GTM Signal).\n- **PM implication:** OpenAI's continued massive funding means they'll keep pushing the boundaries. PMs need to constantly evaluate new models and capabilities to see how they can be integrated or how they shift competitive landscapes.\n\n**a16z Crypto — Rebrands to a16z Frontier [S43]**\n- **What they do:** Venture capital firm focused on digital assets and blockchain.\n- **GTM motion:** Investor-led / Ecosystem-builder\n- **What this signals about B2B investment direction:** \"Blockchain\" is out, \"Frontier\" tech is in. This rebrand signals a broader shift away from pure crypto speculation towards more diverse, emerging technologies that might include AI, biotech, and other deep tech, while still retaining some blockchain elements. Investors are chasing the next big wave, not just the last one.\n- **PMM implication:** If your product had \"blockchain\" or \"web3\" in its core messaging, it's time to audit and potentially broaden your language. Focus on the *problem solved* and the *impact*, not just the underlying tech, especially if that tech has fallen out of mainstream favor.\n- **PM implication:** This rebrand validates a more pragmatic, problem-solution approach to emerging tech. PMs should prioritize building useful products that solve real problems, regardless of the underlying \"frontier\" tech, rather than chasing buzzwords.\n\n**Uber — Puts all 30,000 employees on ChatGPT Work [S64]**\n- **What they do:** Ride-sharing and delivery platform.\n- **GTM motion:** Enterprise adoption (internal)\n- **What this signals about B2B investment direction:** This isn't a funding round, but a massive enterprise adoption signal. It shows that large enterprises are moving past pilot programs and are *seriously* investing in company-wide AI agent deployment for productivity and efficiency. This is a huge win for ChatGPT Work and validates the \"AI agent\" category.\n- **PMM implication:** If you're selling AI tools, your messaging should now include \"company-wide deployment\" and \"enterprise-scale productivity\" as key benefits. Show how your solution seamlessly integrates into large organizations, not just small teams.\n- **PM implication:** Your product needs to be designed for enterprise scale, security, and governance from day one if you want to compete in this market. Think about admin controls, user management, and data privacy for tens of thousands of users.\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n**Instant Search — Local AI Search for your files [S11][S68]**\nCategory: Productivity / Search\nBest for: Both\nFree tier: No (implied, typical for PH launches without explicit mention, likely paid or trial)\nHonest take: Genuinely useful capability. Local search is often terrible, and \"AI\" here likely means better semantic understanding. It's not revolutionary, but a solid improvement on an existing pain point.\nWho should try it this week: Anyone whose job involves digging through local files and wasting time doing it.\n\n**1Password's AI agent login — Secure AI agent access [S52]**\nCategory: Security / AI Agent Management\nBest for: Both (especially SecOps and IT teams)\nFree tier: No (part of 1Password's paid offering)\nHonest take: Genuinely new capability that addresses a critical enterprise security concern for AI agents. This is a smart, proactive move, not just a feature dressed up. It makes AI agent deployment much safer.\nWho should try it this week: PMs building AI agent integrations, PMMs selling security or AI solutions. This sets a new standard for secure agent interaction.\n\n**Agent Hunt — Live rankings of AI agent tools [S13][S71]**\nCategory: Competitive Intel / Market Research\nBest for: Both\nFree tier: Yes (implied, public website)\nHonest take: A useful aggregation site. It's not a \"tool\" in the traditional sense, but a valuable resource to track the rapidly evolving AI agent landscape.\nWho should try it this week: Any PMM or PM researching the AI agent competitive landscape or looking for new tools.\n\n---\n\n⚡ SPEED ROUND\n🍏 **iPhone Duo is out:** Apple’s first folding phone is thick and heavy, not the \"Mini that turns into a tablet\" dream [S29][S1].\n👴 **Apple Music's iPod easter egg:** A fully functional virtual iPod on 404 pages, playing early 2000s hits for nostalgia kicks [S2].\n💸 **Spotify busts Family Plan sharers:** Using QR codes to verify cohabitation, calling it a \"routine improvement\" (sure, Alex) [S42].\n🎨 **Etsy cracks down on AI slop:** New rules require unedited photos of actual items to combat misleading AI-generated listings [S38].\n🤖 **\"Vibe coding\" TVs with Claude:** People are using LLMs to remove ads, bloat, and customize their TV OS homescreens [S17].\n🚗 **Tesla preps Cybercab onslaught:** Looking to roll out its gold two-seater robotaxis to more US cities this year [S65].\n🏡 **Google Home speaker eats Wi-Fi data:** A bug caused some smart home devices to burn through excessive data [S48].\n🖼️ **Canva releases first image generation model:** Aiming for better, customizable, lower-cost image creation for all users [S54].\n👋 **Arc browser sunsets Dec 22:** The Browser Company doubles down on Dia, leaving beloved Arc behind [S49].\n🩺 **Microsoft AI outperforms doctors:** Mustafa Suleyman says their new AI diagnostic system beat generalist doctors on hard cases [S57].\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\n**Challenge: Validate an AI-Generated Messaging Hook**\nRole focus: PMM\n\n**The setup:** You've used an AI to draft a new messaging hook for an upcoming product feature. Now you need to quickly validate if it resonates with your target ICP and addresses their actual pain points, without spending days on full-blown research.\n\n**What to do:**\nStep 1: **Draft your AI-generated messaging hook** (e.g., \"Achieve [X benefit] with [Y feature] without [Z pain point]\").\nStep 2: **Go to a relevant online community or forum** where your ICP hangs out (e.g., Reddit, LinkedIn groups, specific Slack communities). Find a recent post or discussion where your ICP expresses the pain point your feature solves.\nStep 3: **Craft a concise, non-salesy comment** (or DM if appropriate) asking for feedback on a *concept* related to your hook, *without directly pitching your product*. Observe the reaction.\n\nThe exact prompt or template:\n```\n(As a comment on a relevant community post about a pain point like \"struggling with X\"):\n\"Hey everyone, I saw this discussion about [specific problem]. It got me thinking about a concept we're exploring: 'What if you could [solve problem X] by [new approach/benefit]?' Does that even resonate, or am I totally off base?\"\n```\n\nWhat good looks like vs. mediocre:\n**Good:** Gets genuine, thoughtful responses (positive or negative) that reveal deeper insights into the problem or how they currently cope. It feels like a peer asking for input.\n**Mediocre:** Gets no replies, or replies like \"sounds like you're selling something,\" indicating your prompt was too salesy or not genuinely curious.\n\nWhy this skill matters in the next 6 months: As AI accelerates content creation, the ability to quickly and authentically validate AI-generated messaging with real humans becomes critical to avoid tone-deaf or irrelevant campaigns.\nTime: 15 minutes or less.\n\n---\n\n🧠 EDGE INSIGHT\nThe sheer volume of \"AI agent\" launches and discussions is reaching critical mass, but there's a quiet undercurrent: the market is already differentiating between raw agent capability and *enterprise-grade agent reliability*. Companies like 1Password and Uber aren't just adopting agents; they're demanding the \"serving harness\" – the security, governance, and scalability around them. Meanwhile, Etsy is explicitly rejecting \"AI slop.\" This tells me the initial \"wow, AI can do that!\" phase is over. The winners in the next 12-18 months won't be those with the flashiest AI models, but those who can prove their AI is trustworthy, controllable, and deeply integrated into existing workflows without creating new security or operational headaches. It's a GTM shift from \"what AI can do\" to \"what AI *should* do, reliably.\"",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Our best tips for using the iPhone Duo",
+      "url": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "Apple revives the original iPod as an Apple Music easter egg",
+      "url": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
+      "source": "The Verge"
+    },
+    {
+      "id": 3,
+      "title": "Product Marketing Awards 2026:  Your shortlist",
+      "url": "https://www.productmarketingalliance.com/product-marketing-awards-shortlist/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 4,
+      "title": "Can tokenized loyalty programs replace  points-based pricing incentives?",
+      "url": "https://www.productmarketingalliance.com/can-tokenized-loyalty-programs-replace-points-based-pricing-incentives/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 5,
+      "title": "ShogunAI",
+      "url": "https://www.producthunt.com/products/shogunai",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 6,
+      "title": "Product Hunt Visual Launch Editor",
+      "url": "https://www.producthunt.com/products/producthunt",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 7,
+      "title": "How Revenue Teams Use AI Without Losing the Human Edge",
+      "url": "https://corporatevisions.com/blog/how-revenue-teams-use-ai-without-losing-the-human-edge/",
+      "source": "Corporate Visions"
+    },
+    {
+      "id": 8,
+      "title": "Building a buyer brain with AI:   What works and what doesn’t",
+      "url": "https://www.productmarketingalliance.com/building-a-buyer-brain-with-ai/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 9,
+      "title": "Profound vs. Scrunch: Which AEO tool fits your team?",
+      "url": "https://blog.hubspot.com/marketing/profound-vs-scrunch",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 10,
+      "title": "How to build an AI agent: from goal to live deployment",
+      "url": "https://blog.hubspot.com/marketing/build-ai-agent",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 11,
+      "title": "Instant Search",
+      "url": "https://www.producthunt.com/products/instant-search-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 12,
+      "title": "Termi Protocol",
+      "url": "https://www.producthunt.com/products/termi-protocol",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 13,
+      "title": "Agent Hunt",
+      "url": "https://www.producthunt.com/products/monid",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 14,
+      "title": "Peras",
+      "url": "https://www.producthunt.com/products/peras",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 15,
+      "title": "Plango",
+      "url": "https://www.producthunt.com/products/plango",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 16,
+      "title": "Monish",
+      "url": "https://www.producthunt.com/products/monish",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 17,
+      "title": "People are vibe coding their way to better TVs",
+      "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+      "source": "The Verge"
+    },
+    {
+      "id": 18,
+      "title": "Netflix can’t fire its way out of this downward spiral",
+      "url": "https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad",
+      "source": "The Verge"
+    },
+    {
+      "id": 19,
+      "title": "Brick’s new app blocker is designed for bedtime doomscrolling",
+      "url": "https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch",
+      "source": "The Verge"
+    },
+    {
+      "id": 20,
+      "title": "The Download: testing six tech promises and biotech’s blind spots",
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 21,
+      "title": "Retro gaming is being overrun with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "source": "The Verge"
+    },
+    {
+      "id": 22,
+      "title": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could",
+      "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+      "source": "Wired"
+    },
+    {
+      "id": 23,
+      "title": "Split Tunneling Is Your VPN’s Best Feature. Here’s How to Make the Most of It",
+      "url": "https://www.wired.com/story/split-tunneling-is-your-vpns-best-feature-heres-how-to-make-the-most-of-it/",
+      "source": "Wired"
+    },
+    {
+      "id": 24,
+      "title": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
+      "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+      "source": "The Verge"
+    },
+    {
+      "id": 25,
+      "title": "Turtle Beach Vulcan II XP Review: Clicky Compromise",
+      "url": "https://www.wired.com/review/turtle-beach-vulcan-xp-ii/",
+      "source": "Wired"
+    },
+    {
+      "id": 26,
+      "title": "TDM Neo Hybrid Headphones Review: Two-in-One Woes",
+      "url": "https://www.wired.com/review/tdm-neo-hybrid-headphones/",
+      "source": "Wired"
+    },
+    {
+      "id": 27,
+      "title": "A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married",
+      "url": "https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married/",
+      "source": "Wired"
+    },
+    {
+      "id": 28,
+      "title": "What Type of Mattress Is Right for You? (2026)",
+      "url": "https://www.wired.com/story/mattress-types-explained-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 29,
+      "title": "No, the iPhone Duo isn’t a small phone",
+      "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+      "source": "The Verge"
+    },
+    {
+      "id": 30,
+      "title": "Best Early Black Friday Smart Bird Feeder Deals (2026)",
+      "url": "https://www.wired.com/story/early-black-friday-smart-bird-feeder-deals-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 31,
+      "title": "8 Things to Know About the iPhone Duo",
+      "url": "https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo/",
+      "source": "Wired"
+    },
+    {
+      "id": 32,
+      "title": "Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap",
+      "url": "https://www.wired.com/story/dyson-week-deals-oct-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 33,
+      "title": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars",
+      "url": "https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/",
+      "source": "Wired"
+    },
+    {
+      "id": 34,
+      "title": "In the biotech world, you can’t see everything",
+      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 35,
+      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 36,
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 37,
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 38,
+      "title": "Etsy is cracking down on AI slop listings",
+      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "source": "The Verge"
+    },
+    {
+      "id": 39,
+      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 40,
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 41,
+      "title": "Palmer Luckey and Ben Lamm Made a Genetically Modified Military Dog Startup",
+      "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
+      "source": "Wired"
+    },
+    {
+      "id": 42,
+      "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+      "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+      "source": "The Verge"
+    },
+    {
+      "id": 43,
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "What to Know About Shamonda Virus Following the First Reported Human Infection",
+      "url": "https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/",
+      "source": "Wired"
+    },
+    {
+      "id": 45,
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 47,
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 48,
+      "title": "The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data",
+      "url": "https://www.wired.com/story/google-home-speaker-bug-oct-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 49,
+      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+      "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 50,
+      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+      "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 51,
+      "title": "The Social Society Helping Women Join the AI Boom",
+      "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 53,
+      "title": "Inside the Exclusive Nathan Fielder Interview",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 55,
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 56,
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 57,
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 58,
+      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+      "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 59,
+      "title": "Anker Soundcore Space 2 Are at Their Lowest Price Ever",
+      "url": "https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 60,
+      "title": "A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels",
+      "url": "https://www.wired.com/story/ice-age-beginning-then-humans-started-burning-fossil-fuels/",
+      "source": "Wired"
+    },
+    {
+      "id": 61,
+      "title": "Elon Musk made a $1B investment in Skydance, report says",
+      "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 62,
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 63,
+      "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+      "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 64,
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 65,
+      "title": "Tesla is prepping a Cybercab onslaught",
+      "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 66,
+      "title": "Save $150 on the Apple Mac Mini M4, but There’s a Catch",
+      "url": "https://www.wired.com/story/mac-mini-m4-deal-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 67,
+      "title": "Fellow Aiden Precision Coffee Maker is $100 Off",
+      "url": "https://www.wired.com/story/fellow-aiden-precision-coffee-maker-deal-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 68,
+      "title": "Instant Search",
+      "url": "https://www.producthunt.com/products/instant-search-2",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 69,
+      "title": "Termi Protocol",
+      "url": "https://www.producthunt.com/products/termi-protocol",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 70,
+      "title": "ShogunAI",
+      "url": "https://www.producthunt.com/products/shogunai",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 71,
+      "title": "Agent Hunt",
+      "url": "https://www.producthunt.com/products/monid",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 72,
+      "title": "Monish",
+      "url": "https://www.producthunt.com/products/monish",
+      "source": "Product Hunt"
+    }
+  ]
+}
