@@ -1,0 +1,315 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T16:21:54.340264+00:00",
+  "raw_text": "Alright, let's get into what actually matters today. No fluff, just the goods.\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\nAnthropic, the AI safety-focused company behind Claude, officially filed for its IPO, revealing significant revenue growth alongside mounting losses and an $80.7 billion valuation in the first half of this year. [S2][S21][S23][S29] This filing also laid bare their unique governance structure designed to preserve founder control and their AI safety mission, even while acknowledging \"existential risks\" their technology could pose. [S2][S29] The product angle most people are missing is how \"AI safety\" is shifting from a philosophical debate to a tangible enterprise GTM differentiator, or even a regulatory hurdle. For PMMs, this means understanding and articulating your product's stance on AI safety and ethics isn't just PR; it's becoming a core part of your competitive positioning and risk management narrative, especially in highly regulated industries. For PMs, it means building AI products with ethical guardrails and transparent governance from day one, recognizing that \"safety\" can be a feature that drives adoption or a liability that kills it. The one thing to act on or watch in the next 30 days is how Anthropic’s roadshow messages its \"safety\" mission – is it a technical feature, a corporate value, or a competitive moat?\n\n---\n\n🎯 POSITIONING WATCH\n**Instagram — Pushing \"Features\" for longer, widescreen videos** [S1]\n- **Narrative angle:** Instagram wants to be *the* destination for creators who make serious, polished video content, moving beyond just short, vertical Reels. They're telling creators they can get more depth and production value on the platform.\n- **ICP signal:** Professional creators, content studios, and brands who produce longer-form, higher-production-value video. The \"widescreen\" aspect is a dead giveaway for a more cinematic, less casual audience.\n- **What's sharp:** Adam Mosseri directly addressed his past skepticism about longform video. This shows self-awareness and frames the pivot as a strategic evolution, not a desperate chase.\n- **What's fuzzy:** The tension between \"entertainment\" (longform video) and \"connecting with friends\" (their stated core). How do they keep the app from feeling like a fragmented mess?\n- **Steal this:** When your product makes a significant strategic pivot that contradicts past statements, acknowledge the previous stance directly and explain the *why* of the change. It builds trust.\n\n**T-Mobile — Launches \"T-Mix\" plans with swappable subscription perks** [S19]\n- **Narrative angle:** Your mobile plan should be as flexible as your entertainment habits. They're telling customers they can personalize their wireless experience by bundling and swapping streaming services or device promotions without changing their core plan cost.\n- **ICP signal:** Value-conscious consumers and families who subscribe to multiple streaming services or frequently upgrade devices. They want flexibility and perceived savings.\n- **What's sharp:** \"Swappable Picks\" is a clear, compelling value proposition that immediately communicates flexibility and control. It's easy to grasp.\n- **What's fuzzy:** How seamless is the \"swapping\" process? Are there hidden restrictions, cooldowns, or a limited catalog of \"Picks\" that will frustrate users?\n- **Steal this:** When launching a bundle or tiered offering, identify a key benefit (like flexibility) and coin a simple, memorable term for it (\"Swappable Picks\") that defines the user experience.\n\n**Apple — Updates iPad Mini with larger OLED display and faster A20 Pro chip** [S24][S31]\n- **Narrative angle:** The most portable iPad is now even more powerful and visually stunning, designed for professionals and creatives who need desktop-class performance in a pocketable form factor.\n- **ICP signal:** Mobile professionals, graphic designers, digital artists, and power users who prioritize display quality, raw processing power, and extreme portability. The \"Pro\" chip implies a professional-grade audience.\n- **What's sharp:** Highlighting specific technical improvements (OLED, A20 Pro) and linking them to tangible benefits like \"thinner and lighter\" and \"faster,\" which resonate with performance and portability needs.\n- **What's fuzzy:** At $699+, how much \"mini\" is too expensive for a device that's still fundamentally a tablet? The value proposition against a full-sized iPad or even a MacBook Air might be unclear for some.\n- **Steal this:** When launching an iteration, don't just list specs. Connect each spec to a direct user benefit (e.g., \"OLED display means richer colors for designers,\" \"A20 Pro chip means faster video editing on the go\").\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n**Instagram vs YouTube (Longform Video)** [S1]\n- **What changed:** Instagram is making a huge, explicit push into longform, widescreen video, calling them \"Features.\" This is a direct challenge to YouTube's core offering, a space Instagram's head once resisted.\n- **Why they did this now — what are they betting on?:** Instagram is betting that user attention is increasingly fragmented, and they need to offer a full spectrum of video content to keep users in-app longer and attract creators who might otherwise default to YouTube. They're chasing engagement and creator monetization.\n- **PMM action item:** If you're a YouTube PMM, you need to immediately highlight YouTube's superior creator monetization tools, established community features, and robust infrastructure for longform content as key differentiators. Consider a campaign around \"The Home of Serious Creators\" or \"True Creator Ownership.\"\n- **Battlecard update needed? Yes.** Add \"Instagram Longform Video (Features)\" as a new competitive threat. Update feature parity for creator tools, monetization, and audience engagement features.\n\n**Tesla vs Traditional Car Rental/Dealerships (FSD Adoption)** [S33]\n- **What changed:** Tesla is partnering with Turo, a peer-to-peer car-sharing platform, to boost adoption of its Full Self-Driving (Supervised) software. Eligible Turo hosts get a free one-month FSD trial.\n- **Why they did this now — what are they betting on?:** Tesla is betting that direct experience is the best way to convert skeptics and drive FSD adoption. By making FSD accessible through rentals, they're lowering the barrier to trial and turning Turo hosts into de facto sales reps for the software.\n- **PMM action item:** If you're a PMM for a competitor (e.g., GM's Super Cruise, Ford's BlueCruise), you should immediately highlight your own hands-on trial programs, safety records, and the convenience of integrated, owned-vehicle experiences. Emphasize reliability and established support networks over a rental experience.\n- **Battlecard update needed? Yes.** Add \"Turo Partnership for FSD Trials\" under Tesla's distribution and adoption strategies. Note the new trial offer.\n\n---\n\n🚀 LAUNCH DISSECTION\n**Jobmate AI by Jobmate AI** [S10][S51]\n- **Launch tier:** T2 — It's a useful tool for a specific audience (job seekers) but doesn't fundamentally change a category or introduce a novel technology.\n- **Core message:** \"The humanized AI Copilot for your entire Job search.\"\n- **GTM channels used:** Product Hunt. (Implied: organic social, email lists for early adopters.)\n- **Sales readiness signal:** No explicit enablement content mentioned, indicating a self-serve, freemium, or low-touch sales model.\n- **Buyer emotion targeted:** Frustration (with the tedious, generic job search process), Ambition (landing a dream job), FOMO (missing out on AI advantage).\n- **What worked:** The core message is clear about the problem it solves (job search) and the technology it uses (AI copilot). The \"humanized\" aspect attempts to address common AI concerns.\n- **What's missing:** Specifics. How is it \"humanized\"? What does \"entire Job search\" cover? Is it resume, cover letter, interview prep, networking? Without concrete examples or a clear workflow, it feels a bit generic. There's no immediate hook for *why* this is better than just using a general LLM.\n- **If you were the PMM:** I'd launch with 3-5 hyper-specific, quantifiable use cases – e.g., \"Generate a tailored cover letter for a Senior PMM role in 60 seconds,\" \"Identify and highlight resume keywords for 5 target companies simultaneously,\" or \"Simulate a behavioral interview with real-time feedback.\"\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n**Lenny's Newsletter — Why Reddit built its own AI prototyping tool** [S3][S4]\n- **The core argument or insight in 1–2 sentences:** Reddit developed an internal AI prototyping platform, Reddit Proto, that lets designers and PMs build production-like prototypes with real data and no code, achieving 100% adoption across their UX and product orgs. This significantly accelerates their product development cycle by bridging the gap between design and engineering.\n- **Community reaction:** Resonating strongly, especially among PMs and UX leaders who struggle with slow prototyping cycles or the disconnect between mock-ups and production. It's sparking \"build vs. buy\" discussions for internal tools.\n- **The sharpest counter-take if one exists:** While internal tools offer tailored solutions, they come with significant maintenance overhead and often lack the robust feature sets and community support of commercial tools, which can be integrated effectively with the right strategy.\n- **Worth engaging? Yes** — This is a critical discussion for any PM or PMM looking to improve their product development velocity and ensure prototypes are grounded in reality.\n\n**HubSpot Marketing — How to create Claude skills: What your team actually needs** [S5]\n- **The core argument or insight in 1–2 sentences:** Claude skills allow teams to save repeatable AI workflows as automated instructions, eliminating the need to paste long prompts repeatedly. This democratizes the use of AI for business users, making it easier to maintain consistency and efficiency across marketing tasks.\n- **Community reaction:** Resonating with PMMs, content creators, and marketing ops folks who are trying to scale AI usage beyond individual experimentation.\n- **The sharpest counter-take if one exists:** \"Skills\" are essentially just sophisticated prompt templates. The real value still comes from understanding prompt engineering principles and iterating on outputs, not just blindly applying a pre-set skill.\n- **Worth engaging? Skim** — Useful for Claude users, but the concept applies broadly to any LLM with custom instruction capabilities. Good for practical application, less for strategic insight.\n\n**Product Marketing Alliance — The case for incrementality: Making better decisions about growth investments** [S6]\n- **The core argument or insight in 1–2 sentences:** Many marketing teams still rely on flawed attribution models like last-click or gut feelings for budget decisions, leading to misallocated spend. The article argues for using incrementality testing to truly understand the causal impact of marketing investments and make data-driven growth decisions.\n- **Community reaction:** Resonating deeply with performance marketing PMMs and growth leaders who are constantly battling for budget justification and proving ROI.\n- **The sharpest counter-take if one exists:** Incrementality testing can be complex, expensive, and time-consuming to set up correctly, potentially slowing down agile marketing teams who need quick decisions and feedback loops.\n- **Worth engaging? Yes** — This is foundational for any PMM responsible for growth strategy or marketing budget allocation. It's how you prove your worth beyond vanity metrics.\n\n**Product Marketing Alliance — PM-to-PMM handover checklist** [S9]\n- **The core argument or insight in 1–2 sentences:** A structured, four-stage checklist for PM-to-PMM handovers ensures clear alignment on goals, context, GTM readiness, and post-launch learning, transforming a handoff into a collaborative handshake. It aims to prevent miscommunications and ensure all necessary information is shared for a successful launch.\n- **Community reaction:** Resonating immensely. This is a perpetual pain point in many organizations, and a concrete framework is always welcome.\n- **The sharpest counter-take if one exists:** While a checklist is helpful, it won't fix fundamental issues in team communication or lack of trust. It's a tool, not a solution to organizational dysfunction.\n- **Worth engaging? Yes** — Immediately actionable for PMMs, especially those struggling with launch readiness or cross-functional alignment. Steal this framework.\n\n---\n\n💡 USE CASE OF THE DAY\n**Automate Consistent Persona-Based Content Generation with Claude Skills** [S5]\nCategory: Content / Messaging\nRole: PMM\n\n**The workflow:**\nStep 1: **Identify a repeatable content task** where persona consistency is key (e.g., generating social media posts, email snippets, or blog intro paragraphs for a specific ICP).\nStep 2: **Use Claude's built-in skill creator** through a guided conversation. Define your target persona, the desired tone, key messaging points, and the required output format. Claude will generate the underlying instructions.\nStep 3: **Save the generated skill** and share it with your content or marketing team. Now, anyone can use that skill by simply calling it, without needing to copy-paste a complex prompt each time.\n\n**Tools used:** Claude\n**Time to complete:** 15-30 minutes for initial skill creation.\n**Output you get:** A reusable, consistent AI assistant for specific content generation tasks, ensuring brand and persona alignment across your team.\n**Why it matters now:** Scales consistent, on-brand messaging across your team, freeing up PMMs from constant prompt-engineering or content review.\n\n**Prompt or template (if AI-assisted):**\n\"Create a Claude skill for generating short, punchy social media posts for our 'Enterprise IT Director' persona. The posts should highlight operational efficiency, data security, and ROI. Each post needs to be under 200 characters and include one relevant hashtag. The tone should be authoritative and value-driven.\"\n\n---\n\n📚 LEARNING PICK OF THE DAY\n**The case for incrementality: Making better decisions about growth investments** — Product Marketing Alliance [S6]\n\n**What it's about:** This article argues that relying on last-click attribution or gut feelings for marketing spend is a recipe for wasted budget. It makes a strong case for implementing incrementality testing to truly understand which marketing channels and campaigns are driving *additional* value, rather than just being correlated with conversions. It's about getting to real cause and effect.\n\n**3 actionable takeaways:**\n1.  **Challenge default attribution models:** Stop blindly accepting last-click or first-touch. Push your marketing operations or analytics team to explore multi-touch attribution or, better yet, set up controlled experiments.\n2.  **Design simple incrementality tests:** Start small. Pick one channel or campaign, create a control group (users who don't see the campaign), and measure the *difference* in outcomes. Tools like geographical splits or ghost ads can help.\n3.  **Tie budget requests to incremental ROI:** When asking for more marketing budget, don't just show ROAS. Show the *incremental* revenue or customer acquisition that your efforts directly caused. This is how you win over finance.\n\n**Who should read this:** PMM / PM — PMMs focused on growth, demand gen, or performance marketing. PMs who need to understand marketing's true impact on product adoption. Relevant at all career stages, but crucial for senior roles.\n**Read time:** 10 minutes\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n**AI delivers ‘zero financial payoff’ to most companies** [S47]\n- **What was found or demonstrated:** An Apollo economist claims that despite massive investments and hype, AI has delivered \"zero financial payoff\" to corporate America outside of the tech industry itself.\n- **The method used:** Economic analysis (not a specific user research study, but an economist's macro observation).\n- **How it changes or validates current best practice:** This directly challenges the widespread assumption that AI automatically translates into business value. It validates the need for rigorous ROI analysis and a healthy skepticism towards AI for AI's sake. It shows that \"just add AI\" isn't a strategy.\n- **PM action item:** In your next product discovery sprint, for any proposed AI feature or product, demand a clear, quantifiable hypothesis about its *financial impact* on the business or specific, measurable customer value that translates to revenue/cost savings. Don't greenlight AI features based solely on perceived \"coolness\" or \"efficiency\" without a strong business case.\n\n---\n\n💼 PMM/PM JOBS PULSE\nNo specific job listings were provided in today's data.\n\nToday's news, particularly Microsoft offering buyouts to 60,000 employees [S17][S18], signals a cautious market for tech employment, even amidst continued high investment in AI. Companies are looking to optimize workforces, suggesting that while AI roles might grow, general tech hiring could remain tight as efficiency and cost-cutting take precedence.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n**Anthropic — IPO filing (reveals $80.7B valuation, mounting losses)** [S21][S23][S29]\n- **What they do:** Develops advanced AI models (Claude) with a foundational commitment to AI safety and alignment.\n- **GTM motion:** Enterprise / Sales-led (selling large models, often with custom integrations and safety assurances, to major corporations).\n- **What this signals about B2B investment direction:** Investors are still pouring massive capital into foundational AI companies, even those with significant losses, betting on future dominance and the long-term societal impact (and potential regulation) of AI. The \"safety\" angle is a key differentiator.\n- **PMM implication:** \"Responsible AI,\" \"ethical AI,\" and \"AI safety\" are no longer niche concerns; they are becoming critical enterprise selling points and must be deeply integrated into product messaging and value propositions.\n- **PM implication:** Product roadmaps for AI must explicitly address safety, bias, and control mechanisms from the start. Building \"responsible\" AI is becoming a core product requirement, not an afterthought.\n\n**Matiks — $10M Series A** [S26]\n- **What they do:** Platform for math and puzzle gaming, recently introduced AI for game creation.\n- **GTM motion:** Product-led / Community-led (gaming platform, user-generated content, freemium model likely).\n- **What this signals about B2B investment direction:** Strong investment in AI-powered user-generated content platforms, particularly in niche or consumer-facing domains like gaming/education. It's about enabling users to create with AI.\n- **PMM implication:** Focus your messaging on the ease and power of AI-assisted creation. Build a strong community around user-generated content and showcase success stories.\n- **PM implication:** Prioritize features that empower users to create, customize, and share. Ensure the AI tools are intuitive and genuinely enhance the user's creative process, not complicate it.\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n**ManyAgents — Run a team of AI coding agents from one Mac window** [S15][S48]\nCategory: Developer Tools / AI Orchestration\nBest for: PM (if managing dev teams or evaluating AI dev tools), PMM (if targeting developers as an ICP).\nFree tier: No (implied, typical for niche dev tools).\nHonest take: Another entry in the crowded \"AI agent orchestration\" space. The \"Mac window\" focus is a specific UX play, but the core capability needs to be genuinely differentiated from existing agent frameworks or IDE integrations.\nWho should try it this week: PMs leading internal AI tooling initiatives or PMMs evaluating the competitive landscape for AI developer platforms.\n\n**AVP — Open source alternative to Git for AI coding agents** [S11][S49]\nCategory: Developer Tools / Version Control\nBest for: PM (for evaluating dev infrastructure), PMM (if targeting open-source or AI developers).\nFree tier: Yes (open source).\nHonest take: An \"alternative to Git for AI agents\" is a *massive* claim. Git's ecosystem is vast. This needs to solve a very specific, acute problem with versioning AI artifacts (models, data, prompts) that Git fundamentally cannot, not just offer a different UI. Skepticism is warranted until proven.\nWho should try it this week: PMs exploring version control solutions for complex AI/ML pipelines, especially if existing Git workflows are breaking down for model management.\n\n**desigma — Free Figma alternative made on Rust** [S16]\nCategory: Design Tools\nBest for: PM (evaluating design stack), PMM (if targeting designers or cost-conscious teams).\nFree tier: Yes.\nHonest take: Figma is deeply entrenched and offers powerful collaboration. A \"free alternative\" needs to be either incredibly good, offer a unique feature, or target a very specific niche to break through. \"Made on Rust\" is cool for devs, but designers care about features, performance, and collaboration.\nWho should try it this week: Design leads or PMs looking to significantly cut design tool costs, or PMMs targeting very early-stage startups with tight budgets.\n\n---\n\n⚡ SPEED ROUND\n📱 Instagram pushing longform, widescreen \"Features\" to challenge YouTube. [S1]\n💸 Anthropic files for IPO, revealing huge revenue but also mounting losses and \"existential\" AI risks. [S2][S23]\n💻 Microsoft offering voluntary buyouts to 60,000 employees across multiple orgs. [S17]\n🍎 Apple updates iPad Mini with larger OLED display and faster A20 Pro chip. [S24]\n🚗 Tesla partners with Turo to boost adoption of Full Self-Driving (Supervised) trials. [S33]\n🤖 Apollo economist: AI has delivered \"zero financial payoff\" to most companies outside tech. [S47]\n📝 Reddit built an internal AI prototyping tool for designers/PMs, hitting 100% adoption. [S4]\n💡 HubSpot outlines how to create Claude skills for repeatable, prompt-free AI workflows. [S5]\n📈 PMA argues for incrementality testing over last-click attribution for growth investments. [S6]\n🤝 PMA releases a PM-to-PMM handover checklist for smoother product launches. [S9]\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\n**Challenge: Craft an Incremental Impact Hypothesis for Your Next Launch**\nRole focus: PMM\n\n**The setup:** Your team is gearing up for a new feature or product launch next quarter. Instead of just tracking total conversions, your goal is to articulate its *true, incremental* impact.\n\n**What to do:**\nStep 1: **Pick one upcoming feature or campaign.** Identify its primary target audience and the key metric it's designed to influence (e.g., feature adoption, conversion rate, retention).\nStep 2: **Open a blank document or spreadsheet.** Formulate a hypothesis that isolates the *additional* impact of this launch, imagining you could run a controlled experiment.\nStep 3: **Refine your hypothesis** to be specific, measurable, and include a notion of a control group or baseline.\n\n**The exact prompt or template:**\n\"If we launch [**Specific Feature/Campaign Name**] to [**Target Audience/Segment**], we expect to see an incremental [**Quantifiable % Increase/Decrease**] in [**Key Metric (e.g., sign-ups, feature usage, churn rate)**] over [**Specific Timeframe, e.g., 90 days**], compared to a similar group that does not receive/experience this launch.\"\n\n**What good looks like vs. mediocre:**\n- **Good:** \"If we launch the new personalized onboarding flow to new SMB users, we expect to see an incremental 15% increase in Week 1 active user rate over 60 days, compared to new SMB users on the old flow.\"\n- **Mediocre:** \"The new onboarding will increase user activation.\"\n\n**Why this skill matters in the next 6 months:** This skill forces you to think like a scientist, proving the actual value of your GTM efforts and product features, which is critical for securing budget and demonstrating ROI in a tighter market.\nTime: 15 minutes or less.\n\n---\n\n🧠 EDGE INSIGHT\nOkay, look at the Anthropic IPO hype [S2][S23] right next to that Apollo economist saying AI has delivered \"zero financial payoff\" to most companies [S47], and then you've got Microsoft offering buyouts to 60,000 employees [S17]. This isn't just noise; it’s a massive divergence. The *foundational* AI layer is still attracting insane capital and valuations, but the *application* layer—where most of us live—is struggling to translate that tech into tangible business value for the average company. The market is betting on the *potential* of AI, but companies are already trimming fat, suggesting the ROI isn't materializing fast enough at the operational level. PMMs and PMs are stuck in the middle: we're given these incredibly powerful tools, but the real challenge isn't building or marketing \"AI-powered X.\" It's proving that \"AI-powered X\" actually moves the needle on revenue, retention, or cost savings, and that's a much harder conversation to have with leadership right now.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Instagram chases YouTube with a push for longer, widescreen videos",
+      "url": "https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "The Anthropic IPO Is Also a Doomsday Primer",
+      "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+      "source": "Wired"
+    },
+    {
+      "id": 3,
+      "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 4,
+      "title": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
+      "url": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 5,
+      "title": "How to create Claude skills: What your team actually needs",
+      "url": "https://blog.hubspot.com/marketing/create-claude-skills",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 6,
+      "title": "The case for incrementality:  Making better decisions about growth investments",
+      "url": "https://www.productmarketingalliance.com/the-case-for-incrementality/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 7,
+      "title": "AllModels",
+      "url": "https://www.producthunt.com/products/allmodels-io",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "Standfast",
+      "url": "https://www.producthunt.com/products/standfast",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 9,
+      "title": "PM-to-PMM  handover checklist",
+      "url": "https://www.productmarketingalliance.com/pm-to-pmm-handover-checklist-framework/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 10,
+      "title": "Jobmate AI",
+      "url": "https://www.producthunt.com/products/jobmate-ai-3",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 11,
+      "title": "AVP",
+      "url": "https://www.producthunt.com/products/avp",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 12,
+      "title": "WhoIsCooking",
+      "url": "https://www.producthunt.com/products/whoiscooking",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 13,
+      "title": "VibeiDE",
+      "url": "https://www.producthunt.com/products/vibeide",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 14,
+      "title": "omerta",
+      "url": "https://www.producthunt.com/products/omerta",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 15,
+      "title": "ManyAgents",
+      "url": "https://www.producthunt.com/products/manyagents",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 16,
+      "title": "desigma",
+      "url": "https://www.producthunt.com/products/desigma",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 17,
+      "title": "Microsoft offers buyouts to 60,000 employees",
+      "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "source": "The Verge"
+    },
+    {
+      "id": 18,
+      "title": "Microsoft offers buyouts to around 60,000 employees, reports say",
+      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 19,
+      "title": "T-Mobile’s new plans include swappable subscription perks",
+      "url": "https://www.theverge.com/tech/1018624/t-mobile-mix-plans-streaming-picks",
+      "source": "The Verge"
+    },
+    {
+      "id": 20,
+      "title": "Microsoft&#8217;s new Surface Laptop Ultra update fixes reboot and display bugs",
+      "url": "https://www.theverge.com/tech/1018636/microsoft-surface-laptop-ultra-october-firmware-update",
+      "source": "The Verge"
+    },
+    {
+      "id": 21,
+      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+      "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+      "source": "Wired"
+    },
+    {
+      "id": 22,
+      "title": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
+      "url": "https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 23,
+      "title": "Anthropic officially files for its public debut",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 24,
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+      "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 25,
+      "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "source": "Wired"
+    },
+    {
+      "id": 26,
+      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
+      "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 27,
+      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+      "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "source": "The Verge"
+    },
+    {
+      "id": 28,
+      "title": "WIRED Ghost Stories",
+      "url": "https://www.wired.com/ghost-stories/",
+      "source": "Wired"
+    },
+    {
+      "id": 29,
+      "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "source": "The Verge"
+    },
+    {
+      "id": 30,
+      "title": "Can AI help solve the COBOL code crisis?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "source": "The Verge"
+    },
+    {
+      "id": 31,
+      "title": "Apple updates the iPad Mini with a larger OLED display",
+      "url": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
+      "source": "The Verge"
+    },
+    {
+      "id": 32,
+      "title": "Some iPhone Duo Models Are Breaking. iFixit’s Teardown Might Explain Why",
+      "url": "https://www.wired.com/story/some-iphone-duo-models-are-breaking-ifixits-teardown-might-explain-why/",
+      "source": "Wired"
+    },
+    {
+      "id": 33,
+      "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+      "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 34,
+      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 35,
+      "title": "The Hottest New Side Hustle Is Stripping Copper Wire and Posting About It",
+      "url": "https://www.wired.com/story/the-hottest-new-side-hustle-is-stripping-copper-wire-and-posting-about-it/",
+      "source": "Wired"
+    },
+    {
+      "id": 36,
+      "title": "LG B6 OLED TV Review (2026)",
+      "url": "https://www.wired.com/review/lg-b6/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "The city that fought Flock",
+      "url": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
+      "source": "The Verge"
+    },
+    {
+      "id": 38,
+      "title": "Lykyn Review: A Mushroom Garden Worth Showing Off",
+      "url": "https://www.wired.com/review/lykyn-automated-mushroom-grow-box/",
+      "source": "Wired"
+    },
+    {
+      "id": 39,
+      "title": "The Tragedy of Having a Wikipedia Page—and Then Losing It",
+      "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
+      "source": "Wired"
+    },
+    {
+      "id": 40,
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "source": "Wired"
+    },
+    {
+      "id": 41,
+      "title": "Valve Steam Frame Review: Costly and Inconsistent",
+      "url": "https://www.wired.com/review/valve-steam-frame/",
+      "source": "Wired"
+    },
+    {
+      "id": 42,
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 43,
+      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+      "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+      "source": "Wired"
+    },
+    {
+      "id": 44,
+      "title": "The best apps for tracking your reading and discovering new books",
+      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 47,
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 48,
+      "title": "ManyAgents",
+      "url": "https://www.producthunt.com/products/manyagents",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 49,
+      "title": "AVP",
+      "url": "https://www.producthunt.com/products/avp",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 50,
+      "title": "WhoIsCooking",
+      "url": "https://www.producthunt.com/products/whoiscooking",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 51,
+      "title": "Jobmate AI",
+      "url": "https://www.producthunt.com/products/jobmate-ai-3",
+      "source": "Product Hunt"
+    }
+  ]
+}
