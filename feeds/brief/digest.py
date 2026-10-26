@@ -17,36 +17,42 @@ GMAIL_ADDRESS = os.getenv("GMAIL_ADDRESS")
 GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
 RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL")
 
+# Each feed is (source_name, url) so attribution/source pills stay clean.
 FEEDS = {
     "finance": [
-        "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-        "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines",
-        "https://finance.yahoo.com/news/rssindex",
-        "https://feeds.bbci.co.uk/news/business/rss.xml",
-        "https://www.theguardian.com/uk/business/rss",
-        "https://api.axios.com/feed/",
+        ("CNBC",              "https://www.cnbc.com/id/100003114/device/rss/rss.html"),
+        ("MarketWatch",       "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines"),
+        ("Yahoo Finance",     "https://finance.yahoo.com/news/rssindex"),
+        ("BBC Business",      "https://feeds.bbci.co.uk/news/business/rss.xml"),
+        ("Guardian Business", "https://www.theguardian.com/uk/business/rss"),
+        ("Axios",             "https://api.axios.com/feed/"),
     ],
     "geopolitics": [
-        "https://feeds.npr.org/1004/rss.xml",
-        "https://foreignpolicy.com/feed/",
-        "https://rss.dw.com/rdf/rss-en-all",
+        ("NPR World",         "https://feeds.npr.org/1004/rss.xml"),
+        ("Foreign Policy",    "https://foreignpolicy.com/feed/"),
+        ("DW",                "https://rss.dw.com/rdf/rss-en-all"),
     ],
     "tech": [
-        "https://hnrss.org/frontpage",
-        "https://techcrunch.com/feed/",
-        "https://www.theverge.com/rss/index.xml",
-        "https://www.wired.com/feed/rss",
+        ("Hacker News",       "https://hnrss.org/frontpage"),
+        ("TechCrunch",        "https://techcrunch.com/feed/"),
+        ("The Verge",         "https://www.theverge.com/rss/index.xml"),
+        ("Wired",             "https://www.wired.com/feed/rss"),
     ],
     "creator_economy": [
-        "https://digiday.com/feed/",
-        "https://www.socialmediatoday.com/rss/",
+        ("Digiday",           "https://digiday.com/feed/"),
+        ("Social Media Today","https://www.socialmediatoday.com/rss/"),
     ],
     "logistics": [
-        "https://www.freightwaves.com/feed",
-        "https://www.supplychaindive.com/feeds/news/",
-        "https://theloadstar.com/feed/",
-        "https://www.joc.com/rss.xml",
-        "https://www.logisticsmgmt.com/rss/all",
+        # Industry publications
+        ("FreightWaves",      "https://www.freightwaves.com/feed"),
+        ("Supply Chain Dive", "https://www.supplychaindive.com/feeds/news/"),
+        ("The Loadstar",      "https://theloadstar.com/feed/"),
+        # Company- and ecosystem-targeted (Google News searches, date-sorted)
+        ("UPS News",          "https://news.google.com/rss/search?q=%22United+Parcel+Service%22+OR+UPS+logistics&hl=en-US&gl=US&ceid=US:en"),
+        ("DHL News",          "https://news.google.com/rss/search?q=DHL+logistics+OR+%22DHL+Group%22&hl=en-US&gl=US&ceid=US:en"),
+        ("FedEx News",        "https://news.google.com/rss/search?q=FedEx+logistics+OR+shipping&hl=en-US&gl=US&ceid=US:en"),
+        ("Amazon Logistics",  "https://news.google.com/rss/search?q=Amazon+logistics+OR+delivery+OR+fulfillment&hl=en-US&gl=US&ceid=US:en"),
+        ("Logistics Startups","https://news.google.com/rss/search?q=logistics+startup+OR+%22supply+chain%22+startup+funding&hl=en-US&gl=US&ceid=US:en"),
     ],
 }
 
@@ -73,10 +79,10 @@ def fetch_articles(feeds: dict) -> dict:
     dropped_old = dropped_undated = 0
     for category, urls in feeds.items():
         articles = []
-        for url in urls:
+        for source_name, url in urls:
             try:
                 feed = feedparser.parse(url)
-                source = feed.feed.get("title", url)
+                source = source_name or feed.feed.get("title", url)
                 # Newest first, so the freshest items win the per-feed cap
                 entries = sorted(
                     feed.entries,
@@ -156,7 +162,7 @@ Write a daily news digest with exactly these six sections:
 2. **World Lore** — Geopolitics & global news. Keep it sharp, not doom-scrolly.
 3. **Tech Tea** — Tech news. Hype, drama, genuinely interesting stuff.
 4. **Creator Szn** — Creator economy, social media, digital culture.
-5. **Supply Lines** — Logistics & supply chain: freight, shipping, ports, trucking, warehousing, last-mile, and the big logistics players (FedEx, UPS, Maersk, Amazon logistics, etc.). I work in this industry, so give me the prominent moves and why they matter. If the data is thin here, 1–2 items is fine.
+5. **Supply Lines** — Logistics & supply chain. I work in this industry, so prioritize moves from the big carriers and the ecosystem — especially **UPS, DHL, FedEx, Amazon logistics**, and **logistics/supply-chain startups** (funding, launches, new tech) — plus freight, shipping, ports, trucking, warehousing and last-mile. Lead with the named-company and startup news; give the move and why it matters. If the data is thin here, 1–2 items is fine.
 6. **Speed Round** — 5–7 punchy one-liners covering anything from any category. Like a lightning round of today's news.
 
 FORMAT — read carefully:

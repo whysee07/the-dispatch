@@ -102,6 +102,10 @@ FEEDS = {
         ("Supply Chain Dive",    "https://www.supplychaindive.com/feeds/news/"),
         ("The Robot Report",     "https://www.therobotreport.com/feed/"),
         ("Supply Chain Brain",   "https://www.supplychainbrain.com/rss/articles"),
+        # Company- and startup-targeted AI/automation-in-logistics news
+        ("Logistics AI News",    "https://news.google.com/rss/search?q=(logistics+OR+%22supply+chain%22+OR+freight+OR+warehouse+OR+%22last+mile%22)+(AI+OR+automation+OR+robotics+OR+autonomous)&hl=en-US&gl=US&ceid=US:en"),
+        ("Carrier Tech News",    "https://news.google.com/rss/search?q=(UPS+OR+DHL+OR+FedEx+OR+Amazon)+(AI+OR+automation+OR+robotics+OR+drone+OR+autonomous)&hl=en-US&gl=US&ceid=US:en"),
+        ("Logistics Startups AI","https://news.google.com/rss/search?q=logistics+OR+%22supply+chain%22+startup+AI+funding&hl=en-US&gl=US&ceid=US:en"),
     ],
     "Trending GitHub Repos & Open Source": [
         ("GitHub Trending",      "https://github-rss.alefranzoni.com/?lang=all&since=daily"),
@@ -367,7 +371,7 @@ The most interesting AI research paper or benchmark result from today, explained
 ---
 
 **🚚 AI IN LOGISTICS & SUPPLY CHAIN**
-The most relevant AI / automation developments in logistics, supply chain, freight, warehousing, last-mile, and robotics from today's data (I work in this industry, so this section matters to me). For each item: what happened, and why it matters for someone building or operating logistics products. If today's data genuinely has nothing on AI-in-logistics, say so in one honest line rather than inventing something.
+The most relevant AI / automation developments in logistics, supply chain, freight, warehousing, last-mile, and robotics from today's data (I work in this industry, so this section matters to me). Prioritize moves from the big carriers — **UPS, DHL, FedEx, Amazon** — and from **logistics/supply-chain startups** (AI products, funding, pilots), then broader industry automation. For each item: what happened, and why it matters for someone building or operating logistics products. If today's data genuinely has nothing on AI-in-logistics, say so in one honest line rather than inventing something.
 
 ---
 
