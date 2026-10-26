@@ -377,7 +377,7 @@ def fmt_kicker(d: str) -> str:
 def render_rail(feed: dict, issues: list[dict], current_date: str, depth: int) -> str:
     prefix = "../../" * 0 if depth == 0 else "../../"
     rows = []
-    for rec in issues[:12]:
+    for rec in issues[:7]:
         d = rec["date"]
         href = f'{prefix}issues/{feed["id"]}/{d}.html'
         cls = ' class="current"' if d == current_date else ""
