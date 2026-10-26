@@ -62,7 +62,7 @@ FEEDS = [
                  "morning, then writes it up with actual personality.",
         "pipe": ["RSS ×16", "Gemini 2.5", "07:00 ET"],
         "mode": "titles",
-        "sections": ["Money Talk", "World Lore", "Tech Tea", "Creator Szn", "Speed Round"],
+        "sections": ["Money Talk", "World Lore", "Tech Tea", "Creator Szn", "Supply Lines", "Speed Round"],
     },
     {
         "id": "ai",

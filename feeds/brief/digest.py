@@ -41,6 +41,13 @@ FEEDS = {
         "https://digiday.com/feed/",
         "https://www.socialmediatoday.com/rss/",
     ],
+    "logistics": [
+        "https://www.freightwaves.com/feed",
+        "https://www.supplychaindive.com/feeds/news/",
+        "https://theloadstar.com/feed/",
+        "https://www.joc.com/rss.xml",
+        "https://www.logisticsmgmt.com/rss/all",
+    ],
 }
 
 MAX_ARTICLES_PER_FEED = 5
@@ -111,7 +118,7 @@ def build_sources(articles: dict) -> list[dict]:
     """Flatten fetched articles into a numbered source list [{id, title, url, source}]."""
     sources = []
     sid = 1
-    for cat in ("finance", "geopolitics", "tech", "creator_economy"):
+    for cat in ("finance", "geopolitics", "tech", "creator_economy", "logistics"):
         for a in articles.get(cat, []):
             if a.get("url"):
                 sources.append({"id": sid, "title": a["title"], "url": a["url"],
@@ -126,6 +133,7 @@ def build_prompt(articles: dict, sources: list[dict]) -> str:
         "geopolitics": ("World Lore", articles.get("geopolitics", [])),
         "tech": ("Tech Tea", articles.get("tech", [])),
         "creator_economy": ("Creator Szn", articles.get("creator_economy", [])),
+        "logistics": ("Supply Lines", articles.get("logistics", [])),
     }
     url_to_id = {s["url"]: s["id"] for s in sources}
 
@@ -142,16 +150,17 @@ def build_prompt(articles: dict, sources: list[dict]) -> str:
 
 Today is {today_str}. Only write about events in the articles below — they are all from the last couple of days. Do NOT bring in older news from memory, and do NOT reference events you can't tie to one of these articles.
 
-Write a daily news digest with exactly these five sections:
+Write a daily news digest with exactly these six sections:
 
 1. **Money Talk** — Finance & markets. What's moving money, who's winning, who's getting cooked.
 2. **World Lore** — Geopolitics & global news. Keep it sharp, not doom-scrolly.
 3. **Tech Tea** — Tech news. Hype, drama, genuinely interesting stuff.
 4. **Creator Szn** — Creator economy, social media, digital culture.
-5. **Speed Round** — 5–7 punchy one-liners covering anything from any category. Like a lightning round of today's news.
+5. **Supply Lines** — Logistics & supply chain: freight, shipping, ports, trucking, warehousing, last-mile, and the big logistics players (FedEx, UPS, Maersk, Amazon logistics, etc.). I work in this industry, so give me the prominent moves and why they matter. If the data is thin here, 1–2 items is fine.
+6. **Speed Round** — 5–7 punchy one-liners covering anything from any category. Like a lightning round of today's news.
 
 FORMAT — read carefully:
-- Sections 1–4 each have 3–5 items. Write EACH item as: a bold one-line headline, then a line break, then 1–3 sentences of detail.
+- Sections 1–5 each have 3–5 items (Supply Lines may have fewer if the news is thin). Write EACH item as: a bold one-line headline, then a line break, then 1–3 sentences of detail.
   Example:
   **Oil spikes on Hormuz tension.**
   Crude jumped 4% after fresh tanker attacks in the strait. Asia imports the most through it, so watch shipping and insurance costs.
@@ -160,7 +169,7 @@ FORMAT — read carefully:
 - SOURCE CITATION: end each item (sections 1–4) with the citation marker of the article it's based on, exactly as shown in the data, e.g. [S4]. Use only the [S#] markers present in the data below; never invent one. If an item draws on two articles, cite both like [S4][S7]. Speed Round items do NOT need citations.
 - Speed Round is different: 5–7 one-sentence zingers, each on its own "- " line, NO bold headline, NO detail.
 - Write like you're texting a smart friend, not filing a report. Add your own color and hot takes.
-- Use the plain section titles exactly as above (Money Talk, World Lore, Tech Tea, Creator Szn, Speed Round). No numbering, no markdown # headers.
+- Use the plain section titles exactly as above (Money Talk, World Lore, Tech Tea, Creator Szn, Supply Lines, Speed Round). No numbering, no markdown # headers.
 
 Here are today's articles:
 {article_block}

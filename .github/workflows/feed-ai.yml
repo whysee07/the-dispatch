@@ -35,6 +35,8 @@ jobs:
           GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           RECIPIENT_EMAIL:    ${{ secrets.RECIPIENT_EMAIL }}
+          # Auto-provided by Actions; raises GitHub API rate limits for trending repos
+          GITHUB_TOKEN:       ${{ secrets.GITHUB_TOKEN }}
           # Email STAYS ON for this feed (default). Set "false" to stop sending.
           SEND_EMAIL:         "true"
         run: python feeds/ai/ai_digest.py

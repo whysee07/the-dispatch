@@ -97,6 +97,12 @@ FEEDS = {
         ("AI Now Institute",     "https://ainowinstitute.org/feed.xml"),
         ("Import AI",            "https://jack-clark.net/feed"),
     ],
+    "AI in Logistics & Supply Chain": [
+        ("FreightWaves",         "https://www.freightwaves.com/feed"),
+        ("Supply Chain Dive",    "https://www.supplychaindive.com/feeds/news/"),
+        ("The Robot Report",     "https://www.therobotreport.com/feed/"),
+        ("Supply Chain Brain",   "https://www.supplychainbrain.com/rss/articles"),
+    ],
     "Trending GitHub Repos & Open Source": [
         ("GitHub Trending",      "https://github-rss.alefranzoni.com/?lang=all&since=daily"),
     ],
@@ -194,30 +200,73 @@ def fetch_rss_articles() -> list[dict]:
 # ─────────────────────────────────────────────────────────────────────────────
 
 def fetch_github_trending() -> list[dict]:
-    """Top 5 AI/LLM repos by stars via GitHub Search API (no auth required)."""
-    url = (
-        "https://api.github.com/search/repositories"
-        "?q=topic:ai+topic:llm&sort=stars&order=desc&per_page=5"
-    )
-    try:
-        resp = requests.get(url, timeout=REQUEST_TIMEOUT,
-                            headers={"Accept": "application/vnd.github+json",
-                                     "X-GitHub-Api-Version": "2022-11-28"})
-        resp.raise_for_status()
-        items = resp.json().get("items", [])
-        return [
-            {
-                "name":        r["full_name"],
+    """Genuinely TRENDING AI repos: recently-created projects ranked by star
+    velocity (stars gained per day since creation).
+
+    The old version queried `sort=stars` with no date filter, which just returned
+    the all-time most-starred AI repos (transformers, LangChain, …) — the same list
+    every single day. Here we search repos created in the last ~30 days (fast risers)
+    and the last ~120 days (strong newcomers), then rank by stars/day so brand-new,
+    fast-growing projects surface instead of the established giants."""
+    now = datetime.now(timezone.utc)
+    recent  = (now - timedelta(days=30)).date().isoformat()
+    quarter = (now - timedelta(days=120)).date().isoformat()
+    # Each query targets recently-created repos; GitHub has no official trending API,
+    # so "created recently + high stars, sorted by stars" is the standard proxy.
+    queries = [
+        f"created:>={recent} stars:>15 topic:ai",
+        f"created:>={recent} stars:>15 topic:llm",
+        f"created:>={recent} stars:>15 topic:ai-agents",
+        f"created:>={recent} stars:>15 topic:generative-ai",
+        f"created:>={quarter} stars:>400 topic:ai",
+        f"created:>={quarter} stars:>400 topic:llm",
+    ]
+    headers = {"Accept": "application/vnd.github+json",
+               "X-GitHub-Api-Version": "2022-11-28"}
+    tok = os.getenv("GITHUB_TOKEN")
+    if tok:
+        headers["Authorization"] = f"Bearer {tok}"
+
+    seen: set[str] = set()
+    pool: list[dict] = []
+    for q in queries:
+        url = ("https://api.github.com/search/repositories"
+               f"?q={requests.utils.quote(q)}&sort=stars&order=desc&per_page=12")
+        try:
+            resp = requests.get(url, timeout=REQUEST_TIMEOUT, headers=headers)
+            resp.raise_for_status()
+            items = resp.json().get("items", [])
+        except Exception as exc:
+            log.warning("GitHub trending query failed (%s): %s", q, exc)
+            continue
+        for r in items:
+            fn = r["full_name"]
+            if fn in seen:
+                continue
+            seen.add(fn)
+            stars = r.get("stargazers_count", 0)
+            try:
+                created = datetime.strptime(r["created_at"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+                age_days = max((now - created).days, 1)
+            except Exception:
+                age_days = 999
+            pool.append({
+                "name":        fn,
                 "description": r.get("description") or "",
-                "stars":       r["stargazers_count"],
+                "stars":       stars,
                 "url":         r["html_url"],
                 "language":    r.get("language") or "N/A",
-            }
-            for r in items
-        ]
-    except Exception as exc:
-        log.error("GitHub trending fetch failed: %s", exc)
-        return []
+                "created":     (r.get("created_at") or "")[:10],
+                "age_days":    age_days,
+                "velocity":    round(stars / age_days, 1),   # stars/day = traction
+            })
+
+    # Rank by momentum (stars/day), so the newest fast-risers lead
+    pool.sort(key=lambda x: x["velocity"], reverse=True)
+    top = pool[:8]
+    log.info("GitHub trending: %d candidates across %d queries -> top %d by velocity",
+             len(pool), len(queries), len(top))
+    return top
 
 
 def fetch_hn_ai_posts() -> list[dict]:
@@ -317,13 +366,18 @@ The most interesting AI research paper or benchmark result from today, explained
 
 ---
 
+**🚚 AI IN LOGISTICS & SUPPLY CHAIN**
+The most relevant AI / automation developments in logistics, supply chain, freight, warehousing, last-mile, and robotics from today's data (I work in this industry, so this section matters to me). For each item: what happened, and why it matters for someone building or operating logistics products. If today's data genuinely has nothing on AI-in-logistics, say so in one honest line rather than inventing something.
+
+---
+
 **💸 MONEY & MOVES**
 Funding rounds, acquisitions, partnerships, or strategic pivots in AI today. Include company, amount/deal, and a one-line 'what this signals about where AI money is flowing.'
 
 ---
 
 **🤖 OPEN SOURCE WATCH**
-Top 2–3 trending AI GitHub repos right now. For each: repo name, what it does, star count, and a sentence on who should care.
+Pick 2–3 GENUINELY NEW / fast-rising AI GitHub repos from the data below. They are ranked by star velocity (stars gained per day since creation) — strongly prefer brand-new, interesting projects with momentum over established giants everyone already knows. For each: repo name, what it does, how new it is + its traction (e.g. "created 3 weeks ago, ~120★/day"), and who should try it and why.
 
 ---
 
@@ -392,13 +446,16 @@ def _build_data_payload(
             f"SUMMARY: {a['summary']}\n"
         )
 
-    # ── GitHub trending ───────────────────────────────────────────────────────
-    lines.append("\n## GITHUB TRENDING AI REPOS\n")
+    # ── GitHub trending (recently created, ranked by star velocity) ────────────
+    lines.append("\n## TRENDING GITHUB AI REPOS (newest & fastest-rising first)\n")
     for r in github_repos:
         n = _add(r["name"], r.get("url"), "GitHub")
         tag = f"[S{n}] " if n else ""
+        vel = r.get("velocity")
+        created = r.get("created", "?")
+        traction = f"~{vel}★/day since {created}" if vel is not None else ""
         lines.append(
-            f"{tag}REPO: {r['name']} ({r['stars']:,} stars, {r['language']})\n"
+            f"{tag}REPO: {r['name']} ({r['stars']:,} stars, {traction}, {r['language']})\n"
             f"DESC: {r['description']}\n"
             f"URL: {r['url']}\n"
         )
