@@ -162,7 +162,7 @@ Write a daily news digest with exactly these six sections:
 2. **World Lore** — Geopolitics & global news. Keep it sharp, not doom-scrolly.
 3. **Tech Tea** — Tech news. Hype, drama, genuinely interesting stuff.
 4. **Creator Szn** — Creator economy, social media, digital culture.
-5. **Supply Lines** — Logistics & supply chain. I work in this industry, so prioritize moves from the big carriers and the ecosystem — especially **UPS, DHL, FedEx, Amazon logistics**, and **logistics/supply-chain startups** (funding, launches, new tech) — plus freight, shipping, ports, trucking, warehousing and last-mile. Lead with the named-company and startup news; give the move and why it matters. If the data is thin here, 1–2 items is fine.
+5. **Supply Lines** — Logistics & supply chain. I work in this industry, so prioritize moves from the big carriers and the ecosystem — especially **UPS, DHL, FedEx, Amazon logistics**, and **logistics/supply-chain startups** (funding, launches, new tech). Lead with the named-company and startup news; give the move and why it matters. BUT always include **at least 2 general industry items** that aren't about those specific companies — the broader logistics world (ports, ocean/air freight, trucking/rail, warehousing, last-mile, capacity, fuel, regulation, Maersk and other carriers, 3PLs, strikes). If the data is genuinely thin, fewer items is fine, but keep the mix of named-company news AND general industry news.
 6. **Speed Round** — 5–7 punchy one-liners covering anything from any category. Like a lightning round of today's news.
 
 FORMAT — read carefully:
