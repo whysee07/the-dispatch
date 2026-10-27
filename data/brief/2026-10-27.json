@@ -1,0 +1,543 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T17:41:00.482210+00:00",
+  "raw_text": "Alright, team. Tuesday rundown, sharp as a tack. Let's see what the global circus handed us yesterday.\n\n### Money Talk\n\n- **Anthropic IPO splits investors amidst AI deal frenzy.**\n  Investors are digesting Anthropic's S-1 filing, with opinions split between \"speculative fiction\" and a \"generational moment\" for the AI giant. This caps a massive day of AI dealmaking, showing just how central AI has become to the economy. [S4][S20]\n- **Honda warns tariffs could gut Canada auto industry.**\n  President Trump's threat to double tariffs on Canadian vehicles and parts from 25% to 50% is ringing alarm bells at Honda, which says such a move would be \"catastrophic.\" Get ready for car price hikes if this trade war escalates. [S3]\n- **Ripple expands digital dollar with Robinhood.**\n  Stablecoins are quickly becoming essential financial infrastructure, moving beyond crypto's trading roots. Ripple's new deal with Robinhood for its RLUSD digital dollar highlights the shift towards 24/7 global market liquidity. [S5]\n- **UK households told to emergency stockpile amid surging sales.**\n  The UK government's advice to prepare for emergencies has sent sales of bottled water, tinned food, wind-up radios, and torches skyrocketing. Retailers are reporting a jump, showing consumer anxiety or perhaps just pragmatic preparedness for whatever's coming next (cyber-attacks, extreme weather, the usual). [S11]\n- **UK minimum wage to rise, but not for all.**\n  Chancellor John Healey is set to announce new minimum pay rates in the Budget, alongside cost-of-living measures. Curiously, 18-20 year-olds aren't getting the bigger increase, which feels like a classic political move to save a few quid. [S6]\n\n### World Lore\n\n- **Israelis vote in high-stakes election, turnout soars.**\n  Voters hit the polls today in Israel for one of its most consequential elections in history, with turnout reaching a 53-year high by midday – a potential warning sign for Netanyahu's bloc. Both sides are predicting ruin if the other wins, so, you know, a typical Tuesday in Tel Aviv. [S16][S19][S23][S25][S33]\n- **Melania Trump brokers Ukraine ceasefire for humanitarian mission.**\n  Amidst resumed missile attacks in Kyiv, a localized ceasefire between Ukraine and Russia took effect in southern Ukraine, surprisingly brokered by U.S. first lady Melania Trump. A diplomatic flex from an unexpected corner. [S24]\n- **Bolsonaro's party accepts Brazil election loss, he still won't.**\n  Brazil's opposition party has accepted Lula da Silva's election victory, but Flávio Bolsonaro (son of the former president) is still refusing to concede. Donald Trump is also calling the vote \"rigged\" without evidence, keeping that particular playbook alive and well. [S21]\n- **Mbappé apologizes after 'Mao' remark triggers Chinese backlash.**\n  French football star Kylian Mbappé issued an apology after calling Mao Zedong a \"dictator\" in an interview, leading to Chinese sponsors dropping him and state television suspending Spanish league broadcasts. Another reminder that some cultural gaffes have real financial consequences. [S8][S31]\n- **US re-engages Myanmar, challenging EU diplomatic blockade.**\n  The U.S. is reopening talks with Myanmar's military-backed government, with several Southeast Asian countries also resuming diplomatic ties. This move is putting the EU's boycott of the junta under uncomfortable scrutiny, suggesting a crack in the united front. [S32]\n\n### Tech Tea\n\n- **Google DeepMind unleashes Genie 4 with audio and real-time steering.**\n  Google's latest \"world model\" is here, and it's getting more realistic. Genie 4 now includes real-time audio, more immersive simulations, and the ability to steer scenarios with text prompts mid-simulation. Prepare for your reality to get even more blurred. [S42]\n- **Police are using AI to pull over drivers for 'suspicious' behavior.**\n  Big Brother's gotten an upgrade. Law enforcement is deploying AI to identify and flag drivers for behavior deemed \"suspicious,\" raising serious questions about privacy, bias, and what exactly qualifies as \"suspicious\" in the eyes of an algorithm. [S38]\n- **Meta AI director jumps ship to take on Microsoft Office.**\n  Rohit Patel, a key AI director at Meta, is leaving after eight years to launch his own startup, Ndoc. The ambitious goal? To go head-to-head with the Microsoft Office Suite and Google Workspace. Talk about a power move. [S43]\n- **Hackers exploiting critical PHP web bugs, US gov warns.**\n  The U.S. government's cyber agency is sounding the alarm: hackers are actively exploiting newly discovered vulnerabilities in PHP, the scripting language that underpins about 70% of the internet. Time to patch those servers, folks, or risk your website becoming a hacker's playground. [S45]\n- **UK politician sues xAI over Grok deepfake scandal.**\n  Jess Asato, a UK MP, became a victim of the very online abuse she campaigns against when she was deepfaked by Grok's AI. She's now taking xAI to court, highlighting the messy intersection of AI, disinformation, and real-world legal consequences. [S54]\n\n### Creator Szn\n\n- **Global push to keep kids off social media heats up.**\n  Over 60 countries are now embracing online restrictions for minors, from age verification to time limits. The heat is on Big Social to address concerns about youth mental health, with regulators increasingly stepping in to dictate digital boundaries. [S30]\n- **Apple's identity block is squeezing publisher ad revenue.**\n  Publishers are feeling the pinch as Apple's identity block hits their ad money. It's a stark reminder of how much power tech giants wield over the digital ad ecosystem, leaving many wondering how to diversify their revenue streams. [S57]\n- **AI agents are media's newest (and weirdest) audience.**\n  Forget humans, some publishers are now creating content *for* AI agents. As these digital assistants go mainstream, the media landscape is shifting to cater to an audience that doesn't actually buy anything (yet), but could influence what humans see. The future is wild. [S55]\n- **Indie agencies fume over DSP fees as AI agents reshape ad buying.**\n  Independent agencies are pushing back against the hefty fees from demand-side platforms (DSPs). This friction comes as AI agents threaten to fundamentally change how media is bought, potentially shifting control of ad dollars and shaking up the entire programmatic ecosystem. [S59]\n\n### Supply Lines\n\n- **UPS forecasts $15 billion data-center logistics opportunity, raises 2026 outlook.**\n  Big Brown isn't just delivering packages; their CEO sees a massive $15 billion opportunity in data-center logistics. This, plus a raised 2026 outlook, signals UPS is aggressively diversifying into high-growth, specialized segments beyond traditional e-commerce. [S76]\n- **UPS and FedEx slap on holiday fuel surcharges, rates up 5.9% for 2027.**\n  Brace yourselves, retailers. Both UPS and FedEx are adding fuel surcharges for the holidays, pushing shipping costs to record highs, driven by costlier diesel. And for 2027, UPS is already announcing an average 5.9% rate increase, effective December 21. Your Amazon Prime addiction is about to get pricier. [S77][S78][S80][S81]\n- **Amazon partners with Tata Motors to deploy 3,000 electric trucks in India.**\n  Amazon is making a big green push in India, collaborating with Tata Motors to roll out 3,000 electric trucks for its e-commerce logistics. This move aligns with growing sustainability mandates and could set a precedent for last-mile delivery fleets in emerging markets. [S83][S84][S87]\n- **DHL Group earmarks Romania in 400 million euro CEE investment plan.**\n  DHL is putting its money where its mouth is, including Romania in a substantial 400 million euro investment plan for Central and Eastern Europe. This shows a clear strategy to bolster its presence and infrastructure in a rapidly growing region. [S79]\n- **Logistics startup Band24 seeks testers for new satellite tracker.**\n  Asset-tracking company Band24 is launching its \"Terra\" tracker, combining Bluetooth, cellular, and satellite connectivity, and is actively recruiting businesses for its early-access program. This could be a game-changer for maintaining visibility across diverse logistics operations, from trailers to shipping containers. [S65]\n- **Egypt's Turuq Innovations secures seed investment for e-commerce logistics.**\n  Den VC has injected seed funding into Egyptian startup Turuq Innovations, aimed at strengthening e-commerce logistics in the region. This highlights ongoing investment in tech-driven solutions for the burgeoning e-commerce markets in Africa. [S88]\n- **Typhoon Champi and port congestion temporarily boost container freight rates.**\n  While the market trend is still downward, Typhoon Champi and persistent congestion at major Southeast and South Asian ports are offering a temporary reprieve for container freight rates. Expect continued vessel schedule disruptions and delays. [S71]\n- **UK rail freight to London Gateway halted after storms cause derailment.**\n  Shippers are scrambling for alternatives as rail services to key terminals like DP World London Gateway are suspended. More than a kilometer of track was torn up by recent storms, proving that even modern infrastructure isn't immune to Mother Nature's fury. [S73]\n\n### Speed Round\n\n- Ex-FBI officials dodged new charges over Hunter Biden testimony.\n- Oracle's integrating ChatGPT and Codex, expanding cloud chips with Google TPUs and OpenAI's Jalapeño.\n- The UK government's £24bn carbon capture spending is being called a \"fairytale\" and a \"national embarrassment.\"\n- Elon Musk’s AI-generated Odyssey film got roasted by reviewers as \"meaningless as a laptop screensaver.\"\n- Harry Kane snagged the Ballon d’Or, proving you can still win big things even if Bayern Munich's league form is \"uneven.\"\n- Mozilla's Firefox is rolling out \"Smart Window\" AI to help you fill out forms and monitor webpages.\n- A 28-year-old \"DOGE operative\" gutted USAID, and HR had no record of him even working there. Wild.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Judge blasts prosecutors, refuses to sign new criminal complaint against ex-FBI officials",
+      "url": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+      "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
+      "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split",
+      "url": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
+      "url": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "How the beauty industry is boosting High Streets",
+      "url": "https://www.bbc.co.uk/news/videos/cmr4y51lp5zko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "Bottled water and tinned food sales surge after UK government issues emergency stockpile advice",
+      "url": "https://www.theguardian.com/society/2026/oct/27/bottled-water-and-tinned-food-sales-surge-after-uk-government-issues-emergency-stockpile-advice",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film",
+      "url": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "How has Andy Burnham used his first 100 days in power?",
+      "url": "https://www.theguardian.com/politics/2026/oct/27/how-has-andy-burnham-used-his-first-100-days-in-power",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "UK spending on ‘fairytale’ carbon capture tech is a national embarrassment, chancellor told",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/27/chris-packham-chancellor-scrap-spending-fairytale-carbon-capture-budget",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "‘No one saves the planet if it hits their pocket’: UK heat pump installers fear planned subsidy cuts",
+      "url": "https://www.theguardian.com/environment/2026/oct/27/heat-pump-installers-fear-planned-subsidy-cuts-uk-budget",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "Israeli turnout hits 53-year high in warning sign for Netanyahu",
+      "url": "https://www.axios.com/2026/10/27/israel-election-turnout-netanyahu",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Key Senate Democrats set high bar for permitting bill support",
+      "url": "https://www.axios.com/2026/10/27/senate-democrats-permitting-bill",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Socialist civil war engulfs Los Angeles mayor race",
+      "url": "https://www.axios.com/2026/10/27/dsa-socialists-la-mayor-race-israel-raman-bass",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Israel braces for an election each side warns could bring ruin",
+      "url": "https://www.axios.com/2026/10/27/israel-election-netanyahu-eisenkot",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "Anthropic IPO leads AI's $235 billion dealmaking blitz",
+      "url": "https://www.axios.com/2026/10/27/anthropic-ipo-meta-spacex-ai-deals",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "A 'Green Army' is out to thwart El Niño flooding",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
+      "url": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+      "url": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "A quick guide to Israel's high-stakes election",
+      "url": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "Is Israel a Good Ally?",
+      "url": "https://foreignpolicy.com/2026/10/27/israel-gaza-hamas-hezbollah-netanyahu-trump/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "Space Junk Is a Problem We Know How to Solve",
+      "url": "https://foreignpolicy.com/2026/10/27/outer-space-junk-satellites-problem-solutions/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "Trump Has Lost the Foreign-Policy Debate",
+      "url": "https://foreignpolicy.com/2026/10/27/trump-polling-midterms-foreign-policy/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "A Papal ‘Homecoming’",
+      "url": "https://foreignpolicy.com/2026/10/27/pope-leo-south-america-trip-peru-argentina-uruguay-cancer/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "The Global Push to Keep Kids Off Social Media",
+      "url": "https://foreignpolicy.com/2026/10/27/social-media-age-restrictions-australia-china-india/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "Mbappe apologizes as Chinese sponsors drop him and TV broadcasts are halted over Mao dictator remark",
+      "url": "https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
+      "url": "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "Turnout at Israel's election has reached a record high at the halfway stage",
+      "url": "https://www.dw.com/en/turnout-at-israel-s-election-has-reached-a-record-high-at-the-halfway-stage/live-79713839?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker",
+      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "Will elections in Israel change its Iran approach?",
+      "url": "https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "Mossad Has Devices Like the Exploding Pagers in \"Every Country You Can Imagine\"",
+      "url": "https://www.theyeshivaworld.com/news/israel-news/2462875/former-mossad-chief-yossi-cohen-planted-devices-like-the-exploding-hezbollah-pagers-are-in-every-country-you-can-imagine.html",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "Ghostty 1.4.0",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+      "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "url": "https://cfsg.axiommath.ai/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+      "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "US government says hackers are now exploiting critical PHP web bugs",
+      "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "The Super Mouse puts a touchscreen macro pad under your hand",
+      "url": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "Meta’s $25 billion legal loss just put blood in the water",
+      "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "Quince’s Merino Wool Tee Doesn’t Cost a Fortune",
+      "url": "https://www.wired.com/story/quince-merino-wool-base-layer-tee-rave/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+      "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "AI Agents Are Media’s New Favorite Audience",
+      "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Adidas and Gamefam, Poppi and Walmart Connect are winners for the 2026 Digiday Awards",
+      "url": "https://digiday.com/announcement/awards/adidas-and-gamefam-poppi-and-walmart-connect-are-winners-for-the-2026-digiday-awards/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "In Graphic Detail: What Apple’s identity block means for the ad money",
+      "url": "https://digiday.com/marketing/in-graphic-detail-what-apples-identity-block-means-for-the-ad-money/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "The Hill adds interactive election tools to subscription offering ahead of the midterms",
+      "url": "https://digiday.com/media/the-hill-adds-interactive-election-tools-to-subscription-offering-ahead-of-the-midterms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "Inside indie agencies’ DSP gripes and the rise of agentic media buying",
+      "url": "https://digiday.com/podcasts/inside-indie-agencies-dsp-gripes-and-the-rise-of-agentic-media-buying/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "Ad Tech Briefing: Stagwell’s Freestar deal brings buying and selling under one roof",
+      "url": "https://digiday.com/media-buying/ad-tech-briefing-stagwells-freestar-deal-brings-buying-and-selling-under-one-roof/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 61,
+      "title": "The Case For Renting The Box And Buying The Truck",
+      "url": "https://www.freightwaves.com/news/the-case-for-renting-the-box-and-buying-the-truck",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 62,
+      "title": "Why Logistics AI Still Needs “Experts in the Loop”",
+      "url": "https://www.freightwaves.com/news/why-logistics-ai-still-needs-experts-in-the-loop",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "Knight-Swift CEO says CDL crackdown could fuel lasting trucking recovery",
+      "url": "https://www.freightwaves.com/news/knight-swift-ceo-says-cdl-crackdown-could-fuel-lasting-trucking-recovery",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 64,
+      "title": "2027 FreightTech 25 winners announced at F3",
+      "url": "https://www.freightwaves.com/news/2027-freighttech-25-winners-announced-at-f3",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 65,
+      "title": "Band24 seeks early testers for satellite-connected asset tracker ahead of Nov. 13 deadline",
+      "url": "https://www.freightwaves.com/news/band24-seeks-early-testers-for-satellite-connected-asset-tracker-ahead-of-nov-13-deadline",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 66,
+      "title": "UPS gears up for peak season with less Amazon volume in tow",
+      "url": "https://www.supplychaindive.com/news/ups-gears-up-for-peak-season-with-less-amazon-volume-in-tow/872845/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 67,
+      "title": "Cycling apparel company unites planning, sourcing on single platform",
+      "url": "https://www.supplychaindive.com/news/cycling-apparel-company-unites-planning-sourcing-on-single-platform/833732/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 68,
+      "title": "Audi investing $4B to build its first US plant in Georgia",
+      "url": "https://www.supplychaindive.com/news/audi-investing-4b-to-build-its-first-us-plant-in-georgia/872866/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 69,
+      "title": "Supply Chain AI Has an Execution Problem",
+      "url": "https://www.supplychaindive.com/spons/supply-chain-ai-has-an-execution-problem/872776/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 70,
+      "title": "USTR weighs extending pause on China-linked vessel fees to January",
+      "url": "https://www.supplychaindive.com/news/ustr-weighs-extending-pause-on-china-linked-vessel-fees-to-january/872763/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 71,
+      "title": "Champi’s support won’t reverse market trend",
+      "url": "https://theloadstar.com/champis-support-wont-reverse-market-trend/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 72,
+      "title": "Shipping $ Series: SITC shareholders in line for bumper payout",
+      "url": "https://theloadstar.com/shipping-series-sitc-shareholders-in-line-for-bumper-payout/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 73,
+      "title": "No rail freight from London Gateway and Tilbury after storms",
+      "url": "https://theloadstar.com/no-rail-freight-from-london-gateway-and-tilbury-after-storms/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 74,
+      "title": "Tariff anouncements cause cargo chaos for box terminals, says TiL",
+      "url": "https://theloadstar.com/tariff-anouncements-cause-cargo-chaos-for-box-terminals-says-til/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 75,
+      "title": "£10bn sale of Associated British Ports – pension funds just love it",
+      "url": "https://theloadstar.com/10bn-sale-of-associated-british-ports-pension-funds-just-love-it/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 76,
+      "title": "UPS Raises 2026 Outlook, CEO Sees $15 Billion Data-Center Logistics Opportunity - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2pCNy1tMzlMUVVsTlJrSmljZ1Rmclk5a25ZTy1HY2hmQlkyRXVoX2RKNl8zRWgwUGRPZTlLaEhRZHhWQ2pQWUdWOXJRdUdlS3NiYWJEQ0xRX3YzOEdaOFdabWFDMUZsTnQ2cDFKT2FHclpzbkJaZWk0ekdXdE5ucVVKaFc2WUtCNGhIeTFxMlhPWWJWQTFoRjIyYjljdVN2VGlpd21EQVBtdW9TeTNSVDBCa0FxMk5UNV9tdG4yN2RHNldhX05CdjlTVFJpbkU?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 77,
+      "title": "UPS announces 5.9% average rate increase for 2027, effective December 21 - Logistics Management",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUppcWNyNEQtRG96dFROOG5odUVLS0l3cVdGWVBVd1RUV3F0MVc2UXpwUDdvRnBUZzhYT2lla3dWQXo1Vy1pWmhsbkJBa3VxRWw3VldlOXB6bGdGQ0Q2UkZCVHZVcEtLMHVzNDlpQ25lcnRjUHdBNzNVVGg1Sm9KelJPLTF3Yi1sdDBvREkzX2tkdlV3RUJvZjExSW8wNHpvckFVbzNERk00RG9V?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 78,
+      "title": "UPS plans 5.9% rate increase on Dec. 21 - Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnRTQVd4SHZCbFNRemJmSW1pZzh0aGNhUXcwR3B6YnhUSE9rd292Xy1WRy1kZ0NPOEdTbHJGb3NlODR0WVFVOHNHSkV6UERRZ1czYnRXR01vTWt6akI5eWgyN3dkZlh6TWgwYUdObWFTTWN5MUVyTUR5bzZ4Ty1uLWtnMUZUcDJG?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 79,
+      "title": "DHL Group includes Romania in 400 mln euro CEE investment plan - SeeNews",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEt6RmVnUDJrY1dqMlNSV1hsaVE3WDFjei0yWmI1d0p2RUJOd0Rpa09aaUJvZkFkV2UtTXZ3N09MLVE4YkxlZG4tX0NDZUFqSWxRbkxOSjBqUFJ1YkFQVkhyQk8tZ1A2NXpmeDNoNjZvUVFFMnNLMU45MjBZSUJIZEF4SFlsTU5DbW9fczlNZy1KVUF5NlNBLTgxNA?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 80,
+      "title": "FedEx, UPS to add fuel surcharges to shipping costs during holidays - KING5.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOW5sdEVWUEFrNFNGUjY0RlUwTUx6YWY5dXFqY255enZjWUotZjNtZUsxSlU5OVM3emFqWl9vSEpLVmlIZ0pZZFVnWmlBX01vVUw1NEpEd3BoeHJOajBjWmtkWUlDWWFVNGJHSU02UkM4bEFudXR6MUNBRURSMWxYWkZ6T3djNmFPWVFMV1VCZm5rdFh1NWF0UHlrTllVUktNRmVmTHRBc0gzdmEtbUg3R1g0aTJ4SkszM1N4Y25fNkRsSFp6NjZQRTZKaDh6aVgyNk5HZHJxVzFwNkxsbzFSWWNZczU?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 81,
+      "title": "UPS, FedEx fuel surcharges push holiday shipping costs to records - The Journal Record",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR1o0MmRCOUllRFVwOU5DX3dMUHpCQUxmcUJqQWRsLTM1UHBjNkdXM3hyMG9YUVhOYS02NHFYOC1TM1pZWlNLRFdfN1hlWHZFREVVcWNLTlVOdzJhR2R3dDh5Q01tVkJ1VUYwdkV5WTVsdzdGYmFDcXQzdXdNQmw3OGxNajhvSThRR0lUaHhybw?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 82,
+      "title": "US retailers face record holiday delivery prices from surcharges tied to costlier diesel - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb2dYaFN6ZU5pODlkRWJja25NUURBRGhvTW8yLVEwUklsei13aVZlTnk0S1M2eTR0bFhHUEdzOGdEZjNRM0tTNW1VRGowQVd1SnJrTG9kZHptWUxjU21KdnVhMGItTGxmV2Z0emlYeDZJZFMxU1U5aVZMTGpiV1NoNTlJVURIeDZTSmx4dnc1Y293ZnV2ZHpjQlNPdGtSSUZqdGdtbFlfNjRxYzY1SnQ1YVZJalVFcW0yZ0ZJd2lkdjl5YThoNW5wSGRMZG9SdzJnVDhLU3FUSHE?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 83,
+      "title": "Tata Motors, Amazon partner to deploy 3,000 electric trucks for e-commerce logistics - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNUdvVXRINDFBNHZxY2E4elRMd0Z2YkJJQ2tuMHFRbTFtM3VxUGN2NTdHV0gzX0Vvd1I5M1dBemVsT2lRaFBPN3dwQS0yUXJYaWw1Y094ZkR4bFhKb0FITXE5UzB4ak5vX1FFcHMtWVlIV3JfbXNqQW5xZzAwUVR0azNIcmVxelQzdGZuZUEteWlJZ0F4b3I2LWo3NVJOWjQzUm9sQzdRUTM4bmdFRTIxVEMxMWtuX3ptejBvd3dIbHo3aUEzRDZGT3hhUjFrYmZNeTZscDA5WdIB3AFBVV95cUxPNnZVeUJheEsyMWFaS0NCWDZvUlJncGt6V0R2LTFVZ1U2OWhzNUNsN0FoVnM0MG5wX3V5UDhtZkw4MG1Vem5DQnRWczVjZzA1RkJrdU1pQ0VYZV9EX0ZLam1ib2s4X3NLNG9VSk1rczZDYXhuTFNoTlBueFV5NV9obGNKYXpXbUhRaGdWTi1wOGVtY0pCQ2RfSlRjdnF6NHE5YV9MY2N6cU9Id1VOVWRHam5vWDd3Q1hVYVhGWjR2eHIzTmNIT3Q4X1BnOW5DTnVLYTlJT2JLZFZYc0RR?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 84,
+      "title": "Tata Motors & Amazon To Deploy 3,000 Electric Trucks Across India - Gaadiwaadi.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVDhNajlmaVEyRHhjTFNjSXpLMU5HZnF3QmNpcmdkb0l2TkZIUzRsNmJvXzdiMEF6U3RQLVNvR3ZPRXhadldfZFJ4LW1fenJxZG5NRkRYTjNHYWRuMndROVhxdzFnTklxU1U3WHB6eDBhTkNYeTZuUWlWMUFtWVhnYnR5Z2NYMENaVDl2VXdJRdIBjwFBVV95cUxOVDhNajlmaVEyRHhjTFNjSXpLMU5HZnF3QmNpcmdkb0l2TkZIUzRsNmJvXzdiMEF6U3RQLVNvR3ZPRXhadldfZFJ4LW1fenJxZG5NRkRYTjNHYWRuMndROVhxdzFnTklxU1U3WHB6eDBhTkNYeTZuUWlWMUFtWVhnYnR5Z2NYMENaVDl2VXdJRQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 85,
+      "title": "Video: Amazon customer 'shocked' after courier chucks parcel onto porch - Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTUw5U3F3cEFUTVpKQkNkckhsc09zMlBDaG1MWmxtT1otbWRPT3VEU2ktbTE5NU5iR3F6VmRvbWF6dmFHbXNudWRMWUZBY3VuQXZUR1hCUmFJeEZNUHZFN3BkaTlIbmhEendsNzdLUUJrLTlTY3FkRU1uVldDc2VOTGV0UTBOVFpvZzNrSmNmek9jQ1N4UHFjaGp4YmJBTFZ1M2FpZmlPQW05RFUycWp2QXpkRQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 86,
+      "title": "Can Tesla’s Optimus Handle Last-Mile Delivery? The Hardware Reality Behind the Pitch - Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOel9ZZ05xY2VBSDh4aG5rRVdDLUY5WmswYlhTajNWcFdzR25oOWNrZmpOMnhMR1ZJOHVjVFhSTEg2dDdFSjNGNVBFUUZjTC1IODV2cDI3dkxPaDFYaUNINkpxRlZOamdINV92eG16bnlLa2dkaXhlUFFfTGZzVVAwVEZ1ZDBNX0lJamkxRjdNVWhuRTRONW5vNWF3bWY1dVZqLWVnN0x3b0dvQW1IVGVvNQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 87,
+      "title": "Amazon collaborates with Tata Motors to deploy 3,000 e trucks - Motown India",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdEtnMU5vRW52QllpTklxVzF2UndMRDVCYWNNRnBrT04tMnF1TlhBWVc3UWt1NENBYWNLMFpTMVRWMmZwUjZLMVhmb2tjYmFZNE9jaXd1WkxyREpYUVBJWVZxZ2dpQ0V1SHA4ZGV2cDlQSzJOcm5RZGVmOURPYmVMa3N1ci01emxpVlRyWGJzMzQtekZEN200M0QtbFRFVzhVdEhuNDg4NkhuLVF1b2kwb0ZZV3pndmw0b1p0SmQwYVNhVFVaY1BVMUNGMGtMTjdqZUJvenpqRQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 88,
+      "title": "Egypt's Turuq Innovations Attracts Seed Investment from Den VC to Strengthen E-commerce Logistics - Tech In Africa",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXV4eXZqQ2xLNkJ6dzBnMGExaUZYUmpfMzZLSDFQbzJkU0s3M1FWTm9yQzFTNTZTVTVfMVBQRkgtWWhQSngzeVJUMDV6Ym1wandQSXZ3S2oybVI3MW9KZFhzd21kWmRNajZyUUNfYXFlZ1hQWVc4b0NTeHdPSHBLZEVsVUpHQnV6aDlXcGE5bTZDX2U2Z2FWN09idm9SWTBZNFA0MlVBejd1bU9US1Bfdm1ELTV6aWxyNHluS3hUaXFaOHdi?oc=5",
+      "source": "Logistics Startups"
+    },
+    {
+      "id": 89,
+      "title": "Between October 19 and October 24, 2026, as many as 19 Indian startups from diverse sectors raised over $211 million in funding from investors. These sectors include Logistics, AI, Defencetech, Jewellery, Healthtech, Fashion, Fintech, Spacetech, HRtech, D - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9maERPWk56dWtnc2J1bzVUbzdlNWdDZFFFeXlRLVFnckVEcmNHN1VXaFAzTWdFN1hiLXVJck1BSDdPNl9GWmJRckRzNzl5am15U2c?oc=5",
+      "source": "Logistics Startups"
+    }
+  ]
+}
