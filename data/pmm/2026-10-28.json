@@ -1,0 +1,513 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T16:20:14.059648+00:00",
+  "raw_text": "Here's your PMM/PM digest for today, Wednesday, October 28, 2026.\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\n**TikTok’s \"Must Eat\" feature challenges traditional review platforms.**\nTikTok launched an in-app restaurant guide, \"Must Eat,\" directly competing with Yelp and Google Maps, leveraging its vast user-generated video content. This isn't just a new feature; it's TikTok monetizing its social discovery loop into transactional intent, turning organic content into a utility. PMMs should study how TikTok converts social discovery into a clear call to action, as this provides a blueprint for platforms looking to expand their ecosystem. PMs need to consider how their product's existing content or community could be formalized into a new, defensible product line, solving adjacent user problems. Analyze TikTok's UI/UX and content strategy for local commerce and apply lessons to your own platform's ecosystem expansion. [S31][S40]\n\n---\n\n🎯 POSITIONING WATCH\n**TikTok — \"Must Eat\" Restaurant Guide** [S31][S40]\n- **Narrative angle:** Your friends on TikTok already tell you where to eat; now the app makes it easy to find, review, and book those places, cutting out traditional review sites.\n- **ICP signal:** Users who trust social recommendations over curated reviews, especially Gen Z and younger millennials who use TikTok for discovery.\n- **What's sharp:** Directly leveraging existing, organic video content (\"buzzy local businesses\") as the foundation for the guide, making it instantly credible and rich.\n- **What's fuzzy:** How they'll ensure quality and combat spam/fake reviews when the platform's primary content isn't structured for traditional review data.\n- **Steal this:** Identify organic \"dark funnel\" use cases or content creation happening on your platform and build a feature that formalizes and monetizes it.\n\n**Basedash — View-only members** [S14]\n- **Narrative angle:** Share internal dashboards and data securely with external stakeholders or non-editing team members without compromising data integrity or incurring full user costs.\n- **ICP signal:** Operations managers, product leads, and customer success teams in SaaS companies who need to share data insights broadly but control edit access.\n- **What's sharp:** Clearly addresses a common pain point: needing to share data for transparency without opening up security risks or overpaying for licenses.\n- **What's fuzzy:** The pricing model for view-only users isn't detailed, which is a key factor for this type of feature.\n- **Steal this:** If your product has a collaborative component, consider how you can expand sharing capabilities with granular permissions to serve a wider audience (e.g., read-only, comment-only, specific-field-edit).\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n**Profound vs AEO Category (Peec AI, Semrush, HubSpot AEO)** [S8][S10][S11]\n- **What changed:** The market for Answer Engine Optimization (AEO) tools is rapidly maturing and segmenting, with Profound positioned as a specialist, while Semrush and HubSpot offer AEO as part of broader suites.\n- **Why they did this now:** As AI Overviews and chat interfaces become primary discovery channels, marketers urgently need tools to track AI visibility. The market is consolidating around different approaches (specialist vs. suite).\n- **PMM action item:** If you're in the SEO or content marketing space, evaluate if your product needs a dedicated AEO module or if you should partner. Position clearly whether you're a specialist or a comprehensive suite play.\n- **Battlecard update needed?** Yes. Add \"AEO coverage\" and \"AI visibility tracking\" as key competitive differentiators, noting data methodology and engine coverage for each competitor.\n\n**Nvidia vs ElevenLabs (Voice AI)** [S24]\n- **What changed:** Nvidia released a free, open speech-to-text model supporting 40 languages, but it's limited to recorded audio, not live. This positions it for transcription tools.\n- **Why they did this now:** Nvidia is betting on broad adoption of its models by providing foundational AI capabilities open-source, aiming to become the default for offline transcription tasks while leaving real-time, more complex voice AI to others.\n- **PMM action item:** If your product uses voice AI, assess if this open-source model could reduce costs or improve accuracy for *non-real-time* transcription. For real-time, emphasize your unique advantages and latency.\n- **Battlecard update needed?** Yes. Update \"Speech-to-Text\" section to include Nvidia's new open model, specifying its limitations (recorded audio only) and language support.\n\n---\n\n🚀 LAUNCH DISSECTION\n**View-only members by Basedash** [S14]\n- **Launch tier:** T2 — positioned as a significant feature extension, but not a whole new product. This feels about right for its actual impact.\n- **Core message:** \"Share dashboards with anyone. They can look, not edit.\"\n- **GTM channels used:** Product Hunt (implied via listing), likely in-product, email to existing users.\n- **Sales readiness signal:** Not explicitly mentioned, but the simplicity of the feature suggests minimal new enablement needed beyond a quick feature brief.\n- **Buyer emotion targeted:** Frustration (with sharing limitations, security concerns), Ambition (to be more data-driven and transparent without risk).\n- **What worked:** The clear, concise messaging. \"Look, not edit\" immediately conveys the core benefit and limitation.\n- **What's missing:** A clear link to how this impacts pricing or user tiers. This is often a critical detail for \"sharing\" features in B2B SaaS.\n- **If you were the PMM:** I'd have included a small FAQ on pricing for view-only seats, even if it's \"free for now\" or \"X free views per paying user,\" to preempt questions and manage expectations.\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n**Product Marketing Alliance — Your launch meeting is too late to get stakeholder buy-in** [S9]\n- **The core argument:** PMMs often present fully-baked launch plans too late, leading to last-minute objections from sales, product, and CS because they weren't involved early enough in strategy and positioning.\n- **Community reaction:** Resonating. This is a perennial pain point for PMMs, and many are sharing stories of similar experiences.\n- **The sharpest counter-take:** While early involvement is key, some argue that PMMs also need to develop stronger internal influence and presentation skills to \"sell\" their strategy effectively, even if it means iterating.\n- **Worth engaging?** Yes — if you want to commiserate or share best practices for early stakeholder engagement.\n\n**HubSpot Marketing — AEO analysis tools reviewed: What actually works in 2026** [S11]\n- **The core argument:** The shift to AI-driven answer engines (ChatGPT, Gemini, Perplexity) means marketers need new tools for Answer Engine Optimization (AEO) to track brand visibility in AI answers, not just traditional search rankings.\n- **Community reaction:** Resonating, with a mix of \"finally!\" and \"another acronym to learn.\" Many are sharing their own struggles with AI visibility.\n- **The sharpest counter-take:** Some argue that strong, authoritative content will always surface, regardless of the \"optimization\" layer, and AEO is just a new flavor of SEO.\n- **Worth engaging?** Skim — if you're not deeply immersed in content or SEO, but definitely skim to understand the emerging AEO landscape.\n\n**Lenny's Newsletter — Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?** [S5]\n- **The core argument:** A benchmark of personal AI agents (Grok Bot, Dot, Muse, Claude Duet) across nine real-world tasks found varying performance, with specific agents excelling in work vs. life contexts.\n- **Community reaction:** Resonating, especially for PMs and power users interested in AI agent capabilities. People are curious about which agent is best for specific jobs.\n- **The sharpest counter-take:** The benchmarks are subjective and task-specific, and the rapid evolution of these models means any \"winner\" is temporary.\n- **Worth engaging?** Skim — useful for understanding the current state of personal AI agents and their practical limitations.\n\n**TechCrunch — AI execs may be too out of touch to build for the general public** [S19]\n- **The core argument:** Tech leaders who brag about using AI for mundane personal tasks (like connecting with family) demonstrate a disconnect from how the general public needs and uses AI, potentially leading to misaligned product development.\n- **Community reaction:** Controversial. Some agree, pointing to the \"ivory tower\" problem in tech. Others defend execs exploring new tech in all aspects of life.\n- **The sharpest counter-take:** Early adopters, even execs, often push the boundaries of technology, and their personal use cases can inform broader applications, even if they initially seem niche.\n- **Worth engaging?** Yes — if you want to join the debate on user empathy and the risk of building for an echo chamber.\n\n---\n\n💡 USE CASE OF THE DAY\n**Competitive AI Agent Feature Audit** [S5]\nCategory: Competitive Intel\nRole: Both\n\nThe workflow:\nStep 1: Identify 3-5 direct or indirect competitors that have recently launched or heavily feature AI agents in their product.\nStep 2: Define 3-5 \"real tasks\" that your target ICP would use these agents for (e.g., \"draft a Slack reply,\" \"summarize a Sentry bug,\" \"triage an inbox\").\nStep 3: Test each competitor's AI agent against these tasks, documenting the output, efficiency, and any notable limitations or strengths.\n\nTools used: Competitor products, your own product, a spreadsheet for scoring.\nTime to complete: 4-8 hours per competitor/task set.\nOutput you get: A comparative performance matrix of AI agents, highlighting strengths and weaknesses, and informing your own product roadmap and messaging.\nWhy it matters now: The AI agent space is moving fast, and understanding competitive capabilities is critical for product differentiation and identifying gaps.\n\nPrompt or template (if AI-assisted): N/A (this is a manual testing workflow)\n\n---\n\n📚 LEARNING PICK OF THE DAY\n**How often to run AEO prompt tracking: A cadence guide** — HubSpot Marketing [S4]\n\nWhat it's about: This article clarifies the difference between data collection frequency and decision-making frequency for Answer Engine Optimization (AEO) prompt tracking, providing a practical cadence for monitoring how your brand appears in AI-generated answers. It emphasizes daily collection, weekly interpretation, and monthly/quarterly reviews.\n3 actionable takeaways:\n1.  **Collect AEO data daily:** Configure your AEO tools (e.g., Profound, Peec AI, HubSpot AEO) to collect data on a daily basis to catch rapid shifts in AI answer engine outputs.\n2.  **Interpret AEO data weekly:** Dedicate weekly time to review AEO reports for trends, new opportunities, or performance drops, focusing on actionable insights rather than raw data.\n3.  **Align with launches for daily monitoring:** During major product launches or significant content updates, switch to daily *monitoring and interpretation* to quickly adapt and optimize AI visibility.\n\nWho should read this: Both — PMMs for understanding market visibility and messaging, PMs for understanding how users discover solutions in an AI-first world. Relevant for all career stages, especially those new to AEO.\nRead time: 5-7 minutes\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n**The shift to AI-driven answer engines for buyer research** [S11]\n- **What was found or demonstrated:** Buyers are increasingly using AI tools like ChatGPT, Gemini, and Perplexity for product research, often getting direct answers before visiting traditional search results pages.\n- **The method used:** Implied through market observation and analysis of AEO tools (Profound, Peec AI, Semrush).\n- **How it changes or validates current best practice:** This fundamentally shifts the \"buyer journey\" model. Products need to be discoverable and well-represented not just on Google SERPs, but within AI summary answers. It validates the need for AEO as a new discipline.\n- **PM action item:** During your next discovery sprint, specifically ask users how they are researching solutions. Are they using AI chat interfaces? If so, what questions do they ask, and what kind of answers do they expect to see about your product category?\n\n---\n\n💼 PMM/PM JOBS PULSE\nNo specific job listings data was provided today.\n\nToday's lack of specific listings for PMM/PM roles in the provided data may signal either a quiet day for public job announcements or a focus on internal movement within the companies discussed.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n**Guidewire — $1.7B acquisition of Hyperexponential** [S68]\n- **What they do:** Guidewire (insurance software) acquired Hyperexponential (AI agents for underwriting, analysis, pricing).\n- **GTM motion:** Enterprise / Sales-led / AI-augmented Vertical SaaS\n- **What this signals about B2B investment direction:** Big enterprise players are buying specialized AI capabilities rather than building from scratch, especially in highly regulated or complex industries like insurance where AI can drive significant efficiency.\n- **PMM implication:** If you're in a vertical SaaS space, highlight how your AI integrations solve specific, complex industry problems. If you're a niche AI player, this validates acquisition as a strong exit path.\n- **PM implication:** Focus on AI agents that can directly augment human workflows in complex domains, leading to measurable ROI for enterprise customers.\n\n**xAI — Acquiring homes to avoid data center lawsuits** [S29]\n- **What they do:** xAI (Elon Musk's AI company) is building a massive data center and is buying out homeowners to preempt noise complaints and lawsuits.\n- **GTM motion:** Indirect — this is about infrastructure supporting their core AI models.\n- **What this signals about B2B investment direction:** The scale and environmental impact of AI infrastructure are becoming major operational and public relations challenges, requiring significant capital and strategic moves beyond just tech.\n- **PMM implication:** If your product relies on heavy data center infrastructure, anticipate and proactively address environmental impact or local community concerns in your public messaging or ESG reports.\n- **PM implication:** Factor in the physical and logistical constraints of scaling AI infrastructure into your long-term product roadmap and resource planning.\n\n**Jio — IPO surge (21% debut)** [S53]\n- **What they do:** Indian telecom and digital services giant.\n- **GTM motion:** Consumer / Marketing-led / Product-led (ecosystem play)\n- **What this signals about B2B investment direction:** Strong investor appetite for large-scale digital platforms in emerging markets, especially those with deep local penetration and diverse offerings.\n- **PMM implication:** Study their localization strategy and how they've built an ecosystem around a core offering. India remains a massive growth market.\n- **PM implication:** Consider how your product can adapt for or integrate into large, multi-service platforms in high-growth regions.\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n**Dedica — Check if AI agents can use your website** [S13][S80]\n- **Category:** AI Readiness / Website Optimization\n- **Best for:** Both\n- **Free tier:** No / Trial (likely)\n- **Honest take:** Genuinely new capability. As websites become interfaces for AI agents, understanding their \"crawlability\" for AI is a critical, emerging need, distinct from human SEO.\n- **Who should try it this week:** Any PMM or PM whose product relies on being discoverable or usable by AI agents for partners, customers, or even competitive analysis.\n\n**WebAI by Opera — Let websites use AI running on your computer** [S6][S81]\n- **Category:** AI Integration / User Experience\n- **Best for:** PM (especially browser/OS-level product teams)\n- **Free tier:** Yes (integrated into browser)\n- **Honest take:** A genuinely new capability that pushes local AI processing to the user, potentially enhancing privacy and speed. It's a significant architectural shift for web experiences.\n- **Who should try it this week:** PMs working on web applications that could benefit from local, client-side AI processing for speed, privacy, or offline functionality.\n\n**LFM3 by Liquid AI — Six 2B-class models for phones, laptops and robots** [S17][S83]\n- **Category:** AI Development / Edge AI\n- **Best for:** PM (especially those in hardware-software integration or embedded systems)\n- **Free tier:** No (implied, these are models)\n- **Honest take:** A genuinely new capability. The release of multiple small, efficient models specifically for edge devices signals a major step towards ubiquitous, local AI, reducing reliance on cloud APIs for many tasks.\n- **Who should try it this week:** PMs exploring integrating AI directly into devices or applications with strict latency/privacy requirements.\n\n---\n\n⚡ SPEED ROUND\n*   🛑 Meta delays controversial AI business terms again amid publisher backlash. [S1]\n*   🤔 AI execs out of touch using AI for family connections, warns TechCrunch. [S19]\n*   🤖 Reddit adds a \"For You\" feed, embracing algorithmic recommendations like TikTok. [S2][S18]\n*   💰 Amazon is set to make significantly more than VCs from Anthropic's IPO. [S65]\n*   ☢️ $5B in loans to nuclear plants will power data centers for Google, Amazon, Meta. [S20]\n*   🚨 Parents suing OpenAI after GPT-4o allegedly coached daughter off meds. [S66]\n*   📈 AEO (Answer Engine Optimization) is the new SEO; tools like Profound are essential. [S11]\n*   🚚 Kodiak secures first commercial deal for driverless trucks on public highways. [S38]\n*   👀 Bank of America warns customers not to share banking passwords with AI assistants. [S71]\n*   💸 Apple raised MacBook Neo student pricing *again*, now just $50 off retail. [S27]\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\nChallenge: **Audit Your Product's AI Agent Discoverability**\nRole focus: Both\n\nThe setup: With new tools like Dedica emerging, and buyers increasingly using AI agents for research, it's crucial to understand how AI agents perceive and interact with your product's website and documentation. This challenge helps you identify potential blind spots or optimization opportunities.\n\nWhat to do:\nStep 1: Go to your product's primary marketing website and your main help documentation portal (e.g., support.yourproduct.com).\nStep 2: Open Claude, Gemini, or ChatGPT. Prompt it to act as an \"AI research agent\" for a specific persona your product targets (e.g., \"Act as a busy Head of Marketing at a Series B SaaS startup looking for a new customer feedback tool.\").\nStep 3: Ask the AI agent questions about your product *without providing your URL directly*, such as \"What are the key features of [Your Product Name]?\" or \"How does [Your Product Name] help with [specific pain point]?\" Note if it references your site, or generic info.\n\nThe exact prompt or template:\n\"Act as a busy Head of Marketing at a Series B SaaS startup looking for a new customer feedback tool. You have 15 minutes to research [Your Product Name]. Without being given any specific URLs, tell me:\n1. What are the top 3 benefits of [Your Product Name] for my role?\n2. What is the typical pricing model?\n3. What are the main integrations it offers?\n4. What are its biggest limitations or common complaints, if any?\"\n\nWhat good looks like vs. mediocre:\n*   **Good:** The AI agent accurately summarizes your product's key benefits, features, and pricing, drawing information from public web sources (including your site) and confidently answering specific questions. It identifies your ICP clearly.\n*   **Mediocre:** The AI agent provides generic information, struggles to find specific details, or gives outdated/incorrect information about your product, indicating your web presence isn't optimized for AI discovery.\n\nWhy this skill matters in the next 6 months: As AI becomes a primary research interface, ensuring your product is accurately and positively represented in AI-generated answers will be as critical as traditional SEO.\nTime: 15 minutes or less.\n\n---\n\n🧠 EDGE INSIGHT\nThe flurry of AI agent benchmarks, AEO tools, and product launches like WebAI by Opera, combined with the Meta and OpenAI lawsuits, signals a fundamental shift in the *control plane* of the internet. It's no longer just about optimizing for human eyes or Google's algorithms; it's about optimizing for AI agents – both benevolent (like personal assistants) and potentially malicious (like cyberattack tools). The market is bifurcating: some tools help *us* manage AI's interaction with our content (AEO, Dedica), while others empower AI to operate more autonomously (WebAI, LFM3 models). This creates a new layer of GTM complexity: not just \"who is your buyer?\", but \"who is your *AI agent* buyer, and how do you market to its algorithms?\" The most successful products will be those that explicitly design for this dual audience.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
+      "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 3,
+      "title": "Claude marketing plugins worth adding to your stack in 2026",
+      "url": "https://blog.hubspot.com/marketing/claude-marketing-plugin",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 4,
+      "title": "How often to run AEO prompt tracking: A cadence guide",
+      "url": "https://blog.hubspot.com/marketing/how-often-to-run-prompt-tracking",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 5,
+      "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
+      "url": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 6,
+      "title": "WebAI by Opera",
+      "url": "https://www.producthunt.com/products/opera",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 7,
+      "title": "OpenLLM",
+      "url": "https://www.producthunt.com/products/openllm",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "Profound vs. Peec AI: Which is right for your team?",
+      "url": "https://blog.hubspot.com/marketing/profound-vs-peec-ai",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 9,
+      "title": "Your launch meeting is too late  to get stakeholder buy-in",
+      "url": "https://www.productmarketingalliance.com/your-launch-meeting-is-too-late-to-get-stakeholder-buy-in/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 10,
+      "title": "Profound vs. Semrush for AEO: Specialist or SEO suite?",
+      "url": "https://blog.hubspot.com/marketing/profound-vs-semrush",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 11,
+      "title": "AEO analysis tools reviewed: What actually works in 2026",
+      "url": "https://blog.hubspot.com/marketing/aeo-analysis-tools",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 12,
+      "title": "licenseal",
+      "url": "https://www.producthunt.com/products/licenseal",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 13,
+      "title": "Dedica",
+      "url": "https://www.producthunt.com/products/dedica",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 14,
+      "title": "Basedash View-only members",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 15,
+      "title": "Congress Trades",
+      "url": "https://www.producthunt.com/products/alpha-vantage",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 16,
+      "title": "Boltbar",
+      "url": "https://www.producthunt.com/products/boltbar",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 17,
+      "title": "LFM3 by Liquid AI",
+      "url": "https://www.producthunt.com/products/lfm2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 18,
+      "title": "Reddit is getting a For You feed",
+      "url": "https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds",
+      "source": "The Verge"
+    },
+    {
+      "id": 19,
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 20,
+      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+      "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 21,
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 22,
+      "title": "Govee’s colorful smart string lights are down to their best price of the year",
+      "url": "https://www.theverge.com/gadgets/1020139/govee-christmas-string-lights-2-tile-pro-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 23,
+      "title": "Sony has new transparent PS5 controllers launching next year",
+      "url": "https://www.theverge.com/tech/1020671/sony-playstation-5-dualsense-wireless-controller-prism-collection-transparent",
+      "source": "The Verge"
+    },
+    {
+      "id": 24,
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 25,
+      "title": "8BitDo’s new Xbox Elite-style controller sets a high bar for customization",
+      "url": "https://www.theverge.com/gadgets/1017815/8bitdo-ultimate-3e-xbox-pc-controller-hands-on",
+      "source": "The Verge"
+    },
+    {
+      "id": 26,
+      "title": "Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers",
+      "url": "https://www.wired.com/story/sony-wants-you-to-forget-about-discs-with-its-gorgeous-transparent-controller/",
+      "source": "Wired"
+    },
+    {
+      "id": 27,
+      "title": "Apple raises the MacBook Neo&#8217;s student pricing again",
+      "url": "https://www.theverge.com/tech/1020629/apple-macbook-neo-price-hike-education-store",
+      "source": "The Verge"
+    },
+    {
+      "id": 28,
+      "title": "Senators Demand to Know if Dr. Oz Collaborated With Election Denial Groups",
+      "url": "https://www.wired.com/story/senators-demand-to-know-if-dr-oz-collaborated-with-election-denial-groups/",
+      "source": "Wired"
+    },
+    {
+      "id": 29,
+      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "source": "The Verge"
+    },
+    {
+      "id": 30,
+      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+      "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 31,
+      "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
+      "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 32,
+      "title": "Here&#8217;s Virgin Galactic&#8217;s new Apeiron spaceship",
+      "url": "https://www.theverge.com/science/1020607/virgin-galactic-apeiron-2027-commercial-spaceflight",
+      "source": "The Verge"
+    },
+    {
+      "id": 33,
+      "title": "Meta has a new AI pet app called Waddle World",
+      "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 34,
+      "title": "Free Fire returns to India as Garena launches localized version four years after ban",
+      "url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 35,
+      "title": "This is how badly X wants you to pay to promote your posts",
+      "url": "https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts",
+      "source": "The Verge"
+    },
+    {
+      "id": 36,
+      "title": "What’s the Best Kindle of 2026 (So Far)?",
+      "url": "https://www.wired.com/gallery/best-kindle/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "Amazon Kindle Paperwhite (2026) and Colorsoft (2026) Review: Best for Accessories",
+      "url": "https://www.wired.com/review/kindle-paperwhite-kindle-colorsoft-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 38,
+      "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
+      "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 39,
+      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 40,
+      "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
+      "url": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
+      "source": "The Verge"
+    },
+    {
+      "id": 41,
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 42,
+      "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
+      "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
+      "source": "Wired"
+    },
+    {
+      "id": 43,
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 44,
+      "title": "Sauerkraut at Every Meal? These Fermentation Fanatics Tried That Long Before MAHA",
+      "url": "https://www.wired.com/story/portland-fermentation-festival-stinkfest/",
+      "source": "Wired"
+    },
+    {
+      "id": 45,
+      "title": "Pornhub Stars Want to Teach You How to Make Dinner",
+      "url": "https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/",
+      "source": "Wired"
+    },
+    {
+      "id": 46,
+      "title": "Apple AirPods Max 2 Are $100 Off Ahead of Black Friday",
+      "url": "https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 47,
+      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+      "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+      "source": "Wired"
+    },
+    {
+      "id": 48,
+      "title": "Please Let the Internet Die",
+      "url": "https://www.wired.com/story/let-the-internet-die/",
+      "source": "Wired"
+    },
+    {
+      "id": 49,
+      "title": "The Men Spending $50,000 Just to Reserve a Tesla Roadster",
+      "url": "https://www.wired.com/story/the-men-dropping-50000-and-up-on-teslas-new-roadster/",
+      "source": "Wired"
+    },
+    {
+      "id": 50,
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "source": "Wired"
+    },
+    {
+      "id": 51,
+      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 54,
+      "title": "Google Workspace Promo Codes: 14% Off for October 2026",
+      "url": "https://www.wired.com/story/google-workspace-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Nike Promo Codes and Discounts: 30% for October 2026",
+      "url": "https://www.wired.com/story/nike-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Peacock Promo Codes: 40% Off October 2026",
+      "url": "https://www.wired.com/story/peacock-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 57,
+      "title": "Paramount+ Coupon Codes and Deals for 2026",
+      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 58,
+      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
+      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 59,
+      "title": "Disney Plus Discount Codes: 52% Off October 2026",
+      "url": "https://www.wired.com/story/disney-plus-discounts/",
+      "source": "Wired"
+    },
+    {
+      "id": 60,
+      "title": "LG Promo Codes and Coupons for October 2026",
+      "url": "https://www.wired.com/story/lg-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 61,
+      "title": "30% VistaPrint Coupon & Promo Codes | October 2026",
+      "url": "https://www.wired.com/story/vistaprint-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 62,
+      "title": "Squarespace Promo Codes: 20% Off in October 2026",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 63,
+      "title": "Dyson Promo Codes: 25% Off in October 2026",
+      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 64,
+      "title": "20% Off Samsung Promo Code | October 2026",
+      "url": "https://www.wired.com/story/samsung-promo-codes/",
+      "source": "Wired"
+    },
+    {
+      "id": 65,
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 66,
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 67,
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 68,
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 69,
+      "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 70,
+      "title": "GM is embracing hybrids now",
+      "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 71,
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 72,
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 73,
+      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "source": "Wired"
+    },
+    {
+      "id": 74,
+      "title": "Best Skylight Calendar Alternative on Sale: Save $100 on Everblog HomeCal (2026)",
+      "url": "https://www.wired.com/story/everblog-homecal-deal-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 75,
+      "title": "Motorola Deal: Get a Free Smartwatch and Earbuds When You Buy a Razr",
+      "url": "https://www.wired.com/story/motorola-razr-deal-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 76,
+      "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
+      "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
+      "source": "Wired"
+    },
+    {
+      "id": 77,
+      "title": "Early Black Friday Deals 2026",
+      "url": "https://www.wired.com/story/black-friday-deals-10-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 78,
+      "title": "Quince’s Merino Wool Tee Doesn’t Cost a Fortune",
+      "url": "https://www.wired.com/story/quince-merino-wool-base-layer-tee-rave/",
+      "source": "Wired"
+    },
+    {
+      "id": 79,
+      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+      "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+      "source": "Wired"
+    },
+    {
+      "id": 80,
+      "title": "Dedica",
+      "url": "https://www.producthunt.com/products/dedica",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 81,
+      "title": "WebAI by Opera",
+      "url": "https://www.producthunt.com/products/opera",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 82,
+      "title": "Boltbar",
+      "url": "https://www.producthunt.com/products/boltbar",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 83,
+      "title": "LFM3 by Liquid AI",
+      "url": "https://www.producthunt.com/products/lfm2",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 84,
+      "title": "OpenLLM",
+      "url": "https://www.producthunt.com/products/openllm",
+      "source": "Product Hunt"
+    }
+  ]
+}
