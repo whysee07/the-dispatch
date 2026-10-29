@@ -1,0 +1,579 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T14:23:02.875698+00:00",
+  "raw_text": "Alright, buckle up buttercup, it’s Thursday, October 29, 2026, and the news cycle is doing its usual dance between 'things are great' and 'we're all doomed.' Grab your coffee, let's dissect it.\n\n### Money Talk\n\n- **ECB holds rates steady, hopes for the best.**\n  The European Central Bank decided to keep its key interest rate locked at 2.5%, essentially saying, \"We'll just... watch for a bit.\" No dramatic moves, just steady as she goes in uncertain waters. [S1]\n\n- **US economy rips, but living standards might not.**\n  US GDP jumped a better-than-expected 3.4% in Q3, thanks to resilient consumer spending and AI investment. Meanwhile, UK think tanks are warning of \"painful\" years ahead, with living standards set to stagnate. So, some economies are booming, others are bracing for a squeeze, proving that \"macro\" and \"micro\" can live in very different zip codes. [S5][S10][S14]\n\n- **DoorDash swallows Instacart in a $17B grocery grab.**\n  In a move that consolidates the heck out of your late-night snack options, DoorDash is buying Instacart for a cool $17 billion. DoorDash's CEO admits grocery delivery is \"one of the hardest things to get right online,\" so this is a serious play to dominate your fridge and pantry. [S13][S42]\n\n- **Eisman pumps the brakes on AI hype.**\n  \"The Big Short\" investor Steve Eisman is getting conservative, warning that an AI crash would \"impossible\" not to hurt the broader market. When the guy who saw the subprime mortgage meltdown coming starts talking \"tipping points,\" maybe don't YOLO your life savings into the latest LLM startup. [S3]\n\n- **Eli Lilly's obesity drug sales are on a dramatic upswing.**\n  Sales of Zepbound and Mounjaro surged again for Eli Lilly, with the CEO seeing room for \"dramatic\" expansion in the obesity market. Clearly, someone's betting big on us not wanting to hit the gym. [S4]\n\n### World Lore\n\n- **Israel's election is a nail-biter, still no clear winner.**\n  After a record turnout, Israel's election results are too close to call, with no clear winner emerging even after 90% of votes are counted. Talk about high-stakes political drama, right before the US elections too. [S21][S25]\n\n- **AI drones are now full-blown battlefield commanders in Ukraine.**\n  Both Russia and Ukraine are deploying AI-powered drones, making them faster and more capable. Zelenskyy is even warning that AI could be making battlefield decisions as early as next year. This isn't just a sci-fi movie anymore; it's a war report. [S22][S34]\n\n- **Spain rocked by second deadly train crash this year.**\n  A high-speed rail disaster killed 68 people after one train hit another, raising serious safety concerns ahead of national elections. When your infrastructure is failing, it's never a good look for the incumbents. [S23]\n\n- **Bolsonaro family pulls a runner to Miami.**\n  Defeated Brazilian presidential candidate Flavio Bolsonaro and his family have flown to the US after Brazilian authorities demanded his passport surrender, citing multiple investigations. Guess \"Florida Man\" just got a high-profile international addition. [S24][S30]\n\n- **North Korea is apparently threatening Europe, according to Germany.**\n  German Chancellor Friedrich Merz, currently in Seoul, accused North Korea of endangering European security by sending soldiers to fight for Russia in Ukraine. The geopolitical chess board just got another wild card player. [S35]\n\n### Tech Tea\n\n- **Gemini 4 Carbon leaps to #1 on AI intelligence index.**\n  Google's AI model, Gemini 4 Carbon, has snatched the top spot on Artificial Analysis's Intelligence Index. Looks like the AI arms race is still very much a sprint, with everyone gunning for bragging rights on who's got the smartest bot. [S37]\n\n- **Anthropic's IPO is banking on building a \"machine god.\"**\n  Anthropic's S-1 filing basically tells Wall Street they're spending all the compute they can get their hands on, aiming to \"build God or die trying.\" Forget selling software; these guys are selling the singularity. My personal hot take? This is peak Silicon Valley. [S46][S49]\n\n- **Apple finally gives in, launches a touchscreen MacBook.**\n  After over 15 years of saying \"nah\" to touchscreens on laptops, Apple's \"Think Different\" mantra apparently extended to reversing their stance. CEO John Ternus says, \"You've gotta touch it to believe it.\" The walled garden just got a new gate. [S50]\n\n- **Hackers dump 40,000+ DHS employee identities.**\n  In a juicy breach, hackers exposed the identities of over 40,000 Homeland Security employees, including ICE agents. Unsurprisingly, Bluesky is now blocking links to the leaked data while the government scrambles for takedowns. It's a reminder that even the feds can't keep their secrets safe. [S39][S41]\n\n- **Mistral claims its 'Le Chonk' AI model is leapfrogging China.**\n  French AI lab Mistral says their new model, \"Le Chonk,\" is outperforming Chinese competitors in coding and cybersecurity. The global AI race isn't just between the US giants; the Europeans are clearly throwing their hats in the ring with some bold claims. [S51]\n\n### Creator Szn\n\n- **Publishers are chasing subscriptions, especially with election hype.**\n  With referral traffic dropping, news publishers are trying to convert election interest into paid subscribers. The Times of London is even testing \"macro payments\" for non-subscribers. It’s all about getting you to open that wallet, one article at a time. [S56][S59]\n\n- **2026 midterms could be an influencer free-for-all.**\n  Political campaigns are scrambling to recruit creators for the 2026 midterms, as disclosure rules lag behind the rapid pace of digital influence. Expect your feed to be flooded with sponsored content you might not realize is sponsored. [S57]\n\n- **AI goals are still a foreign language for retail executive compensation.**\n  While tech companies are tying executive bonuses to AI targets, the retail sector is still scratching its head. Seems like \"ROI on sentient shelf-stackers\" hasn't quite made it into their incentive plans yet. [S58]\n\n### Supply Lines\n\n- **UPS targets $15B AI data center logistics opportunity, reports Q3 beat.**\n  Big Brown isn't just delivering packages anymore; UPS is setting its sights on a massive $15 billion market opportunity in AI data center logistics. They also posted a Q3 beat, shifting strategy to capitalize on the tech boom, even as Amazon volume is projected to dip. [S70][S76][S77][S79]\n\n- **FedEx boosts outlook on strong Q3, prepares for peak season.**\n  FedEx is riding high with strong Q3 earnings and an optimistic outlook, driven by increased shipping rates and volumes. They're clearly feeling good heading into the holiday season, so maybe your next package won't be delayed by a week. [S87][S88][S90]\n\n- **DoorDash/Instacart merger reshapes last-mile delivery landscape.**\n  The $17 billion acquisition of Instacart by DoorDash isn't just a finance headline; it's a monumental consolidation in the last-mile delivery game. DoorDash is doubling down on grocery, which is notoriously tricky, aiming to dominate how everything gets to your door. [S13][S38][S42]\n\n- **Cargo train thefts linked to Sinaloa Cartel, $500k firearm shipment stolen.**\n  Nine alleged associates of Mexico's Sinaloa Cartel were arrested in California for a cargo train theft ring, and separately, a half-million-dollar SIG Sauer shipment was stolen via a fictitious pickup. These aren't just petty crimes; these are sophisticated, high-value operations impacting the supply chain. [S61][S63]\n\n- **Scan Global Logistics makes huge US play, set to acquire OIA Global.**\n  Danish freight forwarder Scan Global Logistics is executing its largest takeover, acquiring US counterpart OIA Global. This deal is expected to catapult SGL into the top 20 global freight forwarders, signaling continued consolidation in the forwarding space. [S71]\n\n- **Cold chain hit by cyberattack, exposing logistics vulnerability.**\n  A French supermarket's refrigeration system was hit by a cyberattack, showing how remote controls can cause physical losses in cold storage. This isn't just about data anymore; it's about physical damage and spoilage, highlighting a terrifying new vector for supply chain attacks. [S75]\n\n### Speed Round\n\n-   US home prices fell for the first time in three years, but rents are going up.\n-   Poundland's UK future hangs in the balance as the discount chain edges towards collapse.\n-   Kroger is tapping RFID and computer vision to finally figure out where all the bread is in its 1,500 bakeries.\n-   Volkswagen took a €5.86 billion Q3 hit on a Porsche writedown, but investors just shrugged.\n-   Amazon just partnered with Tata Motors to deploy 3,000 electric trucks in India.\n-   Apple rolled out new Alexa features, so your AI shopping assistant can now edit your gift registries.\n-   The UK government is chasing 200 billionaires for taxes, aiming to raise £500 million.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "European Central Bank keeps key interest rate on hold at 2.5%",
+      "url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "Home prices fall and rents rise, both for the first time in three years",
+      "url": "https://www.cnbc.com/2026/10/29/home-prices-fall-and-rents-rise-both-for-the-first-time-in-3-years.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point'",
+      "url": "https://www.cnbc.com/2026/10/29/steve-eisman-gets-more-conservative-with-portfolio-as-ai-trade-nears-tipping-point.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
+      "url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+      "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "Island Energy: No plans to remove gas standing charge",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7l1375d74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "Minimum wage rise 'a massive blow' says farmer",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj9qy4yg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "Minimum wage increase accepted by minister",
+      "url": "https://www.bbc.co.uk/news/articles/cq77pm5ykrpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+      "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "UK government borrowing costs fall as City welcomes ‘no harm’ budget – business live",
+      "url": "https://www.theguardian.com/business/live/2026/oct/29/healeys-cost-living-support-package-badly-targeted-resolution-foundation-shell-oil-profit-latest-live-updates",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "How £100 vanishes in minutes: inside the ‘slot farms’ targeted in the budget",
+      "url": "https://www.theguardian.com/society/2026/oct/29/inside-the-slot-farms-targeted-in-budget-gambling",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "DoorDash to buy Instacart for $17bn in major grocery delivery consolidation",
+      "url": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "US economy grows faster than expected in report out just ahead of elections",
+      "url": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "HMRC puts 200 billionaires on UK tax crackdown hitlist",
+      "url": "https://www.theguardian.com/news/2026/oct/29/hmrc-billionaires-uk-tax-crackdown-compliance-managers",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "Exclusive: How the permitting bill could change the  energy landscape",
+      "url": "https://www.axios.com/2026/10/29/permitting-bill-energy-landscape",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Trump accuses Dems of perjury in Dan Sullivan race, governor orders probe",
+      "url": "https://www.axios.com/2026/10/28/alaska-senate-dan-sullivan-trump-peltola-spoiler-scheme",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Cape Canaveral in its \"boom cycle\" of launches",
+      "url": "https://www.axios.com/2026/10/29/cape-canaveral-space-race-launch",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "GOP's closing argument gets cheeky",
+      "url": "https://www.axios.com/2026/10/29/republicans-trump-husted-ass",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "The left's 2027 wishlist",
+      "url": "https://www.axios.com/2026/10/29/democrats-medicare-for-all-ice-israel",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+      "url": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "How AI drones are influencing the course of the Ukraine war",
+      "url": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+      "url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "No One Has a Plan for American Decline",
+      "url": "https://foreignpolicy.com/2026/10/29/america-decline-power-trump-liberal-progressive-neocon/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "Is the UAE the Missing Link in the Fight Against the Houthis?",
+      "url": "https://foreignpolicy.com/2026/10/29/uae-saudi-arabia-yemen-houthis-iran/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "Europe Was Never Meant to Be a ‘Regulatory Superpower’",
+      "url": "https://foreignpolicy.com/2026/10/29/europe-regulatory-superpower-trade/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "Bangladesh Measles Outbreak Is a ‘Warning Sign’",
+      "url": "https://foreignpolicy.com/2026/10/28/bangladesh-measles-outbreak-vaccination-crisis-health/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "Flávio Bolsonaro Becomes a Florida Man",
+      "url": "https://foreignpolicy.com/2026/10/28/flavio-bolsonaro-flees-brazil-florida-trump-presidential-election-lula/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "Can EU and India work together to secure Indo-Pacific?",
+      "url": "https://www.dw.com/en/can-eu-and-india-work-together-to-secure-indo-pacific/a-79796195?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "Volkswagen logs Q3 operating loss of €5.86 billion on Porsche writedown",
+      "url": "https://www.dw.com/en/volkswagen-logs-q3-operating-loss-of-€5-86-billion-on-porsche-writedown/a-79793796?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "Shadow fleet sanctions: Can the EU act if the US pulls back?",
+      "url": "https://www.dw.com/en/shadow-fleet-sanctions-can-the-eu-act-if-the-us-pulls-back/a-79787035?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station",
+      "url": "https://www.dw.com/en/ukraine-13-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "Germany news: Chancellor Friedrich Merz accuses North Korea of threatening Europe's freedom",
+      "url": "https://www.dw.com/en/germany-news-chancellor-friedrich-merz-accuses-north-korea-of-threatening-europe-s-freedom/live-79792915?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+      "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "DoorDash to Acquire Instacart",
+      "url": "https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "Hackers expose the identities of more than 40k DHS employees",
+      "url": "https://text.npr.org/nx-s1-6021497",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "If IPv4 Were Land",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
+      "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "DoorDash to acquire Instacart for $17B",
+      "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
+      "url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "Amazon’s AI shopping assistant can now edit your grocery lists and gift registries",
+      "url": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
+      "url": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Apple finally combined a toaster and a refrigerator",
+      "url": "https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Petkit Automatic Cat Litter Box Sale (2026)",
+      "url": "https://www.wired.com/story/petkit-sale-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "The Kindle Accessories I Never Want to Read Without (2026)",
+      "url": "https://www.wired.com/story/best-kindle-accessories/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+      "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy",
+      "url": "https://www.wired.com/review/review-hisense-ur8/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "The Times of London is gearing up to test ‘macro payments’",
+      "url": "https://digiday.com/media/the-times-of-london-is-gearing-up-to-test-macro-payments/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "Why the 2026 midterms could mark a turning point for influencers in political campaigns",
+      "url": "https://digiday.com/marketing/why-the-2026-midterms-could-mark-a-turning-point-for-influencers-in-political-campaigns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "Retailers are still figuring out how to tie AI goals to executive compensation",
+      "url": "https://digiday.com/marketing/retailers-are-still-figuring-out-how-to-tie-ai-goals-to-executive-compensation/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "Media Briefing: Publishers are selling more subscriptions to smaller audiences. The midterms are the next test.",
+      "url": "https://digiday.com/media/media-briefing-publishers-are-selling-more-subscriptions-to-smaller-audiences-the-midterms-are-the-next-test/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "Apple’s Safari crackdown pushes ad tech toward server-side solutions, but doubts remain",
+      "url": "https://digiday.com/media-buying/apples-safari-crackdown-pushes-ad-tech-toward-server-side-solutions-but-doubts-remain/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 61,
+      "title": "9 alleged Sinaloa Cartel associates arrested in California train theft ring",
+      "url": "https://www.freightwaves.com/news/9-alleged-sinaloa-cartel-associates-arrested-in-california-train-theft-ring",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 62,
+      "title": "Trailer Bridge appoints new CEO",
+      "url": "https://www.freightwaves.com/news/trailer-bridge-appoints-new-ceo",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "$500,000 SIG Sauer shipment stolen in fictitious pickup, two arrested in California",
+      "url": "https://www.freightwaves.com/news/500000-sig-sauer-shipment-stolen-in-fictitious-pickup-two-arrested-in-california",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 64,
+      "title": "XPO’s pricing, operating initiatives drive Q3 beat",
+      "url": "https://www.freightwaves.com/news/xpos-pricing-operating-initiatives-drive-q3-beat",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 65,
+      "title": "43% of shoppers plan to spend more this peak, Kenco finds",
+      "url": "https://www.freightwaves.com/news/kenco-survey-shoppers-plan-more-peak-spending",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 66,
+      "title": "Tesla begins humanoid production in California",
+      "url": "https://www.supplychaindive.com/news/tesla-begins-optimus-humanoid-production-california-shipments-2027/872992/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 67,
+      "title": "Nvidia forges supplier agreements to expand capacity for AI",
+      "url": "https://www.supplychaindive.com/news/nvidia-forges-supplier-agreements-to-expand-capacity-for-ai/872780/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 68,
+      "title": "WD-40 credits supply chain for $7M in cost savings",
+      "url": "https://www.supplychaindive.com/news/wd-40-credits-supply-chain-for-7m-in-cost-savings/872902/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 69,
+      "title": "Kroger taps RFID, computer vision data to boost inventory management",
+      "url": "https://www.supplychaindive.com/news/kroger-taps-rfid-computer-vision-data-to-boost-inventory-management/872819/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 70,
+      "title": "UPS gears up for peak season with less Amazon volume in tow",
+      "url": "https://www.supplychaindive.com/news/ups-gears-up-for-peak-season-with-less-amazon-volume-in-tow/872845/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 71,
+      "title": "Scan Global Logistics to acquire US forwarder OIA Global",
+      "url": "https://theloadstar.com/scan-global-logistics-to-acquire-us-forwarder-oia-global/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 72,
+      "title": "Analysis: CH Robinson spoils the bull party – tests remain",
+      "url": "https://theloadstar.com/analysis-ch-robinson-spoils-the-bull-party-tests-remain/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 73,
+      "title": "Jade Pacific Line the latest ‘new kid’ on the Asian short-haul block",
+      "url": "https://theloadstar.com/jade-pacific-line-the-latest-new-kid-on-the-asian-short-haul-block/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 74,
+      "title": "Boluda to acquire Samskip: ‘a combination to lead European shortsea shipping’",
+      "url": "https://theloadstar.com/boluda-to-acquire-samskip-a-combination-to-lead-european-shortsea-shipping/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 75,
+      "title": "The cold chain just got weaponised – logistics is exposed",
+      "url": "https://theloadstar.com/the-cold-chain-just-got-weaponised-logistics-is-exposed/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 76,
+      "title": "Key facts: NYSE:UPS Q3 Beat; Raises 2026 Guidance, Shifts to Logistics - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUmlvQXBFVGJfRndCM3hSbGNsS3V1YlByZ3BCUW1pNldNVXZjMW4xRWdJRkVza0NBemVEX2lOR01pYTJiRnM4ZjV1YURXSE9DMFQ4bUtSQzJzanNnUktpVERVNkVDVUpEcTdGcVRKbXY2LVBNUkRrLUs4T0lncU1lelBQaVNybGxJWHlHZnV4Wk1LRC1kOVIzcW8zM0Q0aTYtV2k5RURjOTRTZElFMU81cGdEaGlGN2lwbnQ1THoyRDFoUmtWeEZGdw?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 77,
+      "title": "UPS Eyes $15 Billion AI Data Center Logistics Opportunity - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkhGUHhsVERXRW0tLXNsWWw0T2R5TmlEQzlaaDhsOXZhTXlxN3JmaEN5T3NNaUVhOU1CRm9FRDVKTHFuTHNuWm5UZE4yRDZGNXVQdzh3ZlVWTlRZaGgxeFN5YUJ5RnJxc3MwMGNjVHlGRlljcjJNNTRoT3ctR05jV1FVb0tYaXVNeC01RUktT2IwRF91NlFDN0ItWU5yTC1abDlKVmZSTS1kbE12Y1EtM3J0ZGJ4YU0?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 78,
+      "title": "Is UPS a Buy After Its Latest Earnings Report? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObkNLbnJlbVVLZ1hwQ0E2eENpZDhWNGlFUnotYmZVM0FXd3NtWUxQWm9JblFQYVdndk4wMUV6LTdvOHMtaDgxRU1PSVNxVkNoWGotVFBhd2l5UGJZZDJiVVZpUHRqQnN6U0RrQzRaUDFWWTRielRnNnBOendySzI5eDBUd3NPVHQ5M2Q0S3pXUE1kZE5DVkFmSFNnOHA5MU9EOVhWUHdfdU9WR2RELWdkN3RuUDVvb3QxRHp0N1dsdGcxQQ?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 79,
+      "title": "UPS Targets Data Center Logistics as New Revenue Driver - Propmodo",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NyQWFpcDI2RmVoeFFXdF9vRUE4Q0k5XzZHQ3hIeVhSMXJlaDZIeWVmUE9MM2c4ZDM4YUVFaXhtV09SOXRWLTZsLU1JRGpfZWtfZ3Y3NVZPMUIyYjJpYVZ4bGozNEx2RmNCM1NkNV81bTRCLTM4eDh1enFoeE1VZlMybw?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 80,
+      "title": "Premium Comment Analysis: UPS – the cash line matters just as much as the earnings beat - The Loadstar",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbl9KWnZxZC1oOEZiSnpxRU9ncG1JVW1GQnZXS1lUX0M2c0FwWkphc3c4d3FpN3NobVh2NHJpQ1hfemozcERIcXJNV0xNUld4TXFDNGtqeXhfeE9TRWdCbmppRExjeldsY3NZMndRVncxYXNhNVFkaEtua3JfTWo4RTlIT2hmRXRyMkdjTjZYNjZKX0RPWko5eA?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 81,
+      "title": "NHL, DHL announce multiyear international partnership - NHL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TNHA3VGRPMjhyLVQ5dGQ0NTRwZHI1THhYcEktQUtQdm9EMk8zN3NFcEVYRzNaTGJfNzVLX1M2S0dfejNkVHFRNTd3dUtXRGpidVVQYUc4UURrT3BaVFM0UG5DNXZ1V0QxSjhScXNpcEoxcnVOMmtBcjBn?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 82,
+      "title": "DHL Group : JP Morgan maintains a Buy rating - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc0E5UGlqUFNOdGhBT1RjUDg4RThKWHNiVW83ZWE1OUxEd1ZqZW1scGw2akk5VjdQRjVvMnBYXzFKdFFscFktOUlJTGktTUczUjdPTzMtWDh5blVHSWZOWDlLX09LNE1weTFQZjBWY3JkT3FJSXIyR1lzc0p5SjdPMDhjUVRVZ0JmZktMVGJRM3VjYkc1NkpKOVpmcw?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 83,
+      "title": "DHL Express’s Bachi Spiga to speak at Logistics Leaders MENA 2026 - Logistics Middle East",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXBLOEptREF6WVdXczhBQklkTVJ3OGRrYnpEU3lxaGpDcFp6Yk9fdkVwMWtZX3d5dUtpVUNhdENEYjVNWmN6RjlwMU9GS09qT0NjSXZQcHQwQnlNWmptSnBaVkNPMi12VVkycDNjT0txbGpiUFpqVXhiM05JTXNKMEdvWjhscHNuelQ1SUhFV0pUcWVWRWVMUGd4SWxvRDNHTms1dDZFcWtjYU92NHY0bDV3?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 84,
+      "title": "The challenge of keeping 600,000 DHL employees connected - Logistics Middle East",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbllIb2RreWlwVVJyYm9DemxRYTN6ZjhWLVBJMmlZS1dPMDhlZVZpd2QzRkNILTVRUEFfSVpIQzYtcjk5VHBKMV9UeWdsWTVVSTM5U25lQ0FWcWQ4MDJWaVk5b3J0VU5JcUZPWFFvNE0wYTlqeU1XWGN6Z1ZjQVlRdE40UHNqVUpxSXlvaU1DT2txMi1fLXM4S04zRWYxbGhmeWVz?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 85,
+      "title": "DHL Group (DHLGY) Set to Release Quarterly Earnings on Thursday - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNE1KNjMtSEMyV0FMWEpVMERjZTcxa00tUF9JeFcwbERvNFFWYzhSNDZLN1RrczdNdzl1UGE4cy1HNzh1dHp5YkZYSERuWlctLWpoSDFUVkJvWWxBR2MwTUc4MWc2c3V6bllRdVY5ZkNETGlTWjhQV1JyWjUtN2VBbnpFelZDN1lEaUNuZGt4RDU4bzNnZlN5Q1BvS09KX3RiX1B3OUNzdmNPb0hNZUlWRHI2Q0RVTnBwR0xLZG5SVDREUQ?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 86,
+      "title": "FedEx Converts Digital Insights Into New Market Expansion - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNFZzZkQyM1cwVENUcTBsZ3V3azJHOHhrNkNFQXlQdFJxRmZTSXhNbDYtWlBBRjJFMF90NEltUG9UMEV5SWVsNFJCNGlaMkJmcE5oeFg5ZFhOTG5uazQyejNoRWlkYWN5eE5xVkN3RzRQN29ZaTRKNHR5YWh2U25fdmR5SHpzbXlmSmVLRUVIOFd2dEtGWUc2blhUNA?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 87,
+      "title": "FedEx Q3 earnings strong, income per share exceeds expectations - The Commercial Appeal",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaVQ5anFUMXIzLWhRa2poUG15VXYzQTgycGd3X0E2TmNuT0JVTnJyVjhUejVkOWxqTFRyc083cnpUb3RMbDYzZTNhNGxhMTZfUW1rN0xoV1lISE1aQXlMenR1QUh3c09xVTRIcjFoRkxRNTF6WWdVVnFLcWdoaUhqYlI0OXZvME9ZMVdPV2ZZWXNnSEtSOWxrOHJEenR5OHpjQWtNR3lZSUgwVWVRLTdjem5wTFV3VFpIYk4tcVpkWHZ3OE9EMVpqekNPSW4xNXhPZ3c?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 88,
+      "title": "FedEx Boosts Outlook as Momentum Builds Ahead of Holiday Season - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ1dTMjJSS2dEV2lJbmNJbzRtZ3FndFJlcENLQXV0Q0VLSVh6QjJELUd2bnVSZjh0d2RUUGtXWmI2U3dXMTZNSDJXRUEtcDdyblRyR1VaaTc4MmFSc3g0SE5QQ0hQZnVSNDZhQ1owSTluQkpEY09nN2hsQ0VvVTcwc0R5Tmo1c2tScWk1MnY0Z29LbVBzWkhHSVNrR0JhZjFFb1dEWXRWLVREVWIwTl9rM3VKcC0?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 89,
+      "title": "FedEx lifts forecast before holiday shipping season - Transport Topics",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLblgxVlFEMXFZdkY0VjBwV2tNeU5KR3hpYXpJNlJMRUI5dElxYl9vUkpsSy1OeWVjSjAwYWk1Q1ktdFhaWjJ2UTJDWk81eW9LUW5ZV2FrMFdZamFhOGZMOVpCcTRKX3M?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 90,
+      "title": "FedEx Lifts Outlook as Shipping Rates, Volumes Drive Revenue Growth - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNem5wREF0LXhMWlBaQUVyb3NBMjlwbkJwRjRfVGZ2aEZtclBBODBGUDQ5V1pBekJzUFUyQXpEcktSM2JiWHpud0ZXWDU1N3hweGNweUFYcG4wVDZiTGtkX2FrbzRlY04tTXlISUdKMUVZekdvcFZBd3lKSDdjZzl1R1pOUF9pckdzaWlzVVE3bHZvOGdSS3pscGt3eG1YYXhkcGVRSWpOU3ROOGRrdHlnR3Vzbw?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 91,
+      "title": "Delivery driver sustains 'serious' injuries in Crewe hit-and-run - Crewe Nub News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbG9tcHdONTZXV2ZwNUUzMzNudnZJLUhjMU1ocHZKT3pSM3dqVlh6aHJ1X0VfcUxobGgtc2ZkRk9uVldjZlpsb3dEWjBET0hWWERxM3duUkxSQ1NlVXE1Y3BiVEpCT3kwVk1IUHBBYVJzOXRjWFRzTk5SNl95NHktSUwwLXd5dXZQc2JnYTAyemJIM1hkVl9fMXd1b0p0S1RUSHliTXFVeUxrSnJB?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 92,
+      "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWV0aW13MlBmMFZKQVEwV3ZicHdZWXFnaE5UOHhWaHJUR3pqa3BvQ1p0YklHY1Q4THJmT1RCT0lKU2JjYmp4T1RnY3pqMDZPOFFZUjhodWhJdDhVUUZCVEZ3VHRQVmJId2I5dWc3dmdLRm12N3ZsX1BXWms1dkM1MWhyWmlibGlfZ2lYSHI5SEpzZUljX0xOTXQtOVFkbmUtSHJQa2N0QVNiQTZRNXBZWmVydmxESzJHUHJzaTRZSUdvWGdJaFlaVzNMMWZJdUJCaVE?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 93,
+      "title": "ISG Recognizes TP as a Global Leader in AI-Powered Customer Experience Delivery on Amazon Connect - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGtOdDUwUE1ZbUVsVGpGb0phalpGOHhjREFDdDVxSGFhT0xwTFYyaEgtanVlOEYtUy16emMxOC1UQzhya29LZ1FtdGVXakV0UHU1Sm9iWWFGQTVlRDlJLVdZWll5U1lqQ0FMUUVXanNLWmEzMXZhdll6VDZhQXIzZmgyNkdrdDg?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 94,
+      "title": "Amazon partners with Tata Motors to deploy 3,000 electric trucks in India - Adgully",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeTI4RDMzdGhxRFluamxQekJmMm9YZzZSMGtuMWFTOW5RMTEtX2ZfWW8yenRlM2ZhOUdwQ1BSaG9yX1JpM2JIUGs5SkU0RkxGeW4tVlpBOTZGc1FGTW83cFIyTVFfbERhSjllLUpva2RtVEVEeDVaT3htQTM0d1p0Uk01MkFPYjZHQmVJQnB2UTFwLTVLUFhQbjFBY1AtOUdiVDl1TjBNWWZEUkk?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 95,
+      "title": "The Bigger Meaning Found In Four-Hour Amazon Delivery Times - RealClearMarkets",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONDZpQ2M3MEQtRHpHbS1qd21lOEo1TXNMR19nOHl2VWxHbUNLQkNoeHphNnhIMjdZUy1laXdHdUYzT2V5UFQ5bmNuWUlneVNGbGEwU3lrS0pGM2Y1UjREYURyQVpwNU9Fb3BoWTYyZFlZM3Q2STZteUMwajhrN0VVQTRsZlFtTnd4QXl6ZmYzNjdoYXBPdjZZdk9vZkZyX2ZsdDhCaUtlMWhaajlaV3BsRHJnbXBkSGxvNC0xYzhDVU9ldGM?oc=5",
+      "source": "Amazon Logistics"
+    }
+  ]
+}
