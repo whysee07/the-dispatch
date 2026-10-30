@@ -1,0 +1,1185 @@
+{
+  "feed": "ai",
+  "feed_name": "AI Insider",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T16:58:13.031907+00:00",
+  "raw_text": "Here is your AI insider digest for Friday, October 30, 2026.\n\n---\n\n**🔥 THE BIG STORY**\n\nThe AI gold rush just met its first budget meeting, and Wall Street is panicking. Amazon's Q3 earnings revealed a record cash burn of over $42 billion, largely to fund its massive AI infrastructure buildout. This, combined with similar capex warnings from Intel and Alphabet, sent tech stocks tumbling. The market is realizing that the AI revolution isn't just software — it's a fantastically expensive physical buildout of data centers, chips, and energy. The implication most will miss: this isn't an \"AI bubble\" bursting; it's the price of admission to the next era of computing. The companies who can burn billions today are building the unbreachable infrastructure moats of tomorrow. [S4][S21][S36][S55][S88][S94][S127]\n\n---\n\n**🛠️ TOOL DROPS & UPDATES**\n\n-   **ChatGPT gets new violence prevention safeguards.**\n    OpenAI is rolling out expanded safety measures, including earlier interventions for harmful content, as part of a new public safety reporting commitment. [S92]\n\n-   **Claude gets a developer-focused 'Code Mods' workflow.**\n    A new guide details how to build custom hooks for Claude's coding capabilities, allowing developers to do things like protect API keys, track planning progress, and monitor context usage for more robust, production-ready AI coding. [S77]\n\n-   **ElevenLabs voiceovers get a \"naturalness\" boost.**\n    A new tip for creators using the voice synthesis platform shows how to achieve more natural-sounding voiceovers by breaking up text and using punctuation to mimic human speech patterns. [S89]\n\n-   **Verisk integrates multiple AIs for insurance.**\n    The insurance data firm is expanding its AI capabilities by integrating tools from across the ecosystem, including Microsoft Copilot, Amazon Quick, and Claude, to streamline its workflows. [S138]\n\n---\n\n**🎯 USE CASE SPOTLIGHT — BY ROLE**\n\n-   **📣 Product Marketer**\n    Use the new data on AI agent adoption to sharpen your positioning. DoorDash reported only \"several hundred\" orders from AI agents, suggesting the consumer agent market is still nascent. Position your product as either a leader in this emerging space or manage customer expectations by focusing on more mature, proven AI use cases. [S45]\n\n-   **📋 Product Manager**\n    Audit your own team's AI adoption. Amazon is internally investigating why some of its engineering teams are slow to adopt AI. Use this as a prompt: interview your engineers, identify tooling or knowledge gaps, and create a concrete plan to accelerate internal AI integration before you fall behind. [S28]\n\n-   **🎨 Designer (UI/UX)**\n    Start ideating on interfaces for agentic systems. As AI agents from companies like CMA CGM become more common for complex tasks, the design challenge shifts from direct manipulation (clicking buttons) to delegation and supervision (giving instructions and reviewing outcomes). Begin sketching what these \"agent management\" UIs will look like. [S32]\n\n-   **📸 Photographer**\n    Today's data offered no new tools or capabilities directly relevant to photographers.\n\n-   **🎬 Videographer & Filmmaker**\n    Instantly improve your AI-generated voiceovers. Instead of feeding ElevenLabs a single block of text, break scripts into smaller phrases. Add ellipses and commas to guide the AI's cadence, transforming a robotic reading into a more natural, human-like performance for your next project. [S89]\n\n-   **📱 App Developer**\n    Implement \"Claude Code Mods\" to make your AI coding assistant safer and more reliable. Follow the new guide to build custom hooks that automatically protect API keys from being exposed, verify that the AI's plan is being followed, and monitor context window usage to prevent errors. [S77]\n\n---\n\n**🔬 FROM THE LABS**\n\n-   **Why LLMs pick the number 7.**\n    A viral tweet claimed LLMs favor the number 7 when asked to pick between 1 and 10 due to simple gradient descent, but new analysis shows the reality is far more interesting. The bias isn't a simple artifact but a complex emergent property of tokenization, probability distributions in the training data, and the model's internal representations. This matters because it's a reminder that even simple-seeming model behaviors have deep, non-obvious roots, which will be critical for debugging the far more complex agentic systems coming to market in the next 6-12 months. [S15]\n\n---\n\n**🚚 AI IN LOGISTICS & SUPPLY CHAIN**\n\n-   **Walmart bets $6 billion on warehouse automation with Symbotic.**\n    The retail giant is massively expanding its partnership with Symbotic to deploy an AI-powered software and robotics system across its supply chain, signaling a huge commitment to automation for efficiency and speed. [S56][S74][S107]\n\n-   **Amazon's AI and robotics spending spooks Wall Street but deepens its logistics moat.**\n    The company now has over a million robots working in its facilities and is burning billions to expand its AI capabilities. While investors balked at the cost, this aggressive investment in physical and digital automation makes its logistics network increasingly difficult for rivals to match. [S137][S140]\n\n-   **UPS targets 6 million RFID-tagged packages daily by 2027.**\n    The carrier plans to double the volume of packages using RFID labels shipped from customer locations, a move that dramatically increases real-time visibility and reduces manual scanning, paving the way for more automated network management. [S25]\n\n-   **Autonomous trucking firm Aurora stays on track for 2027 scale.**\n    Despite market jitters, Aurora reaffirmed its goal to produce over 1,000 autonomous trucks in 2027, indicating confidence in its path to commercial deployment in the freight industry. [S39][S114]\n\n-   **Shipping giant CMA CGM is scaling the use of \"HappyRobot\" AI agents.**\n    The logistics company is expanding its use of AI agents for operational tasks, demonstrating that agentic AI is moving from theory to practical application in managing complex global supply chains. [S32]\n\n-   **Humanoid robot developer Agility to raise $465M in SPAC deal.**\n    The deal, while slightly smaller than first estimated, shows continued strong investor interest in humanoid robots for warehouse and logistics environments. [S6]\n\n---\n\n**💸 MONEY & MOVES**\n\n-   **Agility Robotics secures $465M via SPAC.**\n    The humanoid robotics company is going public, signaling that capital markets are still bullish on the long-term potential of physical AI to automate labor in logistics and manufacturing. [S6]\n\n-   **Runware aims to mass-produce AI data centers.**\n    A new startup is building a factory to create prefabricated AI data centers on an assembly line. This signals a shift toward industrializing AI infrastructure to meet voracious demand. [S60]\n\n-   **Amazon taps an $80B loan facility to fund AI.**\n    The tech giant is using its supplier financing program to fund its massive AI capital expenditures, highlighting the enormous and unconventional financial engineering required to compete at the frontier. [S3]\n\n---\n\n**🤖 OPEN SOURCE WATCH**\n\nToday's data did not contain any references to new or fast-rising open-source GitHub repositories.\n\n---\n\n**🗣️ HACKER NEWS PULSE**\n\nToday's data did not include any posts or discussions from Hacker News.\n\n---\n\n**⚡ SPEED ROUND**\n\n-   Amazon will begin selling its custom AI chips to other companies in 2027, directly competing with Nvidia and others. [S9][S22]\n-   Theranos whistleblower Tyler Shultz warns that the current AI boom is \"a great opportunity to go deceive people.\" [S8]\n-   Despite the hype, DoorDash reports it has only received \"several hundred\" orders from third-party AI agents to date. [S45]\n-   A university administrator in the UK successfully argued for a religious exemption from using AI at work. [S126]\n-   Google's market value has plunged by $500B, partly because its own AI-powered search is cannibalizing its core ad business. [S69]\n-   The White House is launching a national security review targeting robotics imports. [S29]\n-   Driverless yard truck company Venti Technologies is officially expanding into U.S. yards after years of operating in Singapore. [S78]\n-   Schneider National is ending its deal with CSX and making Norfolk Southern its primary eastern rail partner. [S43][S62]\n\n---\n\n**🎮 TODAY'S DAILY CHALLENGE — TRY THIS IN 15 MINUTES**\n\nToday's challenge is about coaxing more humanity out of a synthetic voice, based on a new tip for a popular tool.\n\n-   **The Tool:** ElevenLabs (https://elevenlabs.io)\n-   **The Workflow:**\n    1.  Write a short, 3-4 sentence paragraph for a voiceover.\n    2.  Generate the audio for the entire paragraph at once. Listen to the result.\n    3.  Now, break that same paragraph into individual sentences or even short phrases.\n    4.  In separate input boxes, generate audio for each fragment. Use punctuation like commas or ellipses (...) at the end of a fragment to create a natural pause.\n    5.  Stitch the short audio clips together in any basic audio editor.\n-   **What to look for:** Compare the two versions. The second version, assembled from fragments, should sound significantly less monotonous and more like a human who pauses to think or breathe. You're testing the impact of manual cadence control.\n-   **Why this matters right now:** As AI voices become table stakes, the differentiator is quality and \"human-ness.\" This simple technique elevates generated content from obviously AI to something that can pass for professional voice work, giving creators a crucial edge. [S89]\n\n---\n\n**🧠 EDGE INSIGHT**\n\nWall Street is treating Big Tech's massive AI spending as a liability, but top practitioners see it for what it is: the construction of an insurmountable moat. For two decades, the dominant tech business model was \"infinite leverage, zero marginal cost\" software. AI inverts this. The marginal cost of serving a query is suddenly very high — it requires thousands of GPUs in a power-hungry data center.\n\nToday's market sell-off is a reaction to this new reality. But the second-order effect is that the ability to spend $220B on capex, as Amazon plans to, is becoming the single most important competitive advantage. 90 days from now, we'll look back at this \"AI spending fear\" as the moment the race was unofficially called. It's no longer about who has the cleverest algorithm, but who can afford to buy and power the million-GPU clusters to run it. The spending isn't a bug; it's the feature.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Intel’s Agentic AI Overshadowed By Weak PC Sales; Soft Retail Overshadows Amazon AI; Record Crypto Heist - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOXBUMU11VnVEVUhuajBVNFJlaEt2SFFoUHIwbmRPUTBjZk9UZkZMZDNpaGFSVDhTLUM5UGtMa1NIZzVMZDFzOXlaZms4VHJ1WkpBQ0V0Tldoa213QWdVaEVwN2p0Z1I1LVJyRS1vdDJWMmplMTdRU1o1MllHTnoyV2VnTlVXYkIyY2hpTkNWTGhBRVUzRldEZ1BCY3ZKbDhyNkRkUFUwM1dHcHQ0LVJqNFRGU1Y1NmRQRU42Rk1tNUdWb2czOE5obl81T1JzX3dtaGl1WXJ5VDNMbTg?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 2,
+      "title": "Amazon's Q3 Print Show AI Demand Exceeding Supply, Slowing Dollar Growth, BofA Securities Says - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUVYU1gtNS01NEdyZWZQTGtHQmE5LTJSZUFZRTBKZzV5MzNLcURTS2tRRTk2Y1VMb2sySnNyeV95Ukx0X1dTV1lsYlYxbkptS3dxWkNPN0FkdTd5TEFWd2dRVGRVUHVpTWtScEVUVkM3c3N6Q0kzVTdyN0R3SEJzbDBiVWQ5MThJYUZrb0NGMjhBdHhRZHd1OHMwTWxRY0dUTnBIaWRHNU94dFZiMU41Si11alBJb3ItRXZ3SlRVdnZfQjdxNmhUMkpGN1BoZjdHOEs0VnMwLTVEMnhROVE?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 3,
+      "title": "Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGlqT05HdWhOY0RUM0FZbUp2TThsRm5yNFVNVE40TldvNGhPWEdQYy01NTBnc0c1d3E0OFU0eFk5aHlMbWxsYUEzSGdLU2J3blhoYWNnYnFsZlp4ZHRiOVA4WjU5aU5CSC0wMGJaUkRuRW5MX3lBMHlzdmpSMGNheEZteGZ3Sks3MmtzODRMbVIyampYaFVDYmpybmhIZFBLUENNaU44VGdWYWlMTXZVZUln?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 4,
+      "title": "Nasdaq tumbles at open as Amazon, Intel add to AI spending woes - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd09YMTdnSUY0UTZ6Wi00TGd0QUhVZXdwckc0VU52dmlPWWpoOFUzRlpLUDZQWS1VWEN5NmJLLVJWOGU3NE1zVnFTN2tBRlJKMXRXQjZSb3BRUGt3d0F0MzEyUVpOQzI0bnU4cmhjV3VLM1FLdFlLU0lhamFMWkIzYTZjOURnajYtTThXdWpLVGQ1Y0lxY2JEeVYwQkZYSUFETEY0Zk9QR3RiWGMtdmRtcGs5WGRlQQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 5,
+      "title": "Amazon Stock Slips on Q3 Earnings Amid $220B AI Spending Push - CarbonCredits.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnY5Vlg2eWRzakpna3ZNY1A0MlVpMVFlX2ZNanc3RFhvRWFEYmN5ZkQ1WGp2UW1CMWdmN1BhdUZ4RUtBMzBsVjVJd3FWNkZ4MndHU2VBeHhUNGhKeUdwNzBBVTVDLTlXdXhqOFRUQVZmejJ6WXZrd3JkZUFWWjRZaVNSNURseUZCT3Q5LTkxLWs?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 6,
+      "title": "Humanoid developer Agility now expects to raise $465M in SPAC deal",
+      "url": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/",
+      "source": "The Robot Report"
+    },
+    {
+      "id": 7,
+      "title": "Tech Stocks Sell Off as Intel, Amazon Earnings Spook Investors - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUtOUzlBVExJN1Y3RDZTaWF3ZFVacGt1Wnc4UEJHZnJUZzNLZk1nQ3dzNVNfbS1RZWRUSFFqeF8xM09RRm52dFlwNzMwa2w4VUl4VXc2T212akJ3bDNfNGRxOExVTFlnVFhhWGRhRDduXzRzcTNYTmVxX19LTENXMllIVjhPUktURHV4RG5DSWNYSXlhTHJMMXdB?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 8,
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 9,
+      "title": "Amazon Says It Will Start Selling Its AI Chips to Other Companies in 2027 - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT29GWGFDTi1HdUhRc1NrZ1owSmJ2R09pUFpEMGtwa2FmMTQ3WkhLbkxVMU9RYlA1N2V4ZlJlNjNaSGNaSGt4MDd1WEg0X0ZCcUQzdmhFNVlnbEtIMmw2cWVHTUw2VGtGaVZDLUdKU1I5eTR2cUtYNDU0eFc0djJyVXdvZW1zTzV0RUs4SnlkU01pcFA1R3JIdTFNMjhvY000N1dWYWlfaFNwaTN4SjRKWExrYXc4ODlW?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 10,
+      "title": "Intel and Amazon Stocks Plummet Amid AI Trade Decline - European Business Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLWFlT0RoRVhHRG1BRGxZQUpyN2F2VVR0Mk9UY3VYNThuMk9Ba3hxOVF6c2NvYlZ4eGJjM25fWS1EZEgyU1MyT3lZMmNoX25ZZktMV3ppR2J4QktKRUtlbWRTQ29kQVU2LUNsSmIzbkFRODVlVW5uMkladXhhOG5jZUNhYURMNWJNTTJPbk1SUERqMnQyUklxbVhLVHA1WVpYRXdBMzMyZFA?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 11,
+      "title": "Nasdaq hits near three-month low as Amazon, Intel deepen AI capex concerns By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNTM1RjhCODBSclVNVWNWYy1ObVBIbHlvblN0SEZYLWF3Q1ducFVEOGoxQlVmR1hSVlQ1ZEhvYmtkM3BYaTZsQnBVQmhoSmZiR2I0ZmFJU1hDS2NxcFFUMHUzOUdwdDE3d1BVVi10WUtQU2RSTWp6WU1ialhMVC1TeERvYldXeUhCbjFIZzZzWHRLc3dFbF9HM0wxZ3lvNzA1NlJTY2dkYWdVbU1xcUh5cGxCLXhZcVp6Smd6emVqLUZWazBT?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 12,
+      "title": "Nasdaq hits near three-month low as Amazon, Intel deepen AI capex concerns - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 13,
+      "title": "Nasdaq set for sharp drop as Amazon, Intel amplify AI spending worries - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2tKa2pvbHF3V3VSSGZhdXJBdVJwYm5PWFNiLThfYk5qMXMzTzNmTURxNkhCVzhlMDR4b280Tl83NS04b3hkb01nWUtZUGFQMjVmdll2eHNUQ1BXRkhDZDJ0Sms5M0Y3RlZTX1VCNjl3cGdUMndZZklDT1FBMERTSDAzYlJEcGQ4QmpuSktKWlBrbV9PcmJvYWtQaGpOanNuSnBSN2dUMFJ2UzBQam8zcWw1ZmpTSHEyLUlxdDhacw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 14,
+      "title": "Nasdaq plummets 2% as Amazon, Intel and Reddit become latest victims of AI fears - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFV5empXdG1EckFZTlR0OE9Pdy1DeDlVVU9rd0FGaEZpMllfMC1idFdGcGJqM3NUZkZsN0dOUXhuS0lramZ3NHJqS3ZiOWJsa3NnOS1TRGlrRVlDR0FyNFZCNnhKci1CaVBuOHU4QlByQVlXcWtudy1fa3lHejN6YkFlVnhPUTJQYWxTR3MzcUpQSjRNSzY3REZQem5FQTZoUTFRb1RUMjhmcFJpcng5LQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 15,
+      "title": "Pick a Number Between 1 and 10",
+      "url": "https://towardsdatascience.com/pick-a-number-between-1-and-10/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 16,
+      "title": "Jett McCandless named first FreightTech Vanguard Award winner at F3",
+      "url": "https://www.freightwaves.com/news/jett-mccandless-named-first-freighttech-vanguard-award-winner-at-f3",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 17,
+      "title": "Nasdaq Slides 2% as Amazon, Intel Add AI Capex Fear [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVm10dG5McHFJb2ZRZjdYZFVxcUpqQXY2dlNYYmNFWFRFUFdKVUs2dWl4YVRjOHN5aWJNNXZtazJJRFJMUkM3aDZUNHk3c0FkUy00VzRfazkwSUpSNXdWNENKQldhM2FiYV9oLVY3UHNjbldjVlpBdEdQRnRTU0xTWE5jUkVfNHlrN0ZFQmlZQzVTZw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 18,
+      "title": "Nasdaq Futures Fall 2% as Amazon, Intel Hit AI Costs - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnNROFJqOEhlcFYyV29fWWZ5a014VDhiazA4STExbU9qQncwMDdpRkJETUZ3SV9mUFVZWTZxR1BkRC1vTndZZHRGUFg2U1YwMGNOd2h5VHpnS0JpV2F4UGtVQWpWQTN1YXFGaWtlTTFBVmF4akNWUVNrcG95MFd1RG1CSGRET0xRTmxv?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 19,
+      "title": "Safety Technology Is Only as Good as the Trust Behind It",
+      "url": "https://www.freightwaves.com/news/safety-technology-is-only-as-good-as-the-trust-behind-it",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 20,
+      "title": "Nasdaq Futures Fall 2.2% as Amazon, Intel Sink [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlZSX2Z0UFpMOFlveEx2WVBnTFp4RXAxSWQ2S0tXck1fS1FvTmljZl80UVh1ZTNJTk4zQ2FEYzVqM1BRUmIxYUJjVVNDUXJtY1Nra1NScGVGMVlGY2x6NDdaTmotQWtoeU14Ml9vTV9FaXhlbEdEZzRfLXFJTWw1Q0tvMXY1dGhHbG1jVWpUaTlINnc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 21,
+      "title": "Amazon falls on concerns over cloud growth and AI spending - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQVNjQjQwZTFPZk5mLTNsZjhIbmlONGxBcElub1dTdlh2MUtQbU10VG9pTjlRU29VRWxQM2c4SkJhMS1FZVNEakRYU1BJa3BnQjlqQm5mb2U4SHVDRXdYOTNjUHEyTDhKdm1IRWNOWVlsNUZkQkxlRk1wNFNWVUdlODdYTjR6bzhycmh0Nld0SEh5YWxVdUN2a3pHWEw3X25MR1dv?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 22,
+      "title": "Amazon Says It Will Start Selling Its AI Chips to Other Companies in 2027 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGd4eEdsRkRpMUNiSkp1Xzg4dHQ4U0paeFJiQnZ6a2FTVERHSkNSSDUxb3lVVjdWYnBnNTR2Q0RDQ1I1c3BlUmdhbFhsZlhOOVpIRkJybi1yZnM5Unl0b3E4UkEwbFM4cFN6WWkyLVhaTmZjUHpYemxuUWFzNE1DMlJDdjF4WDZhLTZXZm9tajRSQmVYMUFN?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 23,
+      "title": "Amazon's Q3 Print Show AI Demand Exceeding Supply, Slowing Dollar Growth, BofA Securities Says - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZzNORkF3XzJIZUJMQTRxV0d6S2dlc3hmbmNNYVFkaTgtbUtoQTN5VUphWHBrRkVDakZNOGN4cVBERDRiR0tocG9rNzh1M01WOTlLMlcyRFBsN210a2JHa09DdEpyS1NQOE9kb1RobzMtUmNhazdhc0doOU1SZ05nZTVxdFlaNGJfYnNHT2xjeXpuNzZx?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 24,
+      "title": "USDA to fund 8 fertilizer manufacturing projects totaling more than $1.3B",
+      "url": "https://www.supplychaindive.com/news/usda-fund-8-fertilizer-manufacturing-projects-totaling-1-billion/873311/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 25,
+      "title": "UPS aims to double RFID-labeled volume from customer locations",
+      "url": "https://www.supplychaindive.com/news/ups-aims-to-double-rfid-labeled-volume-from-customer-locations/872946/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 26,
+      "title": "Amazon Teeters in Fragile Spot as Hyperscalers Get Punished for AI Spending: Options Chatter - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUpiOFd3OC1EZ3IwMUVOVk0wS3VBU1NsNHhhS2s4TmJMTnA5YktKa3BNeU1VdmZwNWZJSkhpLTFUaHhqMEZrcXBNdjRMbHFFcEd2SEk1cFlzV054b2lpTGhwQlhNZ3ZkOEcwMThuc2diU1FIYWxtTE9fMHRZUDNZbnYxcTlOZ0ZWeHh6QlE2UFEzaEhWMUxOYjlpNURvRk1PQVE1cHdLcEhYM0F2d2NJUC0xR096bVNl?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 27,
+      "title": "Nasdaq hits near three-month low as Amazon, Intel deepen AI capex concerns - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUVQxLWtWZkg1Q190RVJDaUpmdWNaWHRWNnpGWGRXbGNFUWl5OVA5RXVKeDVnaXotM1JndWo5NlFiSFlPS0pHZEh0REs2eWhTc2Z1U0JlZXdXMVZOZThaYWF5Q2ZSalFwTnhvdldJVlR1V1Z5b3gzTU5ZZC1RZ3prNUQ5MGZNRFE1cU1iX1R1UW9PbGY3UXg2RE81TnlVZ1BOSW5Xci04bjJ6UlBNeEdyeDdhRWdFbTlLSzFtS2d6dHVVSW5LdmZJZXJiVEROdTNVZjY3cnZ5ME9ydGc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 28,
+      "title": "Amazon wants to know why some engineering teams are slow on AI; company says: Pay special attention to the… - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUlJ2S2tiQV9IRjBPZUprUmVKYlpKSjMwTlh3Z25hcFRzV2VPNEdleV9YeUkwNldpcnZMNU1ZcVFYd1hxMjJDUVQ0U21xNC0tX1dQOWpETm8tdlRNUFEzdk9vcU82TXllMkNVOU9uTU8xanNNcmZpTEVRcEZXVFE1SjRaOG9MVkdyTHRVX2hobHZSeFpJTFR0STNTcmUwVHM0dnp5ZFoybFY3UVpIZmRuSlk2U1BkN2tmS2pFeXFJeHFlMmhWYUpXLWhDS0tQaWxXVFB1UUlpNnFSSG1VZVAyZ2lMRWxROXViT1VmVTdCWlBKOFpEd2pUem01bk5oRUdkRjFEakoybnlrdWR2VUJ1MkdfYmhEQQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 29,
+      "title": "White House targets robotics imports in a new national security trade review - Logistics Management",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR19ZanR3LUN6Sks2VzRCZmcwOFdFVFB6ck5lYV9uS0dneTNFcXFvLU5UWFVPNU1EZF81aEVVUzdKdlRRZkJBSnI4ejdhR1pWcFhvTGxFcjhxdlpGY0FGNGFNOGxORUpTcG42NlNNUU9CQXBoV3NEWno3NTB4ZkxFWnRWenlVYVhGTXZJc2gtanhVamt6clJKa2JsX0UyaE5OdjhyNlp5a1ROZlA5dVFneHBjRF8?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 30,
+      "title": "Mexico truckers halt protests, demand action on deadly highway crime",
+      "url": "https://www.freightwaves.com/news/mexico-truckers-halt-protests-demand-action-on-deadly-highway-crime",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 31,
+      "title": "Nasdaq futures sink as Amazon, Intel intensify AI spending fears - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeldmUnpVZGU1QVVNaXhYSVVCWGlVck02b0UxZkh0Qk1IaGVLZkVURThUQUFkajNJRzZQTnRtd1N2MlFIdVBGTU1yeHhla0JZVFhSWjVoU29aWTNzSFNkV3NjZkpXTjlSRGdRWlI1ZVA0LVBTOTE1NDdLT2xHN3lmNkhwWlRHNjYyRE80My1fb295djdjWnFRM0FLQWJKd0JWQlZpOGE5WGpIeEhURWJ2RHN0dGhKdFk?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 32,
+      "title": "HappyRobot: AI Agent Use Scales With CMA CGM - Supply Chain Digital Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2MwWGI3M2J5eXVQSzZ0UGVGTnZrTDdHdDdMX25xLThDWkNHMlYwaXhLTWlLLXJjb0pHdVZ5OG5CSTczZHJnM2k4bkowbHNyLV9idW5hR0xBX1BKUTRjcnlvZVlCcGZsYlg5MWFUM1BlLUljUml1XzVsMV9pNDBrZk1zQUh0aFFHN1k4?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 33,
+      "title": "AI pressures mount as Amazon and Intel shares tumble - The National",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVBjczBodXRnUEVkdnZqWDFIR3lydm4wQkZBWWhidzZlR3dYVktFeVZzQno0SXE0U2xMazhKb3ZSZjcyTVVBM2lfdjBuWU9qVGxoLUNsMDRWTzh5bXhSRnR2a1NmbldkeXlpYkdaQndvbjdPaU5HYjlEWk9PcEEzWjVxVHk3cjBl?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 34,
+      "title": "Walmart plans $400M Texas distribution center",
+      "url": "https://www.supplychaindive.com/news/walmart-plans-400m-texas-distribution-center/873218/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 35,
+      "title": "Amazon Slides 7% as Earnings Miss and AI Spending Turn Free Cash Flow Negative; Meta Falls 2%, Alphabet Dips, Walmart Gains 2% - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNjJyelVuT0sxRm1lUjI0aGlVTm1faFYyVXhEOU04eUJMOHZJMFhEWVpzQ05ER2d1S3ZJWmRlY0YtNEotb1pNUmF6VzJ1aWtUdVhSTGt2QTB1RjFUN0VqTFR1blloRGE4MWgwNGk2WXlQcUFkM3drVW5GcVNKajQ5LU5oazNBWUJFUDFXTGJqMXVXaXVlVjVueG9wWWJDSkNPd2NjcVIxWXRYdGowUk9STVN0U2wzSTROaGVUdE85QnNoRUR4Uy1ZbVB0dXRWR2FKOXBuUm9adnJlYW5MUXJvRF9jcG9YTjFUTk0teGVQeGVDTncyaEgw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 36,
+      "title": "Amazon and Intel Tank the AI Trade. The One Factor Linking Big Tech’s Underwhelming Earnings. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVlJuS21nLVkwOXpfVnl2ZkJ3NjRpUVB0U25ZRXBnUWstQzVlN1hfa3ZLd0tNOUtwUTJYbkRWUUxIajZsY052NlI2Q21tY2tVSVFTS2ZiT25tcnRrMUsxOV9RQXNXU1h6UTdaMjlhTjYyZDhZclpKazJUcjdHekVWTTJkR2h1cmlKVWxTTUVrYw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 37,
+      "title": "Walmart commits $6 billion to supply chain automation - Chain Store Age",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb2psU21xTHpXQy1lOS1zWXF6WlVvd3hGZjlUdlBwNDJ5QUV6VHJmMFlUelhWYV81NTlmSi1iLTUzamhZRnhhcmwwaXpSREF1SjhULWlXYzVSOW0tREZlSjY4VVZmT0swbGFVT24wTDhYcC1ZUGFqVUxOY1BjeXlZcA?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 38,
+      "title": "Whistleblowers Claimed Key Oil Tanker Rate Was Manipulated",
+      "url": "https://www.supplychainbrain.com/articles/45123-whistleblowers-claimed-key-oil-tanker-rate-was-manipulated",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 39,
+      "title": "Aurora reaffirms it’s on track to produce more than 1000 trucks in 2027",
+      "url": "https://www.freightwaves.com/news/aurora-q3-2026-earnings",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 40,
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 41,
+      "title": "Binning or Feature Selection: Which One Won Us an Insurance Hackathon?",
+      "url": "https://towardsdatascience.com/binning-or-feature-selection-which-one-won-us-an-insurance-hackathon/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 42,
+      "title": "Amazon Sinks on Earnings Miss as Jassy Sees AI Spending “Meaningfully” Higher in 2027 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbjkzYTVremlWclJsZEFYZ0ZFSE5xRDYzX3d0eXRLblhtTlZfRi0yYUx6T21nQmZPRjlBck1GTEJHbUNBX2RuNzBjSTFtdk83WGtBeHFDV21lYjVnRkgwdVdBVmxsdUZhMEhVRVRNc3gybTNGa1ZhWVU1VU5TSEtSYzItTkhaUU8zbmdMVFFLdkM3RlhQWTU1Q3ZFVU1xdw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 43,
+      "title": "Schneider partners with Norfolk Southern; raises outlook despite Q3 miss",
+      "url": "https://www.freightwaves.com/news/schneider-partners-with-norfolk-southern-raises-outlook-despite-q3-miss",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 44,
+      "title": "Amazon (AMZN) shares drops as $220 bn AI spending pressures cash flow - Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORjJMTWxwZXp1M1QzSnFrOUl2d1BhWFhTalpTNG8yN0NIdkxqSWhPckJ2emotWlpHZEE5eGt1a2pPRHhrYnFKaVA5bkVKSVBYRUxmbld3NVFjTGVZUDVKS1kyZE05SU9abFFud09UTlg2NVhYRDFRa1RlaHpnd0VLWEhsVkNoOGNMbTdhN1hEdmw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 45,
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 46,
+      "title": "Nasdaq tumbles at open as Amazon, Intel add to AI spending woes By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeUpPeU9EN2dqcDRHR08tajFMRHgtTDNPMlZnRFZSUGRaRTNveURVbGJKUlU0ZXRFeGJCN3l6U1czVDZHRkdZN1h1cHNveHhVX0dmUHR6Z0VvVnkxcHpfUGNFYXpNY0tESjBqSU9qaEdVZ0hTYXFEWlNJR045dTNQNWdVXzJkQ3VjMVR3UEtNeXo0T1cyXzZ0U3g3bzFQYkpudmhQeXFEcmp5aExmemNGeW1FczhubXVHZ25j?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 47,
+      "title": "Nasdaq tumbles at open as Amazon, Intel add to AI spending woes - The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjgxVUdHVC1zTTBYbVNnRzZ3NlNXdkZmQ3JBSnVpSjlZMEwxbWdEREVVZ2taVk91UG9vdU5oZHBBX3Bzek41bnFVN1liSVJ0VHdJSXFZdFBLYjFFT3ZjU2tscGJCT185QXFvcFliS1RDd2hpc01qQ1JwUEJjR0JQcWlFdUptcmZ1cThRTTdtUHMxUUlKdTNlcjJyMzdSblVFZFFqcFZjcUFqeFhvaS1QUVNtUVVjTDFFMFE?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 48,
+      "title": "Aeon Unveils AI-Powered Warehouse - News On Japan",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XR2FxLTRESU1VRFN6alJTeUJ6ZGZac3F5SnUxMldveFJOTG8tUno0OHpnaEZJc2NFQWNfT3c3ZkxxVi1uUEp1OXpQNm45emJDb0preg?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 49,
+      "title": "Nasdaq plunges after dismal earnings from Amazon and Intel - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONzk3SWo0SUFZeUo4blMxSHYzTzhXbXVHNEQ2WDg1VmIwOGdZSUZkQnlUd3c1d3p3d1ZzY1NKWkJGeThlVXpEYzVSU2RjMUhtT1RPNGtjS3gxelVIemN5OUVIOVVhMHh6Q3dNaE8wbVhtejRqMkltcEpDbFBnQjBwLTJmQUN5QVl3MDdKbnBWNWFScFFw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 50,
+      "title": "Amazon Spending Soars Amid Slowing Growth of Online Business - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVVjYXpCMDllTnNYR3c2aHZCNDc5ck5QSHh2VEUxMUo1RVNKYVlNemFiTWFzQjZST0FlSnFCZUxlMl9xWkhOLUFPYjBwdzlGdnBhNUdnWnpOMmUzMVhHSVQ2X2N6dzdPNjYzTlV0U0RTb0hOT3J5cFFuUTk5b1Uzamh6aGhBWmtuY2JEdkFDNkN5cWZYY0EyRUZ1YU9FQTd1VkUxcl9qTXZvdFVJQnVYQTR4WQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 51,
+      "title": "Nasdaq tumbles at open as Amazon, Intel add to AI spending woes - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdm92N0pCd0hrOW5ydFdRZ3pibm5LYkU4NzlsemVnTzdnWjZDZnY4cTV5RjRJMUlVWEdGaHpmV2JJWHh1SjlMZzFUWmxhT0I3TkNmRWhGREpodXJWbWxkTHVnOURpWjl6ckpoV3d6VERQb2sxekZWOUFlQ2k4anA0NkZyejhnZXpTZDJGNG1tNURlMUNXc3ZVZVh3UkZCZw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 52,
+      "title": "Nasdaq tumbles at open as Amazon, Intel add to AI spending woes - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZERVODVpV0R6WENyeTd3d1NKOHRjd1FudnRfUkNYZDVmM3RobXFiY3NmXy1aaFlOX3REQlc3Mm5adXIwU0hYOG1Ed1FwV3JjaEo3b3otWlVKdE1ka2N1Z3h4MnZCRW1HQlNWRHdTY1ptNWJUcmtUOU45M1Bmc0FHajNsWW1qS0NfU014dHd4QW0xeEFuc1Z6djRMV0o5UXROX0hJMkhPeXdxZklySTFwdDdnQUw3X0dxWG1FdVNRYVRKLXF0SFJ2T0JMZmlZXzJ0Qm11b05QVlJMVDc1ejlWbkJxVXBZN0lBajJkS0xUUWR6RmM?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 53,
+      "title": "AI Demand Booms but Stocks Still Fall: Cracks Appear in Asia's Supply Chain and Market Confidence - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XMGRmNG1kU2JMelRQTGdsWGlhYzBub0I0QTVMLVp2M05qZUtaTkw5VjY3d0lWTlFxR21wS05GU2FuX3k2QWx6bjJhVUhmclVoU2hiLUVxSmFrVWY0SjdNbnp5Rk1aNDhyMHI1MmFkZTJCTXdTNWc?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 54,
+      "title": "CN 3Q profit rises 6% as freight revenue climbs",
+      "url": "https://www.freightwaves.com/news/cn-3q-profit-rises-6-as-freight-revenue-climbs",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 55,
+      "title": "Q3 earnings disappointments from Amazon, Intel, and Alphabet have the AI trade on edge as capex spending swells - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORnZjMWhIN1BScWNzbVB6YWZKWnAyd0dzODlxbklaRHFMNWRqaTMwOFJfd3dIei1jWGVuNVIxZkZZSmx3aVFRYnV6Z0U0QjVyNjF5NzhtV1F0T2loNEtTaTR2VWhKNUx5Y2Z0LVVyRnh0VWU1TW1tV0dzNXdlU1JCLXVtODVxWHVMcmVzQ290RENaYTNPaVFfaUFuTlE4NWhOQnVTbDRsSGJrRThxMHc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 56,
+      "title": "Symbotic stock jumps on $6B Walmart automation deal - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNzlVRzJMM1V3cEVpTWNsajJqNnp2cDBQT1NvUEJsa29TQXBicUxVUDJjR0Q2YkkwSXpmdFZzSUpBdVNYc2lTTl81WjAzWXp0X1VyQ3dmQklBNWJGa1dmQ1c4ZkJidXctRGgtYnNEbVVTWjcxcFNQSTFRMGNsa2dhcDFKajM5LUk3RDJfVXZOU1dnUDlGbU5VRHVTMDM?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 57,
+      "title": "Tech Stocks Poised to Drop as Amazon Adds to AI Spending Fears - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUpta0dPTkJoM1J4VlZZd3VFT0pwRnFXME5pX1UtNGhMSUN0QWJkV2wzVmMyY2pBa0RyanRoMC1kRXM5eEQzNlpFeEhUZ1h2TVBScUNPSjFJVkpHMElDVmpyT0h2NTM2ZDRuTTUxd1dEdDIyVHRTUlVjRUM5Q3haRjdpM0EzQQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 58,
+      "title": "Nasdaq set for sharp drop as Amazon, Intel amplify AI spending worries - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTEp6TzE4YTV6c0ROVFNPdmhTLWVkTGdSMXhoTkJzWjlJdEVBSHN0RWR6SEYya3phWkprX0VSZ2dtWnc0dU9IbC1GZFpUM2tfSXNwNGVSM0NJbTYxeEJYOFVSaGZ2RDFocUxtLW43QzVFbEd3Zlpub2lSbmVkZTRDUlFkYTRtUU1DUlJYRFlwN0lnS2lpRnptZlpuYm9hNWplSzlNSXRZNU1VYXoyWXphX3BKYlBWWWxSTTlpbGRleDVSR1g3aExCV3lwTm9UTzd3T1ltai15b3YtNTVKUllWRkdNS1hvZGo2OGdYNm14bEFsV2VoNlVIdzVkYzE?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 59,
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 60,
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 61,
+      "title": "Amazon shares sink as it spends heavily on AI - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1ZDJCc1ZrOTBaRkYtOGpaQTdCNHpwblBCYjJYWGE1S2c1d1ZuUllUVXNsX3pmSVp6LVo4QmhzeGVMWTFBUGlfMkFuWWZuX1ZaY1EwSW9TeW53bEhobkYyZDUyeW1QLTI3?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 62,
+      "title": "Schneider to shift eastern rail business to Norfolk Southern from CSX",
+      "url": "https://www.freightwaves.com/news/schneider-to-shift-eastern-rail-business-to-norfolk-southern-from-csx",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "AI Stock Sell-off: Amazon, Intel shares plunge on earnings misses - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUVdPZUNvS2tQcnB1enM2UnhpdVl4UEtwYjVwb25mQV9lRWlCOEFkdWEyTXpzU2FVRGxzY1ZDaEQ4ZWhoZkw3LUpwV0lyRkRKVzE1VzZwWllYdlFxM0JQd0p3OVR6cVdmOE5pX255eDB5RlRTNjZqNDF0SmZwZW5sQVpfeTZWbUhtd2drcEY0SG84aktSMjE1N3RtVGJrbXB4VlNXTjkyOFBkdw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 64,
+      "title": "Tech stocks down: Intel, Reddit, and Amazon are getting hammered. Has the AI reckoning arrived? - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRXZIcjJfSzhFYWxVSDBwRWFYRFRoclJGX2lybXFpM1ZGMnRHRlVnNlo4ZExEQzl1TnIzTmlVYlpmQmNoN0xrYnF0ZENRNmFKLXFxTkt2VlRieHBnYnF0QkoycG5GWXVnQ090dHhKOGFRN2JOcFdvajNCUjI1QjM1Mnl4NE9FaU0xb1lsTk5FdjlNV09Bc0E?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 65,
+      "title": "Amazon’s Jassy Has a Trillion-Dollar AWS in His Sights - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0xTMVFuVlhLV1VmUUZXTExoM0pNQ015eXlhbGZDSGhmZHVodGZOOUYyTVhOTExQNEtwbHdKTkg0Qlh2ZExlRE0zY21OSTBmSmNwbF9iVlpkS0p4T2tnRm5HZXZ2VFV0OEt6Q0pUZ0M0NXFfRzJsR0FPUmJLSWtNcGZGU3A0YkItbFFGMHlHZG5tcVlEVU9VYWlCYmt6ZUNiSHVjS1I3RUNxTGpaUjJZbUJsS3VaUQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 66,
+      "title": "RoboBusiness 2026 recap",
+      "url": "https://www.therobotreport.com/robobusiness-2026-recap/",
+      "source": "The Robot Report"
+    },
+    {
+      "id": 67,
+      "title": "Your Agent’s Tools Can Make Decisions, Too",
+      "url": "https://towardsdatascience.com/your-agents-tools-can-make-decisions-too/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 68,
+      "title": "Lawrence: INEC Will Clean Voter Register Before December 15; We Use AI For Chatbots, Election Logistics - Arise News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVBfSksxMmhCOEphNEZ6SmxhV2U4a0RBRkFzMnNKOVdTWGEzamo4RHctNTdKN1NQWVRmZ2FXQXp1b0RrTmxOcVA1SjNjaVNWX1YxaGV3bWkwWWZtV3E4Y1lvQzYxTnFfUllrX0hrWEVPM21fdm91SW94NDVQT2ZVUDB3dTBzbGNvTDkwSjFDVHBhMUhxSVFkZ1RHZmxodXdBU0NaR3FDV00wZWxacThsaTIxUzhmWHdtRHQ2SzNtRQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 69,
+      "title": "Google value plunges by $500bn as its own AI search hits ad sales - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNW9FUzgyTXVpc0pmUHo2T3F2bWh1T0pxaFhGZzFueWhsNjdWVXdNYzJwcXBPeUdVSUdGYVZDdUZwUDl3bzBESUdkb24zdmJHNV9iR2toaWUyYlk?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 70,
+      "title": "Amazon sees e-commerce struggle amid AI turmoil - RetailDetail EU",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmNiUFlaZXNLa0xhUV9NMmJiNEZoQ0NWdkxSaksyMXlmS2VrZVd0WUFNYzFBb1FYQ0p1dHFlUkUwWExaNnMwUnVULXpWS1JFYXZYazA4Qk9qZGdRRFFiVkt1NklnTFNBaGhVdi1MbmFXODhtRTR4RWdJVEZ1WjZGaUFFWjBxX2RIRGZPSXIxdklTRkZTdUE?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 71,
+      "title": "First Shift: Automation investment and freight inflation raise the stakes for supply chains - Supply Chain Management Review",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQTdKMUpWNUFXTWY3c0ZsdWpxTXNoOHgtMEI3Nm0yNjhuMlJSU3J4R1U3a3loTVdJSy1fbWdRRUZaeHNtRHpZcDdxUXp0UU5UaXd2LVNxOFVpMlJqY0VwSlduU01xUmhDVU9may1MblZFYXFJX0FGYzdyU004QlVhUG9hbXNhczZraGVKWmZSLVBvS1RKLWYzUlR6Y3MtNDNGbDZEYkZodExwRDc1SU5GR05zellON1BaOUEw?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 72,
+      "title": "Amazon's AI build-out just pushed its cash burn to a record: Chart of the Day - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS3ZnYlBzUUtoS19uZmZrRlRtT28tVTZybEkxVzBTNlNNX3MyMDNjRFF1b05lZzFtOVNOR05vT1RacUkwM0N5MU5MWTVwU1JVdlhvRzY1VWJ0OTZ5WHBaOW9OY2U0VEZ2bUhVSlJObzJGRkdzYzlxUy0zbTlFM09DTTRrZ1VjSE50Y1V4LXV5RmdkRXh3d3ljZlphcnpDaXRSODBTVFN6RFJHcjlXS3hudnlXaXpKbFphMEJDeVJ5MUROLU5VR2dYVEp4bHk?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 73,
+      "title": "Amazon shares are tumbling after third-quarter earnings miss. Analysts say buy the dip - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43RTBVeWFTVlZ5NGtfQVMzZ2t2WndDT1ZURTVBamw2d2xCUmFRTWVHS001VVZuWVdRNVQwanhKekJncm1GVUVDU0FTejVaSUliLXZHcUM2ZExxUENiZnljTndKcFBrdE96RHFYYXF3MW41c3VvVkE?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 74,
+      "title": "Walmart stock deepens Symbotic automation push with US$6 billion deal - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNmNCWUV4YTBxY0NPOVBzMkg3SmdGNmgwS200a3dNbmlnYnhXbWh3RUFRdEJkODFwWWNXQkphak5hb0lRcUtneVRuUDVncG4yZm0xTHI5VDFnSklLQlduUnVsb21CXy1qakt2UWtaelRPZXBFLXRuSjJzTk8zRmYyOGl6U0NXeDhoS3BVMHBYQ1R4azB3U3luSjU1c1U1VkNnbmswYkNROGJ6MTk5WjZ6RmpwUnI4SEhPZWZQeVdwNDlOMlEzcDhsX3lPS2w?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 75,
+      "title": "New Georgia hub aims to take 26,000 containers off the road",
+      "url": "https://www.freightwaves.com/news/new-georgia-hub-aims-to-take-26000-containers-off-the-road",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 76,
+      "title": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUENqYkp0aDM0R1JfWnF2cVdBdnBGSzZQMmxLNFVON243cGh5eGdMWUxWRGdhTHFvR2tBdXNVU3BnS2IxTmJlQzNzdWNabmE2SkZxd2RsbDdYcFV5YV9wcWN1QlhHcHY0WlFRZTlOUDdjMWZUcnNiUjROUHBJcElMRjNXODhrdE9nUFMxNnQtRmFObV9jUW840gGcAUFVX3lxTFBxNWJZZnlVWXZOTWJ2bXJCOHhOck5QcEpCOGlyYzVUa3FobkQtVG5DYWN4UGF3bTc5UWJpX2p2SjdKd0gzbHItdEdzRl9qeFJHenA3VXpDQ20tWXVsczd0UGt0ZkwtbG5KdF9FQlRZZ0NyNjhhSm1jLTlUUGZ3RkxGdVh0LUVsb3ltVzgxN044cHBVV3VLTDZCbFV2OQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 77,
+      "title": "Claude Code Mods: Custom Hooks to Fix My Biggest AI Coding Frustrations",
+      "url": "https://towardsdatascience.com/claude-code-mods-custom-hooks-to-fix-my-biggest-ai-coding-frustrations/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 78,
+      "title": "Venti brings driverless yard trucks to US yards",
+      "url": "https://www.freightwaves.com/news/venti-driverless-trucks-us-yards",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 79,
+      "title": "Hitachi Digital, Physical AI and Manufacturing - Supply Chain Digital Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOak9nVEtFU3prQkdWYWlBN2RDdW0tbEpJOHhock01RTZUaEJGcmVySHRmZ0N4OGU1MGhJVGY1clNZX1dpc1dPNW9GVmx2NXpzMmtRWEp1bkpyV1ZVUUJPbkVCQnJTa3p0UTRaeFFLNkExVnJLMzN4NEhvbXJCN1V3bzJtTTVHc3lN?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 80,
+      "title": "Tech Stocks Poised to Drop After Amazon Adds to AI Spending Fear - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV2Zzb0JJMTZRSGo0ZFVqNXRDUVRob1U1VWdmc29Cd3VydGRYeWlDWGFiT1VUT2lreFlobHBJYzFQMWVWWmppUlBIRS0taHZscGdtdWNXUi1MS3FHcGtwSlRHSTRkMlVObXNTMXQ4RGE5WHFjNGVCelg4M21sZW8yUXhuR1hrV2NJT0tyM040NmJvclBPY2lQLTlPWXVOLTRLSzNkT1hkS1ZvcF9kYWZVbWFXd0R5WXRnak9VaWp1Vl94OV8xTnM5ZjRudTZSTEZfdTFUcg?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 81,
+      "title": "Amazon Shares Fall 7.5% as Q3 Earnings Miss Forecasts and AI Spending Weighs on Cash Flow - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNmlCeHMyWC1FMVVtNFR2S0xsamJIQWs1ZkNPU3VDSnpoR0hrR0d2dVdOMmR6Q25WVUU0S0FiVXdFaHFVTVBTZVlUQjdacnB6VEluSGpwakNISlNKVU9RaXZCcUdtSFVZZjV1UC1VYldhaWZhY0s3OTZjT2RYVUdfN0hQX2lTZEpDSUVKUEFoRQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 82,
+      "title": "Stream Mission Critical Expands Stream Hyperscale Warehousing as AI Data Center Buildout Drives Demand for Coordinated Infrastructure Logistics - markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPcGVBdVdESURDX2V0R0xCUUhMOWZjd04wQVp4bXRNS2hvbjcxdW9jTE5XZm55NUJvSVF1Zk1OQlEtX3BSZ09KOEtYc01nUXNUaFQ2ZG1rT1BEMnFJRE1zSVdRR1BhVWZhUTIwTkNrZ185anVJZkdwZ0dwZG43Q2FDR0FSM0VWd2NkREZrYkFkMmFHamEwdlBOZ2JDcjZqMHFGMHgzXzRGOC1haHpLcFdWOHhhQmVEajdDVjUyZWx0b00yck1DVFVuX24xcWI3TDVyQ3hnai0welpGdkhNbEYtNlJVY3hxSmFZLVVyXzZ1RVpKQjJweklPVXRMOTVhZDI3bFhWeUNOSVV5NGdtUXBsd0YzR3otY2RSZC1xNXF5M3V4dTNvQzBXWXl3?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 83,
+      "title": "AM Markets Need to Know: Nvidia backs AI data center, Amazon's Prime Video turns profitable, and more - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ2JLU3ZtT0xPRC1WZEt4X1NPNTFhaDBYd1pqQTJmSGlHTWw5OVV2TlZhc3Q3NW1BUnVTVUwzbnVvVzNpeDlLcXRpR1NodkVmeW12MElfMHhPVGlzVTE0WXc5REg1Sk1ER3FHYlppbDNuNmk2S0JMTU5wVWNoSS10c3lQcnVSUExwTl95bXUtVF9DSDFRb1U3RFc4WU8ySlFma3BNLVBlOEJHbi0yMGJjRFN1WHRrUjZYRU05S09uOUtrWDBkQ2ZCWTB5YVQ2MGlv?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 84,
+      "title": "AM Markets Need to Know: Nvidia backs AI data center, Amazon's Prime Video turns profitable, and more - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMW1jbWJrcG5GcjFZSzlUbXcteUJGYWRGbFFJQi1TT0pqYjBqcGZfdEsxWjk2cWttZnF6QUVOQ1RXVTFmUXZCX1FsTml3MjROQm9XanZjMzlQN2IyQ1hyU2FJOWg5UW4yTEZRT1VtNDRCVi1ncG5UVDZGeTFjZjM4Q2VvVFI4ektUYmctYVpaaXBfVW4xS1RPdWltRjE4S1Z2aHZ5dG54aFQyNnZRN3NJTjN0X2lmMHUwTDVocWk3S1NhWm5IQVpYVldXWERMeFB4SmtYRFcwZzdXTVp6VktmX1pzSHhqQWJZeWpJU0hQV0owNUE?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 85,
+      "title": "Defense Logistics Agency CIO: Agentic AI a business change, not IT project - Constellation Research",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZl9HUXBhNEV5ZVphdHFHbGphMUlZMWhlTFI0WXhndS1vbjI0YU5jbEJhMVI3XzFxYlNHcTZzSEp2NHRaYXlqQjF2UC1QWjB4dDJjYjJ5MS0zSWtpOW0wdk5xVXo1cXc3aUhkbTh6SmYwOVQ2cWRLazE0Y2lCV3ByVVN4NzdHQmE3MlhzYkxjMzlIY3BiWHo0YmR3NER3Z041T29Lcjh5bnY2UGRadkpJNkE1WjJkdw?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 86,
+      "title": "Nasdaq Futures Slide 2.2% as Amazon and Intel Earnings Fuel AI Spending Concerns, Binance Hit by $6.3 Billion Hack: Dow Jones, S&P, Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmVkOXVpX01IQXVSdHRlSmdoWVROcE16RWJhMGhleXQyS205WnJRNWRZaXB6cW5wWmh4SG4tS3NWSzJMeFpxLWwzem5tVXN6Qjl1MGdhX0sxLW12Q01LdG9UWEVGdTVodUt4T3NRdWliN1NnNm5McVJYaENyaC1UaXc2OWtRVG9TZGpuUXpLOGxXQUE?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 87,
+      "title": "Ray Mariano: Amazon drone delivery plan demands council’s attention - Worcester Telegram",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbUNHVWxqaU53d2VSTnVLWU9zLVAwS3pfWWFUX0pIOElrQnpyb0RqSVpUSVc0N3c5WjJHXzk0SVhwaE5lQ28yTDhGcVlsTFFZelBTRTVFMUpVWk1iMkJLeTdjWS1Xc0xMNWJEQTB5MHFaQzlPYUZqTDVscVY5SGRjWHJGUVI2S29yRUhOQzllUzJib3dVb0syS0FjU3VrZXZhZTZMc0VXaVR6U1l0bDU0Ym5GTFY3VHpRWExQZXk2V1NvTU15RnRVdE5uR2N5RGxmeFE?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 88,
+      "title": "Big Tech sheds nearly $900bn in rout over soaring AI spending - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnZtb2F5QWc3U085dm1WalA2WEV0VnhyYnN4azV0WE9yRDhtSGRiUXFfTUF4dUkxNTYyMGItYUJxN2k5ZFdXS3hPb09sLVdsc3ZNV2ZqdGwxdm9VN3l6YW42bFVIcjdSS2ZjdFJyYlNCQVBiazU4dGhBVDRGYW9wLUhiZEU?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 89,
+      "title": "Inside the spy plot around Nvidia’s CEO",
+      "url": "https://www.therundown.ai/articles/inside-the-spy-plot-around-nvidia-ceo",
+      "source": "The Rundown AI"
+    },
+    {
+      "id": 90,
+      "title": "After brutal sell-off, what comes next for the titans of Big Tech? - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMDhxMDBUNm9NSklTN2wyblhURHk3WEpWTkhKd1Blc3ktb2VtX3ZYRDVwM1hqTWFvTE5sSDBaejZqd09sbm9sdHJVb2NqNThOVENnUEhMNzd4S01ld0dOMm9fSXNOY2M3dGl3OERqdWpYWG4tNnRVRHZsRlF3VEphTXR5VDN1VVVQMXlXcXF4V3BpZzY0dFBQQmdyYmFnTDZUc2dGcVhsVE1iZ29BRGJpQ05KUWtxcUxvRG82TWVtUkXSAcABQVVfeXFMT2NFZnhTdjFHcFc4RldHcUViYVM4RXB3bGJqRkk4dm9LYWtiTEduUUdvS3FpT2NkaExJV1dkcm5HbjYxdXpUSnpQbklGbElueFNNZm1WY3NkSGVndkQzeHlxNUxzel9PX1BXX19rUkpxWHZCTHdpTk9ITEE4Uk54RWtaWDBXZXM1emhMVEo4TkFwaFgxckNkNHgzV3ZnejJMa01HTHcyTDIxX2RuS2NqdDVjZmVvZTZUR2ZnMEVQTUpQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 91,
+      "title": "Nasdaq futures tumble as Amazon, Intel results deepen AI spending woes - The Mighty 790 KFGO",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRWNsYjhmWXFqb1RZc0JWUzJXWHhNRWJkZUZpTGFoVXFzR3RvZGtMY2o2VXdDLVQ1c0FsaUhfaU8zSEpSalV6SHhQM1JWX2hzdXNNSW1SSXFyd3ZoaVFsM3p5R1FHb3lrc0tkbmNHQkttdVkzem5Ma3YwVnFxbU4tRExfdGtteTYzUnI2aUo4Ulo2UDJVUFlTajdCdmU2WUk?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 92,
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "OpenAI Blog"
+    },
+    {
+      "id": 93,
+      "title": "American billionaire Jeff Bezos’s Amazon tumbles 11% after hours as AI spending sends free cash flow negative - Billionaires.Africa",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeFF1OXllSUlvUDY4THdpWFFvUlNpUDdaNHdVcngxSFRxaDBuOXo1RUZpd2c4WUF6M1FyWDBrQlI5Ry1DZ2E0cTdPcXI2SzY5cC1aX1dCajdzMlhKdHhIeFc5YlltUXFueVFxMXg1MndKQkxia0xDMlRuVXhkTmlzWmVfR0ZVMGg4Z0RzVkpxU3p6VW00MHNPeDRlTmx2dURGX21nQUZGV2FWaU9mMEFVZ1JPcWpjOW94cWNNR3E5ZTVUOWJNalRXa0ZZTmZBNEQzWGVnNkVnRmpCZTJTZUp4cTVUQXdmZw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 94,
+      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1hMOFZzQ0lFZmg4ci0xdnpsVkJsU1hmVW5zSjltYWs2OXBWNHpUV2Q2OHVZLWFqQUNxTVo3a0IzdkM4UU40WDZKTDFWNUJLODNlaFFLMVNyWWpKLU5EcFFGMUlyRFdqcUpORzJrQ3NRVTg0TnVPRTN0XzQ2ZWZxUlM1bmZTUWs?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 95,
+      "title": "European shares dip as Amazon, Intel stoke AI cash-burn fears - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbG11TjJNTkhzOWsyamJJMU9VNlRZUmM5d09KcTZyU0pFTVB5NmlTdXRNRlNaY1NoQkFWREJFTTBPZV83aWpRYW1UVV9QZlFVQjJLVnBTX1VCYjBDSDhZZWVqT25XeE8ycWVtU0ZTR1pURF9HV1VIdFo5S1I5ZFdxSXFmOHRoNXI2bGR3WWVDcHV1ck9PQXFIMkE5MEp6dw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 96,
+      "title": "Nasdaq futures tumble as Amazon, Intel results deepen AI spending woes - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlp2a1FHZi1vNGtNRnR6M0l2cjYtLUc0dTFPRkswc0JDTDlUTHhGTXkwY0Uya0U2U19zc3FoYVczUDl3QkVJWE5tbmtsd2hiRzFBU1hwbWVjMnJ1TDlidXRpUHYxRE14YXI5RWNxdGs1RVdUeHZDMkI4YVNJQU14bEhxWVVybS1kWV9ZN04tdm9CR3BLMS1pbnczamo2Um8zOGJmWnYybVExbUFiaDM0Um4wY0hZSTc0UXhjaTIyWFdLMUY3Tm9PTlRDZnZEaGRiaU1xTnR3?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 97,
+      "title": "AI Bubble Burst: Confirmed By Alphabet, Caterpillar, ServiceNow, And Amazon - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTlM0SGF2ZjhJc0dWOEFPYmE0enZlSHZFTnp1WWc4ZWc1YUtWZktiUkNOTVhNZ0NIcHdsR0p2UU9LV1VGRG5tZWdMR0M2aHI4T3VINUV4b1NHZm5Xc1FjQlBqN3NwVUJCajRidFRFSlVhbG9vMlpCSE45Vko1ckFMZXhURWhEbFZzalpLRjY3TW13RGFYQmVrMmZBUkVCbGs1bWF0ejU5cG1RTEZR?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 98,
+      "title": "Watch Intel, Amazon Earnings Spark Tech Selloff as AI Fears Mount - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSjZWSmZaRXU0UEtQQWFYbnRVWV9kVHM1dXNUcy03b1ZYdy1MdTBsdUhPZ1ZBWHUxWjBlY21IdXFFSmY0RXRJRXdBdEdsM2UwVWFvOE5Cc3hJUGlGcFU3dWxVcXhPQ0dJZnl4bGFsZHlHV1A0Z01QRkJndGtCX3diNWw4TUtaNjdi?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 99,
+      "title": "Amazon falls 2%, Intel dives 29%, as tech stocks sell off in post-earnings rout - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUNkbFdtOFpFalJSNEk4SnFjbVI0c3ZzbjFvVU50WGpoZURxeURhajJET1RmQzVrcW8tbzJKMGpYRjhKTndfeVI4YnhaSV9NXzFHYlc0OEwtZVhOYTFNa3B4Wks3OGRxcmVBenA5MnI0LVdCQW5hYnBEMU5FVEN4ZVBUbUtiaGNGUmFrZERIcUYzZ9IBlwFBVV95cUxNYTZPZTVqb0NZbTNWc1VacjRLODhlUmpUekNhaUtlbkx2SkJXQ2VNbFdMSlNENUR5UXVtR0VTeUU1LUVSS09JY0NOVWhFWHE1RWVFeGpiLWF6b1VWWmp6QUdHZXJwX1NodjI1WFlSRTRmYWF2NEwyZlJxdWRVVlhjUFZLQWwweW5SOEdHcWVNTzhJRm5UY3ZR?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 100,
+      "title": "European shares dip as Amazon, Intel stoke AI cash-burn fears - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX3FGczdKa3FfUU5nUVlFV1MyeUVFbFlFUG1Xc0k4ZmRMbzNkTi0zX2hHMFVaZHBzT1B1Tm5rV0NWUmZpbEdXY09PdFQyRVhXc2NvYWs0WTBTaFRsbno5YlhGeFRKc2Q1VEdZeHlTMnBGa2ZMajE1VDUzQkxURzZkamtzX0dDZUNqNzZwTGlVbDFGV1NjOC10YU05bllQSm9qOXN3bzhFREcxa19UMTU3aHVDekJVa0U?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 101,
+      "title": "Stocktwits AI Roundup: Intel, Amazon, Alphabet Results Trigger Meltdown As Big Tech’s Record Spending Returns To Focus - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMThQRlY5ekM4R3I3ZzFwcXRNblFjbVI0MUFaX1phN2Y4THAxeXJSZi1PWjU1eUVtM0l3bUtCZDVxTDB1bU55ejJPMW03M3kxdTVsZ1B3aF9wcWcwTzdjdi0yUWZkeDE2MWJJdkdMQ0lmM1VDdzVoUjRpSUs3ZFM3YjByMVNMZjhwMDdLWUpqdmlSQ0dhQURsamRSWXVRUXp3?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 102,
+      "title": "Aeon steps up Physical AI logistics hub, cutting 39 workers a day - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXoyNzdlZS1lSHVEa0p0NW9UT01mUl91bHh6MmNOSWxvZmdzVk9USnBlcXJDVExsbXlya3N6SEIzSkZoQnpDVmJreVJwZUJBQy13UFFfaS1tQW9maWJLZjhnM3A2LUhvYnVLVlZTb1RvQ2NsbXdTSGdCblRtdjZvY29UTXh0YThwOE1zdDRNeHlBU2JYUmpFVmFWV2JINlVfdFNVWGdZdDJGbTVyUzBV?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 103,
+      "title": "Towns demand a say as Amazon seeks to launch drone deliveries - Sentinel and Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQzR1S2lqNV83U3BHdnV6TzRfWU5tZWlnYmkwRkFsZkhRVzZPVWdMbDh4TzJoM2R1LTlER3RTNWRlQ1YtQllyM1pWSTd4WDRKV29JV1pGTXp6TTdRdnVacExzRTgxYUJNOEN5bnhiVlhhNF9hek5YeHVGQzlkUVUtd3RVVnBYZldSRzVOWVUyYmlacUpxbWFOcXJXUDRtY0k2Z2hLZzRuVlUtb1VMQk95Mg?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 104,
+      "title": "Amazon Has Bigger Plans for AI Chips: Andy Jassy Says Customers Want Them ‘Outside’ AWS, but Selling Them Comes With a Trade-Off - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNC1NdTdmcmZaUFB4TmNZS2RsQmhiM0ZnRXVZN2xPSHV0RERIR3Z2S3VYVjlzQmZqaE9qZjFNMXVLVkhabWhzVDJIUlJOZG9BVXFERjg3THpzLTRCMjJKbW1kanEzRjZzMjZiNUhxRDFublUwbWZDMkxkLThoblZzcTdjQQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 105,
+      "title": "SK Hynix Holds First Partners Day in Japan, Cementing AI Memory Supply Chain Ties - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yRFJEM001Q0k0dm8zRlhEMzVSX19YNFlUVGtaTEFreWY4MUMtTmgyVlFERF9sMklsM3BHN0QzbDVxRjlmb3lWeTdEbzJwZnBpUzVsdV96c2I1WXVwR1ZjTGgzY0xkMnZ3eW9CcE83N1lrYmx3b2c?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 106,
+      "title": "SK hynix deepens Japan ties to align AI memory roadmap and supply chain - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XTVVzZEx1c0lPOThyMWdpTkJ6TFpJeF85anJWM3N0RnRIcktuU0pXWVR4dUlEMGY2VGdZbWtOUVBLOTgwQ2pyMzNUWjNQRUtUeTc0cG80QTZyQlZhQ3FRazFOSzZhTXhJR0Y0cXR2QlIydmhfQWhkanNn0gGOAUFVX3lxTE1ENlIxZHZ3dXE2SWdObFMxX2tsbk1ZU05peXZQT3FBYnJFSDFIUGNCS3VSREZEdHlMUkthSnlIVEUtNHRCejRIMGN4UlU2Xzd4WG5LN1Jkc3lmZmNFQW4xZkFlbTR5TVB5ZXZuUGFJRXA4UnQ5Q0FyYk5lUmw4TW1QMHdNSENxNnZhcHNKNGc?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 107,
+      "title": "Walmart and Symbotic ramp up automation and AI powered supply chain transformation push - Retail Technology Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzkwTVd5QnBUbUxmYU05anlCRXJqNERxeldIOE1LdkNGS3E5dmxGUDNIU054QkJJSTF6MWFjU194X0ZEcDZ5d3RiYVhQN3UxTlA3V1RPc3BPckZKNTNsOE1YVW0yNTg4dkhSb3NZd2xSTjVMRUhqWUd3UDVhNDExZWRqWm9FWEF2SUFXWmZPVFdHakc3U2ZSVjgwMTN2SVJuOWZPTXdXbU5yUlBtUjdhX3BFNnUyZ0RDVUN2NEtCUGdQQk1wYjdzS1R0NDBCcmxTYkJMRU1iQm1pdUk?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 108,
+      "title": "South Korea's Logistics Automation Race Shifts From Robot Count to AI-Driven Operations Optimization - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16YnRCWUFjaTJsaUZmelFodDRNVWdzTlRnQVlqTmxnbmdEcFNtZDl1dmNZSzQtNjlaZGxvVzVWZXpLRVRDd2x6aG5MVU5wM3JqQ0JOMVVUT2FEaE1NSURlVXFPY0ZUVy1COU5hWm82cUpqZ1N4R2c?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 109,
+      "title": "‘The Gang’s All Here’ in AI. Amazon, SpaceXSI & Nvidia. ARD #196 - AI: Reset to Zero",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSWZnOHdxeUQzTWpNbXVqbUZJcjZxTng0X1FQeWdHVHpZSkNqTGZaMzZ5OWM0M0hiSmV2RlJmbF9DekdSWnVmRjJSbTVxaEt1Yk0tX0VQaFZTWGVBRnNLSmRnSnA2c1VsekNqX2FQb0hBTUxxQ1BjcFZ1T18tOE1vbWY4MA?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 110,
+      "title": "AI: Apple CEO Ternus’ design & supply chain pragmatism in AI. AI-RTZ #1255 - AI: Reset to Zero",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41azZIT3Z1c2hiSXc2S3dLbnVjOFN5LUV1MWNJQ3h2QXNMY3FCdFp1Yzl2bHZQblRCUWdnWWNUOWFRUEdWMVgzZFF3NTZBWGs4ZTFGMnAzZmpMVV9tMm44MC1SR0NHZGVJUjFucVRZc1UwZUNHeTdYX1l0WFA5dUU?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 111,
+      "title": "SKUTOPIA expands in Victoria, bringing AI-powered logistics infrastructure to Australian businesses - Invest Victoria",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTjlCdjNTcktsal94NGRJdFdPdm9uRUlSb0dxOGtwT09SUFdSZ1h6Mk9jVHlxZGE2anpBYWtfNnRVSXFRNHJua2pGeVRxQjdFS3BGLUhNekkyNGFEV2JWRTdoSE41Z0o1TE01OGNVMGhFVWMtc1ExdW45bkFEMkZ1ZG43Vkd2b3pHWWwtNWxyckwwWXRrMVhUODV3SEtXZml2c0U1M3dwZ05DbFpydnE1bk1TU19mX3V1d0hiZkFERHZGVGY3dWlmVVBuRG9wemtOYzFsRmdNMDZ1TjNfME5lRjMwOHJySkJUSlFxcVRqNkpldw?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 112,
+      "title": "Amazon’s Ads nears $20 billion in Q3 as it bets on agentic AI to fuel further growth - Digiday",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNnZpaVlxNHdldkdwOHVPczVMZENMQzdTaEZaa2trN18yNU9pdkdLeTFYOHFUNzJBc2M4WGlGZ2lRXzY5WXQ4d2ZlTmJWNmZaUC12cXpiYmFfd2N3UzdSWVR3QkpyQ2ZRdTFnYjV4ZHpLR3htMzkwZTBYdEdIZVRnRjk5X3dtekVMenRucnlBSll1VUppYVJhUnMyNVVXY3htTHBzQm0ybzllSjFIU3ZVWmVYZWxzUjg?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 113,
+      "title": "FedEx Freight Has Mixed Results in First Earnings After Spinoff",
+      "url": "https://www.supplychainbrain.com/articles/45121-fedex-freight-has-mixed-results-in-first-earnings-after-spinoff",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 114,
+      "title": "Aurora’s Driverless Trucks on Pace for 2027 Expansion Target",
+      "url": "https://www.supplychainbrain.com/articles/45118-auroras-driverless-trucks-on-pace-for-2027-expansion-target",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 115,
+      "title": "Chip Crisis Puts Next Generation of Gaming Consoles to the Test",
+      "url": "https://www.supplychainbrain.com/articles/45117-chip-crisis-puts-next-generation-of-gaming-consoles-to-the-test",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 116,
+      "title": "Watch: What Importers Need to Know About the New Executive Order on Customs Enforcement",
+      "url": "https://www.supplychainbrain.com/articles/45116-watch-what-importers-need-to-know-about-the-new-executive-order-on-customs-enforcement",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 117,
+      "title": "Six Qualities That Matter When Hiring a Supply Chain Leader",
+      "url": "https://www.supplychainbrain.com/blogs/1-think-tank/post/44947-six-qualities-that-matter-when-hiring-a-supply-chain-leader",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 118,
+      "title": "Manufacturing’s Next Constraint Is Execution",
+      "url": "https://www.supplychainbrain.com/blogs/1-think-tank/post/44917-manufacturings-next-constraint-is-execution",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 119,
+      "title": "How Logistics Teams Can Reduce Manual Paperwork and Shipment Delays",
+      "url": "https://www.supplychainbrain.com/blogs/1-think-tank/post/44908-how-logistics-teams-can-reduce-manual-paperwork-and-shipment-delays",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 120,
+      "title": "Amazon Stock Takes a Beating, but Munster Sees AI Powerhouse, Jim Cramer Calls Earnings ‘Very, Very Good’ - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLXpjRFRLbHcteFpENjBSRGswVWhnYUNfUm9Cb0V2VnNFdzdXcHJvZEd5UGlqZjZzUnQyYmpPM3VUelp5aDVOWHpiNUN6UFNzWndaV05aLW1fNWdIX25LWHo0UFFQWkVDYVc0ejUtLU43czFOMFVtUzJJM0RZMVFXODJNZ21RNElWZUQ0amJQdllLVzV0Z2U1SzdGNHRqc1Vp?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 121,
+      "title": "Homewood addresses concerns over Amazon drone deliveries - HF Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0NzbW9kamFKNTFDRUVXeUtQUzRLUmlILWRGc3lVdTB2MVhXLS1XNU0tY3RNNmFldy1tdHpTSC1xT25HYTU1U1l6TG9WSzE3XzU2NDMwQjlvVXItWGY2TzZJOGNISDcxR2t0dE1YazdjMEV4OG4tV25kRG50cGNvSjNCV3hjU3kxdXByWjNTTEVpWHdOd2ZLVUtWZUM?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 122,
+      "title": "Amazon Free Cash Flow Hits -$42.4B, Intel Warns [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDFYQllIZDEtckNrTWJUakZqbmRFVU1oeFAxRF9zYzFSS2twZzJhazlQaTM2anRaelZNZ1RLbGYwb2JFMS1jb2tUVk5XbWstMGlhYmRhQXktcnJFWE9WZFBNVzdLLXRReEF6azVHNjlUeWRJd1lYLVE5UlV5SUFwb1U0UFo0aTUyM3BsNlZpR3FEMHE1aGc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 123,
+      "title": "Amazon Free Cash Flow -$42.4B, Intel PC Demand Slips [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNXQ2NDJxcWRlQ3lUVHJMRHRqdTFFbU5rWEdhRURRVU9JQWtHZldfclUtZVkybzIyQjFrNEM4Vkc1QW1wUkZRZWFnWU5KR1NEV2NubmJfN1hTMDFpSUVlS3hKdGRvblZqSDVJSEluWm9HbFROeHNLdVJZNi1wbkROMjJuVkpLZlJ3NWFiaThORUFMUQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 124,
+      "title": "Amazon and Intel results deepen worries over AI boom costs as tech, chip stocks slide - investingLive",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd1owc3FqZlZ5ZVp4dm1rTnhyTDhBS18taVFTdEhHWWtjXzdrSGxWT3pjRl9FYWhwSVd5VjlxRTI4RkF3TGJhaFM1Mzh3UWhONVRaekJraGE2ZUh0VEZXNU9LeFpzOU9jcS15SnBNUFkzeXlpUVg0X3I1YlNCV0Z4elJ3ekF3MU50bVg5ZDNXWUJPNUhjdEFuc1NMY0RhU1E0Yk8wbHBUYWtCWFNSaV9BcWFFQjhrZFpCU1E?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 125,
+      "title": "U.S. stock futures sink, Nasdaq down 2% as Amazon, Intel earnings underwhelm - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3BsVkRQZGpDVUx3bC1nOVUxZFVxcTdNdWk5ZHB6SFJpNjlRNjBoNUNFME9TUENNZXVNczFjeFNHM1c0Wloya2dXenBtSlNHRmV5QTc4bUxLaUJIeTc1ZjFBbFpUNHVUNXJOMl95M3QtZGxOcEpmYWJSczExdVNUeF9sOEhWTUlJMVFCOWhzVU9qcS10SkFF?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 126,
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 127,
+      "title": "Amazon Just Burned $42 Billion in Cash Chasing AI Growth. Is Wall Street Ignoring the Risk? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVUtvd2w2aEE3aG1EOEJHY0NuT2twRXV5NDVwYTU2S1JJd3o0WTNhV3J4REZzaGdUY2hpN3pVTXExT05JWTFOYXlNQjFWRkIxNEdCVkgyaVJyU3dSRVdBSFB6UWdvdUFpRUhYQ21NckJqbzdxYmQxaDBPdWMtUmxBWXg3S2RQM0xZOGZoZ2I3ODdLcWZRWmNqQ0NzenhncExraWZRU2Fsc1NaZ1FXOWQtU3NBVk1PU3I4S0NlcFpKVVkxbmt6WURRdzZhbkFBbnM?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 128,
+      "title": "Air Force Industry Day Targets AI-Assisted Munitions Supply Chain Capability - OrangeSlices AI",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGFYUjlGNFV3U1hmM0VFSEFlX21GU1VYMHpEdjFQUmV4OWVyVE8wamlTbE9PUHhlTjBwU3pjRGNjNF9EOHo4TUpVYU52ME9rampEUnJvMURLM25SSV9HRHBiSVhibU5EQlk3VDdsSlRWdlBDUGNFMjJnNnlCay0zVzUxNTZKdGVUT2xaMGp4LURaODlGbWFvMVZMZ3dZa290UHpOV1U1M1hHWXpBQzhZ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 129,
+      "title": "Amazon ad revenue climbs to $19.6 billion during Q3 - TheDesk.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwSl91Y3FGRXBLVHVUMHd5M0J5RGF6U3RRWGtUeHZzWm9DRVRzM3J5OHdFY2wtTW9Hbk5EQTg5TjF6QW9RUU5YZkJKTEl4ZnJEZmdnTEg5c2FhSXBIclBOY1k4djUyenlyOEJR?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 130,
+      "title": "FedEx Freight sees volumes stabilize, eyes Q4 margin improvement",
+      "url": "https://www.freightwaves.com/news/fedex-freight-sees-volumes-stabilize-eyes-q4-margin-improvement",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 131,
+      "title": "Amazon Just Burned $42 Billion in Cash Chasing AI Growth. Is Wall Street Ignoring the Risk? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSk90d3dGbWV5VkM0eG1LUkljTTNFaENwV3dOVlVFSnYxVnRFaG1mb0JLZFlGVE5jbVV4TDZUX2JKSjhKNVR1VHlLRVVrcjZ1aFg5S1o5TDVZWmZ2X3hsS0xNV01CWTBoT2phQ180RkoyVzBnWEZCMUQ1TDJaWm9YSVE0TS1qWWRrdjB0UGJRelk3V3kxNG82UA?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 132,
+      "title": "Amazon CEO says shopping agents like Meta’s Muse ‘not great’ - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTFORFVHY2I4aTBrZWVERkpsOTVEMVNqTEpWcUxvZWRKRWFmMGQ1TE51ZzZNTmN2aklNd0ladWs4RHVpdWl4YTE3eThRMHFTMk1RUTRnZV9qNWdBbGhaeG5EdXExY0FDZTVvZ2Z6RHlORzlRWDlUSTBXMy04eGQ3Qmc1aW1WaWlacVZOVFo5dGpGbUk?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 133,
+      "title": "News | Amazon boosts AI spending as cloud growth accelerates, concerning investors - CoStar",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHh6a3VyenVBNXVHcTFYZ2xqbFFmRGp1YS1BdG1OUkhJc3BFV25zaS01YTIyMTlyUHlhMnNDMmJMekxReUpGSDRJUmZGY3ZwVVVZRlladTZkTnAzRnhEVVp2RFoxTGtfQjliQUdyVGJWanRsX0tZZjhmTE94M1NRQ0VRUU4xOVhsWGdUbFNqVldfa29hZlkzczJBS0U?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 134,
+      "title": "Unrealized AI Investments Drag Amazon’s Income, But AWS And Ads Are Still Growing - AdExchanger",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0hMR3FlOVdiTmsxbGFVdGZCYXF0bldMelBKZS1HVGQyZ0JUOWpuaWYta0Riby16bkJESW1iMTVidkxEMXpDN2pQS3RrVGMzbUhmQ2gxaE1td1FfMFUyemJpRHFfTGluNjM4SUJabTVEZ2tJQzdMV2NsSTJST0NVX1NlNWwzN3pRdWJxMHAwWGtBaFliQ21QSTZsTUNvaENuZ2RHSXMtVFdjRHVfb3FjUEh4WGV4cjNBLUE?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 135,
+      "title": "Amazon’s $42.4 Billion Cash Burn Delivers Final Blow In a Rough Week For AI - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZkJ1ZjFTRDY2d2NpTVJwUGNIdHU3dnV0ZlgyZGJGejJkVjlDeE1RdnRIOW41c0RrbFBDZktUTUlsTzdURGd3VGd5azNaUWY4Zk1WQ2ZLZVg5cmFCTEpIMU1ZM0VOOUlqaGtrOFB2cGdORHd2REJsVFhUaklxWmwxbmM5OERUTlFhdFk4ZXRNWXZnUExIX0x3NnZBMWRDQmVNQjZSc3NlTQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 136,
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 137,
+      "title": "Amazon Puts a Million Robots Behind Its AI Ambitions - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOEhENDVRWWlGaXdyQV9tRDlSTks1dWJZenZCb1RPQ2tzMS1DRF9YbloxNm5XcG1LbnF3eGtrb3pTRUtfRTFRSm9HaUFPVFhraURUU1c5V1VKT0ZyYTNuN1IxWFFqWEY0Z0RIQVFkbWtVNUhla3NZeU9OeFkzbmE0aF85MlV3Yzg4elNvVzA4Nlp6SkFy?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 138,
+      "title": "Verisk expands insurance AI integrations with Microsoft Copilot, Amazon Quick and Claude - Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSlhPdnVuQWhFeHNBV1Zmc0J2MlFqM1lZWUZtU2lVb0hHbWpqVFpBZzdkZkFrTllObDV4WHptUG9PdVgxQTRNWW1IVWIwSzlBdWhQN2lrWU1FRnVFRUhFSXJNQjhmOFFNWGsyWHlaeTVCSFU0YmlyY05sbndEWEZfZENlcEN5YVpMVTNJMUFaUTV0ZkRudFV3UA?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 139,
+      "title": "Amazon CEO sees AI spending 'meaningfully' higher in 2027 - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNFNxbFBydktDRnRIeHh2MWdnd0ZkRS1sUnVoRmRHM19sY2lOOXdsR0RWakVPRV9DN05fOFRwcU00LTc0VlQ3cEdEcXZEcVJXRDVMV3JFYzZ5NTJqZHpXRFJSWHpfNnZlTi1PYk5POFJtWVNKb0JwdGVEeEw4UzRkOF8xMmZ5LW5sU2c?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 140,
+      "title": "Amazon battles freight inflation as shipping costs jump 11% in Q3",
+      "url": "https://www.freightwaves.com/news/amazon-battles-freight-inflation-as-shipping-costs-jump-11-in-q3",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 141,
+      "title": "Amazon sees AWS becoming a $1T business amid 'once-in-a-lifetime' AI opportunity (AMZN:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaDYzcjBiX3RWYmFDMzBKU0tsWEdGcHVETWdqaU9KamFjVzVDNWt5UFZIT0lNeXZ2aXdDTFAydW5YejdKNXVHd0o5VWVzazY0aDBmWFhzeV9KOXdseGNQSnh0RzRzNGVob01RdmxwakQ0dzlja3JTVm5JSi1lMjREUVEwSEVmSWhUdDdkazJNb3RnVkRYaUdBSkhrSkNBOG9FMXpQTV9HVkJUTi02MkRSeDVCd0ZRZw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 142,
+      "title": "Deepwater's Gene Munster talks how personal AI bots are impacting Amazon's business - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcTZhUXdwVnlTOGRDV29PaWgzTVJVVlhlaS0tR2lCTGk5cVRubEZtdHB4eE5WWHY5S0FyRUkwc0taNmhoVnpBQ05ZaHFxaFpvTlF5YWF2TERENG5qNUpqNWhSUHVya2J3WkpKejUtZk54OXNhU1FYMkxId2RaaUdZT0JVc08wcnhkVmVHZTZXOC1DZGNDZEVZR3FlUmN3elhWSzVHOVZrem1Tc2RsOGZNbERQMXlzTUFVMk1wRFNQMnFvUQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 143,
+      "title": "Amazon shares sink as spending on AI overshadows growth in cloud unit - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUEQwUTQ5aGxQU0huSXc2OUtuSko1VWZQQTZvVEhBQXdoME9tVkRnQUVmMTVadFNfdnp0MHc5N2lLazc4ZDIya1JKMlBYVHdOYjR0OFhINHc0RzVjVEdhRmY0cUd6UWEwd1pIdWZWdEl1QkpTZ01qaXV4dkNIVVM0NlRfNmgtR2FPTlVBaGJfVURCNU9FMjF2VHdDSGhIU0haRUlr?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 144,
+      "title": "First look: TFI Truckload sparkles, but OR at LTL slips",
+      "url": "https://www.freightwaves.com/news/first-look-tfi-truckload-sparkles-but-or-at-ltl-slips",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 145,
+      "title": "Amazon Third-Quarter Results Miss Views as AI Spending Drives Negative Cash Flow - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNzkzZEg2TmJ0cFNpQ2ZMSFV5WTF6RVFCSUJtS1IyWTQ1b2VIeFRnOWkxQ2duRE5WdGJWZXB0Yi1UOUw1anVKamlIbUNnZDNjT0QyZHJKRTQwbE5haTZNZXhBak1JSEwwUGhMQWx6VEZWMTRkbW1ScFVQTWI2RENMR3JGSVB5bzNiWUhJX2w3dHFYRjRWdWZGZDNYODNvZw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 146,
+      "title": "First look: Covenant Logistics’ Q3 freight revenue surges 68%",
+      "url": "https://www.freightwaves.com/news/first-look-covenant-logistics-q3-freight-revenue-surges-68",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 147,
+      "title": "Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXEzUmpkSHEwZWtxM2cwVjMwQkJXMVZqVUJrWk8xejY0TzkyZmtvN0E2Z3Q3MDJfNkRLOXRKUW5xR2QzLVM5WjQzSVp2OVBhQldOMVJKZkJ2ZC1qMm04dWFSVjExd1h2bXV2emx1dmkwTVFzT29DamloeVhPZUdwZEhuUmhvem92VG9MQzFIZU1ibDR1MWNaZ0o2ZVBOYzhodHdyQVY4T1U?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 148,
+      "title": "Industry Leaders Spotlight AI Supply Chain Innovations at AAPSCM - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDlLYzcwMG1rbktyQWo1NkxLNExidjNGX2RFLXdIVW1wUzN0cldsWlVtQ1N6cERaekhmOGdyY1M3V3lwNm9ySXpISUJIUUN1NlhfQW5acHhXR1VpYU1OSkVQLXdvY19WSzlxZkJIUTRabWtWSmVjQmRrN2xEMFFtYUZWd3JNYTEzSlRwT1pXSVRWaU0wbVZVUmZmbm9zVmhKdVYyUm1ZSnFhd2pLeVgySjFlZw?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 149,
+      "title": "White House makes Section 232 determination regarding foreign-made robots",
+      "url": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/",
+      "source": "The Robot Report"
+    },
+    {
+      "id": 150,
+      "title": "How transportation leaders are turning AI and connected data into a competitive edge",
+      "url": "https://www.freightwaves.com/news/how-transportation-leaders-are-turning-ai-and-connected-data-into-a-competitive-edge",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 151,
+      "title": "How transportation leaders are turning AI and connected data into a competitive edge - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSlhMS29TWXdIVm40aFRnYWdwVUk5c2JvNDREUVY4Q2JWN3J4dTRpLUNwVTJuNXg4akRzODZpN1NPS2hCOVJ2Y0FSdXFQMjVwdFRkeFRMSWRuT3Z3TG9QdG1FcFEtNFFKRDR2dWg0NmJZMlU2cjVCdVRkRnhkZ21rSTdPMGg0QTBzQ0hxNGttcWNBbWVCLUhuN1hvek1tS2pqWDZfN2hhNHk0S2xOaU9xZmNkaWpMTkRMQVE?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 152,
+      "title": "Amazon Adds 100-Plus Capabilities to Alexa for Shopping - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3o5ZWpRSnB5akp2SklKd3Zvd0dmVjlqMURES0dmYjNkOElGcjZEMm8yZVdEM19teGtqa0RxYkZQSjlpc3g1Vm13Y3g2SjJtaDdQZzdiTDVKNnFXenk3VW8wOFFDeWhJVVZLb2tmaEpTU1YtT0xWVjQ2MTZ2QUI5NTBrR1ZNTHJMZEZHdU9hWGUycl9sc2prYkxOSUZkVGI3bGJRSjJWWklfM091aUxNR0p2THVITlk?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 153,
+      "title": "Alphabet Failed Wall Street’s New AI Test. Amazon Takes It Tonight. - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV05XMU9ObGJhRTdxOHR3LXBmOVN2MU9ycUdQT0hGYk4yTFFvUkdCTUc3bVhPVGlkN29WVmxJWkxZQ3VtUWpCdHNKMDVTSk9YX1Q0aS1GLXJjMDRham1NRC1ETXBWekpoNVltcGRJdGRPWElWcEdjOVJYR2YxaWZXVmU5Nmcxd3F2QlJmZVM5VEs0OW5uVEhuS29rLTVfTnNRUXJhcXFyMFE3QXd1U3Q4?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 154,
+      "title": "The Warehouse Automation Prenup - Supply & Demand Chain Executive",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHJZY2t6MFZLSUk4eVlKMEVfS0VYUE9xNGNWLWF3SFkyNUIyWXRzSnBpV05mcXR5NzhyVW9wRnhrTTgyMnZzRHNaY3RXYy02cjdmS3M3Q2FKR2FYd2NXcTV4NzNER3lFRGt6Rk5NNVZEQ0xDRFdlOUhNNDE0RnNyOC1PeF9sUWx0R3VsX2hHZzJlNy1kUHdheXg1TF9CRmt0MVZKVDVHLWgwVEl0SGcycHFpQXk1Tzl5a0czUTJ2QQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 155,
+      "title": "Walmart commits $6 billion to expand Symbotic deal - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVkdYYzNfV2g3bkl0ZlhNWmtvNmRsYURGWmZfUkZ3M1JqaUgwVG16dkN0WVIxWTB1bUNzSXFvQkJ0MWVlZkNqZ0xjUkN5ZmxTS3gxcTlxV25ZSk5Ka2tYWEdCLUJnX3VBUHQ0ZllBTG91cXZ0NUJMN3JpQWVXOFJIN0hfY3JINlhpTnN5cHFzUFRyVkdObldoYQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 156,
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 157,
+      "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 158,
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 159,
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 160,
+      "title": "FedEx cashes in on premium logistics services, fuel surcharges",
+      "url": "https://www.freightwaves.com/news/fedex-cashes-in-on-premium-logistics-services-fuel-surcharges",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 161,
+      "title": "Saia’s expanded terminal network delivers record revenue, tonnage",
+      "url": "https://www.freightwaves.com/news/saias-expanded-terminal-network-delivers-record-revenue-tonnage",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 162,
+      "title": "2026 Robotics Handbook looks at humanoids, AI, and design choices",
+      "url": "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/",
+      "source": "The Robot Report"
+    },
+    {
+      "id": 163,
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 164,
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 165,
+      "title": "Why container rates are climbing despite cooling demand",
+      "url": "https://www.freightwaves.com/news/why-container-rates-are-climbing-despite-cooling-demand",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 166,
+      "title": "Ports of LA & Long Beach Face Loading Delays, Looming Strike",
+      "url": "https://www.supplychainbrain.com/articles/45119-ports-of-la-and-long-beach-face-loading-delays-looming-strike",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 167,
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 168,
+      "title": "Exotec: Scaling Warehouse Automation for Fulfilment Networks - Supply Chain Digital Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUHN0MzBpdmpVQkxqblRmWXFLXzBMNHQxb3VJX0ZQb0lYdm5rRDl4NDJIT2hFbkpXNTAzRFBuNWFRcDNmWXR2TWtqYXo3WmE1N0pPNmgwMGNvTXYxbGJEX1QzemUzMDVSZGk5bU9RVzBtbmhzc3Ztc3ZPQ1Z2V2NvWjdyZjF5RklCSHZ6YlRSQU5aX2ZiMEdqNnd3TQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 169,
+      "title": "Fresno carrier DTL to run 75 Kodiak driverless trucks",
+      "url": "https://www.freightwaves.com/news/kodiak-dtl-75-driverless-trucks",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 170,
+      "title": "One Camera, Four Sensors: AI Tracks Warehouse Packages in Real Time - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUW94RVJHNjZkcHFmUTR6Z2d2VFJrSVJWM3kzTkVhVjZBbHN2TzB3UGZLSS1hYmo3aU9DN3BZYlFSNGNlbENuSmhlNDMyd1RPMGNWLU5pQ1RQQ255ZkRHZ1l5cXhta2ZGZ2JUazZfLUVWYXAzRW1zUFdfMGliYjhpZ3p0eHZFZWVyWTVqdmlHM2RLOTVI?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 171,
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI Blog"
+    },
+    {
+      "id": 172,
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 173,
+      "title": "The 16th Asian Logistics, Maritime and Aviation Conference",
+      "url": "https://www.supplychainbrain.com/articles/45120-the-16th-asian-logistics-maritime-and-aviation-conference",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 174,
+      "title": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "source": "GitHub"
+    },
+    {
+      "id": 175,
+      "title": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "source": "GitHub"
+    },
+    {
+      "id": 176,
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "source": "GitHub"
+    },
+    {
+      "id": 177,
+      "title": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "source": "GitHub"
+    },
+    {
+      "id": 178,
+      "title": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "source": "GitHub"
+    },
+    {
+      "id": 179,
+      "title": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "source": "GitHub"
+    },
+    {
+      "id": 180,
+      "title": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "source": "GitHub"
+    },
+    {
+      "id": 181,
+      "title": "Leonxlnx/earshot",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "source": "GitHub"
+    },
+    {
+      "id": 182,
+      "title": "Polymarket got hacked",
+      "url": "https://twitter.com/PolymarketTrade/status/2115874609014726842",
+      "source": "Hacker News"
+    },
+    {
+      "id": 183,
+      "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+      "url": "https://github.com/lonthq/overtone-captions",
+      "source": "Hacker News"
+    },
+    {
+      "id": 184,
+      "title": "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+      "url": "https://www.youtube.com/watch?v=MENoB3Rex28",
+      "source": "Hacker News"
+    },
+    {
+      "id": 185,
+      "title": "Palantir shareholders want to know when they'll get their money back",
+      "url": "https://www.ft.com/content/fbca8eb0-76ef-4e0e-bcc9-c45c8f7d1311",
+      "source": "Hacker News"
+    },
+    {
+      "id": 186,
+      "title": "Post-training 4B model with RL to fly Tesla Roadster 21% better than GPT-6 Astra",
+      "url": "https://skypilot.ai/blog/flying-roadster-rl",
+      "source": "Hacker News"
+    },
+    {
+      "id": 187,
+      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+      "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 188,
+      "title": "Another Friday, another GitHub incident",
+      "url": "https://www.githubstatus.com/incidents/nxy2l0ssxm10",
+      "source": "Hacker News"
+    },
+    {
+      "id": 189,
+      "title": "Anthropic now lets Claude users jump out of plane without parachute",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807",
+      "source": "Hacker News"
+    },
+    {
+      "id": 190,
+      "title": "Alberta-made low-tech tractor getting attention worldwide",
+      "url": "https://www.cbc.ca/news/canada/calgary/ursa-ag-bowden-tractors-9.7399940",
+      "source": "Hacker News"
+    },
+    {
+      "id": 191,
+      "title": "GitHub Copilot Fusion orchestrates between models at half the cost",
+      "url": "https://twitter.com/ArtificialAnlys/status/2115477376981508419",
+      "source": "Hacker News"
+    },
+    {
+      "id": 192,
+      "title": "Alberta-made low-tech tractor getting attention worldwide",
+      "url": "https://www.cbc.ca/lite/story/9.7399940",
+      "source": "Hacker News"
+    },
+    {
+      "id": 193,
+      "title": "Organizing a kidnap using Apple's personal knowledge graph (and an LLM)",
+      "url": "https://8rank.ai/game/apple-intelligence-knowledge-graph-in-the-wrong-hands",
+      "source": "Hacker News"
+    },
+    {
+      "id": 194,
+      "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
+      "url": "https://judgementlabs.app/blog/the-coalition-room",
+      "source": "Hacker News"
+    },
+    {
+      "id": 195,
+      "title": "Show HN: Apgar – Catch agent regressions without an LLM judge",
+      "url": "https://github.com/oimo-ai/apgar",
+      "source": "Hacker News"
+    },
+    {
+      "id": 196,
+      "title": "Show HN: Academic Ancestry – See Who taught the people who taught you (Launch)",
+      "url": "https://academicancestry.org/",
+      "source": "Hacker News"
+    }
+  ]
+}
