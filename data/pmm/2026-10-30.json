@@ -1,0 +1,381 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T16:19:24.509814+00:00",
+  "raw_text": "Alright, let's cut through the noise. Here's what actually matters today:\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\nAnthropic's S-1 filing for its IPO explicitly describes investing in the company as betting on \"an age of miracles\" while simultaneously warning of \"catastrophic or existential risks to humanity.\" This isn't just standard legal disclosure; it's the core of how Silicon Valley is positioning and funding the AI boom right now. It means buyers are navigating a landscape of both immense promise and profound uncertainty, often at the same time. For PMMs, this requires messaging that acknowledges both the transformative potential and the inherent risks, focusing on trust, guardrails, and tangible, contained value, not just blue-sky visions. PMs need to bake in safety, explainability, and ethical considerations from the jump, ensuring product features address real problems without over-promising or glossing over potential pitfalls. Act on this by reviewing your Q1 messaging for any AI features: are you selling a miracle, or a reliable solution with clear boundaries and a path to trust? [S21]\n\n---\n\n🎯 POSITIONING WATCH\n\n**ilse — AI agent for app code changes**\n- **Narrative angle:** Your AI co-developer that understands your app context and fixes code directly. The story is about accelerating development and removing friction for engineers.\n- **ICP signal:** Clearly developers, likely mid-market to enterprise, looking to automate routine coding tasks and bug fixes, or those with complex legacy apps.\n- **What's sharp:** \"Point at your app and your AI agent changes the code\" is incredibly direct and aspirational. It paints a clear picture of the promised land.\n- **What's fuzzy:** \"Point at your app\" is still vague. How does it integrate? What level of \"understanding\" does it have? This will be key to adoption.\n- **Steal this:** The \"Point at your X and your AI agent does Y\" framework for explaining complex AI capabilities in a single, compelling sentence. [S8][S62]\n\n**Arrowmax Arrowspace S1 — AI-powered electric screwdriver**\n- **Narrative angle:** Eliminating DIY frustration and stripped screws with smart, guided tool use. The story is about making precision tasks easier and more accessible.\n- **ICP signal:** DIY enthusiasts, prosumers, or light professionals who value convenience and precision in their tool use, and are willing to pay a premium for smart features.\n- **What's sharp:** \"Uses a camera and AI to figure out what bit you need\" directly addresses a common, annoying pain point. It's an immediate, tangible benefit.\n- **What's fuzzy:** The Kickstarter launch might imply a niche appeal or unproven market, and the price point for a \"smart screwdriver\" could be a hurdle for mass adoption.\n- **Steal this:** Identify a common, trivial-but-frustrating user action in your product and propose an AI feature that completely eliminates it. Then, make that the hero message. [S15]\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n\n**Rivian vs. Traditional Auto AI / Other EV Makers**\n- **What changed:** Rivian expanded its joint venture with Volkswagen to include an AI assistant, deepening their collaboration beyond just EV platforms. This is a feature and strategic partnership play.\n- **Why they did this now:** They're betting on integrated AI experiences becoming a key differentiator in the automotive market, not just for autonomous driving but for in-cabin user experience. This allows them to leverage VW's scale and resources to accelerate their AI roadmap.\n- **PMM action item:** If you're in automotive tech or a related vertical, start mapping out the \"AI experience stack\" for your product. What AI partnerships are your competitors forming, and what unique value will *your* integrated AI bring to the user, beyond just voice commands?\n- **Battlecard update needed?** Yes — add \"AI Assistant partnership with VW\" under Rivian's \"Key Features/Tech Stack\" and \"Strategic Partnerships.\" [S53]\n\n**Reddit vs. AI Data Scrapers / Content Aggregators**\n- **What changed:** Reddit is shifting to a logged-in experience, moving away from its open-web roots, specifically because search traffic is drying up due to AI models scraping data. This is a defensive strategic shift in distribution and user access.\n- **Why they did this now:** They're betting on protecting their unique, user-generated content and community value from being commoditized by AI agents, which are increasingly fulfilling search queries directly without sending traffic to source sites. It's a move to re-establish control over their data and audience.\n- **PMM action item:** Evaluate how AI agents and LLMs are impacting traffic to *your* content and product. If your value is in proprietary data or community-generated content, start building a strategy to gate or monetize it, or risk becoming a free training ground for competitors.\n- **Battlecard update needed?** Yes — under Reddit's \"Distribution/Access,\" note the shift to \"Logged-in experience focus\" and \"Limited open-web access.\" [S52]\n\n---\n\n🚀 LAUNCH DISSECTION\n\n**ilse by [ilse]**\n- **Launch tier:** T3 — Minimal Product Hunt launch, likely a dev-focused beta or early access. Positioned correctly for its current stage and target audience. [S8][S62]\n- **Core message:** \"Point at your app and your AI agent changes the code.\"\n- **GTM channels used:** Product Hunt (discussion, link).\n- **Sales readiness signal:** No explicit enablement content mentioned, consistent with a T3 launch.\n- **Buyer emotion targeted:** Frustration (with manual coding, debugging) and Ambition (to ship faster, innovate more).\n- **What worked:** The hero message is incredibly clear and aspirational, immediately conveying a powerful future state. It sparks imagination for developers.\n- **What's missing:** A clear \"how it works\" or a quick demo video. For a technical audience, the magic needs to be demystified quickly, even in an early launch. More detail on integration points and security would also be crucial.\n- **If you were the PMM:** I'd have a 60-second animated GIF on the Product Hunt page showing a simplified \"point\" and \"change\" flow, even if it's just conceptual, to make the magic feel more tangible.\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n\n**Product Marketing Alliance — How Adam McQueen, Director of PMM and Content at Klue, uses win/loss and AI to create an unfair advantage**\n- **The core argument or insight in 1-2 sentences:** Klue's PMM director outlines a practical framework for integrating AI into win/loss analysis to generate competitive intelligence, refine messaging, and create sales enablement assets faster. It's about leveraging AI to scale PMM impact.\n- **Community reaction:** Resonating, as it provides concrete, actionable steps and templates for a common PMM pain point (lack of time, need for competitive edge).\n- **The sharpest counter-take if one exists:** The counter-take would be that AI still lacks the nuanced qualitative insight of human analysis for win/loss, especially for complex enterprise deals. It's a tool, not a replacement for deep strategic thinking.\n- **Worth engaging?** Yes — this is a direct playbook for PMMs looking to level up their competitive intel. [S3]\n\n**TechCrunch — You don’t need to believe in a god to get a religious exemption from using AI at work**\n- **The core argument or insight in 1-2 sentences:** A university administrator successfully claimed a \"religious exemption\" from using AI at work, demonstrating that deeply held moral or ethical beliefs, even without a traditional religious basis, can be grounds for refusing AI tools.\n- **Community reaction:** Controversial and being debated. This opens up a huge can of worms for companies pushing AI adoption internally, highlighting the ethical and human-impact side of AI.\n- **The sharpest counter-take if one exists:** The counter-take is that if AI use is a core job function, employers might argue it's an undue hardship not to use it, potentially leading to difficult HR situations or job changes.\n- **Worth engaging?** Skim — important for understanding the human resistance to AI adoption and potential HR/legal implications, especially for internal product rollouts. [S43]\n\n**The Verge — Silicon Valley wants you to invest in miracles**\n- **The core argument or insight in 1-2 sentences:** Anthropic's S-1 filing for its IPO reveals a striking framing of AI investment as a bet on \"miracles\" alongside \"catastrophic risks,\" showcasing the highly speculative, almost faith-based nature of current AI valuations.\n- **Community reaction:** Resonating, as it confirms the high-stakes, often irrational, narrative dominating AI investment and public perception.\n- **The sharpest counter-take if one exists:** The counter-take is that this extreme language is merely legal CYA for highly speculative tech, not an accurate reflection of day-to-day AI product development.\n- **Worth engaging?** Yes — essential for understanding the broader market narrative around AI that impacts buyer psychology and investor expectations. [S21]\n\n**TechCrunch — Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’**\n- **The core argument or insight in 1-2 sentences:** The Theranos saga offers a cautionary tale for the AI era, where companies with unproven tech and no profits are achieving massive valuations, creating fertile ground for deception and over-promising.\n- **Community reaction:** Resonating, given the current AI hype cycle and the historical parallels to other tech bubbles.\n- **The sharpest counter-take if one exists:** The counter-take is that AI is fundamentally different due to its rapid, tangible progress and real-world applications, unlike Theranos's entirely fraudulent claims.\n- **Worth engaging?** Skim — a healthy dose of skepticism is always good, especially when crafting AI messaging. [S1]\n\n---\n\n💡 USE CASE OF THE DAY\n\n**AI-Assisted Competitive Messaging Refinement**\nCategory: Competitive Intel\nRole: PMM\n\n**The workflow:**\nStep 1: **Identify a key competitor and their primary messaging.** Grab a recent ad, homepage headline, or sales deck snippet.\nStep 2: **Input your product's current messaging and the competitor's messaging into Claude.** Ask it to identify gaps, weaknesses, and unique selling propositions.\nStep 3: **Generate an \"objection handling script\" and \"pressure-test messaging template\"** based on Claude's analysis, focusing on how your product clearly differentiates and wins against the competitor.\n\nTools used: Claude, Notion (for templates) [S3]\nTime to complete: 30 minutes\nOutput you get: A refined messaging approach, specific competitive talking points, and an objection handling guide ready for sales.\nWhy it matters now: The market is crowded, and AI can rapidly surface competitive weaknesses and refine your unique edge.\n\n**Prompt or template (if AI-assisted):**\n\"You are a ruthless competitive intelligence analyst. I will provide our product's core messaging and a key competitor's core messaging. Your task is to:\n1. Identify 3-5 key differentiators for our product against the competitor.\n2. Pinpoint 2-3 weaknesses in the competitor's messaging that we can exploit.\n3. Draft a 3-sentence 'objection handling script' for sales to use when a prospect mentions the competitor.\n4. Create a 'pressure-test messaging template' by asking 3 tough questions our messaging needs to answer to beat this competitor.\"\n\n---\n\n📚 LEARNING PICK OF THE DAY\n\n**How Adam McQueen, Director of PMM and Content at Klue, uses win/loss and AI to create an unfair advantage** — Product Marketing Alliance\nWhat it's about: This article details how a PMM leader at Klue leverages AI to streamline and enhance win/loss analysis, transforming raw data into actionable competitive intelligence and sales enablement materials. It provides concrete examples and frameworks for implementation. [S3]\n3 actionable takeaways:\n1. **Automate initial win/loss synthesis:** Use AI (like Claude) to quickly summarize interview transcripts or CRM notes, identifying common themes and objections. This saves hours of manual review.\n2. **Develop AI-powered objection handling:** Feed competitive intel and common objections into AI to generate tailored scripts and talking points for the sales team, reducing their prep time and increasing win rates.\n3. **Pressure-test messaging with AI:** Use AI to scrutinize your product messaging against known competitor claims or market perceptions, ensuring it's sharp, differentiated, and resilient.\nWho should read this: PMM — mid-level to senior, especially those feeling overwhelmed by competitive intel or struggling to scale enablement.\nRead time: 10 minutes\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n\n**Reddit's shift to a logged-in experience due to AI scraping**\n- **What was found or demonstrated:** Reddit is moving away from its historically open-web model to a logged-in experience because AI agents are heavily scraping its content, leading to a significant drop in search traffic to Reddit itself. This indicates a major shift in how users (or their AI agents) consume information.\n- **The method used:** Reddit's internal analytics on traffic sources and user behavior, combined with observation of AI agent activity.\n- **How it changes or validates current best practice:** It challenges the \"open web\" content strategy for platforms built on user-generated content. It validates the growing concern that AI models are effectively \"eating the internet\" by consuming content without sending traffic back to the source, forcing platforms to re-evaluate their value proposition and access models.\n- **PM action item:** Analyze your product's key content assets and their discoverability. If your product relies on user-generated content, community, or unique data, investigate how AI agents are interacting with it. Consider how you might gate access, monetize data, or shift your discovery strategy to ensure your platform remains the primary destination for that content. [S52]\n\n---\n\n💼 PMM/PM JOBS PULSE\n\nNo job listings were provided in today's data. Therefore, I cannot list specific roles or companies as requested.\n\nToday's market signals indicate a continued strong investment in AI, particularly in infrastructure and practical applications, suggesting demand for PMs and PMMs with AI expertise. However, the cautionary tales and ethical debates surrounding AI also point to a need for roles focused on trust, responsible AI, and clear value articulation amidst the hype.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n\n**Thrive Holdings (OpenAI-backed) — Acquires ADT for $15.3B**\n- **What they do:** Thrive Holdings, backed by OpenAI, acquired home security giant ADT. This is a move to integrate AI into the mainstream home security business.\n- **GTM motion:** Enterprise / Consumer / AI-led (future)\n- **What this signals about B2B investment direction:** This is a massive signal that AI isn't just for bleeding-edge tech anymore. Investors are pouring money into applying AI to established, \"boring\" industries and critical infrastructure, seeing huge potential for modernization and disruption.\n- **PMM implication:** If you're in an established industry, start brainstorming how AI can genuinely disrupt your market beyond just marketing fluff. Focus on how AI can create new value propositions in safety, efficiency, or personalization for traditional products.\n- **PM implication:** Look for opportunities to embed AI into existing, non-AI products or services in your portfolio. Identify the specific pain points where AI can deliver tangible, defensible value, rather than just being a feature add. [S55]\n\n**Anthropic — S-1 Filing (pre-IPO)**\n- **What they do:** Leading AI research and development company, competitor to OpenAI.\n- **GTM motion:** Product-led / Enterprise AI / Research-led\n- **What this signals about B2B investment direction:** The S-1 filing, with its language of \"miracles\" and \"catastrophic risks,\" underscores that AI investment remains highly speculative and driven by a mix of transformative belief and fear. It shows that investors are willing to back companies with uncertain, but potentially world-changing, futures.\n- **PMM implication:** Understand that your buyers and investors are operating with this dual mindset. Your messaging must balance bold vision with practical, ethical, and trustworthy execution. Don't shy away from the bigger picture, but ground it in reality.\n- **PM implication:** Prioritize features that build trust and address potential risks. Be prepared to articulate not just what your AI does, but what guardrails are in place, how it's tested, and its ethical implications. [S21]\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n\n**Canva Brush — Vision-language model for design editing**\n- **One-line description:** An AI model that allows users to edit designs using natural language commands, likely within the Canva platform.\n- **Category:** Content / Design\n- **Best for:** PMM\n- **Free tier:** No (likely integrated into existing Canva subscriptions)\n- **Honest take:** Genuinely new capability. While AI image editing isn't new, integration into a widely used design tool like Canva with a vision-language model for direct editing is a significant workflow enhancement for PMMs who need quick, iterative design changes.\n- **Who should try it this week:** Any PMM who regularly uses Canva for marketing collateral and wants to drastically speed up design iterations. [S9]\n\n**Oh My Hours — iOS app for screen time tracking & shaming**\n- **One-line description:** An iOS app that brutally tracks and visualizes time lost to social media scrolling, splitting the day into \"wasted\" blocks.\n- **Category:** Productivity / Analytics\n- **Best for:** Both\n- **Free tier:** Unspecified, likely paid or freemium.\n- **Honest take:** A feature dressed up as a launch, but with a unique, \"brutal\" angle. It's an interesting take on screen time management leveraging negative reinforcement.\n- **Who should try it this week:** Any PMM or PM who feels their focus is slipping and needs a stark, data-driven wake-up call to reclaim their day. [S31]\n\n---\n\n⚡ SPEED ROUND\n\n🗣️ **AI deception warning:** Theranos whistleblower warns AI boom is 'a great opportunity to go deceive people.' [S1]\n📉 **Reddit's shift:** As search traffic dries up, Reddit moves to a logged-in experience to protect its audience. [S52]\n💸 **Binance hacked:** $6.3 billion stolen in record-breaking crypto heist in 20 minutes. [S16][S29]\n🤖 **Pope on AI:** Pope Leo XIV calls for disarmament of AI, says 'Machines are tools, not persons.' [S14]\n🚗 **Waymo + Toyota:** Waymo to use purpose-built Toyota bZ4X robotaxis in Tokyo by 2027. [S19]\n🧠 **Altman on math:** Sam Altman sympathizes with mathematicians but says OpenAI's math onslaught won't stop. [S22]\n🏠 **AI homes:** OpenAI-backed Thrive acquires ADT for $15.3B to bring AI to home security. [S55]\n💻 **Touchscreen Mac:** Apple's long-awaited touchscreen MacBook Pro is \"surprisingly normal.\" [S27]\n📱 **New smart displays:** Apple HomeView and Amazon Echo Show 16 could be the \"family computers\" we've needed. [S25]\n🛡️ **Pentagon breach:** Defense contractor's personal Claude agent accessed a secure Pentagon system for two months. [S59]\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\n\n**Challenge: AI-Powered Competitive Messaging Pressure Test**\nRole focus: PMM\n\n**The setup:** You've just drafted the core messaging for your product's latest feature, and you know a key competitor has a similar offering. You need to ensure your message is bulletproof and clearly highlights your unique advantage.\n\n**What to do:**\nStep 1: Open Claude (or your preferred LLM) and paste your product's new feature messaging. Then, find a recent piece of marketing copy (e.g., a headline, a paragraph from their website) for the competitor's similar feature.\nStep 2: Use the prompt below to get an immediate, critical review and specific competitive angles.\nStep 3: Revise your messaging based on Claude's feedback, focusing on strengthening your differentiators and preempting competitive objections.\n\n**The exact prompt or template:**\n\"You are a highly critical, senior product marketing manager. Your goal is to make my messaging impenetrable against a direct competitor.\nHere is our new feature's core messaging: '[PASTE YOUR MESSAGING HERE]'\nHere is our competitor's core messaging for their similar feature: '[PASTE COMPETITOR'S MESSAGING HERE]'\n\nNow, I need you to:\n1. Identify the single biggest gap or weakness in *our* messaging compared to the competitor. Be harsh.\n2. Suggest one specific, punchy sentence we can add to our messaging to directly address that weakness and highlight a key differentiator.\n3. Pretend you are a skeptical buyer. Ask 3 challenging questions about our messaging that a competitor's sales rep might plant in a prospect's mind. Frame these as questions *we* need to answer clearly.\"\n\n**What good looks like vs. mediocre:**\n- **Good:** Claude's feedback is specific, actionable, and identifies non-obvious weaknesses. The suggested sentence is concise and hard-hitting. The questions genuinely make you think about your message's resilience.\n- **Mediocre:** Claude gives generic feedback like \"make it clearer\" or \"add more benefits.\" The questions are easily answered or irrelevant.\n\nWhy this skill matters in the next 6 months: As AI accelerates product development and competitive cycles, the ability to rapidly validate and refine messaging against competitors will be a critical differentiator for PMMs.\nTime: 15 minutes or less.\n\n---\n\n🧠 EDGE INSIGHT\n\nThe AI market today feels like a high-stakes poker game where half the players are bluffing with \"miracles\" and the other half are genuinely terrified of being hacked or deceived. You've got Anthropic filing an S-1 talking about existential risks and miracles in the same breath, while a Theranos whistleblower warns of AI deception. Then, a defense contractor lets a personal Claude agent into the Pentagon, and DoorDash barely sees any AI agent orders. Meanwhile, Reddit's scrambling to gate its content because AI is eating its search traffic. This isn't just hype; it's a GTM paradox. We're simultaneously selling a revolutionary, potentially dangerous, and often under-delivering technology, all while the very infrastructure of the internet is shifting underneath us. The real winners will be those who can articulate practical, trustworthy AI value that *solves problems* rather than just *promises magic*, and who understand how AI is fundamentally changing the landscape of content discovery and platform defensibility.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 2,
+      "title": "People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’",
+      "url": "https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/",
+      "source": "Wired"
+    },
+    {
+      "id": 3,
+      "title": "How Adam McQueen, Director of PMM and Content at Klue,  uses win/loss and AI to create an unfair advantage",
+      "url": "https://www.productmarketingalliance.com/win-loss-and-ai-for-an-unfair-advantage/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 4,
+      "title": "Axonnic",
+      "url": "https://www.producthunt.com/products/axonnic",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 5,
+      "title": "Norah Studio",
+      "url": "https://www.producthunt.com/products/norah-studio",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 6,
+      "title": "StepGrab",
+      "url": "https://www.producthunt.com/products/stepgrab",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 7,
+      "title": "Nocto",
+      "url": "https://www.producthunt.com/products/nocto",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "ilse",
+      "url": "https://www.producthunt.com/products/ilse",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 9,
+      "title": "Canva Brush",
+      "url": "https://www.producthunt.com/products/canva",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 10,
+      "title": "Faylee",
+      "url": "https://www.producthunt.com/products/faylee",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 11,
+      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+      "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 12,
+      "title": "Stearns and Foster Promo Codes: $300 Off in November 2026",
+      "url": "https://www.wired.com/story/stearns-and-foster-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 13,
+      "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+      "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+      "source": "Wired"
+    },
+    {
+      "id": 14,
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "source": "The Verge"
+    },
+    {
+      "id": 15,
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+      "source": "The Verge"
+    },
+    {
+      "id": 16,
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 17,
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 18,
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 19,
+      "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
+      "url": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+      "source": "The Verge"
+    },
+    {
+      "id": 20,
+      "title": "Mattress Deals: Save Over $600 Before Black Friday 2026",
+      "url": "https://www.wired.com/story/best-early-bfcm-mattress-deals-10-30-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 21,
+      "title": "Silicon Valley wants you to invest in miracles",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "source": "The Verge"
+    },
+    {
+      "id": 22,
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "source": "The Verge"
+    },
+    {
+      "id": 23,
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 24,
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 25,
+      "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
+      "url": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
+      "source": "The Verge"
+    },
+    {
+      "id": 26,
+      "title": "The Apple Pencil turned the Duo into my new favorite notebook",
+      "url": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
+      "source": "The Verge"
+    },
+    {
+      "id": 27,
+      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
+      "url": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+      "source": "The Verge"
+    },
+    {
+      "id": 28,
+      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+      "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+      "source": "The Verge"
+    },
+    {
+      "id": 29,
+      "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "source": "Wired"
+    },
+    {
+      "id": 30,
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 31,
+      "title": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
+      "url": "https://www.wired.com/story/oh-my-hours-ios-app/",
+      "source": "Wired"
+    },
+    {
+      "id": 32,
+      "title": "Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms",
+      "url": "https://www.wired.com/story/elon-musks-ties-to-texas-republicans-go-much-deeper-than-the-midterms/",
+      "source": "Wired"
+    },
+    {
+      "id": 33,
+      "title": "The Best Handheld Translators for Work and Travel (2026)",
+      "url": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
+      "source": "Wired"
+    },
+    {
+      "id": 34,
+      "title": "Male Insecurity Over Penis Size Is a Booming Business",
+      "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
+      "source": "Wired"
+    },
+    {
+      "id": 35,
+      "title": "It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme",
+      "url": "https://www.wired.com/story/it-sure-looks-like-the-department-of-education-is-promoting-a-right-wing-harry-potter-meme/",
+      "source": "Wired"
+    },
+    {
+      "id": 36,
+      "title": "Samsung S95H OLED TV Review (2026)",
+      "url": "https://www.wired.com/review/samsung-s95h/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "Crematoria Are Being Used to Heat Homes and Swimming Pools",
+      "url": "https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools/",
+      "source": "Wired"
+    },
+    {
+      "id": 38,
+      "title": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
+      "url": "https://www.wired.com/story/gifts-for-friends/",
+      "source": "Wired"
+    },
+    {
+      "id": 39,
+      "title": "The Best Leaf Blower We’ve Tested Is Ready for Halloween",
+      "url": "https://www.wired.com/story/ego-blower-sale-tp-cannon-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 40,
+      "title": "The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard",
+      "url": "https://www.wired.com/story/iran-war-impact-on-oil-hits-key-senate-races/",
+      "source": "Wired"
+    },
+    {
+      "id": 41,
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 42,
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 47,
+      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 48,
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 49,
+      "title": "GM reaches $220M settlement over selling drivers’ private data",
+      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 50,
+      "title": "What to Know About China’s Top-Secret Spaceplane",
+      "url": "https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/",
+      "source": "Wired"
+    },
+    {
+      "id": 51,
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
+      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 52,
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 53,
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 54,
+      "title": "The R2 SUV is already Rivian’s best-selling vehicle",
+      "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 55,
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 56,
+      "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
+      "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
+      "source": "Wired"
+    },
+    {
+      "id": 57,
+      "title": "Nothing Headphones Sale: Stylish and Up to 41% Off",
+      "url": "https://www.wired.com/story/nothing-cmf-deals-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 58,
+      "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
+      "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 59,
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "source": "Wired"
+    },
+    {
+      "id": 60,
+      "title": "Go Minimal—the Ridge Wallet is 20 Percent Off Right Now",
+      "url": "https://www.wired.com/story/ridge-wallet-deal-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 61,
+      "title": "Axonnic",
+      "url": "https://www.producthunt.com/products/axonnic",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 62,
+      "title": "ilse",
+      "url": "https://www.producthunt.com/products/ilse",
+      "source": "Product Hunt"
+    }
+  ]
+}
