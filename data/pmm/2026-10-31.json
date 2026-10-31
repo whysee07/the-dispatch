@@ -1,0 +1,327 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T15:32:13.009241+00:00",
+  "raw_text": "Here’s what’s up. Grab a coffee, this is a busy one.\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\nThe biggest AI players — OpenAI, Google, Microsoft, and Anthropic — are backing a new standard for publishers to opt out of AI scraping. This isn't just about copyright; it’s a direct response to the market's demand for more control over data used for AI training. Most people are missing that this signals a maturing content ecosystem where data providers are gaining leverage against LLM developers. For PMMs, this means auditing your content strategy for AI-readiness and understanding how your competitive intel might be impacted. For PMs, it means evaluating if your product relies on scraped data and planning for future compliance or alternative data sources. The one thing to act on is to understand the technical implications of this \"policy token\" in `robots.txt` and start evaluating how it impacts your content and data strategy over the next month. [S41]\n\n---\n\n🎯 POSITIONING WATCH\n**Godwit** — An open-source, AI-native email client [S4][S49]\n- **Narrative angle:** They're selling a vision of a smarter, more efficient inbox, powered by AI, but with the transparency and control of open-source. This is for the \"prosumer\" or developer who values both cutting-edge tech and privacy.\n- **ICP signal:** \"AI-native email client\" and \"open-source\" screams developers, power users, and small teams who are early adopters of AI tools and wary of closed ecosystems.\n- **What's sharp:** The \"AI-native\" hook is strong and positions them beyond just \"email with AI features.\" Open-source is a smart trust play.\n- **What's fuzzy:** \"AI-native\" is still pretty vague. What *specifically* does it do that other AI-enhanced email clients don't? The launch doesn't clarify use cases beyond general smartness.\n- **Steal this:** If your product has an AI component, don't just say \"AI-powered.\" Try \"AI-native\" or \"built for AI\" to convey a deeper integration and strategic advantage.\n\n**Pluto Door** — SSH client with an AI agent and a desktop for every server [S6][S50]\n- **Narrative angle:** This is about making server management less tedious and more intelligent for developers and sysadmins, reducing friction and cognitive load. The AI agent acts as a smart co-pilot.\n- **ICP signal:** Clearly targeting developers, DevOps engineers, and anyone who regularly interacts with SSH and manages multiple servers. The \"desktop for every server\" hints at visual management.\n- **What's sharp:** The \"AI agent\" paired with \"desktop for every server\" is a compelling, visual, and productivity-focused value proposition. It implies a significant upgrade over traditional SSH.\n- **What's fuzzy:** \"AI agent\" can mean anything from a glorified chatbot to genuine automation. Specific examples of what the agent *does* would make it clearer.\n- **Steal this:** When launching an AI feature for a technical audience, pair the AI with a concrete, tangible benefit or visual metaphor (like \"desktop for every server\") to make it resonate.\n\n**Agnos** — Clean documents for AI, and see what was removed [S7][S51]\n- **Narrative angle:** Solving the messy data problem for AI applications, promising cleaner, more accurate AI outputs by starting with better inputs. It's about data hygiene and trust in AI.\n- **ICP signal:** AI developers, data scientists, anyone building or deploying LLMs who understands the \"garbage in, garbage out\" problem with AI. \"See what was removed\" targets transparency needs.\n- **What's sharp:** The focus on \"clean documents FOR AI\" clearly articulates a specific, high-value problem. The transparency feature (\"see what was removed\") builds trust, which is critical for AI tools.\n- **What's fuzzy:** How does it actually \"clean\" documents? Is it just redaction, formatting, or something more intelligent? The mechanism is unclear from the one-liner.\n- **Steal this:** Frame your product around the *upstream* problem that impacts a high-value *downstream* outcome. \"Clean documents\" isn't sexy, but \"clean documents FOR AI\" directly links to better AI performance.\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n**Salesforce** vs **AI Logistics Startups** [S28]\n- **What changed:** Salesforce acquired Rune, a defense tech AI logistics startup, for a reported $375M. This bolsters their Missionforce defense platform.\n- **Why they did this now:** Salesforce is betting on the verticalization of AI and the defense sector as a high-value, high-growth market. They're also likely feeling pressure to integrate more specific, domain-expert AI capabilities rather than just generic LLM features. It’s a classic buy-vs-build decision to accelerate market entry and expertise.\n- **PMM action item:** If you're in B2B AI, especially in a niche or vertical, track Salesforce's moves closely. Understand their current platform gaps and identify if your product solves a similar problem for a different vertical they might acquire next. Start building a \"why us over a platform play\" narrative now.\n- **Battlecard update needed?** Yes. Add Salesforce Missionforce (with Rune's capabilities) as a major competitor for any AI logistics or defense tech play. Highlight their deep pockets and platform integration as strengths, and potential lack of vertical focus/agility as a weakness.\n\n**Ollie** vs **The AI Assistant Market** [S29]\n- **What changed:** Ollie, a privacy-focused AI assistant, is shutting down after failing to gain traction in a crowded market.\n- **Why they did this now:** The market for AI assistants is consolidating fast. Being \"privacy-focused\" wasn't enough to differentiate or drive adoption against larger, more generalist players with massive resources and existing user bases. It's a bet on scale and feature breadth over niche positioning.\n- **PMM action item:** If you're in the AI assistant or broader AI product space, deeply interrogate your core differentiator. Is \"privacy\" enough? Or \"open-source\"? You need to pair it with a tangible, unique value proposition that solves a critical, specific problem, not just a general good. Learn from Ollie's struggle.\n- **Battlecard update needed?** No. This is a market signal about consolidation and the difficulty of niche AI plays, not a direct competitive feature change.\n\n---\n\n🚀 LAUNCH DISSECTION\n**Godwit** by **Product Hunt** [S4][S49]\n- **Launch tier:** T3 — This feels like a soft launch for an open-source project, primarily to the Product Hunt community for early feedback and visibility. It's positioned appropriately given its early stage.\n- **Core message:** \"An open-source, AI-native email client.\" Straightforward, highlights the two key differentiators.\n- **GTM channels used:** Product Hunt, implicit community (via open-source). No explicit mention of press, social, email, in-product, partner, influencer, or paid.\n- **Sales readiness signal:** No. As an open-source project, \"sales readiness\" isn't the immediate goal, but there's no mention of documentation, tutorials, or community support beyond a discussion link.\n- **Buyer emotion targeted:** Ambition (to be more productive with AI), Frustration (with existing email clients), and perhaps Belonging (to the open-source community).\n- **What worked:** The clear, concise core message stating both \"AI-native\" and \"open-source\" immediately communicates its niche and appeal to a specific audience.\n- **What's missing:** Specific use cases or a \"hero feature\" that demonstrates the \"AI-native\" aspect beyond just a buzzword. What does it *do* that’s genuinely new? A quick demo video would have been huge.\n- **If you were the PMM:** I'd launch with 3-5 concrete, AI-powered workflows (e.g., \"AI summarizes this thread,\" \"AI drafts a polite decline,\" \"AI categorizes this spam\") and a short video showing them in action.\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n**TechCrunch** — **Cracks are emerging in the AI spending boom** [S37]\n- **The core argument or insight:** Despite massive investment, signs of strain are appearing in the AI sector, with mounting debt and investor skepticism raising questions about sustainability. It's not all sunshine and unicorn dust.\n- **Community reaction:** Likely resonating with those who've seen internal AI projects struggle to deliver ROI or who are pushing back against \"AI washing\" in product roadmaps.\n- **The sharpest counter-take:** This is just a natural market correction after rapid expansion; the underlying technology and long-term potential remain undeniable. Early adoption always has bumps.\n- **Worth engaging?** Yes — this directly impacts budgeting, strategic planning, and how you position AI features. Get smart on the macro trends.\n\n**The Verge** — **The biggest names in AI are backing a new way to opt out of scraping** [S41]\n- **The core argument or insight:** Major AI companies are standardizing a \"policy token\" in `robots.txt` for publishers to control how their content is used for AI training.\n- **Community reaction:** Resonating, especially for PMMs and content strategists. It's a huge win for content creators and a necessary step for data governance.\n- **The sharpest counter-take:** This is a superficial gesture; true control requires more granular permissions and enforcement mechanisms beyond a simple `robots.txt` entry.\n- **Worth engaging?** Yes — this is a critical development for content strategy, SEO, and legal/compliance. Understand it and act on it.\n\n**The Verge** — **Sam Altman says it’s better for RAM to be in a data center than on your desk** [S39]\n- **The core argument or insight:** Altman believes RAM should be centralized in data centers for global allocation efficiency, rather than distributed in personal devices for local inference.\n- **Community reaction:** Controversial. Developers and privacy advocates will push back, arguing for local control and edge computing benefits. Others might agree on efficiency for large models.\n- **The sharpest counter-take:** Decentralized local inference is crucial for privacy, low latency, and reducing reliance on large cloud providers, especially for sensitive data or offline use cases.\n- **Worth engaging?** Skim — interesting thought experiment for the future of computing, but likely not an immediate action item for most PMMs/PMs unless you're building edge AI solutions.\n\n**TechCrunch** — **Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’** [S47]\n- **The core argument or insight:** The rapid, speculative growth of AI companies, often without clear profitability, creates an environment ripe for deception, echoing the Theranos scandal.\n- **Community reaction:** Resonating, particularly among those with a healthy skepticism towards hype cycles and inflated valuations. It's a stark reminder of past failures.\n- **The sharpest counter-take:** AI's foundational technology is fundamentally different and more robust than Theranos's claims; the potential for real value creation is immense despite some bad actors.\n- **Worth engaging?** Yes — a crucial perspective for PMs evaluating product claims and PMMs crafting honest, defensible messaging. Don't fall for the hype.\n\n---\n\n💡 USE CASE OF THE DAY\n**AI-Ready Content Audit & Prep**\nCategory: Content\nRole: PMM\n\n**The workflow:**\nStep 1: **Identify high-value content assets.** Compile a list of your most important whitepapers, case studies, blog posts, and product documentation. [S7][S41]\nStep 2: **Run a \"clean for AI\" pass.** Use a tool like Agnos (or simulate its function) to identify and remove sensitive data, irrelevant boilerplate, or structural inconsistencies that could confuse an LLM. Pay attention to how the new AI scraping opt-out standard might affect your content's future use. [S7][S41]\nStep 3: **Generate AI-optimized summaries/tags.** Create concise summaries and relevant tags for each cleaned document, explicitly designed for retrieval by internal or external AI systems.\n\n**Tools used:** Agnos (or similar data cleaning tools), Notion/Confluence (for content inventory), Claude/Gemma (for summary generation). [S7][S43][S46]\n**Time to complete:** 3-5 hours for a small batch of 10-20 documents.\n**Output you get:** A set of \"AI-clean\" content assets with metadata, ready for internal RAG systems, external AI training (if opted in), or improved search.\n**Why it matters now:** With AI scraping standards emerging and AI tools consuming more content, ensuring your content is optimized and safe for AI interaction is critical for future discoverability and data governance. [S41]\n\n**Prompt or template (if AI-assisted):**\n\"Analyze the following document for clarity, conciseness, and suitability for AI training. Identify and suggest removal of any personally identifiable information, redundant phrases, or formatting issues that might confuse an LLM. Then, provide a 3-sentence summary and 5 keywords optimized for AI retrieval. Document: [Paste Content Here]\"\n\n---\n\n📚 LEARNING PICK OF THE DAY\n**Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’** — **TechCrunch** [S47]\n**What it's about:** This piece isn't a deep dive into AI tech, but a crucial warning from someone who saw a tech hype cycle turn into a massive fraud. Shultz argues that the current AI boom, characterized by massive valuations and unclear profitability, creates an environment where companies can easily mislead investors and the public about their capabilities. It's a call for skepticism and due diligence.\n**3 actionable takeaways:**\n1.  **Pressure-test your AI claims:** If you're building or marketing an AI product, ensure your messaging is grounded in demonstrable capabilities, not just potential or hype. Can you prove it works today?\n2.  **Scrutinize partner/competitor claims:** Don't take competitor or partner AI claims at face value. Ask for proof, test functionality, and understand the underlying tech before integrating or reacting.\n3.  **Focus on problem/solution, not just tech:** PMMs should always lead with the problem solved and the value delivered, not just the \"AI\" buzzword. If the AI doesn't solve a real problem, it's just tech for tech's sake.\n**Who should read this:** Both PMM and PM — especially those in early-stage startups or managing new AI features, at any career stage.\n**Read time:** 5 minutes.\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n**Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet** [S18]\n- **What was found or demonstrated:** Despite the initial hype and potential, Meta's AI agent \"Muse\" has not yet significantly disrupted or \"upended\" businesses. Companies are still trying to figure out if it's an opportunity or a threat.\n- **The method used:** Observation and analysis of market reaction and company statements over \"several weeks\" following Muse's launch.\n- **How it changes or validates current best practice:** This validates the need for rigorous problem validation and use case definition in AI product development. Hype doesn't equal adoption. It also signals that businesses are cautious and not just blindly adopting new AI agents without clear ROI.\n- **PM action item:** For your next discovery sprint involving AI, don't just ask *if* a feature is possible or *if* users want AI. Instead, focus on *specific business problems* that AI can solve today, and quantify the potential impact. Ask: \"How would this AI agent specifically change your workflow and what measurable outcome would it drive?\"\n\n---\n\n💼 PMM/PM JOBS PULSE\nToday's data did not include any job listings, so I cannot provide specific roles or companies.\n\nThe absence of specific job listings in today's data prevents analysis of current hiring trends. However, the broader market signals (like Anthropic's potential junk rating and cracks in AI spending) suggest a cautious hiring environment, especially for roles tied to speculative AI initiatives. [S33][S37]\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n**Salesforce** — **$375M acquisition of Rune** [S28]\n- **What they do:** Rune is a defense tech AI logistics startup.\n- **GTM motion:** Enterprise, Vertical SaaS.\n- **What this signals about B2B investment direction:** Continued consolidation and verticalization of AI. Large players are buying specialized AI capabilities to deepen their offerings in specific, high-value sectors rather than building everything in-house.\n- **PMM implication:** If you're in a niche B2B AI space, prepare your story for acquisition. Highlight your deep domain expertise and how you integrate with (or enhance) larger platforms.\n- **PM implication:** Consider how your product could become an attractive acquisition target for a larger platform. Focus on deep integration capabilities and solving acute problems within a specific vertical.\n\n**Nvidia** — **Potentially cosigning Nscale’s AI data center loan** [S27]\n- **What they do:** Nscale is building an AI data center in West Virginia; Nvidia sells the chips that power such centers.\n- **GTM motion:** Partner-led, Enterprise (indirect via infrastructure providers).\n- **What this signals about B2B investment direction:** Even with \"cracks in the AI spending boom,\" core infrastructure (especially chips and data centers) remains a critical investment. Chipmakers are doubling down on ensuring their ecosystem thrives, even if it means directly supporting data center development.\n- **PMM implication:** If your product relies heavily on specific hardware or infrastructure, leverage those partnerships in your messaging. Highlight the stability and performance advantages of being aligned with key infrastructure players.\n- **PM implication:** Understand the supply chain and infrastructure dependencies of your AI product. Strategic partnerships with chipmakers or data center providers can become a critical competitive advantage, not just a procurement detail.\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n**Agnos** — Cleans documents for AI, showing what was removed [S7][S51]\nCategory: Content, Data Prep\nBest for: PMM (for content strategy/governance), PM (for data quality/AI model input)\nFree tier: No (implied, typical for B2B tools), likely a trial.\nHonest take: Genuinely new capability. While basic cleaning exists, the \"see what was removed\" and explicit \"for AI\" focus is a sharp, timely differentiator.\nWho should try it this week: PMMs and PMs building or launching AI products that rely on large text datasets, especially if internal RAG systems are a focus.\n\n**AwaitIO** — Write a TypeScript function, get an admin screen [S5][S52]\nCategory: Development, Internal Tools\nBest for: PM (for internal tool prototyping), PMM (for quick demo environments)\nFree tier: No (implied), likely a trial.\nHonest take: This is a genuinely useful dev productivity tool. It streamlines the creation of admin interfaces, which is a common pain point for internal tools or quick dashboards.\nWho should try it this week: PMs who need to spin up internal tools or custom dashboards rapidly, and PMMs who might need quick, functional prototypes for demos.\n\n---\n\n⚡ SPEED ROUND\n💾 **Windows 11 gets smarter search:** New filters and actions directly from the search bar, even controlling phone functions. [S1]\n🍎 **MacBook Pro goes touchscreen:** Apple’s latest ProLED XDR MacBooks are touch-enabled, Best Buy bundling $100 gift cards with preorders. [S2]\n🤖 **AI infostealer 'Volta-Autodoxer':** New malware uses AI to collect troves of personal data from victims. Spooky. [S14]\n📉 **Meta's Muse underwhelms (so far):** Despite big potential, Meta’s AI agent hasn't yet \"upended\" businesses. [S18]\n🔬 **AI agent performs brain surgery:** A biotech startup used an AI agent to inject drugs into a live mouse brain. Wild. [S19]\n🇨🇳 **Apple Intelligence hits China:** iOS 27.3 bringing several AI features, but not Siri AI, to China in December. [S30]\n plummeting $12B from government's stake. [S32]\n🚨 **Claude extension supply chain attack:** Malicious Anthropic Claude extensions hit thousands of developer machines. [S40]\n🤝 **AI scraping opt-out standard:** OpenAI, Google, Microsoft, Anthropic back new `robots.txt` standard for publishers. [S41]\n🛰️ **Google's space AI writes poetry:** Project Suncatcher's satellite AI (Gemma 4) successfully booted and wrote a haiku from orbit. [S43][S46]\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\n**Challenge: Assess Your Content's AI Scraping Readiness**\nRole focus: PMM\n\n**The setup:** The biggest AI players are implementing a new `robots.txt` \"policy token\" for publishers to opt out of AI scraping. This means you need to understand how your company's content is currently being used (or could be used) by AI models and decide on your stance. [S41]\n\n**What to do:**\nStep 1: **Identify your primary content assets and their current `robots.txt` directives.** Go to your company's main website (e.g., `yourcompany.com/robots.txt`) and review the existing rules. If you have multiple subdomains or content hubs, check those too. [S41]\nStep 2: **Research the new \"policy token\" standard.** Quickly search for \"IETF AI scraping policy token\" to understand what the new directive looks like and how it's implemented. [S41]\nStep 3: **Draft a preliminary recommendation.** Based on your company's content strategy, competitive landscape, and legal comfort, draft a one-paragraph recommendation for your leadership on whether to adopt the new AI scraping opt-out, and for which content types.\n\n**The exact prompt or template:**\n\"Subject: AI Scraping Policy Recommendation for [Your Company Name]\n\nCurrent `robots.txt` status for [yourcompany.com] is [summarize current directives, e.g., 'allows all crawlers' or 'disallows /private/*'].\n\nThe new IETF 'policy token' standard for AI scraping allows publishers to [briefly explain what it does].\n\nMy recommendation is to [Adopt / Not Adopt / Partially Adopt] this new standard for the following reasons:\n[Explain why, e.g., 'to protect proprietary data,' 'to ensure discoverability in AI search,' 'to prevent competitor training,' 'to align with industry best practices'].\nSpecifically, I recommend applying it to [Content Type A, Content Type B] and excluding [Content Type C].\n\nNext steps would be to [suggest legal review, technical implementation plan].\"\n\n**What good looks like vs. mediocre:**\n- **Good:** A clear, concise recommendation backed by a quick review of current policies and an understanding of the new standard, with specific content types identified. It shows you're thinking strategically.\n- **Mediocre:** A generic statement like \"we should look into AI scraping\" without specific actions or an understanding of your current `robots.txt`.\n\n**Why this skill matters in the next 6 months:** Protecting your IP and controlling your content's use in the AI landscape will become a critical strategic advantage, impacting everything from SEO to competitive differentiation. [S41]\nTime: 15 minutes or less.\n\n---\n\n🧠 EDGE INSIGHT\nThe biggest tension emerging today isn't just AI hype vs. reality, but a fundamental shift in how \"value\" is extracted and protected in the AI era. On one hand, you have massive, almost reckless, investment in AI infrastructure – satellites are becoming data centers, Nvidia is cosigning loans for server farms, and Altman wants all RAM in the cloud. This is a bet on raw computational power and aggregated data. On the other, we're seeing the first real pushback from content creators and publishers, with major AI players finally agreeing to an opt-out standard for scraping. This signals that the \"data is the new oil\" mantra is evolving; it's not just about *having* the data, but *controlling* its flow and usage. PMMs and PMs need to realize that their content, their data, and their customer interactions are now both a strategic asset for training and a potential liability for competitive intel or IP theft. The scramble for infrastructure is on, but so is the fight for data sovereignty. [S27][S39][S41][S43][S46]",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 3,
+      "title": "AC Bridge",
+      "url": "https://www.producthunt.com/products/ac-bridge",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 4,
+      "title": "Godwit",
+      "url": "https://www.producthunt.com/products/godwit",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 5,
+      "title": "AwaitIO",
+      "url": "https://www.producthunt.com/products/awaitio",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 6,
+      "title": "Pluto Door",
+      "url": "https://www.producthunt.com/products/pluto-door",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 7,
+      "title": "Agnos",
+      "url": "https://www.producthunt.com/products/agnos",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "Secret Key",
+      "url": "https://www.producthunt.com/products/secret-key",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 9,
+      "title": "ChainPoints",
+      "url": "https://www.producthunt.com/products/chainpoints",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 10,
+      "title": "Vic Mensa can’t live without the Voice Memos app",
+      "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+      "source": "The Verge"
+    },
+    {
+      "id": 11,
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 12,
+      "title": "Touchscreens everywhere!",
+      "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+      "source": "The Verge"
+    },
+    {
+      "id": 13,
+      "title": "Here’s why you can&#8217;t shake those unhinged political texts",
+      "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+      "source": "The Verge"
+    },
+    {
+      "id": 14,
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "source": "Wired"
+    },
+    {
+      "id": 15,
+      "title": "Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights",
+      "url": "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 16,
+      "title": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs",
+      "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+      "source": "Wired"
+    },
+    {
+      "id": 17,
+      "title": "Backup by Biolite Review: A Cool Idea",
+      "url": "https://www.wired.com/review/backup-by-biolite/",
+      "source": "Wired"
+    },
+    {
+      "id": 18,
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "source": "Wired"
+    },
+    {
+      "id": 19,
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "source": "Wired"
+    },
+    {
+      "id": 20,
+      "title": "Bose QC Headphones (2nd Gen) Sale: Lowest Price Ahead of Black Friday",
+      "url": "https://www.wired.com/story/bose-deals-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 21,
+      "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
+      "url": "https://www.wired.com/review/keurig-alta-brewer/",
+      "source": "Wired"
+    },
+    {
+      "id": 22,
+      "title": "Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out",
+      "url": "https://www.wired.com/story/are-memories-transferable-meet-the-scientists-replicating-an-infamous-study-to-find-out/",
+      "source": "Wired"
+    },
+    {
+      "id": 23,
+      "title": "Best Sunrise Alarm Clock (2026): Hatch, Lumie",
+      "url": "https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/",
+      "source": "Wired"
+    },
+    {
+      "id": 24,
+      "title": "White Dwarfs Aren’t Just White. Scientists Discover Dying Stars Turning Pink and Green",
+      "url": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
+      "source": "Wired"
+    },
+    {
+      "id": 25,
+      "title": "Wayfair Coupons: Up to 80% Off November 2026",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 26,
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 27,
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 28,
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 29,
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 30,
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge"
+    },
+    {
+      "id": 31,
+      "title": "Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)",
+      "url": "https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/",
+      "source": "Wired"
+    },
+    {
+      "id": 32,
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 33,
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 34,
+      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 35,
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 36,
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 38,
+      "title": "Exclusive details about Akai’s MPC Sample Key",
+      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+      "source": "The Verge"
+    },
+    {
+      "id": 39,
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "source": "The Verge"
+    },
+    {
+      "id": 40,
+      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+      "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+      "source": "Wired"
+    },
+    {
+      "id": 41,
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge"
+    },
+    {
+      "id": 42,
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "The Verge"
+    },
+    {
+      "id": 44,
+      "title": "Satlyt takes another step toward turning satellites into space data centers",
+      "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 47,
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 48,
+      "title": "People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’",
+      "url": "https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/",
+      "source": "Wired"
+    },
+    {
+      "id": 49,
+      "title": "Godwit",
+      "url": "https://www.producthunt.com/products/godwit",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 50,
+      "title": "Pluto Door",
+      "url": "https://www.producthunt.com/products/pluto-door",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 51,
+      "title": "Agnos",
+      "url": "https://www.producthunt.com/products/agnos",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 52,
+      "title": "AwaitIO",
+      "url": "https://www.producthunt.com/products/awaitio",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 53,
+      "title": "ChainPoints",
+      "url": "https://www.producthunt.com/products/chainpoints",
+      "source": "Product Hunt"
+    }
+  ]
+}
