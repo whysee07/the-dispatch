@@ -1,0 +1,429 @@
+{
+  "feed": "ai",
+  "feed_name": "AI Insider",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T17:01:57.441967+00:00",
+  "raw_text": "---\n\n**🔥 THE BIG STORY**\n\nThe dream of \"Physical AI\" just hit a brick wall of reality. While Amazon's CEO touts a future of a million-plus warehouse robots, the company simultaneously pulled the plug on its high-profile drone delivery plans in a Massachusetts town after months of fierce community opposition. This isn't a technical failure; it's a social and political one. It's a stark reminder that as AI moves from bits to atoms — from chatbots to robots and drones — the biggest hurdles aren't algorithms, but zoning boards, public perception, and liability. The most overlooked implication: the most valuable AI skill in the next 18 months won't be prompt engineering, but navigating the messy, unpredictable human world. [S4][S15][S40][S45]\n\n---\n\n**🛠️ TOOL DROPS & UPDATES**\n\n- **dsh-our-free-model enables free access to frontier models.**\n  A new plugin for the \"DeepSeek Harness\" (dsh) provides free, unlimited access to models like DeepSeek V4.1 Flash and Kimi K3 without needing an API key or registration. *Who cares and why:* This dramatically lowers the barrier for developers and tinkerers to experiment with cutting-edge models that are typically paywalled. [S48]\n\n- **Mika brings on-device AI agent to Android.**\n  A new open-source agent for Android devices can operate apps and browse the web to complete tasks directly on your phone. *Who cares and why:* This points to a future of more private, responsive, and personalized mobile assistants that don't rely on the cloud for every action. [S49]\n\n- **hypit offers AI-powered viral video cloning.**\n  This new toolset uses AI agents to clone viral videos by swapping faces, dialogue, and B-roll, allowing users to generate hundreds of variants from a single command. *Who cares and why:* It's a powerful, if controversial, tool for marketers and creators looking to mass-produce content that taps into proven viral formulas. [S53]\n\n- **magpie puts multiple code models in your menu bar.**\n  A new utility allows developers to access different coding models, such as those from DeepSeek and Claude, from a single, convenient interface. *Who cares and why:* This streamlines the workflow for developers who use multiple specialized AI coders, saving time and context-switching. [S50]\n\n---\n\n**🎯 USE CASE SPOTLIGHT — BY ROLE**\n\n- **📣 Product Marketer**\n  Use the `hypit` framework to deconstruct a competitor's viral video and generate 50 variants for your own product. Test different hooks, calls-to-action, and visual styles to rapidly discover what resonates with your audience, all from a single source video. [S53]\n\n- **📋 Product Manager**\n  Read up on the \"Enterprise Context Layer\" patterns to inform your next AI feature PRD. Instead of just planning a basic RAG implementation, you can architect a more sophisticated system that provides precise, cost-efficient context for your AI agents, leading to better performance and lower token costs. [S2]\n\n- **🎨 Designer (UI/UX)**\n  Apply the \"Fix the Image, Not the Prompt\" principle to your generative UI workflow. Before trying to perfect a complex prompt for a vision model, spend time programmatically adding simple labels or bounding boxes to your input image or wireframe. This can yield better results faster than prompt-tweaking alone. [S8]\n\n- **📸 Photographer**\n  Experiment with the `watermarks-remover` tool to batch-strip intrusive AI watermarks from generative assets you own and have rights to use. This is a practical utility for cleaning up your creative palette before compositing or further editing. [S52]\n\n- **🎬 Videographer & Filmmaker**\n  Use the `hypit` repository as a production tool to create dozens of social media cutdowns from a single piece of long-form content. The agent-based workflow can automate swapping B-roll, generating new voiceovers, and reformatting for different platforms, drastically speeding up your content distribution pipeline. [S53]\n\n- **📱 App Developer**\n  Explore the `Mika` repository to understand how to build an on-device AI agent for Android. This is a blueprint for creating apps that can automate tasks across the OS, offering a powerful way to add agentic capabilities to your own mobile applications. [S49]\n\n---\n\n**🔬 FROM THE LABS**\n\n**A neural network learned to read digits from what looks like pure noise.**\nA researcher demonstrated a phenomenon called \"subliminal learning\" by training a small neural network to recognize handwritten digits (like from the MNIST dataset) that were hidden within what appeared to be random noise. The signal was so faint it was invisible to the human eye, yet the model learned to extract it with high accuracy. The experiment was reproduced with just NumPy, showing it's a fundamental property, not an artifact of large frameworks. [S13]\n\nThis matters because it shows that models can latch onto incredibly subtle patterns that humans miss entirely. In 6-12 months, this could lead to new steganography techniques (hiding data in plain sight), but also raises concerns about models learning from unintended, spurious correlations in messy real-world data, leading to behavior that is difficult to audit or explain. [S13]\n\n---\n\n**🚚 AI IN LOGISTICS & SUPPLY CHAIN**\n\n- **Amazon's drone delivery ambitions grounded by local opposition.**\n  Amazon has withdrawn its proposal for a drone delivery hub in Westborough, MA, after months of pushback from residents and local officials. It's a major setback for last-mile automation, proving that public acceptance and regulatory hurdles are now a bigger obstacle than the technology itself. For logistics operators, this is a lesson: community engagement is as critical as your flight plan. [S4][S33][S35][S40][S45][S47]\n\n- **UPS sizes up a new $15 billion market: AI data center logistics.**\n  The carrier has identified a massive opportunity in providing specialized logistics services for the booming AI data center industry. This includes transporting, installing, and managing high-value, sensitive components like GPUs. It's a strategic pivot, signaling that major carriers see the AI supply chain itself as a lucrative new vertical. [S42]\n\n- **Amazon CEO doubles down on warehouse robotics.**\n  Andy Jassy stated that robots will inevitably replace many repetitive warehouse jobs, noting Amazon already has over 1 million machines deployed. The company's focus is clearly on automating the \"middle mile\" inside its fulfillment centers, a more controlled environment than the Wild West of last-mile drone delivery. [S15]\n\n- **SAP pushes toward the \"autonomous supply chain.\"**\n  The enterprise software giant is hosting an event focused on its roadmap for AI-enabled transformation, moving from AI tools that merely inform decisions to ones that act on them. This signals a major shift in enterprise resource planning, where AI agents will soon manage inventory, procurement, and logistics with increasing autonomy. [S1][S24]\n\n---\n\n**💸 MONEY & MOVES**\n\n- **Quad nations pledge $85M+ for trusted AI and supply chains.**\n  Ministers from the U.S., Australia, India, and Japan have committed over $85 million to promote access to trusted AI and shore up supply chain resilience. *What this signals:* Geopolitical alliances are now treating AI infrastructure and supply chain security as intertwined national security priorities. [S17][S46]\n\n- **NAACP lawsuit against xAI data center gets green light.**\n  A judge has allowed a lawsuit filed by the NAACP to proceed, which accuses Elon Musk's xAI of violating the Clean Air Act with pollution from a data center. *What this signals:* The massive energy and environmental footprint of AI is becoming a new front for legal and activist challenges, adding a new layer of risk to building out AI infrastructure. [S41]\n\n---\n\n**🤖 OPEN SOURCE WATCH**\n\n- **wangzan101/Mika**\n  An on-device AI agent for Android that can control apps and browse the web to execute tasks. Created just 3 days ago, it's exploding with ~1216 stars/day. Mobile developers should try this to see the future of agentic, privacy-first phone assistants. [S49]\n\n- **Ebony-Vinyl/dsh-our-free-model**\n  A simple plugin that unlocks free, unlimited use of frontier models like DeepSeek V4.1 Flash and Kimi K3. Created about 5 weeks ago, it's sustaining an impressive ~1463 stars/day. Anyone paying for API access for personal projects should check this out immediately. [S48]\n\n- **onehumanbeing/esp32-iphone-agent**\n  A project that lets an AI vision model control a real iPhone using a cheap $7 ESP32 microcontroller. Created 3 weeks ago and gaining ~210 stars/day, it's a must-see for hardware hackers and anyone interested in the intersection of AI and the physical world. [S55]\n\n---\n\n**🗣️ HACKER NEWS PULSE**\n\n- **GPT-5.6 Sol can beat Factorio on peaceful mode**\n  The thread is a mix of awe at the hypothetical AI's achievement in a complex strategy game and deep skepticism about whether this is a real capability leak or just a well-written piece of speculative fiction. The sharpest take: \"Whether or not this is real, it's the perfect Turing test for AI progress bloggers. This is the exact kind of post a slightly-too-eager LLM would write.\" [S56]\n\n- **Copyright Office is restoring copyright to something you have to work to get**\n  The comment vibe is broadly supportive of the Copyright Office's stance, arguing that \"effort\" and \"human creativity\" should remain central to copyright, and that AI-generated content dilutes this. The sharpest take: \"The debate isn't about 'AI vs Human.' It's about whether copyright should protect the *investment* of labor or simply the *output*. The office is siding with labor, which is the historical basis of copyright.\" [S57]\n\n- **GPT-6.1 Terra**\n  The thread treats Simon Willison's speculative post about a future model's capabilities as a fun thought experiment, with little debate over its factuality. The sharpest take: \"These posts are becoming a genre. They aren't predictions; they're user manuals for the near future, helping us imagine what we'll do when these tools actually arrive.\" [S60]\n\n---\n\n**⚡ SPEED ROUND**\n\n- Apple's CEO says the company is deliberately avoiding shipping \"AI for AI's sake.\" [S37]\n- An internal Amazon memo reportedly calls its own AI-usage metrics flawed, but useful as directional signals. [S20]\n- AI-assisted vulnerability research discovered 28 zero-day exploits in robotics software in less than 48 hours. [S6]\n- L'Oréal is now using AI to strengthen its global demand forecasting in the notoriously volatile beauty market. [S23]\n- Amazon has added Chinese models Kimi and GLM to its Bedrock platform, signaling a hunger for more diverse open-source options. [S32]\n- Warning: Chatbots are giving hikers dangerously inaccurate trail advice, leading them into potentially deadly situations. [S18]\n- Meta's AI shopping agent, \"Muse,\" is now seen as a credible threat to Amazon's core advertising business. [S7][S9]\n- A 19-year-old intern is credited with building the \"paid-UGC\" growth engine behind a $2 billion AI company. [S10]\n\n---\n\n**🎮 TODAY'S DAILY CHALLENGE — TRY THIS IN 15 MINUTES**\n\nToday's challenge lets you access typically paywalled frontier models for free, thanks to a new open-source project.\n\n- **The tool to use:** The `dsh-our-free-model` plugin (details at https://github.com/Ebony-Vinyl/dsh-our-free-model). You'll need to install the base `dsh` (DeepSeek Harness) first.\n\n- **The workflow to try:**\n  1.  Follow the repo's instructions to install `dsh` and the `dsh-our-free-model` plugin.\n  2.  Once running, select the \"DeepSeek V4.1 Flash\" model from the dropdown.\n  3.  Paste in this prompt:\n    ```\n    You are an expert software architect. I need to design a simple notification system. It must handle email, SMS, and push notifications. The user should be able to set preferences for which channels they receive which types of alerts on. Provide a simple database schema in SQL for the necessary tables (users, notification_types, user_preferences, etc.) and a short Python function signature for sending a notification.\n    ```\n\n- **What to look for:** Assess the quality of the schema. Does it correctly use foreign keys? Does the `user_preferences` table make sense? Is the Python function signature logical? You're testing if this free-access model can perform a standard, real-world coding and system design task that would typically be reserved for a premium, paid API.\n\n- **Why this matters right now:** The gap between \"free\" and \"frontier\" models is collapsing. Tools like this democratize access to powerful AI, enabling a new wave of innovation from developers and researchers who were previously priced out. [S48]\n\n---\n\n**🧠 EDGE INSIGHT**\n\nThe era of \"digital-only\" AI risk is over. Today's news reveals a critical shift: the primary bottleneck for AI deployment is moving from technical capability to social acceptance. Amazon's drone failure wasn't a tech problem; it was a human problem. Chatbots giving bad hiking advice isn't just a hallucination; it's a potential manslaughter charge. An NAACP lawsuit is holding up a data center.\n\nFor the last few years, the game was about building the smartest model. For the next two, the game is about building the most *trusted* and *insurable* model. The winners won't just be those with the best benchmarks, but those with the best lawyers, the best lobbyists, and the best public relations. The most valuable startups 90 days from now won't be selling a slightly better API; they'll be selling AI risk mitigation, compliance-as-a-service, and the social license for other companies to operate their AI in the real world. [S4][S18][S41]",
+  "sources": [
+    {
+      "id": 1,
+      "title": "SAP stock enters week focused on AI-led supply chain event - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNFY4WkR3b2Mwb1pMSFFYbGFXMlptQ2sxck9sMm13NWEtMGUwY2lrRGwyZ21Wc0JyY2YwUUhBV1hKcm9vS3lMTGowZ1ptbkdrMV9tMkpKcVUzbGVRcVFLZUZ5Wmk2c3JBcmd4NW9xQlNJU2ttbHdrWWk3VVJHSmJMcGt6QmpPc3ppMGNoeWhCSlY1QzZaVUI1RHpCYVExa2pJeWNkbkZCQmtYNlk1dnBJSGgtZm5ObVVuM09NOUVn?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 2,
+      "title": "The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "url": "https://towardsdatascience.com/the-enterprise-context-layer-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 3,
+      "title": "Beyond the AI Hype: The Operational Blueprint for Freight Forwarding Intelligence - Freightos",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXFqdFZWeDB4bDNtaWwtRVJ1d1VnS3JnbGpYa2dSdHZHSElvdlBiSmdMZlFlTDk4Zk9kSVZsci1KYkJWbGZoMFZ6RzdJVzVwSi1JWUkxUzBkd2hGN0lBZDY5NGVsOThqcV9sVE45YVVwMUpMSzZteGZXNE1uU05xVGdrM2FXckgxek1xQjVnQ2RpUHhOR3hjZTV1NGtINk0wYVF5MVB4aS1MOGp0MDY4UEhOc2xEcTNXYnRTa00tTUVQRXM?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 4,
+      "title": "Amazon withdraws Westborough drone delivery proposal - The Worcester Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUtZeTBwQ3lmdkxzMktvNGZ4U0dyQy10cWV0aVd5bG1iRU1VUXpEYUtETTh2TkpaZ1Bsc0FnTjFUVzNUekZVNnRhR2M4d0k1MzFHM0taeHk2YV9teml2czkydkd3eWVYSW9tWFFaXzFYZjJVOEtuczJPQlJWSlp2RHlJS1lZajVrakpYdE5nbWRlUQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 5,
+      "title": "AI Investment Gaps in Transportation Logistics - Supply & Demand Chain Executive",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3dHMUtKX0dBRy1QWEViTDJ0WGdVM1B1clI4ZUFYdlVza3dqVmJ2bVFST3h5WG1nQU52ZjVXMW04ZDFsNVotRFk0bndiMzFfWlZjQnJmeHpnUnlkYXlBU3NfeDlWcnFmZUxNajN5UDJuXzNWMF85VVptWmZIcDRqa21DX3psMmtqc3BEV0J2T3MyMms1cjg2enlYdE5uQ2pMalZZV1RoX05xSDROUkROMlMxbDA?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 6,
+      "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
+      "url": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
+      "source": "The Robot Report"
+    },
+    {
+      "id": 7,
+      "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iZHM3Mlh5cFIzcEloT016YkFuN2h0bzZVLVoydWx0NUxGSHZyV2lkSUZid04wc2h4SWJKc3FFZktrUTZfUDQ3bmxaeFpwX0d2X2w2NlQ4dkVsUUE5OE90NjJzSm9BdlFVQVNlS21rWVFrM082U05OQndYY0vSAYIBQVVfeXFMTWJmcTNoZWV1dU10SEFrYUR5VVNoMnhzcVZOaGZfRkE1VHl4S1NITVY0LWxuQUVFTGpPZ3E4QVJTR0VBX05VZ0o5MVNEU0lkcXpLLTYtdUxib0JZRzgzMHVBLTlNbGNHcjZ2bkJQS1A1YzdrcWhUOXd0TUNJb1puempqdw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 8,
+      "title": "Fix the Image, Not the Prompt",
+      "url": "https://towardsdatascience.com/fix-the-image-not-the-prompt/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 9,
+      "title": "Meta's AI shopping agent threatens Amazon's lucrative advertising business (META:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2M5c3JjcHhBcjlRUFE0N015cUtYUWRhSGxVYl96WW9wamp4WnJUOGRLNWpsVDFsMEhRSWhIYm5pVjhpRFBoWEtOUnRfQ3dkZTdrMGE2RFIxM2pQeWFubnZZQ0FNVjNJZktkMmJBelVjN2IzcTA3MGdSckN3ekFjSC1VdWg0dUVjd3JXdXhUakVJQ2lMNlB4cHVMWWJVNW93bzd4anJIOUZES1dqQWNV?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 10,
+      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+      "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 11,
+      "title": "Why physical AI is the next lucrative frontier",
+      "url": "https://www.therobotreport.com/why-physical-ai-next-lucrative-frontier/",
+      "source": "The Robot Report"
+    },
+    {
+      "id": 12,
+      "title": "Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime",
+      "url": "https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime/",
+      "source": "The Robot Report"
+    },
+    {
+      "id": 13,
+      "title": "A Neural Network Learned to Read Digits From Pure Noise",
+      "url": "https://towardsdatascience.com/a-neural-network-learned-to-read-digits-from-pure-noise/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 14,
+      "title": "Borderlands Mexico: Cabotage enforcements threatening cross-border trucking",
+      "url": "https://www.freightwaves.com/news/borderlands-mexico-cabotage-enforcements-threatening-cross-border-trucking",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 15,
+      "title": "Andy Jassy Says Robots Will Replace Many Repetitive Warehouse Jobs — Amazon Already Has Over 1 Million Machines, and the Impact Could Be Much Bigger in Five Years - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY1pjWlB4aVBwaXJhUmNESHBQemh1Wld0bkN4NVBHakk4dGMyMFFUSmVJbXhsWUV0T2xWM3VJdVZaMUtFX3FvdHN4UWdoQlBOS2xkb0lTOExOVktQWmx3LXVwekRLVzM4ZGJDMnZoVnZOSFd2Y1dpMmtRWGI2WWNDUWFQWFVEcUdFYnk0Smt3b2d0d0wtblBlQi1R?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 16,
+      "title": "3 AI Chip Supply Chain Stocks Investors Should Watch As Demand Tests Pricing - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd09iaVhRZkJxX3hVNE4zZ0IwQnlZRzdCQ0RGRjRXWFpFQkFzbzZMUVdnVVFDTjF0QnZhb0NEbjAtbkVRYWZlWjV1Z3NhNlpvb2xSVlRSNGJlcnI3ajBOSEpRQjN3dDhTS29oSUdsWGVOWGduSUtyRy1JY0REZnFNQmpKUVZCMGo5Q3hxWWpYWTE2TGdBbWNOOG1ZVW9oUTBCVURmaFBYaGh4Ri1uZE9tYTV3d2V6eUNMVHE0cm8xNGRqZ2JEZUJ4Z2xMOHluZjl2a2hF0gHYAUFVX3lxTE0wQkliTTdZZjFwWGt2RmJ4VFZzVGhvUUdFTG9TbVJ2bWxoNEg2eFc4TmtfSzRuVXRkLTltZVoyRlRQUVBXQm9ucEQydUF1S3lMeE1ualFUdDhsZ1UzVFdkUXhib2RCenVlZmFrQkZBb3lLaF9Pa1R0VnVrdkdZZjNTRi14SVktcFdUTHlBTTJLZmxwcjR4NUY4U1czSVp0M1N6UlN4OGdNdFpGdmI4c0pQaTROd19SUnYyVm1aUmtfYzJ3VEhtbDJ4MTJmOU9yZW5DamlfZU9HRA?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 17,
+      "title": "Quad sets $85m trusted-AI plan and new supply-chain work - London Daily News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNTFTSzV2OTVmRkdQMlZ6eWdtSzAzcHVkaU82YUJ3bGQtN0RHZEV6a0ZITnNOMXVCd3g5UHRVdUlzXzNMNkZoeUVReXhTZ1p3MHN2YkZtU054RWNWNF9ueHJYQWlLR2l4UkVWMkhBVTBPMU92U3dnUXl1UzRvWGw2LTFHSGgwWmJvaFVtOV9R?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 18,
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 19,
+      "title": "Build warehouse automation in phases, not all at once, says Exotec - https://www.facilitiesmanagement-now.com/",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxONFJCd3VRMDhwdWZGSEJOTy11bkNZaEJZb3RRQ1hncnVwSzFQdkUycms3ZXZ3eFNGOF81S3lsTHI5ZW1iVTFORFUxcE9nUEpOSHQ5R19MY3J2Q0xmeFpmTnp1WVVYc3k4dGE1UXYwZndjRFYzWE0tN3ZMMHVQZTk1bWFMVkNNQS1hallCbDVBUHRzRWlpWE1CZl83Mmt6SzU3QWk3akp6eFJBYjVTWVhBOWxJSFNLbmFueG9melRlQ0lrTkhXendPcFp6STVvUGdHWWxnQjVEcmNlZ0pqcFhVUlFhLWtKT2ZiNTlyVWdYek4ySkZkZl9kM1JrT281MEZiODB1eW5JWHNUQVlCaW1vcmgxVlplTWVmbl9Hb1hwQ1RscHpCbXU3a25KN1NrVzlXZUYyd2NvYVd1M2ttRDg5SFhVVHVKZw?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 20,
+      "title": "Amazon’s reported memo calls AI-use metrics flawed but useful as signals - NeoTeo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXlZenV2bHFscXlHcmlXY0tyNlk0Nkc5SmEwYjBjQjlpcmNDTklWenhBeTVvYWlaQ3dfUHp2TktXX2lBU2QtSkNlVU5QVTlMa0VlVjdYc0QtY2Y1NXhNTjJqOVFoNXlHNHhhRDdZMGRvb1gwUjNSZmRmQ1Rzck5Qb0NhQmcyR0Y0QjNrNTlvWVFUSlFZcTJPN3BZLUZWZw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 21,
+      "title": "Comarch Named a Leader in the 2026 IDC MarketScape for Worldwide E-Invoicing Compliance Solutions",
+      "url": "https://www.supplychainbrain.com/articles/45109-comarch-named-a-leader-in-the-2026-idc-marketscape-for-worldwide-e-invoicing-compliance-solutions",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 22,
+      "title": "10 Questions to Ask Before Choosing an e-Invoicing System Provider",
+      "url": "https://www.supplychainbrain.com/articles/45107-10-questions-to-ask-before-choosing-an-e-invoicing-system-provider",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 23,
+      "title": "How L’Oréal Strengthens Global Demand Forecasting in a Volatile Beauty Market",
+      "url": "https://www.supplychainbrain.com/articles/45106-how-loreal-strengthens-global-demand-forecasting-in-a-volatile-beauty-market",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 24,
+      "title": "Handling Supply Chain Change: SAP's Road Map for AI-Enabled Transformation",
+      "url": "https://www.supplychainbrain.com/articles/45097-handling-supply-chain-change-saps-road-map-for-ai-enabled-transformation",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 25,
+      "title": "When IBP Falls Short, Industrial Planning Steps Forward",
+      "url": "https://www.supplychainbrain.com/articles/45095-when-ibp-falls-short-industrial-planning-steps-forward",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 26,
+      "title": "Retail Compliance Guide for CPG Brands",
+      "url": "https://www.supplychainbrain.com/articles/45094-retail-compliance-guide-for-cpg-brands",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 27,
+      "title": "Intelligent Automation in Warehousing: An AI Roadmap",
+      "url": "https://www.supplychainbrain.com/articles/45093-intelligent-automation-in-warehousing-an-ai-roadmap",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 28,
+      "title": "The Supply Chain Decision Gap: Improving Decision-Making through Continuous Optimization",
+      "url": "https://www.supplychainbrain.com/articles/45010-the-supply-chain-decision-gap-improving-decision-making-through-continuous-optimization",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 29,
+      "title": "Anthropic IPO Critical Minerals AI Supply Chain Risk - Rare Earth Exchanges",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wdnprakVKVUllalVaVzRtSDgwRWk0ekY1Q0ZudWdId0pTZ2ROYXRMQ2h1Q2tCQXZNdWlIeFQ5SG1BYUFoZkRSMkYtSnZPaTM5UWM4YmpqOUM1OU9SaTlIejZmZm1Td0l5blhYbmt1TkpYSHpRTUlWRnBqOA?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 30,
+      "title": "[APK 2026] Korea, Germany deepen AI, supply chain ties amid global turmoil - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CdzFUREFmbW5EdGhCVWxjSGVNTVJIdjZaa0NPeWtDNjdzMFNRNmktRkR1VDVhVDVydmR6ODZScVhCWTdyX0NFMW5ZS3B6T2hLVUxPUmtscw?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 31,
+      "title": "Freight cycles are anything but regular",
+      "url": "https://www.freightwaves.com/news/freight-cycles-are-anything-but-regular",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 32,
+      "title": "Andy Jassy Says West Is 'Very Hungry' For More Western Open Source AI Models as Amazon Adds China's Kimi and GLM to Bedrock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd0NfY2x4a1RoajlKNDVKYm12cVF5SG03NnRHMkpwS3BfTUFlNk5Jd0V2ZGR6UVktZ1ZuQXFLMnl1emxldjVKc0pnM2VGVWVpdE1DZnFtLW50YXBEUWkyY2hRUEl6ZzZQVGM2TzJYeXhQcUZRbUlKYkU1OHo4cEYwWmxFZ1hEU29OeVdLS0JHSDZ3Rmc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 33,
+      "title": "Amazon withdraws Westboro drone delivery proposal - Boston News, Weather, Sports - WHDH",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GUTNPUl9tMURJYVQzeVZiZHJORF9WVkZCc0FXQ2lNOTlFQXJadllmUlZ1LXJ1MXdpRHZHWWhFUklPdjRzVGF1dkRUX1NXdVlSVXpzQk9BelBhRUFaZWpheGVvZEJ2NHRKcUVGTnl5MzdGSmsxd0ZNSXFUeW8?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 34,
+      "title": "Amazon Q3 earnings: customers ‘gobbling’ up AI capacity, Jassy says - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd1NyZjRTN19fbHdkZWd0OEs2aVNLYkR2MWVKcXNvbzJ3TGhEYjFKamgxNVJzblUtVUNFR3E1Ty14RnlGWmZzSC16MFNRd3htOTZTMG9XbmR3TjF6aXppSVF5M2p2QTdqaDJDNlc5WXoyMmtNWXVncUdVTEFwYWdWOUR6SElOdw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 35,
+      "title": "Amazon halts plans for Westborough drone deliveries - WCVB",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNkJaOWhIT2MtN3ZDa0NaZHFGbkpqdFl0aXJUeW9lOEVWamh3TlVMTXhtb1JIRVBUdkxVZUpGR2pFZUdmVEJiUHl1TWZuSnZmZWlsbnd3bUEyRTJZNWZFMkRlQWE0ZmJnU1ZKXzhvMXV1Y0E2TmJYRlFmSTZ1Z01PTEQ0Rk5nazVHYW5B?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 36,
+      "title": "Amazon withdraws bid for drones in Westborough; company says it will try again - Worcester Telegram",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0xXVnpuQmxHRVY5T25WWWVMZ244SFlqYTJrNkRBWmdTYXY4bnZXa19rWUlSRi00Z3R0NFBJRHVDZEtaWUl5UlhwMExxNWVzZHBfNmVzVmtLenlVczZpZ0YxT3JFMnhzZ0RiM2xCYlQ3eVNfbFFoa1lSaXQtTFNtaEhxMG0xSkFoeTY4cWhBQVFDdklBS3RmcWw1NkloMVJDMkZZLWRuRVFCd3dYSlJHMXYxNnl5MEZTelhfYm9ZQ0VDQTdWZzRxaUN3VQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 37,
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 38,
+      "title": "Explaining “AI might obliterate you” to senior policymakers in India",
+      "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in",
+      "source": "AI Alignment Forum"
+    },
+    {
+      "id": 39,
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 40,
+      "title": "Amazon withdraws Westborough drone delivery plan after months of opposition - This Week in Worcester",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1QVJsbTRyblVBMTNXeVVjX01MU0NBWWFQcHJBc19vb1MtREE0WUdDMFRzUjdSb2hZOFlMamliVGo0YUxpYXJtNFpITGViLWVZdkpndGxNaEpYYl9ENnpqWk92YXVTSWdjLVB2NmNfRm56VG0wWlJWbUtQcjY?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 41,
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 42,
+      "title": "United Parcel Service (UPS) Sees $15 Billion AI Data Centre Logistics Market - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVlpBaUFVRUxQOEFlbnIwLUJPODhUNEFyTHVRWDYtWFNrZXZhYmF0TXdHMmRzVmJpczVUVFItUDRlSkI1MG9VQ19ILXphenBLSF81dGRPRFhNQ3owemUwRVVjeTROZHRZOHNUQXc4SVIxT1V6aGlidzdDRWl0dUxnMVN4VDlTZERLMjF6Q2VfUUZvNkE?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 43,
+      "title": "Google, Amazon and Intel stumble as investors begin to question the price of the AI boom - CTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82Um94RElFbkNDRHNhNnhEWkRhU1Z3Sk1VLW54UW94czJIbmFoUWdGb0tVaFBXX2xPbUMzdi00LXkyRG9fS0poTWt6d1pCWUR4eVp6dzNuYjBxMms2Y3Q0bllJNFRZZTg?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 44,
+      "title": "Japan’s Omron Targets India for Manufacturing, Exports Push",
+      "url": "https://www.supplychainbrain.com/articles/45133-japans-omron-targets-india-for-manufacturing-exports-push",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 45,
+      "title": "Westborough fought Amazon's drone delivery plan — and the community won - MassLive",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb2k3UU1iVzdCMldYVUNPQWJHR1U4VEM1dHlvN1lPd2NheVNfcXpzMDRKNUR6bUQ5Nm5SZUcxUXNMMXZ6dEFPZ1dhWTMtMmdIelVvTEdQN1RnNkIxbDh3UW9iTFlYQXpEdTZFWFU2cmVkVUp1UmdRb2RKN0VMWXJWUzBudmNnd3hDNjNzMUFiNGROS0FPRTV2aXBKVlBwWVdGcGJlNG5HNENlU0oxMzYtY1BLOVdCQ09VVlJsRU5oeF9uZDZyWDAzdmlnLXlqUkw2QklR?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 46,
+      "title": "Quad ministers pledge over $85 million for AI access, flag economic coercion and supply chain risks - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUnVuRzkzMGhkaWt3bkM2anc0bzJZTzduY1otVUpXQ1N1cERzWUt5Um9XaWhmcHV6NUFGb1dweUFlQVlPSHByNHFfaURBRThVSERiM2EtVUgwdUhCVXdpb3JwV0NCTzMtd0FmMHVoTk0wTzRjVVZkVGlkank3WTZXMzdxSDI5SzhzczlSbG1uTTNqS2pPM3ctZFFaNVpLS0Q5cll3MXZVc0ZySnBFWjRhV0p1VWRZcjJYTFJDZ09wQVYzWmR1U2d4OGZ1TGoybnJpbmlOeHBxdUh5RnFMM2FUelRqZjl3NE1laVBaVkdKWTEyQlZlV1FxNlZkZGItd3pCZnZZTFdJOWZscFA5OEHSAZMCQVVfeXFMUF9sRGFGVlVRWlVSOTRHb3VPYXVuSGUtWkt5WkNhVEhPSlhTbEpUejhhdE9XMDFwUGNQcXVBQk9iSXQtTW9SSEZxcXVHeTlXOE9ZMG1UZzNpYU9oOWpSeDFUNFhRRHV0bnpLYklfaUpXQjVUZ0FWMzkzZ3pPTFRGS3dEZUk3VjAxcktlc3pwcTh3dGhvbXc0VDdxYTdBRk92VGRtR2hEWU9IY0RPeG1OX0FpeUY3NWVlZUVVRmVhNDNLQlFmM05vRnhYamVFZ2tfb0dxWWlJYTFUMk9DaFFUbDFDcGF0bVZna2tuMjdobzZJOGpFbWUtVWQ4Um91bm9JVkRneUZ3ZnJxb1N2QWVMVjBGdUU?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 47,
+      "title": "Amazon drops Westborough drone delivery plan after pushback - State House News Service",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNWpIQl8xUTVxbDJNTDl4QTl0TXNGSlpLMFo2N0VuTndqZUprWFFZWEgtZ3hmQWFLWlpxeVRoSDVGVl9QN2RPRFFDUVduVkdBU2pkR2hDZ1Y2aEZ0WE5ISWlnY2tYWWlodFp2aGJrU09OODRwTDVnb1l6X1NfTVpkR3ZqYW1acmRZNEN1LVFXSlJRZ2hxajBuRDB2TFlNVmNxemJUWnFBSlF3Y3V3bE1sdkJJYnhkd0tYZ0lLaDNnVVc5T05HMG5zMTVsYnpua2VDQTZ3NlhCTlQxc2R2S3cyRGpKNmhNQUdObkFlZ2FRTQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 48,
+      "title": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "source": "GitHub"
+    },
+    {
+      "id": 49,
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "source": "GitHub"
+    },
+    {
+      "id": 50,
+      "title": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "source": "GitHub"
+    },
+    {
+      "id": 51,
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "source": "GitHub"
+    },
+    {
+      "id": 52,
+      "title": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "source": "GitHub"
+    },
+    {
+      "id": 53,
+      "title": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "source": "GitHub"
+    },
+    {
+      "id": 54,
+      "title": "KKKKhazix/AIHOT",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "source": "GitHub"
+    },
+    {
+      "id": 55,
+      "title": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "source": "GitHub"
+    },
+    {
+      "id": 56,
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 57,
+      "title": "Copyright Office is restoring copyright to something you have to work to get",
+      "url": "https://pluralistic.net/2026/10/31/burn-berne/#unvictored",
+      "source": "Hacker News"
+    },
+    {
+      "id": 58,
+      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+      "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+      "source": "Hacker News"
+    },
+    {
+      "id": 59,
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "source": "Hacker News"
+    },
+    {
+      "id": 60,
+      "title": "GPT-6.1 Terra",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 61,
+      "title": "Stuck on an island for years, can't get transit visa to fly home",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo",
+      "source": "Hacker News"
+    },
+    {
+      "id": 62,
+      "title": "DeepSeek put the architecture for their always-on autonomous agent on GitHub",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "source": "Hacker News"
+    },
+    {
+      "id": 63,
+      "title": "Show HN: Gitmsg – A messenger where every message is a Git commit",
+      "url": "https://www.gitmsg.fun",
+      "source": "Hacker News"
+    },
+    {
+      "id": 64,
+      "title": "Will Agent Resource Registries ever have their moment, the way AI gateways did?",
+      "url": "https://agenticresourcediscovery.org/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 65,
+      "title": "The reason(s) nothing gets built in San Francisco",
+      "url": "https://sfstandard.com/2026/10/31/san-francisco-housing-construction-math/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 66,
+      "title": "DeepSeek launches advanced coding agent to rival Claude Code",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+      "source": "Hacker News"
+    },
+    {
+      "id": 67,
+      "title": "EraseAI Firewall – stop secrets and PII before they reach Public LLMs",
+      "url": "https://news.ycombinator.com/item?id=50326183",
+      "source": "Hacker News"
+    },
+    {
+      "id": 68,
+      "title": "Chinese labs now target OpenAI's GPT-6 Astra for distillation",
+      "url": "https://fork.zone/p/1011/report-chinese-labs-now-target-openai-s-gpt-6-astra-for",
+      "source": "Hacker News"
+    },
+    {
+      "id": 69,
+      "title": "Codedict – a no-AI code index that cut my Claude Code tokens by 63%",
+      "url": "https://github.com/Marqueos/codedict",
+      "source": "Hacker News"
+    },
+    {
+      "id": 70,
+      "title": "Ask HN: Lost all my Claude credits",
+      "url": "https://news.ycombinator.com/item?id=50326994",
+      "source": "Hacker News"
+    }
+  ]
+}
