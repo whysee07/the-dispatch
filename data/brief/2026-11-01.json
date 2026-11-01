@@ -1,0 +1,435 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T17:45:21.167659+00:00",
+  "raw_text": "Alright, settle in, grab your Sunday coffee. Here's the rundown of what actually went down the last couple days, because apparently, the world didn't stop for your weekend plans.\n\n### Money Talk\n\n- **Oil up, bonds down, AI panic.**\n  The market’s got split personalities right now: traders expect crude to keep climbing, but treasury yields are tanking. The real hot take? Investors might be more scared of an AI bubble burst than lingering inflation. Pick your poison. [S2]\n- **Social Security's 2032 doomsday clock ticks louder.**\n  Get ready to dust off those old 401(k) statements, because the Social Security retirement fund is projected to run dry in six years. Unless Congress pulls off a miracle, future retirees could be looking at benefit cuts. Good luck, senators-elect, that's a *you* problem now. [S3][S4]\n- **Virgin Media O2 pulling the plug on thousands of jobs.**\n  The broadband giant is reportedly planning a massive wave of layoffs. Details are still vague on the exact number, but it's clear the cost-cutting axe is swinging hard. Ouch. [S6]\n- **Binance shrugs off $6.3 billion North Korean hack, mostly.**\n  The world's biggest crypto exchange says it's covered 90% of the mind-boggling $6.3 billion stolen in a hack the FBI has pinned on North Korea. Your digital coins might be safer, but the geopolitical implications of state-sponsored crypto heists are definitely *not* going anywhere. [S7][S26]\n- **German cost-of-living protests turn ugly.**\n  Cities across Germany, including Berlin and Frankfurt, saw violent protests and looting as anger over rising costs boiled over. This isn't just a few disgruntled citizens; it’s a symptom of deeper economic stress across Europe. [S8]\n\n### World Lore\n\n- **G20 talks hit a wall, Rubio plays referee.**\n  U.S. Secretary of State Marco Rubio is reportedly having a tough time getting officials on the same page at the G20 foreign ministers' meeting in Atlanta. When even the top diplomats can't agree, you know global economic and security challenges are in a proper mess. [S22]\n- **Europe burns: French youth protests escalate.**\n  France is seething again, with youth-led protests sweeping across the continent and Interior Minister Laurent Nuñez warning of \"very high risk\" disorder, especially around Halloween. Paris prosecutors are now investigating an attempted Molotov attack on police, proving this isn't just kids blowing off steam. [S24][S32]\n- **North Korea's $6.3 billion crypto smash-and-grab.**\n  The FBI explicitly named North Korea as the culprit behind the colossal $6.3 billion Binance crypto heist. This isn't just petty theft; it's a state-level operation to fund god-knows-what, and a stark reminder that cyber warfare is the new proxy conflict. [S26][S48]\n- **Ukraine's power grids pounded again, Melania Trump makes a cameo.**\n  Russia continues to hammer Ukraine's energy infrastructure, leaving tens of thousands without power in at least four regions. In a surreal twist, a Melania Trump-brokered ceasefire for the Kherson region is set to expire tonight. You heard that right. [S33]\n- **The \"Endless Cruise\" finally ends for some unlucky souls.**\n  Passengers on a \"lifetime at sea\" cruise had their dreams abruptly sunk when the ship suspended operations due to soaring fuel costs, forcing them to disembark in Cambodia. Turns out, even an endless journey has to contend with current gas prices. Brutal. [S21]\n\n### Tech Tea\n\n- **The AV boom is back, baby, and it's powered by AI.**\n  Hold onto your self-driving hats, because the autonomous vehicle sector is reportedly experiencing a new, even bigger boom, thanks largely to AI advancements. The future of transportation just got a serious shot of dopamine. [S41]\n- **Britain's landlines are officially getting the axe in 100 days.**\n  Say goodbye to your rotary dial, because landline phones across the UK are being switched off, with no extensions. It's an infrastructure shift that might not impact everyone, but it’s a definitive end to an era. Prepare for your nan to start complaining about VoIP. [S39]\n- **Apple's HomeView might be getting nosy with security cams.**\n  Hints found in the HomeView 27.2 code suggest Apple is baking security camera features into its smart home hub, complete with motion detection, live streaming, and recording. Looks like your privacy settings just got a whole lot more interesting. [S46]\n- **\"Renoa\" is here, the first new fiber in 25 years.**\n  Startup Everbloom has unveiled \"renoa,\" the first entirely new fiber developed in a quarter-century. The hype? It feels \"very familiar,\" which could mean groundbreaking innovation without the weird texture. My wardrobe is ready. [S44]\n- **Data centers: the new NIMBY battleground.**\n  From Wisconsin nixing a $1.6 billion project to Brooklyn midterm debates, AI data centers are suddenly a hot political potato. Everyone wants the AI, nobody wants the massive, power-hungry server farms in their backyard. The energy draw and local impact are becoming impossible to ignore. [S11][S45]\n\n### Creator Szn\n\n- **HackerBooks: AI-powered book recommendations for the HN crowd.**\n  Someone saw Karpathy’s HackerTube and thought, \"Books need this!\" So, an AI (Claude Opus 5.5, naturally) was unleashed on 16.5k books mentioned by Hacker News commenters. It's a niche tool for a niche community, but a brilliant example of AI's power for curated content. [S38]\n- **Google Vids is now your free video editor in Drive.**\n  Who knew? Google's quietly slipped a free video editor, Google Vids, into Drive. If you're a casual creator or just need to stitch together some clips for a quick project, you no longer need dedicated software. Your next viral short just got easier to make. [S52]\n- **Chromagraph Camera app brings Hollywood color to your iPhone.**\n  Rian Johnson's cinematographer, Steve Yedlin, dropped an iPhone app called Chromagraph Camera that applies the same color math he uses for films. For $13, you can get cinematic color on your mobile shots. Your Instagram just got an instant upgrade. [S53]\n- **Netflix asks: Is 'The New Stanford Prison Experiment' for real?**\n  The creators of \"Is It Cake?\" are back with a new mind-bender, \"The New Stanford Prison Experiment,\" aiming to see if power really does corrupt. It's Netflix leaning into high-concept social experiments, proving that digital culture can still tackle weighty philosophical questions (even if it's dressed up by the \"Is It Cake?\" team). [S30]\n\n### Supply Lines\n\n- **UPS eyes huge AI data center logistics market.**\n  UPS is looking to cash in on the AI boom, estimating a whopping $15 billion market for logistics services catering specifically to AI data centers. This isn't just moving boxes; it's specialized, high-stakes infrastructure support, and UPS wants a big piece of that pie. [S63]\n- **DHL partners with NHL, scores big in Europe.**\n  DHL just inked a deal to become the official shipping and logistics partner for the NHL in Europe. This is a smart brand play, associating itself with a growing sport in a key market and expanding its continental footprint. Watch for more pucks (and packages) flying around. [S65]\n- **Amazon's drone delivery: one step back, one leap forward.**\n  Amazon's Prime Air program is a tale of two cities: they've scrapped drone delivery plans in a Massachusetts community, but simultaneously launched it in Nampa, Idaho. It’s a classic Amazon move, pushing hard on innovation while navigating local red tape and public sentiment. [S67][S71]\n- **Amazon repurposes for \"sub-same day\" speeds.**\n  Amazon is literally turning existing real estate into \"sub-same day\" delivery stations. They’re getting hyper-local to get you your stuff even faster, driving down delivery times and setting an increasingly insane standard for last-mile efficiency. [S68]\n- **Mexico border trucking squeezed by cabotage, helped by tolls.**\n  Cross-border trucking in Mexico is facing a double-edged sword: tighter cabotage enforcement is making things tougher, but Nuevo León is slashing Colombia Bridge tolls by 50% to incentivize freight flow. It's a push-and-pull environment that'll keep carriers on their toes. [S56]\n- **Schneider pulls a rail switch from CSX to Norfolk Southern.**\n  Intermodal giant Schneider is making a bold play, moving all its eastern rail business from CSX to Norfolk Southern. This is a big shake-up, aiming for more capacity flexibility and a strategic shift of freight from roads to rail. Expect ripple effects. [S58]\n- **Trailer leasing demand hits unprecedented highs.**\n  The trailer market is utterly bonkers right now, with utilization rates soaring past even pandemic levels. This signals a serious crunch for rolling stock and a red-hot freight environment, making every available trailer a precious commodity. Don't fall for any sketchy deals out there. [S59]\n\n### Speed Round\n\n- Trump's DOJ is suing Alaska, demanding the state not certify election results if his party loses.\n- G20 talks stalled, with Secretary Rubio reportedly struggling to get officials on the same page.\n- Virgin Media O2 is cutting thousands of jobs, likely a sizeable chunk of its workforce.\n- A fully playable Portal prequel, F-Stop, just leaked online, pieced together from massive data drops.\n- Melania Trump somehow brokered a ceasefire in Ukraine's Kherson region, set to end tonight.\n- High street \"slot farms\" are still using a bingo hall loophole to pay discounted business rates in the UK.\n- An \"endless cruise\" became finite after passengers were kicked off in Cambodia due to soaring fuel costs.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign’s reported recruitment of 2nd Sullivan",
+      "url": "https://www.cnbc.com/2026/11/01/alaska-senate-election-dan-sullivan-peltola.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "Everything changed for the oil, AI and bond trades over the past month",
+      "url": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "These Senate races may help determine the fate of Social Security",
+      "url": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
+      "url": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "I'm a psychologist who studies couples: People in the happiest relationships do 1 thing differently after time apart—whether it's hours, days or weeks",
+      "url": "https://www.cnbc.com/make-it/2026/11/01/reconnect-partner-after-time-apart.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "Thousands of jobs at Virgin Media O2 to be cut",
+      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "Energy bills help 'doesn't go far enough'",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "Diwali hampers to bring hope to families in need",
+      "url": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "How a small Wisconsin city scuttled a secretive $1.6bn datacenter project",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/wisconsin-city-menomie-meta-datacenter",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "National Grid to site biggest substation on Teesside, near planned AI datacentre",
+      "url": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "UK willing to spend £450m a year on EU students if it can join Made in Europe scheme",
+      "url": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "The measure slipped into UK budget that could protect spending on children, youth and rough sleeping | Heather Stewart",
+      "url": "https://www.theguardian.com/business/2026/nov/01/pdel-preventative-departmental-expenditure-limit-",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "High street ‘slot farms’ could avoid budget tax rise through bingo hall loophole",
+      "url": "https://www.theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "Haley Stevens endorses Mike Rogers amid Michigan Democratic feud",
+      "url": "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Behind the Curtain: OpenAI's post-election power play",
+      "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Why Florida Republicans are \"white-knuckled\" about Tuesday",
+      "url": "https://www.axios.com/2026/11/01/florida-republicans-anxiety-election",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Trump's election probes find an opening in Georgia",
+      "url": "https://www.axios.com/2026/11/01/trump-georgia-elections-justice-department-raffensper",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "Dems and GOP quietly bankroll dozens of third-party spoilers",
+      "url": "https://www.axios.com/2026/11/01/2026-midterms-spoiler-independent-third-party",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "They signed up for a lifetime at sea on an endless cruise. High gas prices intervened",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6022214/they-signed-up-for-a-lifetime-at-sea-on-an-endless-cruise-high-gas-prices-intervened",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "A new political era in the Southern Philippines",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6020639/a-new-political-era-in-the-southern-philippines",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "France seethes again as youth-led protests sweep Europe",
+      "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "Key takeaways from this week's political meeting in Beijing",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "The World’s Biggest Crypto Heist",
+      "url": "https://foreignpolicy.com/2026/10/30/binance-cryptocurrency-hack-north-korea/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "Russia the Disruptor",
+      "url": "https://foreignpolicy.com/2026/10/30/russia-war-ukraine-books-us-history-kinzer-haslam-notte/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "AI Isn’t a Revolution—Yet",
+      "url": "https://foreignpolicy.com/2026/10/30/artificial-intelligence-ai-revolution-technology-history-luddites/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "Fame, Fortune, and Murder in 1960s France",
+      "url": "https://foreignpolicy.com/2026/10/30/french-history-edward-chisholm-murder-paris-68-alain-delon-scandal/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "Is Netflix’s ‘The New Stanford Prison Experiment’ for Real?",
+      "url": "https://foreignpolicy.com/2026/10/30/netflix-new-stanford-prison-experiment-review/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "Serbia: Police chief arrested after election for abuse of office",
+      "url": "https://www.dw.com/en/serbia-police-chief-arrested-after-election-for-abuse-of-office/a-79823382?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "France opens attempted murder probe after protest attack",
+      "url": "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "Ukraine: Russian attacks leave tens of thousands without power",
+      "url": "https://www.dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "Ethnic Germans in Kazakhstan face legacy of the Soviet Union",
+      "url": "https://www.dw.com/en/ethnic-germans-in-kazakhstan-face-legacy-of-the-soviet-union/a-79754048?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "Germany news: Gen Z group calls for new protests",
+      "url": "https://www.dw.com/en/germany-news-gen-z-group-calls-for-new-protests/live-79814961?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "Frontier Airlines Likely Breached",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
+      "url": "https://www.ajupress.com/view/20261028171670308",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+      "url": "https://hackerbooks.org",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "Enlightenment 0.28.0 Release",
+      "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Apple’s HomeView could add security camera features",
+      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "A fully playable version of Portal prequel F-Stop leaked",
+      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "North Korea linked to massive Binance crypto heist",
+      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "New Zelda and GTA represent a games industry that no longer exists",
+      "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "The 30 Best Gifts for Star Wars Fans (2026)",
+      "url": "https://www.wired.com/gallery/best-star-wars-gifts/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
+      "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App",
+      "url": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500",
+      "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "8 Best Space Heaters (2026): Tested, Measured, and Mistreated",
+      "url": "https://www.wired.com/gallery/the-best-space-heaters/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Borderlands Mexico: Cabotage enforcements threatening cross-border trucking",
+      "url": "https://www.freightwaves.com/news/borderlands-mexico-cabotage-enforcements-threatening-cross-border-trucking",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 57,
+      "title": "Freight cycles are anything but regular",
+      "url": "https://www.freightwaves.com/news/freight-cycles-are-anything-but-regular",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 58,
+      "title": "Rail Rivalry: Schneider’s Bold Move to Norfolk Southern from CSX",
+      "url": "https://www.freightwaves.com/news/rail-rivalry-schneiders-bold-move-to-norfolk-southern-from-csx",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 59,
+      "title": "Unexpected Boom: Trailer Leasing Demand Hits Record Highs",
+      "url": "https://www.freightwaves.com/news/unexpected-boom-trailer-leasing-demand-hits-record-highs",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 60,
+      "title": "SAIA’s Record $982.5M Q3 Revenue | What’s Next?",
+      "url": "https://www.freightwaves.com/news/saias-record-982-5m-q3-revenue-whats-next",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 61,
+      "title": "News in Brief Podcast | Week 43 | Reliability, rates and port fee delay",
+      "url": "https://theloadstar.com/news-in-brief-podcast-week-43-reliability-rates-and-port-fee-delay/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 62,
+      "title": "CNBC: Stock market rocked as investors dump tech shares",
+      "url": "https://theloadstar.com/cnbc-stock-market-rocked-as-investors-dump-tech-shares/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 63,
+      "title": "United Parcel Service (UPS) Sees $15 Billion AI Data Centre Logistics Market - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVlpBaUFVRUxQOEFlbnIwLUJPODhUNEFyTHVRWDYtWFNrZXZhYmF0TXdHMmRzVmJpczVUVFItUDRlSkI1MG9VQ19ILXphenBLSF81dGRPRFhNQ3owemUwRVVjeTROZHRZOHNUQXc4SVIxT1V6aGlidzdDRWl0dUxnMVN4VDlTZERLMjF6Q2VfUUZvNkE?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 64,
+      "title": "[APK 2026] 'Tech beats tariffs': German industry chiefs demand faster reforms - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtb3RXZUgxc0JWQWo4aHRFWEtlQ2FWQUJ5NUJOa1VHWUNEblBKMG9wc2RzSXk1d2xVbzdpeW1QNmFuUFVHUFE1dDVkYjRkdnhtVDU4Qk1Xdw?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 65,
+      "title": "NHL Names DHL Official Shipping and Logistics Partner in European Partnership Deal - Sportscape Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU05Rc05aVTJzczhiQTJNeEhSNm1rckxhSE1lSE5ZUXBfTHhENEJ5MmttaVZYQk9ScUtGazdCX21iMkNyaFJxTXZlZU9JVFhTWENrMEdjMWwxVF9OMFJoUFF6SWNpMHNPY3BYU1FCRlcxMG40Zi1YajJKZVpsNW9vbGRQTERmYXc?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 66,
+      "title": "EU Deforestation Regulation (EUDR): A Guide for Businesses - DHL",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnB0MFdnbTNHTTcwa2pEdFlMeVJmZWZrcTVWZVA1LUZ3aDM0UDY2NFhvNTVzY0lQejg1SGpQNkE3LVpiV3o1SmNsRTdveGtRNEFRY3FaTTFiWll6ZGxJZWVBdzhoX3AyTWg1a3JEc01faFptRHFsaHQzZXdXNVhWV1ZqVUF1M2RFcTZCX2F0WW5WYUx5NjQ3VUtQVGRyZW1ROG5xbA?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 67,
+      "title": "Amazon scraps plan for drone delivery in Massachusetts community - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSVMxMURZaG55ZVhjUUN1VFR3Q2ZXT2dja3d4MDE3VG8tMUZVcm56UkI3dGVrZEFzTWNUREUyV0hwNUNZUU92MU9kYkU3WUFjNmgxb1hpdUY5Z05oWVRBNFYyZUFLaGNJQXA2UkxiTENxeXZfODYzbFJGdGxoa3FVaVRsdEp0czkweVRob1FRckJ5TXF3ejFDLUNuVVhlaEkyUFFWNQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 68,
+      "title": "The Real Estate That Amazon Is Repurposing As “Sub-Same Day” Delivery Stations - Substack",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEdqWlFVT3g2eVl0Vkg4Q0NwQlZGRFZwUGl1OHJ1ZUFXQmZDZ1N1ekVxRFl5aGc4UmdkMHVZWkN1UFc5aW5oU2JoeTR5RTJMMHhuR1JqQlZZd3EtOUo4MFBHTnJMNWdsWExDTW8zOFVVOUtrTGdCS3pYelVLOGVTdEY0eFhDdw?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 69,
+      "title": "Alexa for Shopping Can Pause Subscriptions and Change Delivery Settings - Forkast News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjA2OXpXLWIzek0yZE5tQ29BeDFxSE1sTlFKZHB0ZXBSNExYR2N5WGMzQ0VRNkVQbzdybU1UWmlQZTdCMENjZWQ2VUlFM0U5VDFWa3FzN0VFaWEzQlJwVERnTzBSNXhOLWc2ZU8yZGZ0YzVOdU9JajczR2JkZHNtVWNBcWxydk51bUNDazBiZTJNZTZaNGd4SQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 70,
+      "title": "Amazon: Keep It Simple, Buy The Dip (NASDAQ:AMZN) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95Q0VmbVN2TVJrY1d1bDJ4cm1jb2ZWQ3Q0V1pBMGVZSG5QXzBYN01kZTdNZ0ktWVpkMGpKOU9uRDJCTEdxM0ZqWlVPNDVIaVQzNmIxYTJZWk0wOGtGYUFqVWR6SXROS1paNlphQjZuNlJENGNOb1dCWGFB?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 71,
+      "title": "Amazon Prime Air Drone Delivery Launches in Nampa, Idaho - Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRDhuVVp5eGZTZDEzY1BPNU5rRnhIU0w5VXlTbFBpZ09WNWxuNTJudF9ERF9RdzRiRTJlVzdCMEpwOFdaemdTRW5sb2xlNlBQc3FwSkd0VmJQbi03Ymo4ZFJlNENaZm9QZlVWaEFmd2hleEh4MGY3cFNNalBSOTVDV2tjenowUEpnV2ZPdFFXMEh4YjQ2SHZHWmd5c0s?oc=5",
+      "source": "Amazon Logistics"
+    }
+  ]
+}
