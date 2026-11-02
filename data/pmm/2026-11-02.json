@@ -1,0 +1,339 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T19:52:58.100334+00:00",
+  "raw_text": "Alright, let's cut through the noise. Here's what actually matters today.\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\nHubSpot's latest research reveals 98% of marketing teams use AI, yet only 10% report transformational results, highlighting a critical \"AI maturity gap.\" The problem isn't adoption, it's impact, often compounded by unsustainable costs for agentic AI workflows. This signals a market shift from simply *having* AI to demanding *measurable, cost-efficient outcomes* from it. PMMs must pivot messaging from \"AI-powered\" to \"AI-driven business results\" with clear ROI. PMs need to design AI features for transformational impact and cost-efficiency (e.g., token usage) to ensure sustainable value. The one thing to act on or watch in the next 30 days is to audit your AI features and messaging: can you articulate a quantifiable, cost-effective business outcome for your ICP? [S3][S30][S42]\n\n---\n\n🎯 POSITIONING WATCH\n**Xmind 2027** — Rebrands its mind-mapping tool as an \"AI thinking partner.\" [S8][S55]\n- **Narrative angle:** Elevating a traditional productivity tool into an active, collaborative AI brain, focused on augmenting human thought and ideation.\n- **ICP signal:** Knowledge workers, strategists, and creative professionals who need more than just organization—they need idea generation and synthesis.\n- **What's sharp:** The phrase \"AI thinking partner\" is sticky and clearly differentiates from generic mind mapping.\n- **What's fuzzy:** Without specific examples, \"AI thinking partner\" is vague. What *exactly* does it do to help you \"think\"?\n- **Steal this:** Use a strong, active descriptor like \"AI [action verb] partner\" to reframe an existing product with AI capabilities, rather than just saying \"AI-powered.\"\n\n**Readwise Books** — Launches a new app combining an ebook store, reading tracker, detailed stats, and AI features to challenge Amazon's Kindle and Goodreads. [S21]\n- **Narrative angle:** A more intelligent, integrated, and feature-rich reading ecosystem for serious book lovers, moving beyond basic consumption to deeper engagement and insight.\n- **ICP signal:** Avid readers, researchers, and students who want to maximize learning and retention from their reading, and leverage AI for insights.\n- **What's sharp:** Directly positioning against Amazon's established ecosystem signals confidence and a clear value proposition for a specific niche.\n- **What's fuzzy:** \"AI features\" is generic. What specific AI capabilities make it superior to existing reading apps or tools?\n- **Steal this:** Don't shy away from naming the market leader you're challenging if you have a clear, differentiated value for a specific segment.\n\n**Ford** — Launches a \"privacy promise\" vowing never to sell customer driving data to data brokers. [S15][S47]\n- **Narrative angle:** Rebuilding trust and differentiating on ethical data practices in an industry facing scrutiny over data sharing. The core message is \"your data is safe with us.\"\n- **ICP signal:** Car owners, particularly those concerned about digital privacy and seeking transparency from automakers.\n- **What's sharp:** A direct, explicit commitment to *not* sell data, addressing a clear pain point and recent industry blowback head-on.\n- **What's fuzzy:** While \"clear and easy-to-understand information\" is promised, the specifics of *how* data is aggregated/anonymized and used for \"safety\" still need detailed explanation.\n- **Steal this:** In an era of data privacy concerns, if your product handles sensitive user data, an explicit, proactive \"privacy promise\" can be a powerful differentiator and trust-builder.\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n**New York Times vs. Brave web browser**\n- **What changed:** The NYT and other media outlets are suing Brave for allegedly scraping copyrighted content to train AI models and for enabling users to bypass paywalls. [S13][S20]\n- **Why they did this now:** Media companies are asserting their content ownership rights in the AI era. They're betting on legal precedent to protect their revenue models against AI models that consume their content without compensation, and browsers that facilitate access without payment.\n- **PMM action item:** Review your product's data sourcing policies. If your product relies on scraping public web data, identify potential legal risks and prepare messaging around data ethics, compliance, and content licensing.\n- **Battlecard update needed?** Yes — Add a \"Content Sourcing & IP Risk\" section, detailing how competitors acquire and use content, especially for AI features, and any associated legal challenges.\n\n**Anthropic vs. AI game cloning**\n- **What changed:** Anthropic updated Claude Code's system prompt to explicitly prevent its use for directly cloning existing video games, instead encouraging original game creation. [S16]\n- **Why they did this now:** Anthropic is betting on proactive self-regulation to avoid IP infringement lawsuits and maintain a positive reputation in the creative AI space. They're positioning Claude as a tool for *original creation*, not replication or copyright infringement.\n- **PMM action item:** If your AI product can generate creative content, review your usage policies and messaging. Position your tool as a partner for *originality* and clearly define ethical boundaries to mitigate IP risks and attract responsible users.\n- **Battlecard update needed?** Yes — Add an \"Ethical AI Use & Guardrails\" section, comparing how different AI models address IP, deepfakes, and potential misuse.\n\n---\n\n🚀 LAUNCH DISSECTION\n**Xmind 2027 by Xmind** [S8][S55]\n- **Launch tier:** T2 — Positioned as a significant evolution for an existing, established product with new AI integration. This feels appropriate for its actual impact.\n- **Core message:** \"Your mind map is now an AI thinking partner.\"\n- **GTM channels used:** Product Hunt (implying social, community, possibly email to existing users).\n- **Sales readiness signal:** No direct mention of enablement content, but as a new version of a mature product, it likely leverages existing sales channels and materials.\n- **Buyer emotion targeted:** Ambition (to be more productive, generate better ideas, accelerate thought processes), Frustration (with static mind maps or needing external tools for ideation).\n- **What worked:** The \"AI thinking partner\" framing is strong and aspirational, clearly indicating a shift from a passive tool to an active collaborator. It's concise and intriguing.\n- **What's missing:** Specific, tangible use cases or examples of *how* the AI acts as a \"thinking partner.\" What types of prompts, outputs, or interactions should users expect? \"AI features\" is too vague to demonstrate concrete value.\n- **If you were the PMM:** I'd launch with short, punchy demo videos showcasing specific, tangible AI-driven workflows (e.g., \"AI helps brainstorm 10 new business ideas for X,\" or \"AI summarizes complex research into a mind map structure\") to make the \"thinking partner\" concrete and immediately useful.\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n**HubSpot Marketing — AI maturity in marketing: What the research reveals** [S3]\n- **The core argument:** Most marketing teams use AI, but few achieve transformational results because they lack \"AI maturity,\" which is the consistent ability to turn AI into measurable business outcomes. Adoption isn't the problem; impact is.\n- **Community reaction:** Resonating. This aligns with many teams' struggles to move beyond basic AI experimentation to tangible ROI.\n- **The sharpest counter-take:** Some argue \"AI maturity\" is just a new buzzword for \"good strategy & execution,\" and the tools themselves are still too nascent for truly transformational, consistent results for everyone.\n- **Worth engaging?** Yes — This is a critical discussion for PMMs trying to prove AI value internally and externally.\n\n**Lenny's Newsletter — How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)** [S6]\n- **The core argument:** Figma PMs built a shared \"PM OS\" using AI (like Claude Code) for 31 specific skills, moving beyond individual experimentation to systemic, daily use for tasks like bug bashing, writing, and growth experiments.\n- **Community reaction:** Resonating, especially among PMs seeking practical, real-world AI applications beyond generic chatbots. The idea of a shared \"PM OS\" is appealing.\n- **The sharpest counter-take:** Some question the \"laziness\" framing, suggesting it downplays the significant effort required to build and maintain such a system, and that bespoke setups might not scale to all teams.\n- **Worth engaging?** Yes — Great for PMs looking for concrete AI workflows, and PMMs thinking about how to productize \"AI assistance\" for specific personas.\n\n**Product Marketing Alliance — How Laura Kaminski rewrote a product narrative from scratch** [S9]\n- **The core argument:** Product narratives drift from market reality when products evolve, sales finds new customer priorities, or new segments emerge. Rewriting from scratch is necessary when the existing story no longer matches what the market cares about.\n- **Community reaction:** Resonating. Many PMMs face the challenge of outdated narratives, especially in fast-moving markets or with evolving products.\n- **The sharpest counter-take:** Some argue a full \"rewrite from scratch\" is often overkill; a continuous, iterative narrative refinement process is more agile and less disruptive.\n- **Worth engaging?** Yes — Essential PMM topic. Provides a good framework for assessing narrative health and planning strategic shifts.\n\n**MIT Technology Review — Stop counting tokens, start counting what ships** [S42]\n- **The core argument:** Per-token AI pricing makes valuable agentic workflows (which use many tokens for planning, testing, iteration) prohibitively expensive, illustrated by Uber exhausting its AI budget. The focus should shift from token count to shipped value.\n- **Community reaction:** Resonating strongly with PMs and engineering leaders who are grappling with AI infrastructure costs and ROI.\n- **The sharpest counter-take:** While value matters, token count is a tangible metric. Until models become significantly more efficient or pricing shifts, managing token usage is a necessary evil.\n- **Worth engaging?** Yes — Crucial for PMs designing AI features and PMMs considering AI pricing models.\n\n---\n\n💡 USE CASE OF THE DAY\n**AI-Assisted PM Writing & Bug Bashing** [S6]\nCategory: Content / Discovery / Roadmapping\nRole: PM\n\nThe workflow:\nStep 1: **Feed Claude Code a bug report, code snippets, or user feedback** with a prompt asking for potential root causes or solutions.\nStep 2: **For writing, provide a rough draft of a document** (e.g., spec, user story, email) and ask Claude Code to refine, rephrase, or expand on specific sections, aligning with a given tone or goal.\nStep 3: **Receive AI-generated suggestions** for bug analysis or polished written content, then review and integrate.\n\nTools used: Claude Code\nTime to complete: 5-15 minutes per task (after initial setup)\nOutput you get: Faster bug diagnosis, clearer and more concise product documentation or communications.\nWhy it matters now: PMs are under pressure to move faster and communicate more effectively; AI agents can offload cognitive load on repetitive or detail-heavy tasks.\n\nPrompt or template (if AI-assisted):\n`For Bug Bashing: \"Analyze this bug report: [paste bug report]. Given this code snippet: [paste code]. Suggest 3 likely root causes and 2 potential solutions.\"`\n`For Writing: \"Refine the following product spec for clarity, conciseness, and user-centric language. Ensure it highlights the user problem and proposed solution clearly. [paste spec text]\"`\n\n---\n\n📚 LEARNING PICK OF THE DAY\n**AI maturity in marketing: What the research reveals** — HubSpot Marketing [S3]\nWhat it's about: New 2026 research from HubSpot shows that while 98% of marketing teams now use AI, only 10% report transformational results. The key is \"AI maturity,\" which measures how consistently a team turns AI into measurable business outcomes, rather than just the number of tools or pilots launched.\n3 actionable takeaways:\n1.  **Audit your AI usage for impact:** Don't just track how many AI tools your team uses; track the *measurable business outcomes* (e.g., revenue, lead quality, customer satisfaction) directly attributable to AI. If you can't, stop using those tools or redefine their purpose.\n2.  **Focus on specific, high-leverage AI use cases:** Instead of broad \"AI strategy,\" identify 2-3 areas where AI can truly move the needle for your GTM, and invest deeply in those, measuring before and after.\n3.  **Educate your team on \"outcome-driven AI\":** Shift internal conversations from \"what AI can do\" to \"what business problem can AI solve for us, and how will we measure it?\"\nWho should read this: PMM / PM — Senior to Lead stage\nRead time: 10-15 minutes\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n**Quality of Insights in Agentic Analytics** [S25]\n- **What was found or demonstrated:** A survey found that fewer than half of agent-generated insights currently lead to business improvement. While descriptive insights from agents are praised, the quality of *prescriptive* (actionable recommendation) insights leaves much to be desired.\n- **The method used:** Survey of organizations actively using agentic AI for analytics.\n- **How it changes or validates current best practice:** This validates the critical need for human oversight and critical evaluation of AI outputs, especially for strategic recommendations. It challenges the idea that AI agents can fully automate complex decision-making without significant human refinement or validation.\n- **PM action item:** When designing AI agent features that offer \"insights\" or \"recommendations,\" prioritize clarity and auditability of the *descriptive* data. For *prescriptive* suggestions, implement features that allow users to easily validate, modify, or reject recommendations, and provide transparent reasoning from the AI. Don't just spit out answers; show the work and enable human judgment.\n\n---\n\n💼 PMM/PM JOBS PULSE\nNo job listings were provided in today's data.\n\nThis means we can't draw any conclusions about specific roles or companies hiring today. It's either a quiet day for public listings, or the provided data sources didn't include relevant job board information.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n**Marvell — Buys Lumentum for $115B** [S19]\n- **What they do:** Marvell (semiconductor solutions) acquires Lumentum (optical and photonic products). This is a massive play in core infrastructure components.\n- **GTM motion:** Enterprise / Partner-led\n- **What this signals about B2B investment direction:** Significant consolidation in foundational deep tech. Companies are buying up critical components and IP to control supply chains and deepen their technology stack, especially with Nvidia as a strategic investor in both.\n- **PMM implication:** If you're in hardware or deep tech, expect more consolidation. Understand your ecosystem partners and potential acquirers. Highlight vertical integration or unique IP as key differentiators.\n- **PM implication:** Focus on core technology and defensible IP. Consider how your product roadmap aligns with larger ecosystem plays and potential M&A targets.\n\n**Northwood Space — $375M Series C at a $2B valuation** [S36]\n- **What they do:** A space infrastructure company.\n- **GTM motion:** Enterprise / Vertical SaaS (space industry)\n- **What this signals about B2B investment direction:** Continued strong investment in specialized, high-tech infrastructure, particularly in the burgeoning space economy. Big bets are being placed on long-term, capital-intensive markets.\n- **PMM implication:** If you're in a niche, high-growth sector, emphasize the foundational nature and long-term vision of your product. Prepare for hyper-growth messaging that highlights scalability and future potential.\n- **PM implication:** Focus on scalability, reliability, and securing competitive advantage through proprietary technology in specialized, high-stakes markets.\n\n**42AI — $62.5M (comes out of stealth)** [S29]\n- **What they do:** Develops a \"world model\" that claims to predict human behavior.\n- **GTM motion:** Likely Enterprise / Sales-led (high-touch for complex, advanced AI solutions)\n- **What this signals about B2B investment direction:** Significant interest in advanced AI models that move beyond language generation to predictive analytics and simulated environments for complex decision-making. Investors are betting on the next frontier of AI.\n- **PMM implication:** Start preparing for messaging around \"predictive intelligence\" and \"behavioral AI.\" Understand the ethical considerations and build trust in these advanced AI capabilities.\n- **PM implication:** Explore how \"world models\" could inform product strategy, user behavior prediction, and new feature development. Ethical AI design will be paramount.\n\n**Omen AI — Acquires Aquatic Labs for $16M** [S34]\n- **What they do:** Omen AI (AI for data center cooling) acquires Aquatic Labs (liquid cooling expertise).\n- **GTM motion:** Enterprise / Sales-led / Vertical SaaS (data center infrastructure)\n- **What this signals about B2B investment direction:** Niche, specialized AI applications solving critical infrastructure problems (like data center power/cooling) are attracting investment and consolidation. Efficiency and sustainability are key drivers.\n- **PMM implication:** Highlight specific, measurable efficiency gains and environmental impact for niche enterprise solutions. Focus on deep vertical expertise and problem-solving.\n- **PM implication:** Focus on deep vertical expertise and solving specific, high-value problems within a specialized industry. Look for opportunities to integrate adjacent technologies through M&A.\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n**Xmind 2027** — Mind map now an \"AI thinking partner\" with new AI features. [S8][S55]\n- **Category:** Content / Ideation / Productivity\n- **Best for:** Both\n- **Free tier:** Unspecified, likely trial or freemium model as a mature product.\n- **Honest take:** Looks like a meaningful update for an established tool, genuinely adding AI capabilities to enhance ideation and collaboration beyond basic mapping.\n- **Who should try it this week:** PMMs brainstorming GTM plans or content ideas; PMs mapping out user flows or feature trees.\n\n**Scrunch** — Dedicated Answer Engine Optimization (AEO) tool. [S4]\n- **Category:** Competitive Intel / Content / GTM Strategy\n- **Best for:** PMM\n- **Free tier:** Unspecified, likely trial.\n- **Honest take:** A genuinely new category of tool emerging for a specific AI-driven marketing challenge (AEO). This isn't just a feature; it's a specialized solution to a growing problem.\n- **Who should try it this week:** PMMs whose content strategy relies heavily on search visibility and need to understand and optimize performance in AI answer engines.\n\n---\n\n⚡ SPEED ROUND\n🍎 Apple Watch Ultra 4 is $100 off, hitting an all-time low. [S12]\n📉 Squarespace lays off 19% of employees (around 300) in a \"simplification\" effort. [S11][S26]\n🤖 Elon Musk throttles Grok Bot limits due to \"unsustainably high\" costs. [S30]\n📰 NYT and others sue Brave browser over alleged AI scraping and paywall bypass. [S13][S20]\n💡 OpenAI is finally merging ChatGPT’s Chat and Work tabs for unified usage. [S41]\n🏡 Apple's \"Ultra\" smart home robot launch possibly delayed until 2028 due to software issues. [S23]\n🚗 Ford promises not to sell customer driving data to data brokers with new \"privacy promise.\" [S15][S47]\n🎮 Anthropic updated Claude Code to prevent direct AI video game cloning, encouraging original work. [S16]\n📈 Wi-Fi 8 routers are officially here with the Asus ROG Rapture GT-BN98 Pro. [S28]\n🏭 OpenAI pitches data center power plants as \"Grid Protectors Program\" to benefit local communities. [S18]\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\n**Craft an \"AI-Driven Outcome\" Message**\nRole focus: PMM\n\nThe setup: Your company just launched an \"AI-powered\" feature. The HubSpot research today [S3] shows that buyers care less about \"AI-powered\" and more about \"AI maturity\" – measurable business outcomes. You need to rewrite your messaging to reflect this.\n\nWhat to do:\nStep 1: Pick one existing \"AI-powered\" feature from your product.\nStep 2: Go to your product's landing page or a recent launch announcement. Find the description of this feature.\nStep 3: Using Claude or your preferred AI, draft 3 alternative messaging options that focus on a *measurable business outcome* for a specific ICP, rather than just the AI capability itself.\n\nThe exact prompt or template:\n`I am a PMM. My company sells [Your Product Category] to [Your ICP]. We recently launched an AI feature called [Feature Name], currently described as \"[Current Feature Description]\". Based on recent market research, buyers are looking for measurable business outcomes from AI, not just \"AI-powered\" capabilities. Draft 3 alternative marketing messages for this feature, each focusing on a specific, quantifiable business outcome for our ICP. `\n`Example: Current: \"AI-powered data analysis.\" New: \"Reduce data analysis time by 50% for enterprise analysts, freeing up bandwidth for strategic insights.\"`\n\nWhat good looks like vs. mediocre:\nGood: Messages clearly state a quantifiable benefit (e.g., \"reduces X by Y%\", \"increases Z by W%\", \"saves T hours per week\") and target a specific persona's pain point.\nMediocre: Messages still broadly describe what the AI *does* (\"AI identifies trends,\" \"AI automates reports\") without linking to a specific, measurable result or benefit.\n\nWhy this skill matters in the next 6 months: As AI becomes ubiquitous, buyers will demand clear ROI. PMMs who can articulate this will drive adoption and differentiate their products.\nTime: 15 minutes or less.\n\n---\n\n🧠 EDGE INSIGHT\nThe market is currently experiencing a massive \"AI maturity gap\" – everyone's playing with AI, but few are actually winning with it. This isn't just about the tools; it's about the entire GTM motion catching up to the reality of AI. On one side, companies are pouring billions into foundational AI (Marvell, Northwood, 42AI), developing increasingly powerful agents. On the other, the practicalities are hitting hard: costs are unsustainable (Grok, token counting), ethical and legal lines are being drawn (Anthropic, NYT lawsuits), and users are struggling to translate \"AI-powered\" into \"business-transforming.\" We're witnessing a critical pivot from the *hype of possibility* to the *challenge of practical, responsible, and profitable implementation*. PMMs and PMs need to shift from simply adding \"AI\" to their product or narrative, to rigorously proving its *measurable, cost-effective, and ethical value* for specific, tangible outcomes. This is the new battleground for relevance and revenue.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 2,
+      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
+      "url": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 3,
+      "title": "AI maturity in marketing: What the research reveals",
+      "url": "https://blog.hubspot.com/marketing/ai-maturity",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 4,
+      "title": "Scrunch vs. Semrush: Which tracks AI visibility better?",
+      "url": "https://blog.hubspot.com/marketing/scrunch-vs-semrush",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 5,
+      "title": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 6,
+      "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
+      "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 7,
+      "title": "Help",
+      "url": "https://www.producthunt.com/products/help-381",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "Xmind 2027",
+      "url": "https://www.producthunt.com/products/xmind",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 9,
+      "title": "How Laura Kaminski rewrote a  product narrative from scratch",
+      "url": "https://www.productmarketingalliance.com/product-narrative-from-scratch/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 10,
+      "title": "Friday Work",
+      "url": "https://www.producthunt.com/products/friday-work",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 11,
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 12,
+      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+      "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 13,
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 14,
+      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 15,
+      "title": "Ford promises not to sell your driving habits to data brokers",
+      "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+      "source": "The Verge"
+    },
+    {
+      "id": 16,
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "source": "The Verge"
+    },
+    {
+      "id": 17,
+      "title": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
+      "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+      "source": "The Verge"
+    },
+    {
+      "id": 18,
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "source": "The Verge"
+    },
+    {
+      "id": 19,
+      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+      "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 20,
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source": "The Verge"
+    },
+    {
+      "id": 21,
+      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 22,
+      "title": "A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress",
+      "url": "https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/",
+      "source": "Wired"
+    },
+    {
+      "id": 23,
+      "title": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
+      "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+      "source": "The Verge"
+    },
+    {
+      "id": 24,
+      "title": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
+      "url": "https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/",
+      "source": "Wired"
+    },
+    {
+      "id": 25,
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 26,
+      "title": "Squarespace is laying off 19 percent of employees",
+      "url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
+      "source": "The Verge"
+    },
+    {
+      "id": 27,
+      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+      "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 28,
+      "title": "Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8",
+      "url": "https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/",
+      "source": "Wired"
+    },
+    {
+      "id": 29,
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 30,
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 31,
+      "title": "Why Peacock is making a huge bet on YouTube",
+      "url": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+      "source": "The Verge"
+    },
+    {
+      "id": 32,
+      "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
+      "url": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
+      "source": "The Verge"
+    },
+    {
+      "id": 33,
+      "title": "Here’s How the Trump Administration Is Trying to Undermine the Election",
+      "url": "https://www.wired.com/story/the-trump-administration-is-wreaking-havoc-on-the-electoral-system-before-the-midterms/",
+      "source": "Wired"
+    },
+    {
+      "id": 34,
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 35,
+      "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
+      "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 36,
+      "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
+      "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 37,
+      "title": "Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers",
+      "url": "https://www.wired.com/story/mustard-made-sale-october-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 38,
+      "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
+      "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 39,
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 40,
+      "title": "Birdbuddy vs. Birdfy: Which Budget Smart Feeder Should You Buy? (2026)",
+      "url": "https://www.wired.com/story/birdbuddy-nook-vs-birdfy-rookie/",
+      "source": "Wired"
+    },
+    {
+      "id": 41,
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 43,
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 44,
+      "title": "18 Best Gifts for PC Gamers (2026): Headsets, Desks, Monitors",
+      "url": "https://www.wired.com/gallery/gift-ideas-for-pc-gamers/",
+      "source": "Wired"
+    },
+    {
+      "id": 45,
+      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+      "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+      "source": "Wired"
+    },
+    {
+      "id": 46,
+      "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
+      "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+      "source": "Wired"
+    },
+    {
+      "id": 47,
+      "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+      "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 48,
+      "title": "My Journey to the Center of America’s Political Spam Text Hell",
+      "url": "https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/",
+      "source": "Wired"
+    },
+    {
+      "id": 49,
+      "title": "4 Best Alexa Speakers I’ve Tested (2026)",
+      "url": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/",
+      "source": "Wired"
+    },
+    {
+      "id": 50,
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "source": "Wired"
+    },
+    {
+      "id": 51,
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 52,
+      "title": "Borrowed reading: stories from our extended colleagues",
+      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 53,
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 54,
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 55,
+      "title": "Xmind 2027",
+      "url": "https://www.producthunt.com/products/xmind",
+      "source": "Product Hunt"
+    }
+  ]
+}
