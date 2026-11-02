@@ -1,0 +1,543 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T21:30:25.250393+00:00",
+  "raw_text": "Yo, what up? Monday morning, Nov 2, 2026. Let's rip through what's cooking.\n\n---\n\n**Money Talk**\n\n- **Trump waves white flag on midterms, shifts focus to reflecting pools.**\n  In his final pre-election speech, the Prez seemed to hint Democrats have an advantage, basically saying \"we gave it a strong shot.\" He then spent most of his time talking about the Reflecting Pool project. Read the room, maybe? [S1][S17]\n- **Oracle drops $20B to go all-in on AI.**\n  Larry Ellison's crew is filing to sell new stock and bonds, aiming to raise a cool $20 billion to fund their massive artificial intelligence buildout. This isn't small potatoes; everyone's chasing that AI gold rush, and Oracle's putting serious chips on the table. [S3][S37]\n- **Palantir's commercial arm overtakes government contracts.**\n  Big news for Palantir, whose U.S. commercial revenue surged 148% to $984 million, finally surpassing their long-standing government revenue. Looks like their AI for enterprises is actually catching on, diversifying their bag beyond defense. [S4]\n- **Cyberattack thaws European supermarket freezers, ruins tons of food.**\n  Dozens of supermarkets in seven European countries got hit by a cyberattack that cranked freezer temps up to 50C. Imagine the waste – piles of food now useless. This is a massive hit to supply chains and a wake-up call for critical infrastructure security. [S6][S7][S35]\n- **Oil prices dip as Iran war de-escalation hopes rise.**\n  Brent crude fell more than 6% to its lowest in two weeks, hitting $105.55 a barrel. The market's reacting to whispers of a potential breakthrough to end the US-Israel war with Iran. Geopolitics directly hitting your gas tank. [S15]\n\n---\n\n**World Lore**\n\n- **Gulf states on edge as Qatar mediates Iran war fears.**\n  The entire Gulf region is bracing for potential U.S. attacks on Iran post-midterms, with Qatar scrambling for intense mediation efforts. The U.S. military apparently has \"profound\" long-term readiness concerns, making a renewed war a \"huge gamble.\" Tensions are running high. [S21][S25][S26][S33]\n- **Trump takes California ballot claims to Supreme Court, again.**\n  The Trump administration asked SCOTUS to block over 20,000 California ballots from alleged non-citizens. Multiple courts and independent analyses have already rejected these claims, but apparently, some battles never die. [S20][S31]\n- **UN peacekeeping mission in Western Sahara ends after 35 years.**\n  The United Nations wrapped up its decades-long peacekeeping mission in the disputed Western Sahara region on Sunday. It was once ruled by Spain, now both Morocco and the Polisario Front claim it. Here's hoping 35 years of peace doesn't just evaporate. [S23]\n- **France weighs banning \"Fox News-like\" channel CNews.**\n  A petition to ban CNews, often compared to Fox News for its anti-immigrant sentiment, has amassed 500,000 signatures. Support surged after a shooting by a reported avid viewer. This is a spicy debate on media influence and free speech in Europe. [S32]\n\n---\n\n**Tech Tea**\n\n- **Anthropic makes eye-watering $900B AI spending commitment pre-IPO.**\n  Before even hitting the public markets, AI powerhouse Anthropic has revealed a staggering $900 billion in AI spending commitments. That's a \"go big or go home\" strategy, implying an absolutely colossal market opportunity (or pure hubris). [S36]\n- **Marvell acquires Lumentum for $115B in mega AI infrastructure deal.**\n  In one of tech history's largest acquisitions, Marvell is buying Lumentum for $115 billion. Both companies share Nvidia as a strategic investor, signaling a huge push into AI connectivity and the underlying hardware fueling the AI boom. [S5][S45]\n- **New York Times sues Brave browser for alleged content scraping.**\n  The Gray Lady isn't playing nice, suing privacy-focused Brave browser for allegedly scraping its copyrighted content and distributing it to AI customers like Anthropic and Perplexity. This is a landmark battle for how AI companies can (or can't) ingest public web data. [S43]\n- **Google cuts ties after Android partner turns 1.3M devices into a botnet.**\n  Yikes. One of Google's Android manufacturing partners, China-based Videostrong, secretly built a backdoor into 1.3 million set-top boxes and weaponized them into a botnet. Google says they've dismantled it and \"cut ties.\" Lesson learned: supply chain security matters, even for firmware. [S47]\n- **Meta to end Quest 2 and Pro OS updates by 2027.**\n  Meta announced its Quest 2 and Quest Pro VR headsets will get their last OS update by March 2027. They'll still push security patches, but for cutting-edge VR, you'll be looking at newer hardware. Planned obsolescence hitting the metaverse. [S46]\n\n---\n\n**Creator Szn**\n\n- **News orgs build custom APIs to feed their journalism to AI agents.**\n  People Inc. is going for custom APIs, Forbes adopted Markdown, and the FT and Daily Mail are scoping how AI agents can access subscriber content. The media world is scrambling to control (and monetize) how AI consumes their news, trying to get ahead of the scraping game. [S56]\n- **Giggly Squad's SiriusXM deal highlights shift to creator ecosystems.**\n  The podcast game is officially evolving. Giggly Squad's new SiriusXM deal shows a move away from traditional podcast networks towards creator ecosystems that span video, short-form content, and even IRL shows. It's about building a multi-platform empire, not just audio. [S57]\n- **Alexa drives big spending, 400M+ customers shop with voice.**\n  Amazon dropped stats saying over 400 million customers have used Alexa for shopping in the last year, and they spend 50% more than non-Alexa shoppers. Voice commerce isn't a gimmick; it's a significant channel driving serious retail dollars. [S59]\n- **Google Search's ad dominance gets questioned by media buyers.**\n  For years, Google Search was the untouchable line item for ad buyers. Now, that's changing. Agencies are starting to question its default status, signaling a potential shift in how brands allocate their digital ad spend. Diversification is the new black. [S58]\n\n---\n\n**Supply Lines**\n\n- **Walmart pours $6B into Symbotic automation for DCs.**\n  The retail giant is making a huge bet on the future, committing $6 billion to deploy Symbotic's AI-powered automation technology across 25 regional distribution facilities. This is all about boosting speed, efficiency, and inventory replenishment, which means faster restocks and potentially quicker deliveries to you.\n- **FedEx launches new aircraft engine logistics service.**\n  FedEx is taking to the skies in a big way, debuting a specialized logistics service for aircraft engines. With demand for jet engines growing, this move caters to highly specialized aerospace shipments, leveraging their air cargo network for heavy, high-value components.\n- **Amazon preps for peak with 300K seasonal hires, but paid more for Q3 freight.**\n  Amazon is staffing up with 300,000 seasonal employees for the holiday rush, indicating strong demand expectations. However, like many other large retailers, they also reported paying more for freight in Q3, battling shipping inflation alongside isolated inventory delays.\n- **ZET Scale places largest-ever order for 2,500 Tesla Semis.**\n  A shipper alliance called ZET Scale just put in the largest electric truck order in U.S. history, snagging 2,500 Tesla Class 8 trucks. This \"demand aggregation program\" is a big step towards solving the electric truck \"chicken and egg\" problem by creating serious market demand.\n- **Bangladesh garment worker protests threaten export deadlines.**\n  Labor protests have halted production at around 690 garment factories in Bangladesh, severely disrupting cargo movements to Chittagong port. This is putting immense pressure on delivery schedules and risking missed export deadlines for international brands.\n- **Ocean disruption fails to offer windfall for airfreight, DSV warns.**\n  Despite ongoing disruptions in ocean shipping, DSV says it's not seeing a large-scale switch to airfreight. The reason? The emergency lift costs are simply too high, keeping most shippers with their containers at sea, even if it means delays.\n\n---\n\n**Speed Round**\n\n- Trump's pre-midterm speech was apparently all about the Reflecting Pool and new White House helipad.\n- Prediction markets show the Texas governor's race tightening, but Abbott's still favored.\n- The internet is currently obsessed with viral predictions of the end of the world.\n- Senate GOP super PACs nearly tripled streaming and social media ad spending to over $200 million this election cycle.\n- British Gas is back to force-fitting prepay meters after that record £112M settlement.\n- A legendary board game called \"Campaign for North Africa\" could literally take decades to finish.\n- The Apple Watch Ultra 4 is $100 off at Amazon, matching its best price to date.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
+      "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+      "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+      "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+      "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "Poundland's former owner offers to invest as minister prepares to meet board",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "British Gas resumes force-fitting prepay meters months after £112m settlement",
+      "url": "https://www.theguardian.com/money/2026/nov/02/british-gas-resume-force-fitting-prepayment-meters-months-after-112m-settlement",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "Shabana Mahmood softens immigration plans in face of cabinet backlash",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/02/shabana-mahmood-softens-immigration-plans-cabinet-backlash-leave-to-remain",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "Control of Britain’s 39m smart meters passes to non-profit startup",
+      "url": "https://www.theguardian.com/environment/2026/nov/02/control-of-britains-39m-smart-meters-passes-to-non-profit-startup",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "Brickmaker’s woes deepen the UK housebuilding gloom",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/02/brickmakers-woes-deepen-the-uk-housebuilding-gloom",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+      "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "Trump to Axios: \"No rush\" to decide on bombing Iran again",
+      "url": "https://www.axios.com/2026/11/02/trump-axios-interview-no-rush-resume-war",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Trump pre-election pitch: Reflecting Pool, pipes and a new promenade",
+      "url": "https://www.axios.com/2026/11/02/trump-dc-projects-reflecting-pool-speech",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Scoop: Senate GOP makes massive bet on streaming",
+      "url": "https://www.axios.com/2026/11/02/senate-republicans-super-pac-slf-streaming-social",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "The internet's latest obsession: The end of the world",
+      "url": "https://www.axios.com/2026/11/02/doomsday-apocalypse-iran-war-ai-financial-insecurity",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "Trump administration turns to SCOTUS in California ballot case",
+      "url": "https://www.axios.com/2026/11/02/trump-supreme-court-california-ballots-case",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+      "url": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "This legendary board game could take decades to complete",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "Reigniting War With Iran Would Be a ‘Huge Gamble’",
+      "url": "https://foreignpolicy.com/2026/11/02/trump-iran-war-midterms-military-readiness-missiles-capabilities/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "Washington Is Debating the Wrong AI Risk",
+      "url": "https://foreignpolicy.com/2026/11/02/ai-risk-washington-intelligence-iran-war/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "A New USAID Can Be Smarter and Sharper",
+      "url": "https://foreignpolicy.com/2026/11/02/usaid-doge-grants-development/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "Lula’s Succession Race Starts Now",
+      "url": "https://foreignpolicy.com/2026/11/02/brazil-election-lula-age-workers-party-fonteles/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "Don’t Read Too Much Into These Midterms",
+      "url": "https://foreignpolicy.com/2026/11/02/midterms-foreign-policy-results/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "Trump asks Supreme Court to block 20,000 California midterm ballots",
+      "url": "https://www.dw.com/en/trump-asks-supreme-court-to-block-20-000-california-midterm-ballots/a-79833739?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "France: Petition to ban TV channel gets 500,000 signatures",
+      "url": "https://www.dw.com/en/france-petition-to-ban-tv-channel-gets-500-000-signatures/a-79833215?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "What might Trump have planned for Iran following the midterm election?",
+      "url": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "Ice hockey officials considering options after CAS order to reinstate Russia",
+      "url": "https://www.dw.com/en/ice-hockey-officials-considering-options-after-cas-order-to-reinstate-russia/a-79831451?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "European supermarkets targeted in second reported cyberattack",
+      "url": "https://www.dw.com/en/european-supermarkets-targeted-in-second-reported-cyberattack/a-79831139?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+      "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "SOML – A Config Format for Humans",
+      "url": "https://github.com/soml-lang/soml",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+      "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Meta will end Quest 2 OS updates in 2027",
+      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+      "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Ford promises not to sell your driving habits to data brokers",
+      "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal",
+      "url": "https://www.wired.com/story/dyson-vacuum-deals-nov-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
+      "url": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress",
+      "url": "https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
+      "url": "https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8",
+      "url": "https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "People Inc. is building custom APIs to make its journalism easier for AI agents to use",
+      "url": "https://digiday.com/media/people-inc-is-building-custom-apis-to-make-its-journalism-easier-for-ai-agents-to-use/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "Giggly Squad’s SiriusXM deal signals a shift from podcast networks to creator ecosystems",
+      "url": "https://digiday.com/media/giggly-squads-siriusxm-deal-signals-a-shift-from-podcast-networks-to-creator-ecosystems/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "Google search loses its free pass with buyers",
+      "url": "https://digiday.com/marketing/google-search-loses-its-free-pass-with-buyers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "Amazon says more than 400M customers have used Alexa for Shopping in the last 12 months",
+      "url": "https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "Media Buying Briefing: Overheard at Media Buying Summit: How AI is helping and hurting client relations and office work",
+      "url": "https://digiday.com/media-buying/media-buying-briefing-overheard-at-media-buying-summit-how-ai-is-helping-and-hurting-client-relations-and-office-work/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 61,
+      "title": "Waiting on EPA ‘27 rule, Rush says it might not be soon",
+      "url": "https://www.freightwaves.com/news/waiting-on-epa-27-rule-rush-says-it-might-not-be-soon",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 62,
+      "title": "SONAR SCI: Custom Insights Now Includes Conversion Optimization: Shows Shippers Where to Switch Modes and What They Can Save",
+      "url": "https://www.freightwaves.com/news/sonar-sci-custom-insights-now-includes-conversion-optimization-shows-shippers-where-to-switch-modes-and-what-they-can-save",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "Amazon, retailers paid more for freight in 3Q",
+      "url": "https://www.freightwaves.com/news/amazon-retailers-paid-more-for-freight-in-3q",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 64,
+      "title": "Electric Trucking: Why 2,500 Tesla Semis Will Transform Freight",
+      "url": "https://www.freightwaves.com/news/electric-trucking-why-2500-tesla-semis-will-transform-freight",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 65,
+      "title": "LTL vs. Truckload: Who emerged stronger from Q3 earnings reports?",
+      "url": "https://www.freightwaves.com/news/ltl-vs-truckload-who-emerged-stronger-from-q3-earnings-reports",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 66,
+      "title": "Manufacturing expands for 10th straight month, but Iran war weighs heavily",
+      "url": "https://www.supplychaindive.com/news/manufacturing-expands-for-10th-straight-month-but-iran-war-weighs-heavily/873468/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 67,
+      "title": "Reshoring and foreign direct investment added 247K manufacturing jobs in 2025",
+      "url": "https://www.supplychaindive.com/news/reshoring-foreign-direct-investment-247k-jobs-2025-report-reshoring-initiative/873433/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 68,
+      "title": "Norfolk Southern, Schneider National team to scale East Coast intermodal reach",
+      "url": "https://www.supplychaindive.com/news/norfolk-southern-schneider-national-team-to-scale-east-coast-intermodal-re/873340/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 69,
+      "title": "Walmart commits $6B to up distribution center automation with Symbotic",
+      "url": "https://www.supplychaindive.com/news/walmart-commits-6b-to-up-distribution-center-automation-with-symbotic/873356/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 70,
+      "title": "Runnings unites forecasting, replenishment with AI",
+      "url": "https://www.supplychaindive.com/news/runnings-unites-forecasting-replenishment-with-ai/872823/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 71,
+      "title": "Labour protests in Bangladesh garment sector threaten export deadlines",
+      "url": "https://theloadstar.com/labour-protests-in-bangladesh-garment-sector-threaten-export-deadlines/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 72,
+      "title": "Capital vs resilience – the intractable problem of port congestion",
+      "url": "https://theloadstar.com/capital-vs-resilience-the-intractable-problem-of-port-congestion/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 73,
+      "title": "Ocean disruption offers no easy windfall for airfreight, warns DSV",
+      "url": "https://theloadstar.com/ocean-disruption-offers-no-easy-windfall-for-airfreight-warns-dsv/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 74,
+      "title": "Cosco: Shipping vs Ports – same parent, not quite siblings",
+      "url": "https://theloadstar.com/cosco-shipping-vs-ports-same-parent-not-quite-siblings/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 75,
+      "title": "JB Hunt faces data breach lawsuits as hackers claim haul of carrier records",
+      "url": "https://theloadstar.com/jb-hunt-faces-data-breach-lawsuits-as-hackers-claim-haul-of-carrier-records/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 76,
+      "title": "Clark AeroDistrict strengthens position as a world-class logistics hub - GMA Network",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdnFWSzgxWFdwV1E1OXRMbkZkamxSMHNLcXhjby1XMG9naTE2TXB6bFYwem53VWxyLU1sYTNPYUw3MzJuR0c2c1RVRVlWTTdCWlBTVlo1X1NkdnMwbjEyR2llTTUzb3IyTklZOXdtWU1JYTdKNHFNYTBURUo2VGR3dS0wV0F6Tld6VldaXzJQN2lWNmwyRFQtNEhvTFlOODgydFBWbWpBbUNfUXNPWmxGUzFZbXFaRGpZcXE1VDhiMFo1M3M?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 77,
+      "title": "DHL Group Retirement Plan selects Capital Cranfield as chair - Professional Pensions",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOWs3WFJkN3Y3ekNTcE9pbUswTzYtM1E0SWtyTDNPY09KdXZ2ZHptakFrMi1FQnhkb25KLXVVLW9NZWZFWUdzeFVjQzRrN2xBSDdIMWVLQ3JRSVBnQXRZOGhGeWRpM0lhV3hLTVc3R3o3RmJYNElfTlJLeGlDdVRGdS1wZ250Tmw0UndDTjB3UXJRY2hlcVdoVHAyNm9YWGtmYWgxaUFlSWJtSTA?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 78,
+      "title": "DHL Group Sponsored ADR (OTCMKTS:DHLGY) Stock Short Interest Drops 36.0% - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMS0tOW9sM1FrblFrTUtueDBWb1JNejJVZXlZTWpzMkpEVnVYUkt2UHNaNDFoVXJQZWltZHJ2eU1QYzFmTnpUN3JsNER2d1pmVV9WVW5NbkxEVFJaTERlMTdCbWtpc3phd25ibUNwTzRqX1pZSTZaT2t6MV9SbDNVYjBJajZWTEN6VVQzZ1ZKa1ZjcGNoZkN1anlEV0t6ZkpmVFhjdFZmTllib3ZFVlJlaEdGUzFfMDdIeDNpOC12WjV0MS1IMnEzVmVR?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 79,
+      "title": "DHL takes esports recruiting drive to China after 50,000 job applications - Inven Global",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVo0anF1ZUJsNmplRzhXd3g4dmhYM2tVeklfU0RTT1Byb05VSnFrVXV0Z1NfUXFKY2E2VE4zOWdjRnQzdWpzTUE4NVNGcWl3TGk4ZU42VnpWYjNBU0VIckVBV2FqbEttLUZqaDJ3QnRBeVdqSHlTMmo4QXRIQnVxTnpvMmJZcFVQSGQzdm5TcDMtdzFxamUydGlPSG9TWFlxMzVXSlktR2g2MDk1MjMyTDhyUWdZQQ?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 80,
+      "title": "DHL Express appoints Sandeep Juneja to lead the business in South Asia and India - https://hrtoday.in/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkhYNjI4dVlBY2czekJqaWp0ZGNjUUpBRDI4UnRsVDltcV8yb1RibWR5WjVkVU1GQmY2Tkl3YWFLY0dZQW5iUm9Eem5VMDMzSDBBYXlQSWs4anBRbVdXRXh3Z3NTV0JnSUtZOWNTY0FVWE5JZE9HRU0xeGFLOXpXb3N1S19NNzdITklNUWpmcV80ZG5ydmg2VmxkYy1oOFRCd3c?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 81,
+      "title": "DHL expands esports talent attraction program to China after generating 50,000+ applications globally - Mynewsdesk",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOU3RWQkZDLWEwdmM1UkNtNTZYNElNN2pXUUlBYlVsTkVPOU5GSmpybFhkYzFiMkRMM25QZnVQaXJSTGNnR1FZd1VPamk0THFaTFpsNXdXMW5MY3ZmOFR5NEZrakNtY3dKRHhLSVI4d0w3NnNWZXpqa1RMTndKUDJRRW8wc0pYSlpEWXVOQnVfN0oyMU1ybWFMSUw5c1hKWFlqNTlydldkWTQ4MnZYV2lIbEdCZFc3VHdtZzJMX3dCbkoyQnR1TVcyUGdiYV85RDhOZ2dtUTU2b25DdTlGVUVTa0RiYnJuUm1IYnFOWjFpSnFmLXdGWEFzcGt4U29MSndNT3hzcWJRZWg0UWtJcXE2XzlZazU3d2hjTk1UWGlRRjUyT0YtcDhqeHhoYVlGd2h4WGdtY3U2bFM2WHhVSTlLY2ZEdDAzVWJfV3p6dnQ5MXVKNEw0X0RSTGhzWTVuNHc?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 82,
+      "title": "FedEx (FDX) Deepens Private Cloud Push Across Its Digital Infrastructure - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3p3TERWeGJqV3RrTElpbml5azJscGVkOHh5T0dMSW9jQ1FGYXViOE11cy10WXZ4bVlnNDN4SkRNcUhlVTIzb0ZuMlMxTEc0ejAzUk0xZmhlM0dJb1I2c0QxeFpIR2o5d3RldG5maDFQT3RwNV95NEJ3UUxNU0R6QzFqa2FnZzNnV1pRZTFqMkhmMFBqZjhkZW8tQjkwV3A1aEtFRWdTUldUb2YyYTRrRDBoemVWWlByQW5adzNaSV8xUW9qOGfSAcsBQVVfeXFMTW5kcHBxbmswWEtjQTN0eWdwY1RaU2VjbUpGMndCX2FCZjh6UVd6RE5saVhtVEtmTjIzcGxVZktyeVQxakZoZ2tPOUJRQ3dPNXZVZzF3cjJ0VW1DOWsySENpRTFDZHYwWXI3N2JUVk5jM24yOW80UEZNY2tobjNkT1c5TERrejBQRUk3STlaQ1o2TDA5QkVGMXNMZ2ZudzQ5QmdPVUFMR0xNQUVnUlczRTlFWWVoU25Ic3NPOUdBUDB0TVhGajRwSzhtU1U?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 83,
+      "title": "FedEx Debuts Aircraft Engine Logistics Service for Aerospace Shipments - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUHBZZ3Fjb2wtZXo4U2RSeHlSQ25BUDZTelpwV2NidEdweWJtMzhSRG5xY3Z4V3ZBazJfWjlFSXhVckVnWFJ2djJTai1BcWZVQXM1bEZIcF9hVEtXaDZ4UHdyeTI1eTVhbTRxWXV6UzM0aUU2Y01kUnlTVTdLdG1pZHhWX1VSTW9pUVhXYkEtT2ZJdUV5SzFvLS1jZU1kZDg1bW5sdFNLVGdVMElPNEZ3MjVLRkxlcTd0WkgtT2pPbXAyRXFYMzVz?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 84,
+      "title": "FedEx to build on jet engine demand growth with new aerospace product - Air Cargo News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEhSSmh0eXR2czFSaEZxQnlvNGdpS2llRTF1cm5HOHJYdzBnRU5YMW1NeUVpa2NrZjIzbmgyMEMwSUxKNEZ3YXVYdG1CR0dXRldNa3VrNE1hUUZ6SVdTc3UxQmNSZTB2bk9kbGpST3IycVgxNEVBUnRyZ1FnbS1UbGZobklVeHJHV25wWTJtbjFVWFZudUZ3MFdmZ1B3Qno5ckxfNlBRT2hwSFMtaWhMY1oydUtxLV81?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 85,
+      "title": "Amazon hiring 300,000 seasonal employees - PennLive.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQWptZUlDanVwWXlBQ0QwTzZpakhtcElXd1BSaW1fRkxIdGppYVJoZWo4OUdFa25GZVozT3A0SkFqNFpwcTBWMlI4MDFyRXFhdE9Vcm9ZTWVVaEsydEdGU3RqMldsRTNWLWNNYTBFN1pPMmF5SGtUbk9maUo5RWUtYmRYcURyOVlReU5ZbEUtSQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 86,
+      "title": "Amazon, retailers paid more for freight in 3Q - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGNselVvS0o4RVlxUllmWl9TaFBkNUc1OUI1OGVnNFRaR2FNXzVIcFB1YWd3X0lDbFk2dm1TOW9xS2JWSHl3ZWdERWdJQlVJUVlsTmY2cENSc2RkNWVyNjVzQ2lKTVgwS1Q5TjdnNmZQbXFIR3NYbFNPUmhVYzhLX3c2OHQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 87,
+      "title": "Amazon Launches $25 Thanksgiving Meal With Same-Day Delivery - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUVlqcWR6MWw3ZGlZbVFNZV9iWlp1OVgwSmJLNW5ETWZZcFM3VVVMTHNvRWdYWl8zZm9RMUVxYTN0R0FhOXRVcDhwQkZSUmcweEoxbWhZMVBKTkMxSG12X2t6N1JmVEc3Q3VzMG9CeTF2YXFHTFNfNEpTNTc4TnVfTE5UNFl1VFU3bktTRWp5ei00a21XY0ZhV2RjeFFmdw?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 88,
+      "title": "2 dead in murder-suicide outside of Amazon fulfillment center - NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnhhd3I2SlY1Q1BVeHE4eFV3UW9HNHNVbU52N3NvWmMzS1liblVQMExMWXBGbkN2ZFZCOU40bk5CaUdVT3YtZUd3akYxN3NUZzhlZG8tTDVZWjJjSlBTUmVMcmNPaTQ5b1pJQXlKenJRWlFvRmFISXE3b0s5Wnl3Z1VnRm1HS1ppSm1nWFVPbmpxNEdhMXhJLTFRQkZzZDTSAaQBQVVfeXFMT0xsWFZXQ2FCMWdVZWZ3a21ZNnM2QS14aHJhUmhNNmNQVGdVTnVfc09hM3hMcDZMaExqZkxZb1F5ZmNqRGRleEpPcTUyX1J2RGNHS190dFIybUtrYzVRWlN1OWlXblBUYWFTM1RPaUFjRVhNZlE4SkR5WXJBNkNFZmhyc1p3bUxtc0R6M3pUQ2RBSk0tYmUyTWtiSkpSc09nQjdLbTQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 89,
+      "title": "Amazon Offers Same-Day Delivery for Thanksgiving Meals - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONmxiWDFNRnZYckdtQTZUZU9wc3pMcmIyVVZrZnZtUF9tb1FicmVMTV9fVnZSc2ZPTUwyN05oYTdKdkdWOXFtbU9Zd3RyQnBoLW5DU0VKQnd4TjZBMXA4OVJtc3E1c3FxMTM4U3Y4U1BaUWFSYTd3eHAwZ01BWGNvQVJGLVpuQWZ1MDhtckYwejNlWHhOdERSNVU3dGEyQUE1MXhwZg?oc=5",
+      "source": "Amazon Logistics"
+    }
+  ]
+}
