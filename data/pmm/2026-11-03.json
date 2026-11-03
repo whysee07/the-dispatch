@@ -1,0 +1,495 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T17:25:15.065288+00:00",
+  "raw_text": "Alright, Tuesday. Grab a coffee, because the AI wars are getting spicy, and not just in the labs. Today, it’s about control, economics, and a whole lot of rebranding.\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\n\nGoogle is now entirely disabling Search in K-12 schools that refuse to enable its AI features, a move announced today by the company's VP of Education. The product angle most people are missing here isn't about AI safety; it's about Google leveraging its platform dominance to force AI adoption and entrench its ecosystem. For PMMs, this signals that platform owners are increasingly willing to bundle and dictate feature adoption, making \"opt-out\" a non-option when a core service is tied to new tech. PMs should realize that default settings and forced bundling are powerful GTM levers, but also a potential source of user backlash if not carefully positioned. The one thing to act on or watch in the next 30 days is how other platform giants (Apple, Microsoft) follow suit in making AI an inseparable part of their core offerings, and how this impacts buyer choice. [S21][S25]\n\n---\n\n🎯 POSITIONING WATCH\n\n**OpenAI — Renaming data centers to \"compute campuses\"** [S32]\n- **Narrative angle:** They're trying to soften the image of massive, resource-hungry data centers by rebranding them as more palatable, almost academic \"campuses.\" It’s a PR play to diffuse bipartisan opposition to the physical infrastructure of AI.\n- **ICP signal:** The general public, local communities, and policymakers who are increasingly scrutinizing the environmental and social impact of tech infrastructure.\n- **What's sharp:** The term \"compute campus\" sounds innovative and less threatening than \"data center.\" It implies a place of research and development, not just energy consumption.\n- **What's fuzzy:** The underlying reality hasn't changed; it's still a data center. The rebrand feels like a thin veil if the actual impact isn't addressed.\n- **Steal this:** If your product has a perceived negative, try reframing the *value* or *outcome* with new language, rather than just describing the feature.\n\n**Google — Forcing AI features in Search for K-12 schools** [S21][S25]\n- **Narrative angle:** Google is positioning AI as an indispensable, integrated part of the search experience, especially for education. The story is \"AI isn't optional, it's foundational.\"\n- **ICP signal:** School administrators and education tech buyers who are now faced with a stark choice: embrace Google's AI or lose core Search functionality.\n- **What's sharp:** It's a bold, take-it-or-leave-it stance that clearly communicates AI as a core, non-negotiable part of their offering. No ambiguity.\n- **What's fuzzy:** The potential backlash from privacy advocates or educators who want more control. The \"why\" for the user is clear, but the \"why\" for Google's aggressive bundling might be less transparent.\n- **Steal this:** Don't shy away from integrating your most powerful new features into the core product experience, even if it means forcing a decision on users about adoption. Sometimes, bold integration is a stronger signal than optional add-ons.\n\n**NEXUPIRA — AI teammates that hand back finished work** [S7][S79]\n- **Narrative angle:** This tool aims to automate entire tasks, not just parts of them, freeing up users from tedious \"digital grunt work.\" The story is about complete delegation, not just assistance.\n- **ICP signal:** Busy professionals and small teams drowning in administrative or repetitive tasks, looking for a \"done-for-you\" solution rather than another AI assistant they have to prompt constantly.\n- **What's sharp:** The \"hand back finished work\" phrase is incredibly clear and outcome-oriented. It bypasses the usual AI assistant struggle of needing constant human oversight.\n- **What's fuzzy:** \"AI teammates\" is a bit generic. What kind of \"finished work\"? The scope needs to be clearer to avoid overpromising or confusing the buyer.\n- **Steal this:** Focus your core message on the *final outcome* the user receives, not just the features or the AI capability itself.\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n\n**Google vs Education / Alternative Search & AI tools** [S21][S25]\n- **What changed:** Google is now disabling its core Search product for K-12 schools that choose to disable its AI features (Gemini, Gemini Notebook, Gemini in Classroom). Administrators cannot opt out of AI without losing Search.\n- **Why they did this now — what are they betting on?:** Google is betting that its Search product is so indispensable to schools that they will accept integrated AI features, even if they have reservations. This is a strategic move to ensure market share for their AI products and prevent competitors from gaining ground by offering \"AI-free\" alternatives. It's about owning the platform.\n- **PMM action item:** If you're building an AI tool for education or a search alternative, lean heavily into data privacy, user control, and explicit opt-out options. Position yourself as the \"safe\" or \"choice-driven\" alternative to Google's forced adoption.\n- **Battlecard update needed?** Yes. Add \"Google's Forced AI Integration\" as a new competitive tactic. Note their lack of flexibility on AI opt-out as a vulnerability.\n\n**Hinge vs Dating App competitors** [S66]\n- **What changed:** Hinge is testing a cheaper subscription plan. This comes as users are reportedly \"fed up paying for dating apps.\"\n- **Why they did this now — what are they betting on?:** Hinge is betting on price sensitivity and user fatigue with high-cost subscriptions. They're trying to capture a segment of users who are hesitant to pay full price, or who are churning due to cost, by offering a lower barrier to entry. This could be a retention play as much as an acquisition one.\n- **PMM action item:** If you're in the consumer subscription space, especially for apps where user fatigue or perceived value is a challenge, run pricing experiments. Test lower tiers, usage-based models, or feature-limited options to see if you can re-engage price-sensitive users.\n- **Battlecard update needed?** Yes. Update Hinge's pricing section with \"Testing cheaper subscription tiers.\" Add a note on market-wide user fatigue with paid apps.\n\n**Scrunch vs Semrush (AEO Market)** [S9]\n- **What changed:** HubSpot published a direct comparison of Scrunch, a dedicated Answer Engine Optimization (AEO) tool, against Semrush, which integrates AI visibility tracking into its broader SEO suite.\n- **Why they did this now — what are they betting on?:** This comparison highlights the emerging niche of AEO as a distinct, critical area of marketing. Scrunch is betting on specialization and depth for AI visibility, while Semrush is betting on the value of a comprehensive, all-in-one suite. The market is evolving rapidly from traditional SEO to AEO.\n- **PMM action item:** Evaluate your own product's AEO capabilities. If you're a broad marketing suite, ensure your AI visibility tracking is robust and well-communicated. If you're a niche player, double down on your specialized expertise and differentiate clearly from generalist tools.\n- **Battlecard update needed?** Yes. Add \"AEO capabilities\" as a new category. Detail how competitors are addressing AI answer engine visibility (dedicated tool vs. integrated suite).\n\n---\n\n🚀 LAUNCH DISSECTION\n\n**Xbox Nano controller by Microsoft** [S1][S22]\n- **Launch tier:** T1 — This is a major consumer hardware launch for a flagship brand, despite its \"tiny\" size. The hidden cloud secret elevates its importance beyond just a new controller. It's a strategic play for cloud gaming.\n- **Core message:** \"Xbox Nano: The smallest, most comfortable controller for a new generation, with a hidden cloud secret for superior latency.\" Or, more simply: \"Cloud gaming, with no wires, no lag.\"\n- **GTM channels used:** Press (The Verge exclusively reporting hands-on and the cloud secret), social (implied buzz around leaks), product page (official reveal coming), potentially in-store displays for physical product.\n- **Sales readiness signal:** The Verge has a hands-on review published *before* the official announcement of the cloud feature, indicating a carefully orchestrated leak/embargo. This suggests readiness to build hype, though no explicit enablement content is mentioned.\n- **Buyer emotion targeted:** Ambition (to be on the cutting edge of cloud gaming), Belonging (designed for younger players/smaller hands), and a subtle FOMO (who wouldn't want lower latency?).\n- **What worked:** The \"hidden cloud secret\" is a masterstroke. It creates immediate intrigue and gives the press a unique angle beyond just \"new hardware.\" It transforms a comfort-focused peripheral into a strategic cloud gaming device.\n- **What's missing:** A clear, official statement or landing page *today* for the cloud feature. While the leak builds hype, a PMM would want to control the narrative more closely with specific benefits for cloud gaming beyond just \"lower latency.\" How much lower? What does it enable?\n- **If you were the PMM:** I'd launch a dedicated microsite or interactive demo specifically highlighting the real-world impact of the direct cloud connect on gameplay experience, with testimonials from beta testers.\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n\n**Teresa Torres & Petra Wille — What AI Changes - All Things Product Podcast** [S4]\n- **The core argument or insight:** While many claim AI changes *everything* in product development, much of what's happening (e.g., bad code, rushed iterations) is a symptom of existing poor practices, not AI itself. AI is a powerful tool, but fundamental product principles still apply.\n- **Community reaction:** Resonating, but also controversial. Many are excited about AI's disruptive potential, so challenging the \"everything changes\" narrative often sparks debate.\n- **The sharpest counter-take:** AI *does* fundamentally shift the cost and speed of experimentation, making traditional discovery loops potentially too slow. The \"always true\" principles need to be re-evaluated for AI-native products.\n- **Worth engaging?** Yes — This is a critical discussion for any PM/PMM trying to separate hype from enduring truth. Go listen.\n\n**HubSpot Marketing — AI maturity in marketing: What the research reveals** [S6]\n- **The core argument or insight:** While 98% of marketing teams use AI, only 10% see transformational results. The gap isn't adoption, it's *impact*, which is measured by \"AI maturity\" – consistently turning AI into measurable business outcomes.\n- **Community reaction:** Resonating. Many marketers feel this gap between adoption and results. It validates their struggles and offers a framework.\n- **The sharpest counter-take:** \"Maturity models\" often oversimplify complex organizational challenges. The issue might be less about a formal \"maturity score\" and more about leadership buy-in, budget, and skilled talent.\n- **Worth engaging?** Skim — The core insight is useful, but the \"maturity model\" framing can feel a bit corporate. Get the headline takeaway and apply it.\n\n**HubSpot Marketing — Claude integrations worth adding to your GTM stack** [S5]\n- **The core argument or insight:** Constant tab-switching between AI assistants and other GTM apps kills focus. Claude integrations (with CRMs, etc.) enrich AI responses with specific customer context and allow for direct action, improving GTM efficiency.\n- **Community reaction:** Resonating. This is practical, actionable advice for PMMs and marketers struggling with AI workflow friction.\n- **The sharpest counter-take:** While integrations are good, the real value comes from deeply embedding AI *into* the core GTM platform, not just connecting a chatbot to it. Native AI features will always outperform simple integrations.\n- **Worth engaging?** Yes — If you're using Claude (or any AI assistant) for GTM, this offers concrete ways to make it more useful.\n\n**TechCrunch (Garry Tan) — Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens** [S65]\n- **The core argument or insight:** YC's Garry Tan is a heavy user of AI agents, spending a massive amount on tokens, and jokingly admits to \"cyber psychosis\" due to his excitement. This highlights the intense, almost addictive, nature of advanced AI use for some leaders.\n- **Community reaction:** Being debated. Some see it as a sign of AI's transformative power, others question the sustainability and ROI of such high spend, or worry about burnout from \"cyber psychosis.\"\n- **The sharpest counter-take:** This level of spend is only justifiable for a VC experimenting at the bleeding edge. For most businesses, $200K/year on AI tokens for a single user is an insane op-ex line item without clear, quantifiable ROI.\n- **Worth engaging?** Skim — It's a fascinating anecdote about extreme AI adoption, but don't take it as a benchmark for your own team's AI budget.\n\n---\n\n💡 USE CASE OF THE DAY\n\n**AI-Assisted Competitive Message Analysis**\nCategory: Competitive Intel\nRole: PMM\n\n**The workflow:**\nStep 1: **Identify competitor messages.** Collect the latest homepage headlines, value props, and key feature descriptions from a competitor's website, recent launch announcements, or marketing emails.\nStep 2: **Input into Claude with context.** Use a Claude integration (if available, or copy-paste) to feed these messages, along with your product's core value props and target ICP.\nStep 3: **Generate comparative analysis.** Ask Claude to identify their positioning, target buyer, and key differentiators relative to your product.\n\n**Tools used:** Claude, your competitor's website, your internal messaging docs. [S5]\n**Time to complete:** 15-20 minutes for one competitor.\n**Output you get:** A structured comparison of competitive messaging, highlighting strengths, weaknesses, and potential gaps for your own positioning.\n**Why it matters now:** With AI moving so fast, competitive messaging shifts constantly. Rapid analysis helps you stay sharp.\n\n**Prompt or template (if AI-assisted):**\n\"I need a competitive message analysis. Here are our product's core value propositions: [Your Value Props]. Our target ICP is: [Your ICP Description].\nHere is our competitor's current messaging, based on their website and recent announcements:\n[Paste Competitor Headlines, Value Props, Feature Descriptions]\n\nBased on this, tell me:\n1. What is their primary narrative angle and who do they seem to be targeting?\n2. What are 3 specific strengths of their messaging?\n3. What are 2 areas where their messaging is fuzzy or generic?\n4. How does their positioning directly compare to ours, and what are 2 potential gaps or opportunities for us to differentiate further?\"\n\n---\n\n📚 LEARNING PICK OF THE DAY\n\n**AI maturity in marketing: What the research reveals** — HubSpot Marketing — HubSpot Blog [S6]\n\n**What it's about:** This research-backed article dives into why most marketing teams use AI but few see transformational results. It introduces the concept of \"AI maturity\" as the key differentiator, measuring how consistently teams convert AI use into measurable business outcomes, rather than just tool adoption or pilot programs. It argues that understanding your team's maturity level is crucial for closing the impact gap.\n\n**3 actionable takeaways:**\n1. **Assess your team's AI impact, not just adoption:** Stop counting tools. Start tracking ROI from AI initiatives. What revenue or customer experience gains can you directly attribute to AI?\n2. **Identify your current AI maturity level:** Use the framework (implied by the article) to understand if you're stuck in \"adoption\" or moving towards \"transformation.\" This helps prioritize where to invest next.\n3. **Focus on integrated workflows over isolated tools:** The article highlights that constantly switching apps breaks focus. Prioritize AI solutions that integrate deeply into your existing GTM stack to maximize context and actionability. [S5]\n\n**Who should read this:** PMM / PM — at mid to senior career stages.\n**Read time:** 10 minutes.\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n\n**Hinge users are \"fed up paying for dating apps\"** [S66]\n- **What was found or demonstrated:** Hinge is testing a cheaper subscription plan in response to users becoming increasingly tired of paying for dating apps. This indicates a widespread sentiment of price fatigue or diminished perceived value in the paid dating app market.\n- **The method used:** Implied user feedback and market analysis, leading to A/B testing of pricing tiers. The article states it's happening \"as users become more fed up,\" suggesting direct input or behavioral trends.\n- **How it changes or validates current best practice:** It validates the importance of continuous pricing discovery and the need to respond to market sentiment, especially in subscription models where value perception can erode over time. It challenges the assumption that users will always pay premium for convenience in saturated markets.\n- **PM action item:** For your next product discovery sprint, include explicit questions about willingness to pay, perceived value for money, and competitive pricing comparisons. Don't just ask if they'd pay; ask what they're *tired* of paying for and why.\n\n---\n\n💼 PMM/PM JOBS PULSE\n\nToday's collected data did not include specific job listings for PMM or PM roles. Therefore, I cannot list individual roles or companies.\n\nThe collective signal from market moves, however, is mixed. While new funding rounds like Trajectory's $45M raise [S69] and Evertrue Capital's $17M debut fund [S49] suggest continued growth and hiring in AI and fintech startups, the news of Squarespace laying off 19% of its employees [S76] indicates significant restructuring and pressure in more established tech sectors. This points to a bifurcated job market where demand is high in cutting-edge AI and specialized niches, but broader tech companies are still optimizing for efficiency and navigating economic headwinds.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n\n**Trajectory — $45M Series B funding** [S69]\n- **What they do:** Makes AI model training accessible to nontechnical experts.\n- **GTM motion:** Likely product-led with a sales-assist motion for enterprise clients, given the \"nontechnical experts\" focus but also the funding amount.\n- **What this signals about B2B investment direction:** Strong continued investment in AI infrastructure and tools that democratize AI capabilities, moving beyond pure data scientists to broader business users.\n- **PMM implication:** Focus on simplifying complex AI concepts for business users. Build educational content and use cases that demonstrate how non-technical roles can leverage AI model training for tangible outcomes.\n- **PM implication:** Prioritize user experience and intuitive interfaces that abstract away technical complexity. Ensure robust guardrails and clear feedback loops for non-technical users training models.\n\n**Evertrue Capital — $17M debut fund** [S49]\n- **What they do:** New VC fund backing early-stage AI and fintech startups in Europe.\n- **GTM motion:** Partner-led (VC investing in startups).\n- **What this signals about B2B investment direction:** Continued confidence and capital flow into early-stage AI and fintech, with a specific geographic focus (Europe). Investors are still hunting for the next big thing in these sectors.\n- **PMM implication:** If you're at an early-stage AI or fintech startup, especially in Europe, ensure your pitch deck and GTM strategy clearly articulate market opportunity and defensibility. Highlight your unique value proposition in a crowded space.\n- **PM implication:** Focus on building defensible products with strong network effects or proprietary data/models, especially in competitive sectors like AI and fintech.\n\n**Squarespace — Laying off 19% of its employees** [S76]\n- **What they do:** Web hosting and website builder platform.\n- **GTM motion:** Primarily marketing-led and product-led growth (PLG) with self-serve, but also has sales for larger accounts.\n- **What this signals about B2B investment direction:** Even established, profitable tech companies are undergoing significant restructuring and cost-cutting to optimize operations, likely in response to market slowdowns or increased competitive pressure.\n- **PMM implication:** Expect increased scrutiny on marketing spend ROI, demand generation efficiency, and clear product differentiation. Be ready to articulate how PMM drives revenue and retention directly.\n- **PM implication:** Focus on core product value, retention features, and efficiency gains. Roadmap items that reduce operational costs or improve conversion rates will likely be prioritized.\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n\n**NEXUPIRA — AI teammates that hand back finished work** [S7][S79]\n- **One-line description:** AI agents designed to complete entire tasks and deliver finished outputs, not just provide assistance.\n- **Category:** Productivity / AI Automation\n- **Best for:** Both (PMMs for content, research; PMs for specs, summaries)\n- **Free tier:** No (implied, typical for agent-based tools) / Trial (likely)\n- **Honest take:** Genuinely new capability if it lives up to the \"finished work\" promise. Many \"AI assistants\" still require heavy human intervention. This aims higher.\n- **Who should try it this week:** Anyone drowning in repetitive, well-defined tasks that could be fully delegated to an intelligent agent.\n\n**Scrunch — Dedicated Answer Engine Optimization (AEO) tool** [S9]\n- **One-line description:** Monitors how your brand's content appears and is cited in AI answer engines.\n- **Category:** Competitive Intel / Content / SEO (AEO)\n- **Best for:** PMM\n- **Free tier:** No (implied) / Trial (likely)\n- **Honest take:** Genuinely new capability. While Semrush integrates AEO, a dedicated tool like Scrunch signals a deeper focus on this emerging channel. Necessary as AI search grows.\n- **Who should try it this week:** PMMs responsible for content strategy and organic visibility. If you're not tracking how AI answers reference your brand, you're already behind.\n\n**People Search by Context.dev — People Search API** [S18]\n- **One-line description:** An API to find individuals by role, company, and location.\n- **Category:** Sales Enablement / Customer Research / GTM Strategy\n- **Best for:** PMM\n- **Free tier:** No (implied) / Trial (likely)\n- **Honest take:** A feature-dressed-up-as-a-launch for an API. \"People Search\" isn't new, but offering it as a clean API could be useful for integrating into CRMs or custom lead gen tools.\n- **Who should try it this week:** PMMs building custom lead scoring models or sales enablement tools that need rich prospect data.\n\n**SUN Web & API — Turn prompts and PDFs into audio** [S15]\n- **One-line description:** Converts text prompts and PDF documents into audio output.\n- **Category:** Content / Accessibility / Sales Enablement\n- **Best for:** PMM\n- **Free tier:** No (implied) / Trial (likely)\n- **Honest take:** Genuinely new capability. While text-to-speech exists, an API for PDFs and prompts specifically for marketing content (e.g., audio versions of whitepapers, sales scripts) is a smart play.\n- **Who should try it this week:** PMMs looking to expand content formats, improve accessibility, or create engaging audio snippets for social media or sales outreach from existing content.\n\n---\n\n⚡ SPEED ROUND\n\n🎮 Xbox Nano controller uses direct cloud connectivity for lower latency. [S1]\n📉 Anthropic's compute margins are worsening, challenging AI economics. [S2]\n🍎 Apple restricts dating apps and AI companions to 18+ users. [S28]\n🏫 Google forces AI on K-12 schools, disabling Search for those who opt out. [S21][S25]\n🚀 OpenAI rebrands data centers as \"compute campuses\" to manage public perception. [S32]\n💰 YC's Garry Tan spends up to $200K/year on AI agent tokens. [S65]\n📈 Windows 11 now up to 40% faster on PCs with 8GB RAM. [S23]\n💔 Hinge is testing cheaper plans as users are tired of paying for dating apps. [S66]\n💾 GTA VI needs a whopping 212GB of hard drive space. [S30]\n🚫 Wired warns against using AI to vote due to hallucinations and bias. [S33]\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\n\n**Challenge: Validate an AI-Powered Messaging Hook**\nRole focus: PMM\n\n**The setup:** You're launching a new AI feature that streamlines customer support. You have two potential messaging hooks:\n1. \"Boost agent productivity by 30% with AI-powered summaries.\" (Focus on efficiency)\n2. \"Deliver lightning-fast resolutions and delight customers with AI-guided support.\" (Focus on customer experience)\nYou need to quickly test which hook resonates more with your target ICP (Customer Support Managers) using a simple AI-powered message testing tool.\n\n**What to do:**\nStep 1: Go to a message testing platform (e.g., Wynter, or even just a survey tool like Typeform). Create a simple A/B test with your two hooks. If you don't have a dedicated tool, use Claude.\nStep 2: If using Claude, set up your prompt (see below). If using a testing platform, deploy it to a small segment of your ICP or a proxy audience.\nStep 3: Analyze the results (if using a tool) or Claude's feedback.\n\n**The exact prompt or template (if using Claude as a proxy):**\n\"Act as a Customer Support Manager at a Series B SaaS company. You are looking for solutions to improve your team's performance. Which of these two statements sounds more compelling to you, and why? Be specific about your priorities and concerns.\n\nStatement A: 'Boost agent productivity by 30% with AI-powered summaries.'\nStatement B: 'Deliver lightning-fast resolutions and delight customers with AI-guided support.'\"\n\n**What good looks like vs. mediocre:**\n- **Good:** Specific feedback on *why* one statement resonates more, tied to perceived business value (e.g., \"Productivity is key, but customer delight directly impacts retention, which is my top KPI right now\"). It also identifies potential objections or missing information.\n- **Mediocre:** A simple \"Statement B is better\" without rationale, or generic praise that doesn't reflect a real buyer's mindset.\n\n**Why this skill matters in the next 6 months:** As AI accelerates product cycles, quickly validating messaging with AI-powered tools or proxies becomes essential for staying agile and ensuring your GTM hits the mark.\nTime: 15 minutes or less.\n\n---\n\n🧠 EDGE INSIGHT\n\nThe big players are using AI not just as a feature, but as a strategic weapon to control platforms and narratives. Google's forced AI bundling in Search for schools isn't about better education; it's about making AI non-negotiable within their ecosystem. OpenAI's \"compute campuses\" rebrand is a direct attempt to control public perception of their resource-intensive infrastructure. Meanwhile, Anthropic struggles with the actual economics of AI compute, and Garry Tan drops $200K/year on AI tokens, highlighting the massive, often hidden, costs involved. This isn't just an AI boom; it's a consolidation of power, where platform owners are dictating terms, and the true cost and control of AI are becoming the next battleground, cloaked in clever positioning.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "The Xbox Nano has a hidden cloud secret",
+      "url": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 3,
+      "title": "Lenny’s Newsletter holiday gift guide 2026",
+      "url": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 4,
+      "title": "What AI Changes - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/what-ai-changes-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "source": "Teresa Torres"
+    },
+    {
+      "id": 5,
+      "title": "Claude integrations worth adding to your GTM stack",
+      "url": "https://blog.hubspot.com/marketing/claude-integrations",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 6,
+      "title": "AI maturity in marketing: What the research reveals",
+      "url": "https://blog.hubspot.com/marketing/ai-maturity",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 7,
+      "title": "NEXUPIRA",
+      "url": "https://www.producthunt.com/products/nexupira",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "Corvo",
+      "url": "https://www.producthunt.com/products/corvo-3",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 9,
+      "title": "Scrunch vs. Semrush: Which tracks AI visibility better?",
+      "url": "https://blog.hubspot.com/marketing/scrunch-vs-semrush",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 10,
+      "title": "Brink",
+      "url": "https://www.producthunt.com/products/brink-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 11,
+      "title": "One Roof",
+      "url": "https://www.producthunt.com/products/one-roof",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 12,
+      "title": "nana",
+      "url": "https://www.producthunt.com/products/nana-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 13,
+      "title": "Oreja de Van Gogh",
+      "url": "https://www.producthunt.com/products/oreja-de-van-gogh",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 14,
+      "title": "Calendarly",
+      "url": "https://www.producthunt.com/products/calendarly-calendar-on-lock-screen",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 15,
+      "title": "SUN Web & API",
+      "url": "https://www.producthunt.com/products/sun-ai",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 16,
+      "title": "Prism",
+      "url": "https://www.producthunt.com/products/prism-40",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 17,
+      "title": "LidCommit",
+      "url": "https://www.producthunt.com/products/lidcommit",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 18,
+      "title": "People Search by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 19,
+      "title": "Flockbay",
+      "url": "https://www.producthunt.com/products/flockbay",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 20,
+      "title": "LifeVal",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 21,
+      "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "source": "The Verge"
+    },
+    {
+      "id": 22,
+      "title": "Xbox’s smallest-ever controller is surprisingly comfortable",
+      "url": "https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on",
+      "source": "The Verge"
+    },
+    {
+      "id": 23,
+      "title": "Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM",
+      "url": "https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance",
+      "source": "The Verge"
+    },
+    {
+      "id": 24,
+      "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+      "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 25,
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 26,
+      "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
+      "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 27,
+      "title": "Midterm elections 2026: all the news",
+      "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+      "source": "The Verge"
+    },
+    {
+      "id": 28,
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 29,
+      "title": "Apple is all in on AI — its own and everyone else&#8217;s",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "source": "The Verge"
+    },
+    {
+      "id": 30,
+      "title": "GTA VI&#8217;s download will need up to 212GB of hard drive space",
+      "url": "https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games",
+      "source": "The Verge"
+    },
+    {
+      "id": 31,
+      "title": "The Elder Scrolls VI officially has a name: Sentinel",
+      "url": "https://www.theverge.com/news/1025273/the-elder-scrolls-vi-sentinel-name-announcement",
+      "source": "The Verge"
+    },
+    {
+      "id": 32,
+      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "source": "The Verge"
+    },
+    {
+      "id": 33,
+      "title": "Here’s Why You Shouldn’t Use AI to Vote",
+      "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "source": "Wired"
+    },
+    {
+      "id": 34,
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 35,
+      "title": "A truck-sized NASA space telescope is about to crash to Earth",
+      "url": "https://www.theverge.com/science/1025227/nasa-swift-observatory-falling-to-earth",
+      "source": "The Verge"
+    },
+    {
+      "id": 36,
+      "title": "Roli Has Fallen Apart—and Left Customers Holding the Bag",
+      "url": "https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 38,
+      "title": "Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For?",
+      "url": "https://www.wired.com/review/ipad-mini-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 39,
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 40,
+      "title": "The Endlessly Meme-able Steve Kornacki Is Not a Meme Person",
+      "url": "https://www.wired.com/story/steve-kornacki-user-behavior/",
+      "source": "Wired"
+    },
+    {
+      "id": 41,
+      "title": "Apple AirPods 5 Review: Better Than Before but Not Quite Pro",
+      "url": "https://www.wired.com/review/apple-airpods-5/",
+      "source": "Wired"
+    },
+    {
+      "id": 42,
+      "title": "ICE Is Inspiring Latinos to Vote in Historic Numbers",
+      "url": "https://www.wired.com/story/ice-is-inspiring-latinos-to-vote-in-historic-numbers/",
+      "source": "Wired"
+    },
+    {
+      "id": 43,
+      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "source": "Wired"
+    },
+    {
+      "id": 44,
+      "title": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
+      "url": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/",
+      "source": "Wired"
+    },
+    {
+      "id": 45,
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 46,
+      "title": "White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More",
+      "url": "https://www.wired.com/story/best-white-noise-machines/",
+      "source": "Wired"
+    },
+    {
+      "id": 47,
+      "title": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past",
+      "url": "https://www.wired.com/story/ancient-fragment-from-mars-found-in-the-sahara-holds-secrets-about-the-planets-watery-past/",
+      "source": "Wired"
+    },
+    {
+      "id": 48,
+      "title": "Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It",
+      "url": "https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/",
+      "source": "Wired"
+    },
+    {
+      "id": 49,
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 50,
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 51,
+      "title": "30% Off Canon Promo Codes | November 2026",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Uber Eats Promo Codes: $15 Off│November 2026",
+      "url": "https://www.wired.com/story/uber-eats-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "Hotels.com Coupon Codes for November 2026",
+      "url": "https://www.wired.com/story/hotels-com-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "20% Off Brooks Promo Code | November 2026",
+      "url": "https://www.wired.com/story/brooks-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Chewy Promo Codes: $20 Off November 2026",
+      "url": "https://www.wired.com/story/chewy-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Dell Coupon Codes: 20% Off for November 2026",
+      "url": "https://www.wired.com/story/dell-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 57,
+      "title": "AT&T Promo Codes: $50 Off This November 2026",
+      "url": "https://www.wired.com/story/att-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 58,
+      "title": "KitchenAid Promo Codes: Save Up to 20%",
+      "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 59,
+      "title": "Newegg Promo Codes and Coupons for November 2026",
+      "url": "https://www.wired.com/story/newegg-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 60,
+      "title": "eBay Coupons: 20% Off in November 2026",
+      "url": "https://www.wired.com/story/ebay-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 61,
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 62,
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 63,
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 64,
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 65,
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 66,
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 67,
+      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 68,
+      "title": "The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes",
+      "url": "https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/",
+      "source": "Wired"
+    },
+    {
+      "id": 69,
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 70,
+      "title": "Apple’s inventory surges 154% as memory chip costs climb",
+      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 71,
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 72,
+      "title": "How to Save $25 on Burga’s Phone Accessories With This Sale",
+      "url": "https://www.wired.com/story/burga-sale-november-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 73,
+      "title": "Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal",
+      "url": "https://www.wired.com/story/dyson-vacuum-deals-nov-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 74,
+      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 75,
+      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
+      "url": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 76,
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 77,
+      "title": "A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress",
+      "url": "https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/",
+      "source": "Wired"
+    },
+    {
+      "id": 78,
+      "title": "Corvo",
+      "url": "https://www.producthunt.com/products/corvo-3",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 79,
+      "title": "NEXUPIRA",
+      "url": "https://www.producthunt.com/products/nexupira",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 80,
+      "title": "Flockbay",
+      "url": "https://www.producthunt.com/products/flockbay",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 81,
+      "title": "LifeVal",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt"
+    }
+  ]
+}
