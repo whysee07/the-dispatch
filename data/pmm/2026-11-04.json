@@ -1,0 +1,483 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T17:38:56.907848+00:00",
+  "raw_text": "Here's what's up today:\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\n**The public backlash against AI's physical and policy footprint is escalating.**\nVoters across the US rejected data center expansion in the midterms, with 76% opposing them in their communities, leading to widespread ballot measures and political losses for pro-data center candidates [S17][S24]. Meanwhile, Google is facing significant backlash for threatening to disable Search for schools that restrict AI usage, sparking accusations of monopolistic behavior [S21]. This isn't just about features anymore; it's about the social and political license for AI to operate.\n**The product angle most people are missing:** The core infrastructure and enabling policies for AI are becoming major public relations and regulatory battlegrounds, directly impacting future growth and market access.\n**What this means specifically for PMMs:** You need to anticipate and address public sentiment and local regulatory hurdles in your GTM strategies, especially for AI-reliant products or those with significant infrastructure needs. Messaging around \"responsible AI\" needs to be more than just a tagline.\n**What this means specifically for PMs:** Ethical implications, energy consumption, and regulatory compliance are no longer afterthoughts; they are critical product requirements that can make or break adoption and scale.\n**The one thing to act on or watch in the next 30 days:** Start monitoring local political and community discussions around AI infrastructure and tech policy. Assess your product's reliance on large-scale compute and the potential for public resistance.\n\n---\n\n🎯 POSITIONING WATCH\n**Crayon — Announcing Refresh: We've automated the last 20% of competitive intelligence** [S3]\n- **Narrative angle:** Effortless, always-current competitive advantage for sales and PMM teams, eliminating the pain of stale intel.\n- **ICP signal:** Sales leaders, PMMs, and competitive intelligence teams at mid-market to enterprise companies who struggle with the speed of competitive shifts.\n- **What's sharp:** \"Automated the last 20%\" – it's specific, implies completion, and targets a known pain point of manual last-mile work.\n- **What's fuzzy:** The opening \"Imagine your sales team's top competitive talk track...\" is a bit generic and could be more direct about the problem.\n- **Steal this:** Frame your product's automation as \"completing the last mile\" or \"automating the tedious final percentage\" of a critical, time-consuming process.\n\n**Anker Eufy Window Camera E10 — New indoor security camera that monitors the outside of your home from within it** [S20]\n- **Narrative angle:** Simple, secure outdoor monitoring without the hassle and weatherproofing requirements of outdoor installation.\n- **ICP signal:** Homeowners and renters who want to add outdoor security but are deterred by complex setup, wiring, or exposing cameras to the elements.\n- **What's sharp:** \"Monitors the outside of your home from within it\" – a clear, unique value proposition that immediately differentiates it from traditional outdoor cameras.\n- **What's fuzzy:** Still calling it an \"indoor security camera\" might lead some to overlook its outdoor monitoring capability or question its effectiveness through glass.\n- **Steal this:** Reframe a common product limitation (e.g., \"indoor only\") as a distinct benefit (e.g., \"no weatherproofing needed, installs safely from inside\").\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n**Crayon vs Competitive Intelligence Manual Processes/Other CI tools** [S3]\n- **What changed:** Crayon launched \"Refresh,\" automating the final 20% of competitive intelligence, focusing on real-time alerts for critical competitor moves like team expansions or new partnerships.\n- **Why they did this now:** They're betting on the increased speed of market changes (especially with AI accelerating feature shifts) and the direct impact of stale intel on sales deals. The market demands faster, more proactive CI.\n- **PMM action item:** Review your current competitive intelligence workflow. How quickly do significant competitor shifts (e.g., a major service team expansion) get communicated and integrated into sales battlecards? Look for ways to automate your internal alert systems.\n- **Battlecard update needed?** Yes — Add \"real-time competitive alerts\" as a key Crayon feature. Evaluate your existing CI tools and processes against this new speed benchmark.\n\n**Google vs Schools/Other search engines** [S21]\n- **What changed:** Google is threatening to turn off Search access for schools that restrict AI usage, attempting to leverage its market dominance to enforce AI adoption.\n- **Why they did this now:** Google is betting on the essential role of Search in education and the difficulty for schools to function without it. This is an aggressive move to control the narrative and adoption trajectory of AI in a critical sector.\n- **PMM action item:** If your product relies heavily on integration with or access to major platforms (Google, Apple, Microsoft), assess the potential for \"platform leverage\" plays. How might a dominant partner shift its terms to push its own strategic agenda, and how would that impact your GTM?\n- **Battlecard update needed?** Yes — Under Google's \"ecosystem leverage\" or \"policy influence\" section, document this aggressive tactic. Consider its broader implications for tech giants dictating policy.\n\n---\n\n🚀 LAUNCH DISSECTION\n**PasteGuard for Mac by PasteGuard** [S77][S14]\n- **Launch tier:** T2 — Addresses a specific, growing pain point around AI privacy, but is niche for now.\n- **Core message:** \"Keep secrets and personal data out of AI chats\" [S77]\n- **GTM channels used:** Product Hunt (discussion, link) [S77][S14]\n- **Sales readiness signal:** None apparent; likely a self-serve individual tool.\n- **Buyer emotion targeted:** Fear (of sensitive data leakage, privacy violations, compliance risks).\n- **What worked:** The core message is incredibly clear, concise, and directly addresses a current, relevant problem that many users of AI chats face daily. It's instantly understandable.\n- **What's missing:** A brief demo video showing the product in action with popular AI chat interfaces would significantly boost understanding and trust. Specific use cases beyond \"AI chats\" (e.g., enterprise compliance, specific roles) are also absent.\n- **If you were the PMM:** I'd immediately add a short, impactful video demonstrating the tool's functionality with a prominent AI chat service and highlight its value for professionals handling confidential information.\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n**Product Marketing Alliance — Product launches when engineering is shipping all the time – a guide by HowdyGo** [S4]\n- **The core argument or insight:** The rapid, continuous shipping cycles driven by AI are creating significant challenges for PMMs, leading to rushed messaging, friction with engineering, and overwhelming customers with content barrages. PMMs need new frameworks for managing ongoing releases.\n- **Community reaction:** Resonating strongly, as many PMMs are grappling with the shift from traditional, calendar-driven \"big bang\" launches to continuous delivery.\n- **The sharpest counter-take if one exists:** Some argue that the problem isn't continuous shipping itself, but PMMs clinging to outdated launch paradigms; the solution is to adapt to \"marketing product evolution\" rather than discrete launches.\n- **Worth engaging?** Yes – this is a critical, evolving challenge for the PMM role, demanding new strategies and collaboration models.\n\n**HubSpot Marketing — How to find and fix your AEO keywords gap** [S5]\n- **The core argument or insight:** Traditional SEO keyword gap analysis is insufficient for the age of AI answer engines. Marketers now need \"Answer Engine Optimization\" (AEO) to identify where their brand is cited (or not cited) in AI search answers compared to competitors.\n- **Community reaction:** Resonating with content and SEO marketers who are actively trying to adapt their strategies to new AI-driven search paradigms.\n- **The sharpest counter-take if one exists:** A common counter-take is that AEO is largely a rebranding of good, user-centric content strategy, or that the opaque nature of AI citations makes reliable optimization difficult.\n- **Worth engaging?** Yes – AEO is a nascent but increasingly important field that will directly impact brand visibility and discoverability in the coming years.\n\n**Product Marketing Alliance — How to audit your team's existing content in month one** [S9]\n- **The core argument or insight:** A structured content audit is a crucial first-month activity for new PMMs, allowing them to understand existing assets, identify gaps, prove capability, and build a strategic foundation for future content efforts.\n- **Community reaction:** Resonating, particularly with new hires or PMMs inheriting disorganized content libraries. It offers practical advice for establishing credibility early.\n- **The sharpest counter-take if one exists:** Some suggest that a full content audit might be too time-consuming for month one, advocating instead for prioritizing quick wins or high-impact customer-facing content first.\n- **Worth engaging?** Skim – good foundational advice for PMMs in a new role, but not necessarily groundbreaking for seasoned professionals unless they're onboarding a new team member.\n\n---\n\n💡 USE CASE OF THE DAY\n**Map Your AEO Keyword Gap**\nCategory: Content\nRole: PMM\n\n**The workflow:**\nStep 1: **Identify core buyer questions.** Brainstorm 3-5 high-intent questions your Ideal Customer Profile (ICP) would ask an AI answer engine when researching solutions to the problem your product solves.\nStep 2: **Query AI search engines.** Use tools like Perplexity AI (perplexity.ai) or Google's Search Generative Experience (SGE) to input these questions and meticulously note which brands, products, or concepts are cited in the AI's summarized answer.\nStep 3: **Analyze and prioritize gaps.** Compare the AI's citations for your brand against those for your top competitors. Identify specific questions where your brand should be a prominent answer but is missing, or where a competitor dominates the narrative.\n\nTools used: Perplexity AI, Google SGE, spreadsheet, content audit tool (optional)\nTime to complete: 4-8 hours (initial audit; ongoing monitoring is continuous)\nOutput you get: A prioritized list of \"AEO keyword gaps\" and specific content opportunities to improve your brand's visibility and citation in AI search results.\nWhy it matters now: AI answer engines are rapidly changing how buyers discover and evaluate solutions, making AEO critical for maintaining brand relevance.\n\nPrompt or template (if AI-assisted):\n\"For [ICP] searching for [problem], what are the top 5 questions they ask that an AI answer engine would tackle? For each question, which brands are typically cited in the answer, and for what specific points?\"\n\n---\n\n📚 LEARNING PICK OF THE DAY\n**Securing the agentic enterprise with data lineage** — MIT Technology Review [S38]\n\n**What it's about:** As AI agents become more prevalent in enterprise workflows, the movement and processing of data become incredibly complex and opaque. This piece highlights how this \"agentic enterprise\" creates significant security and compliance risks, particularly around sensitive data leakage. It advocates for data lineage as a crucial solution to trace data origin, transformation, and movement, ensuring auditability and preventing unapproved information spread.\n\n**3 actionable takeaways:**\n1.  **Map critical data flows for AI agents:** Proactively identify every point where your AI agents access, process, and output sensitive customer or internal data within your enterprise systems. This means understanding data sources and destinations.\n2.  **Implement data lineage tools for AI workflows:** Invest in or leverage existing data lineage software to track the complete journey of data as it's used and transformed by AI agents, ensuring transparency and accountability.\n3.  **Establish clear audit trails for AI-driven decisions:** Ensure that any action or recommendation made by an AI agent (e.g., drafting a sales proposal) can be fully traced back to its data sources and the logic applied, crucial for compliance and error correction.\n\n**Who should read this:** Both, especially senior PMMs and PMs who are building, launching, or managing enterprise AI solutions.\n**Read time:** 10-15 minutes\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n**Topic or Research Name:** Public Sentiment on Data Center Expansion [S17][S24]\n- **What was found or demonstrated:** Recent midterm elections revealed widespread public opposition to data center development. An NBC News poll showed 76% of voters opposed data centers in their communities, leading to successful ballot measures restricting development and electoral losses for pro-data center candidates.\n- **The method used:** Analysis of midterm election results, local ballot measures, and an NBC News Election Day poll.\n- **How it changes or validates current best practice:** This fundamentally challenges the assumption that tech infrastructure expansion will be passively accepted. It validates the critical need for PMs to incorporate community impact, environmental concerns, and local political sentiment into early-stage product and infrastructure planning.\n- **PM action item:** Before proposing or scaling compute-intensive products that require new data center capacity, initiate stakeholder engagement and community impact assessments. Don't underestimate \"Not In My Backyard\" (NIMBY) sentiment as a significant roadblock.\n\n---\n\n💼 PMM/PM JOBS PULSE\nNo job listings were found in today's data.\n\nThe market signals are mixed, indicating a bifurcated environment. While some AI inference startups like Fal are seeing massive valuation jumps ($16B) and CrowdStrike is acquiring AI security firms (nearly $500M) [S68][S75], larger players like Canva are undergoing significant layoffs (1,200 people) [S39] and Sequoia is pulling back on its global expansion with new funds [S1]. This suggests a cautious but still investing environment, heavily skewed towards specific, high-growth AI infrastructure and security plays, while general SaaS is feeling the squeeze.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n**Sequoia — Consolidating into smaller, Bay Area-centered firm; announcing $10 billion in new funds** [S1]\n- **What they do:** Venture Capital firm.\n- **GTM motion:** Partner-led (investing in other companies).\n- **What this signals about B2B investment direction:** A major VC player is contracting globally, signaling a more concentrated, cautious investment strategy with a flight to quality and core markets. The $10B in new funds, while large, is within a more focused structure.\n- **PMM implication:** Startups need to demonstrate exceptionally sharp GTM strategies, clear product-market fit, and demonstrable ROI to attract shrinking and more discerning VC dollars.\n- **PM implication:** Focus on core product value and measurable traction. Incremental features or broad market ambitions will likely not impress investors in this environment.\n\n**Fal — $1.3 billion round, doubles valuation to $16 billion** [S68]\n- **What they do:** AI inference startup.\n- **GTM motion:** Product-led / Enterprise (likely targeting developers and then larger enterprises for AI model deployment).\n- **What this signals about B2B investment direction:** Despite broader market contractions, there is immense, concentrated investment and demand for core AI infrastructure, particularly in the inference layer. This is a red-hot segment.\n- **PMM implication:** If your product is in AI infrastructure, double down on messaging around performance, cost-efficiency, scalability, and ease of integration for AI models. The market is hungry for these solutions.\n- **PM implication:** Prioritize product development that optimizes for speed, cost, and developer experience in deploying and running AI models at scale. Inference is a major bottleneck.\n\n**CrowdStrike — Nearly $500 million for Fiddler AI and Dreadnode** [S75]\n- **What they do:** Cybersecurity (acquiring AI agent observability and AI security testing startups).\n- **GTM motion:** Enterprise / Sales-led.\n- **What this signals about B2B investment direction:** The market for securing AI agents and systems is rapidly expanding and becoming a critical component of enterprise AI adoption. Security is a top-tier concern.\n- **PMM implication:** If your product touches enterprise AI, weave strong security, observability, and auditability messaging into your GTM. Highlight how your solution protects against emerging AI-specific risks.\n- **PM implication:** Build robust security and traceability features into AI-enabled products from day one. Assume AI agents will be targeted for exploitation and design for resilience and comprehensive monitoring.\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n**Crayon Refresh** — Automates the last 20% of competitive intelligence, providing real-time alerts on competitor moves [S3]\nCategory: Competitive Intel\nBest for: PMM\nFree tier: No / Trial (likely)\nHonest take: Genuinely new capability – automating the \"last mile\" of CI is a real, acknowledged pain point, especially with the accelerated pace of market changes. It moves CI from reactive to proactive.\nWho should try it this week: PMMs whose sales teams are routinely caught off guard by competitor news and need faster, more reliable battlecard updates.\n\n**PasteGuard for Mac** — Keeps secrets and personal data out of AI chats by preventing pastes into designated apps [S77]\nCategory: Security / Privacy\nBest for: Both (anyone using AI chats, especially with sensitive data)\nFree tier: No / Trial (likely)\nHonest take: Genuinely new capability – a simple, direct solution to a very specific and growing privacy/security concern as AI chat adoption expands. It's a clever, low-friction approach.\nWho should try it this week: Any PMM or PM who regularly uses AI chat interfaces and handles confidential information on their Mac.\n\n---\n\n⚡ SPEED ROUND\n📈 Sequoia's $10B new funds signal a flight to quality for VCs, despite global pullback [S1].\n🎮 God of War Laufey delayed to May 2027; manage expectations for big launches [S2].\n🗳️ Voters across the US rejected data centers, complicating AI infrastructure expansion [S17][S24].\n🍎 Apple's Siri Recaps are \"surprisingly useful\" but raise privacy concerns [S18].\n🚫 Google threatens to disable Search for schools restricting AI, sparking monopoly backlash [S21].\n🤖 Uber fulfilled only 4 rides via AI agents last quarter; the agentic web is still nascent for some [S25].\n💨 Bluetooth HDT boosts data transfer to 7.5 Mbps for higher resolution audio [S29].\n💰 Revolut's valuation jumps 53% to $115B, pushing for US bank launch [S33].\n📉 Canva lays off 1,200 people amid slowing growth, signaling broader tech slowdown [S39].\n🛡️ Anthropic is building FlashProve to verify AI model identity, addressing trust and provenance [S60].\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\n**Challenge: Rapid AEO Keyword Opportunity Scan**\nRole focus: PMM\n\n**The setup:** Your product solves a specific problem for a defined Ideal Customer Profile (ICP). AI answer engines are increasingly impacting how your buyers find solutions and evaluate options. You need to understand your brand's visibility in this new landscape.\n\n**What to do:**\nStep 1: Go to Perplexity AI (perplexity.ai) or a similar AI search engine.\nStep 2: Input 3-5 common, high-intent questions your ICP would ask about the problem your product solves. For each question, quickly note which brands or solutions are cited in the AI's summarized answer.\nStep 3: Compare these citations to your own brand's presence. Identify 1-2 specific questions where your brand *should* be cited but isn't, or where a key competitor is consistently dominant.\n\n**The exact prompt or template:**\n\"For [ICP] struggling with [problem], what are the core questions they'd ask an AI search engine when looking for a solution? List 3-5 questions and identify the top 3 brands or solutions mentioned in the AI's answer for each.\"\n\n**What good looks like vs. mediocre:** Good identifies specific, actionable content gaps and competitive weak points for *your* brand, showing where you need to build content authority. Mediocre just lists general questions without analyzing the competitive landscape or identifying concrete opportunities.\n\n**Why this skill matters in the next 6 months:** AEO is the new SEO; understanding how AI answers influence buyer perception and brand discovery is critical for future content strategy and maintaining competitive visibility.\n\nTime: 15 minutes or less.\n\n---\n\n🧠 EDGE INSIGHT\nThe most striking pattern today is the emerging conflict between the rapid, decentralized innovation of AI and the increasingly centralized, politicized, and publicly scrutinized environment it operates within. On one hand, you have AI inference startups getting insane valuations and engineering teams shipping at a pace that breaks traditional launch models. On the other, voters are actively rejecting the physical manifestation of AI (data centers), Google is wielding its monopoly power to force AI adoption, and VCs are consolidating their bets. This isn't just a market shift; it's a social contract renegotiation for tech. PMMs and PMs who only focus on product features and GTM channels are missing the critical, unpredictable variable of public and political acceptance that's now dictating the very infrastructure and policy landscape for AI. Ignoring it means building on shifting sand.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Sequoia hits rewind, undoing 20 years of expansion",
+      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 2,
+      "title": "God of War Laufey delayed until May",
+      "url": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
+      "source": "The Verge"
+    },
+    {
+      "id": 3,
+      "title": "Announcing Refresh: We've automated the last 20% of competitive intelligence",
+      "url": "https://www.crayon.co/blog/announcing-refresh",
+      "source": "Crayon Blog"
+    },
+    {
+      "id": 4,
+      "title": "Product launches when engineering is  shipping all the time – a guide by HowdyGo",
+      "url": "https://www.productmarketingalliance.com/launches-when-engineering-ships-all-the-time/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 5,
+      "title": "How to find and fix your AEO keywords gap",
+      "url": "https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 6,
+      "title": "Rungle",
+      "url": "https://www.producthunt.com/products/rungle",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 7,
+      "title": "Fedora Linux 45",
+      "url": "https://www.producthunt.com/products/fedora-linux-45",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "How do I benchmark my AI search performance against my industry?",
+      "url": "https://blog.hubspot.com/marketing/ai-search-industry-benchmarks",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 9,
+      "title": "How to audit your team's existing content  in month one",
+      "url": "https://www.productmarketingalliance.com/how-to-audit-your-teams-existing-content-in-month-one/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 10,
+      "title": "TellPip",
+      "url": "https://www.producthunt.com/products/tellpip",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 11,
+      "title": "Hashference",
+      "url": "https://www.producthunt.com/products/hashference",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 12,
+      "title": "Freeport Markets",
+      "url": "https://www.producthunt.com/products/freeport-markets",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 13,
+      "title": "Hindsight Models and Inference API",
+      "url": "https://www.producthunt.com/products/vectorize",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 14,
+      "title": "PasteGuard for Mac",
+      "url": "https://www.producthunt.com/products/pasteguard-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 15,
+      "title": "What’s next for US energy policy after the midterm elections?",
+      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 16,
+      "title": "Nintendo is losing a Switch cartridge supplier",
+      "url": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+      "source": "The Verge"
+    },
+    {
+      "id": 17,
+      "title": "The Results Are In: Voters Hate Data Centers",
+      "url": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+      "source": "Wired"
+    },
+    {
+      "id": 18,
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 19,
+      "title": "‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/",
+      "source": "Wired"
+    },
+    {
+      "id": 20,
+      "title": "Anker’s new window-mounted camera monitors the outside of your home from within it",
+      "url": "https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision",
+      "source": "The Verge"
+    },
+    {
+      "id": 21,
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 22,
+      "title": "Rian Johnson explains why he had to build his own iPhone camera app",
+      "url": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
+      "source": "The Verge"
+    },
+    {
+      "id": 23,
+      "title": "Voters Set $400 Million of Elon Musk’s Money on Fire",
+      "url": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/",
+      "source": "Wired"
+    },
+    {
+      "id": 24,
+      "title": "Data centers lost the midterms",
+      "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "source": "The Verge"
+    },
+    {
+      "id": 25,
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "source": "The Verge"
+    },
+    {
+      "id": 26,
+      "title": "My favorite 25W wireless power bank is down to $35",
+      "url": "https://www.theverge.com/gadgets/1026311/qi2-25w-power-bank-usbc-avowed-dreame-robot-vacuum-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 27,
+      "title": "Not even $200 million could help Elon Musk buy Texas",
+      "url": "https://www.theverge.com/policy/1026329/elon-musk-paxton-talarico-texas-election-funding",
+      "source": "The Verge"
+    },
+    {
+      "id": 28,
+      "title": "Election Deniers Aren’t Contesting Their Massive Losses",
+      "url": "https://www.wired.com/story/election-deniers-not-contesting-their-massive-losses/",
+      "source": "Wired"
+    },
+    {
+      "id": 29,
+      "title": "Bluetooth is getting a big boost to data transfer speeds",
+      "url": "https://www.theverge.com/tech/1026308/bluetooth-le-sig-high-data-throughput-hdt",
+      "source": "The Verge"
+    },
+    {
+      "id": 30,
+      "title": "The fight for tech accountability starts now",
+      "url": "https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability",
+      "source": "The Verge"
+    },
+    {
+      "id": 31,
+      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+      "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 32,
+      "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-alex-gibey-musk/",
+      "source": "Wired"
+    },
+    {
+      "id": 33,
+      "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+      "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 34,
+      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+      "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+      "source": "Wired"
+    },
+    {
+      "id": 35,
+      "title": "‘I’m 100 Percent at War With Trump’: MAGA Revolts After Midterms Wipeout",
+      "url": "https://www.wired.com/story/im-100-percent-at-war-with-trump-maga-revolts-after-midterms-wipeout/",
+      "source": "Wired"
+    },
+    {
+      "id": 36,
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 37,
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 38,
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 39,
+      "title": "Canva lays off over 1,200 people amid slowing growth",
+      "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 40,
+      "title": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
+      "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+      "source": "Wired"
+    },
+    {
+      "id": 41,
+      "title": "Best Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More",
+      "url": "https://www.wired.com/story/best-wireless-earbuds/",
+      "source": "Wired"
+    },
+    {
+      "id": 42,
+      "title": "What’s the Difference Between an Ebike and an E-Moto?",
+      "url": "https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/",
+      "source": "Wired"
+    },
+    {
+      "id": 43,
+      "title": "New Jersey’s New Ebike Law Is Causing Chaos",
+      "url": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/",
+      "source": "Wired"
+    },
+    {
+      "id": 44,
+      "title": "Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know Why",
+      "url": "https://www.wired.com/story/chernobyls-dogs-may-be-evolving-but-scientists-dont-know-why/",
+      "source": "Wired"
+    },
+    {
+      "id": 45,
+      "title": "50% Off DoorDash Promo Code | November 2026",
+      "url": "https://www.wired.com/story/doordash-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 46,
+      "title": "Columbia Promo Codes: 15% Off | November 2026",
+      "url": "https://www.wired.com/story/columbia-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 47,
+      "title": "Hoka Coupon Codes: 30% Off in November 2026",
+      "url": "https://www.wired.com/story/hoka-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 48,
+      "title": "SteelSeries Coupon Codes: 15% Off in November 2026",
+      "url": "https://www.wired.com/story/steelseries-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 49,
+      "title": "Motley Fool Promo Code: $200 Off on Stock Advisor November 2026",
+      "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 50,
+      "title": "25% Off Adidas Promo Code | November 2026",
+      "url": "https://www.wired.com/story/adidas-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 51,
+      "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+      "url": "https://www.wired.com/story/legalzoom-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Alo Discount Code: 20% Off November 2026",
+      "url": "https://www.wired.com/story/alo-yoga-discount-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "Hulu Promo Codes & Discounts: 20% Off in November 2026",
+      "url": "https://www.wired.com/story/hulu-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "Hostinger Promo Code: 79% Off for November 2026",
+      "url": "https://www.wired.com/story/hostinger-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Shark Promo Codes for November 2026",
+      "url": "https://www.wired.com/story/shark-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Whoop Promo Codes: 20% Off This November 2026",
+      "url": "https://www.wired.com/story/whoop-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 57,
+      "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+      "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 58,
+      "title": "Democrats Sweep Republicans in Nearly Every Race That Matters",
+      "url": "https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/",
+      "source": "Wired"
+    },
+    {
+      "id": 59,
+      "title": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
+      "url": "https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/",
+      "source": "Wired"
+    },
+    {
+      "id": 60,
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 61,
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 62,
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 63,
+      "title": "$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work",
+      "url": "https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 64,
+      "title": "The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud",
+      "url": "https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/",
+      "source": "Wired"
+    },
+    {
+      "id": 65,
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 66,
+      "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
+      "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 67,
+      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+      "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 68,
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 69,
+      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+      "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 70,
+      "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+      "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
+      "source": "Wired"
+    },
+    {
+      "id": 71,
+      "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+      "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 72,
+      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+      "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 73,
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 74,
+      "title": "Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026)",
+      "url": "https://www.wired.com/story/air-purifier-sale-october-3-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 75,
+      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 76,
+      "title": "Hashference",
+      "url": "https://www.producthunt.com/products/hashference",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 77,
+      "title": "PasteGuard for Mac",
+      "url": "https://www.producthunt.com/products/pasteguard-2",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 78,
+      "title": "Fedora Linux 45",
+      "url": "https://www.producthunt.com/products/fedora-linux-45",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 79,
+      "title": "Freeport Markets",
+      "url": "https://www.producthunt.com/products/freeport-markets",
+      "source": "Product Hunt"
+    }
+  ]
+}
