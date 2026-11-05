@@ -1,0 +1,573 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T19:40:15.687391+00:00",
+  "raw_text": "Alright, Thursday is here and the news cycle is absolutely wild. Midterms shook everything up, tech is correcting, and some truly bizarre stuff is happening globally. Grab a coffee, let's dive in.\n\n***\n\n**Money Talk**\n\n-   **IRS tweaks 2027 tax rules, giving some breathing room.**\n    Good news for your future self (or your heirs): the IRS is boosting estate and gift tax exemptions, plus upping federal income tax brackets and standard deductions for 2027. Inflation adjustments hitting different, I guess. [S1][S2]\n-   **Nasdaq tanks, VIX surges on AI regulation fears.**\n    Wall Street’s fear gauge hasn't moved this much since April, and it's all thanks to a \"blue wave\" post-midterms. Tech and AI stocks, including Musk's SpaceX, are getting hammered as investors brace for tougher scrutiny and regulation on everything from data centers to algorithms. Ouch. [S3][S6][S11][S50]\n-   **Bank of England hikes rates for the first time in three years.**\n    In a move most analysts saw coming, the BoE lifted interest rates to 4% from 3.75%. Inflation's still doing its thing, so don't be surprised if another hike comes knocking soon. The cost of living crisis just got a bit more… crispy. [S8][S13]\n-   **Blue Origin delays New Glenn launch (again).**\n    Jeff Bezos's space venture won't be flying its New Glenn rocket until January 2027. Apparently, rebuilding a launch pad damaged by an explosion in May is a bit tougher than anticipated. Space is hard, launches are harder. [S5]\n-   **Democrats eye Trump's energy deals for upcoming investigations.**\n    With a freshly blue Congress, Democrats are sharpening their knives for Trump-era energy interventions, especially in Venezuela and those mineral deals. Expect some juicy oversight hearings and potential headaches for anyone tied to those projects. [S4]\n\n**World Lore**\n\n-   **Europe hit by coordinated bomb threats, raising hybrid war fears.**\n    Over 25 flights across Europe were disrupted, forced into emergency landings or diversions, due to a wave of hoax bomb threats. Coming just days after similar alerts, it's raising serious questions about coordinated attacks and potential \"hybrid warfare\" tactics. Not exactly a relaxing travel season. [S12]\n-   **Paraguay's president out amidst bank scandal.**\n    Santiago Peña barely had time to resign before Paraguayan lawmakers impeached him. This swift exit follows the collapse of a digital bank tied to his government, which froze millions in savings. Talk about a swift fall from grace. [S21]\n-   **US midterm fallout signals shift on Iran war.**\n    The \"blue wave\" didn't just hit domestically; it's got major foreign policy implications. Exit polls suggest Trump's Iran war is deeply unpopular, putting figures like Defense Chief Pete Hegseth on the hot seat and giving Gulf states reason for optimism. Time to pivot? [S31][S32]\n-   **Ukraine sees glimmer of hope with Oleshky ceasefire.**\n    Amidst the ongoing conflict, Russia and Ukraine agreed to a US-brokered ceasefire in Oleshky, allowing hundreds of civilians to evacuate. It's a small win, but observers are hoping it could pave the way for more humanitarian missions. Keep your fingers crossed. [S33]\n-   **Hong Kong activist Joshua Wong sentenced to another decade.**\n    In a stark reminder of Beijing's grip, pro-democracy leader Joshua Wong was hit with another 10-year prison sentence under the national security law. It's a crushing blow to what was once a vibrant movement. [S25]\n\n**Tech Tea**\n\n-   **AI market gets a midterm hangover as Nasdaq tanks.**\n    Well, that didn't take long. Post-election, the Nasdaq plummeted up to 5%, heading for its worst day in 18 months. Investors are officially spooked about the \"blue wave\" bringing tougher scrutiny and regulation to the AI industry. Meanwhile, OpenAI is still bullish on a 2027 IPO. Bold. [S11][S38][S40][S50][S44]\n-   **Claude AI wants to manage your bank account directly.**\n    Anthropic's Claude is rolling out a new \"Personal Finance\" feature that connects directly to your bank and card accounts via Plaid. So now you can ask an LLM, \"where did all my money go?\" and actually get an answer. What could possibly go wrong? [S49]\n-   **US warns of 'ongoing cyber threat' amidst mass industrial hacks.**\n    The Feds are sounding the alarm about widespread hacks targeting industrial retail and military freezers. Food, transportation, and healthcare industries are all affected, highlighting a chilling vulnerability in critical infrastructure. Pun intended. [S43]\n-   **Meta preps for AI expansion headwinds.**\n    Mark Zuckerberg's empire is warning that growing political opposition to data center construction could threaten future AI investments. Communities pushing back against massive infrastructure projects are forcing Meta to rethink its growth strategy. Not every NIMBY wants a supercomputer in their backyard. [S41]\n-   **New smart ring aims to control your AI agent with a tap.**\n    Forget talking to your phone. Startup Aina is betting on a smart ring that lets you control your autonomous AI agents with a single tap. Because who needs to pull out a phone when you can just look vaguely at your hand? [S53]\n\n**Creator Szn**\n\n-   **AI isn't fixing ad conversion, it's just bloating briefs.**\n    Turns out, just because you *can* use AI to generate endless media and creative briefs, doesn't mean you *should*. Agencies are drowning in \"brief bloat,\" and ChatGPT ads are still struggling with conversion rates despite OpenAI's lofty ad revenue targets. More isn't always better. [S58][S59]\n-   **Grocery stores are the new media channels, apparently.**\n    Move over, TikTok. Marketers are now reimagining the humble grocery store as prime real estate for \"retail media,\" finding new ways to engage you while you're picking up milk. Your weekly shop just got even more surveilled. [S56]\n-   **Channel 4 drops 'Married at First Sight UK' after rape allegations.**\n    Following two reviews sparked by allegations of rape and sexual misconduct during filming, Channel 4 has pulled the plug on its popular reality show. A stark reminder that content production needs to get its act together. [S15]\n-   **Liquid Death already looking for LiveRamp alternatives.**\n    In the wake of Publicis acquiring identity graph firm LiveRamp, Liquid Death’s media chief is making moves to ditch them. It seems brands are getting antsy about consolidation in the adtech space, fearing lock-in and higher prices. [S57]\n-   **Reddit founder says building social apps is \"not cool anymore.\"**\n    Alexis Ohanian, co-founder of Reddit, believes much of the internet is \"compromised\" and that creating new social media apps isn't where it's at. He's looking for what's next in user-generated content, signaling a potential shift in the digital landscape's hottest sectors. [S51]\n\n**Supply Lines**\n\n-   **Zipline soars to $21B valuation, adding 300 Walmart drone sites.**\n    The drone delivery unicorn is expanding aggressively, deepening its partnership with Walmart to roll out hundreds more delivery hubs. That's a huge bet on the future of last-mile logistics, proving that sometimes, the sky's the limit. [S93]\n-   **Harbinger raises $240M with FedEx investing.**\n    The EV platform startup for trucks and beyond just scored a massive funding round, bringing its total past $650 million. FedEx jumping in as a strategic investor signals serious industry confidence in electrifying fleets and extending their reach beyond just trucks. [S64]\n-   **Amazon deploys smart glasses for delivery drivers, swaps Grubhub for Uber Eats.**\n    Drivers are getting AR navigation directly in their field of view, aiming for efficiency gains and fewer missed turns. Meanwhile, Prime members can now ditch Grubhub for Uber Eats delivery perks, a major shift in Amazon's food delivery play and a headache for Grubhub. [S70][S89][S90][S91][S92]\n-   **Port of Long Beach gears up for record 10 million TEU year.**\n    Looks like trade volumes are still kicking, with the Californian port expecting its busiest year ever. Despite all the talk of economic slowdowns, the real-world numbers at the docks tell a different story – goods are still moving, and in huge volumes. [S73]\n-   **Maersk posts billions, but investors are not impressed.**\n    The ocean giant had a strong quarter across all units, yet its stock tanked over 11% in early trade. Apparently, even printing billions in profits isn't enough to convince the market when the CEO's earnings call goes \"on, and on, and on...\" [S75]\n\n**Speed Round**\n\n-   Russell Brand found guilty of rape, prison time coming.\n-   Bob Dylan popped by the Vatican for a brief chat with Pope Leo.\n-   UK might ban smart glasses over creepy, secret filming concerns.\n-   France just saw over 600,000 people protest the rising cost of living.\n-   A Democrat pulled off a stunning Senate upset in crimson Mississippi.\n-   OpenAI's president hints at a 2027 IPO, despite the tech market turbulence.\n-   The US Army is enlisting FedEx to modernize its logistics depots.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "IRS announces bigger estate and gift tax exemption for 2027",
+      "url": "https://www.cnbc.com/2026/11/05/2027-estate-and-gift-tax-exemption-irs-raises-limit.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "IRS announces new federal income tax brackets for 2027",
+      "url": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
+      "url": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
+      "url": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launch pad",
+      "url": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+      "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "Why do veterinary fees and sausage rolls vary in price across London?",
+      "url": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "US tech shares fall sharply as investors bet on AI slowdown after Democrats’ election triumph",
+      "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
+      "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "UK government considers smart glasses ban over secret filming concerns",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "Channel 4 axes Married at First Sight UK after rape allegations",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/05/channel-4-axes-married-at-first-sight-uk-over-rape-allegations",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "Black voters deliver a GOP reckoning",
+      "url": "https://www.axios.com/2026/11/05/black-voters-democrats-2026-midterms-trump",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "DOJ's Harmeet Dhillon resigns",
+      "url": "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Exit polls show young voters swinging back to Democrats after Trump's 2024 gains",
+      "url": "https://www.axios.com/2026/11/05/gen-z-voters-2026-midterms-democrats-house",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Democrat locked in Deep South Senate stunner",
+      "url": "https://www.axios.com/2026/11/05/mississippi-senate-election-scott-colom-democrat",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "Now comes the test for Dems: household budget relief",
+      "url": "https://www.axios.com/2026/11/05/now-comes-the-test-for-dems-household-budget-relief",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
+      "url": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+      "url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "Hong Kong activist Joshua Wong is sentenced to 10 more years in prison",
+      "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "What Does Morocco’s First Woman Leader Actually Mean for the Country?",
+      "url": "https://foreignpolicy.com/2026/11/05/morocco-first-woman-leader-head-government-mansouri/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "Palestinian Voters Gave Eisenkot a Chance to Govern—He Should Take It",
+      "url": "https://foreignpolicy.com/2026/11/05/israel-election-netanyahu-palestinian-eisenkot-coalition-government/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "Americans Care About Foreign Policy. Now Democrats Must Listen to Them.",
+      "url": "https://foreignpolicy.com/2026/11/04/us-midterm-elections-democrats-trump-israel-iran/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "Trump Has Shifted the U.S.-Pakistan Relationship",
+      "url": "https://foreignpolicy.com/2026/11/04/pakistan-us-trump-business-ties-lng-project/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "U.N. Peacekeepers Are Leaving Western Sahara. What Does That Mean?",
+      "url": "https://foreignpolicy.com/2026/11/04/un-peacekeeping-mission-western-sahara-africa-morocco/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "Will US midterm election results spare Gulf states from further war?",
+      "url": "https://www.dw.com/en/will-us-midterm-election-results-spare-gulf-states-from-further-war/a-79868398?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "Pete Hegseth under fire as Republicans trade blame for midterm debacle",
+      "url": "https://www.dw.com/en/pete-hegseth-under-fire-as-republicans-trade-blame-for-midterm-debacle/a-79869867?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "Does the Oleshky ceasefire signal progress to come in Ukraine?",
+      "url": "https://www.dw.com/en/does-the-oleshky-ceasefire-signal-progress-to-come-in-ukraine/a-79869164?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "France: More than 600,000 protest as anger grows over cost of living",
+      "url": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "Arrests and investigations as Serbia begins post-election clean-up",
+      "url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "How to Lie With Statistics (1954) [pdf]",
+      "url": "https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "NTS: Authenticated Time at Meta",
+      "url": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "Nasdaq plummets 4% into correction territory",
+      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "Muse has a voice mode now",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "EA is bringing 25 classic PC games to Steam",
+      "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Area Man Feels Joy Online for First Time in Years",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "url": "https://www.wired.com/story/aina-smart-ring/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+      "url": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "How TF is the grocery store a media channel?",
+      "url": "https://digiday.com/sponsored/in-store-grocery-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "Why Liquid Death’s media chief is determined to break away from LiveRamp",
+      "url": "https://digiday.com/media-buying/why-liquid-deaths-media-chief-is-determined-to-break-away-from-liveramp/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "In graphic detail: Six thousand brands later, ChatGPT ads still have a conversion problem",
+      "url": "https://digiday.com/marketing/in-graphic-detail-chatgpt-s-ad-growth-is-outrunning-the-proof-that-it-works/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "Agencies find AI overuse is leading to brief bloat",
+      "url": "https://digiday.com/marketing/a-little-bit-ridiculous-agencies-find-ai-overuse-is-leading-to-brief-bloat/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "After DoorDash’s Instacart bid, here’s the case for and against consolidation in commerce media",
+      "url": "https://digiday.com/marketing/after-doordashs-instacart-bid-heres-the-case-for-and-against-consolidation-in-commerce-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 61,
+      "title": "A Super El Niño Is About To Test Which Freight Enterprises Plan For Impact And Which Only React",
+      "url": "https://www.freightwaves.com/news/a-super-el-nino-is-about-to-test-which-freight-enterprises-plan-for-impact-and-which-only-react",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 62,
+      "title": "STB orders Union Pacific to make alleged rate hike threat video public",
+      "url": "https://www.freightwaves.com/news/stb-orders-union-pacific-to-make-rate-hike-threat-video-public",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "Behind The Capitol Christmas Tree Is A Kenworth, Four Drivers, And A 2,000 Mile Haul Only Trucking Can Pull Off",
+      "url": "https://www.freightwaves.com/news/behind-the-capitol-christmas-tree-is-a-kenworth-four-drivers-and-a-2000-mile-haul-only-trucking-can-pull-off",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 64,
+      "title": "Harbinger raises $240M to expand EV platform beyond trucks",
+      "url": "https://www.freightwaves.com/news/harbinger-240m-series-d-funding",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 65,
+      "title": "Humble Robotics raises $51M for cabless hauler pilots",
+      "url": "https://www.freightwaves.com/news/humble-robotics-51m-series-a-cabless-hauler",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 66,
+      "title": "Schneider National says rail partner shift offers network boost",
+      "url": "https://www.supplychaindive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873847/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 67,
+      "title": "Urban Outfitters seeks material cost visibility from expanded technology suite",
+      "url": "https://www.supplychaindive.com/news/urban-outfitters-seeks-material-cost-visibility-from-expanded-technology-su/873642/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 68,
+      "title": "EBay trims Depop shipping rates, bolsters delivery features",
+      "url": "https://www.supplychaindive.com/news/ebay-trims-depop-shipping-rates-bolsters-delivery-features/873710/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 69,
+      "title": "USTR urged to permanently suspend China-linked ship fees",
+      "url": "https://www.supplychaindive.com/news/ustr-urged-to-permanently-suspend-china-linked-ship-fees/873618/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 70,
+      "title": "Amazon deploys thousands of smart glasses to delivery drivers",
+      "url": "https://www.supplychaindive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873620/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 71,
+      "title": "Nasdaq plunges into correction territory",
+      "url": "https://theloadstar.com/nasdaq-plunges-into-correction-territory/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 72,
+      "title": "Detention fees have a simple problem: a bigger bill cannot move a box that cannot move",
+      "url": "https://theloadstar.com/detention-fees-have-a-simple-problem-a-bigger-bill-cannot-move-a-box-that-cannot-move/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 73,
+      "title": "Port of Long Beach set to handle record 10m teu this year",
+      "url": "https://theloadstar.com/port-of-long-beach-set-to-handle-record-10m-teu-this-year/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 74,
+      "title": "US importers should reconsider farming out customs paperwork, warns CargoTrans",
+      "url": "https://theloadstar.com/us-importers-should-reconsider-farming-out-customs-paperwork-warns-cargotrans/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 75,
+      "title": "Mærsk prints billions, but doesn’t build confidence",
+      "url": "https://theloadstar.com/maersk-prints-billions-but-doesnt-build-confidence/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 76,
+      "title": "Amazon, UPS Lead US Holiday Hiring Rebound In 2026 - Forbes Middle East",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaUF4cnA4Rk9OUjQycFJ5WXlXak4xY1NxRmstbXV2OE44M045ckZoNGNfWTZPXzdCVjFuOFlNWlVLZmhLa3NYM25kMFFVM2NmLWF2OXFsVTR6NlJ2dnl2Zk8zNUF5Q1ZUWURiNUE4OTJLWEtDOHYwVTExbmpNM2lxbWpRd2VGYmV3SElBbS1qR0szRTFaMWNfTGdoWDJCNmFoRk1kaWJkbFQ4Tm5jay1Qb2R6RlZPMDAwbWRZUDh0RkQtMU91ekdJNkFfQjROWmV5ZGY2a2tPeDZEZF8x?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 77,
+      "title": "UPS, Delbros scale up Clark operations as freight demand grows - InsiderPH",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGFJUXkxT2k0cHZUVGtXX21HTlNPdTJCTUdTdU5XQ0c3NDd0NEFuTGNQWUtlS1cxUmRaR2lLYTZXM195MG8tQk56dnRhcHhtd2o1Y0p2SW9IbElYcjhwdlUzQzdMOHJ3aXNtcldTV0RtdWtLNTBQVFBHd0dHQ2hyUlZDbEtnMlhNU2JZ?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 78,
+      "title": "Premium Comment DHL's growth broadening beyond Express – Global Forwarding sparkles - The Loadstar",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdkhvVzc5TjBtTTltb1FOeDNaTFJrY3FaLVhlQlp2bXAwaWhGNlFqOXoxdm5GRVBkMjdFb2lpN3N4WTF1WGtnc3FGQ3FNLTVFTUUyVHE0V2NUYTZZME9uVm1TRlhrLUxjUVNIb3ltSEpyUjd0VjBaWU15M0FrSHZUZDdudVRkcmRmX3JwYjV3dWFacTg?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 79,
+      "title": "DHL Group : Buy rating from RBC - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2RWaUlrVEoxVVpCSG9RZVhYcDBZRUczYk9xWG9VWHdDMkgwbDQ0bzU0THVhTjZNM1hpa3lBTmVVX2NMTTFnRk1fcVNoWF9jOWhDeVpfUWdMS09iaFEyY2ZvcnlFei13QThjdnVNeTNSQzQyZU1SYWZwUXVoVl9zR3VKRVJBZTczcHc?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 80,
+      "title": "DHL expects to hit 2026 targets, helped by peak end-of-year demand despite high fuel costs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEQxZmZXMUE0djY4UlJ3MFhyT25NN1BzQmxyODd6X3I0RGVqODlYMEZSeGh1UG9fNWs3STdrOGpTWkhPa2tBZ1FRR1dJWGFuNkpZR3NQVEh5ak9iU0QxOUltMk1SdV9iUlVPZDYxSUVtLVc5UldWMFVLZDk2QXNkeHdrOVpZeS1oOE1kcXlWY2RTbmpqSE5YS01lb0lwWkxIRlVsQmwwbkdCeEFSRVI2S0t3amg1ZGtzSy1BRUp0LUw0T0E?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 81,
+      "title": "DHL Group : Bernstein reiterates its Neutral rating - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQktDRFN0dnRIdlI5RzJqaTBFaFZsb3JWekYyWlVMSG5Va3MzWVZ0ejRqeG9zczFUZjNfczNESy1JZXdSY1RkLTRuQWFvQ2VILXV1djJidFh3UFlMV3ByeFVZN0d1bWNkUnFhNEdZZnJBelpobGJqQXRGNkt2VlNlQ25qeVphQjJGblVyUVlPWFp2bTZ6dUpmVmhVUUk3Vjl3QnFMZA?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 82,
+      "title": "DHL Group : Buy rating from JP Morgan - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXZJSHZNZVVuRXZTTHZjakN3MGxBN052VDl0enZwV24zQ05zVmN3MmxzQTFLbEI1MENJUEphanBLNHNzZzk3aWNHVmVqd0JvblRHNHAxdWw3SkhKMTJfWlJVVGUzTzBmdW13aE5GNUJ6c1VTUjhQYTBQQmc0ZTYxcGwydWJ5aHk2c0ZGNFE1OGZPUQ?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 83,
+      "title": "Chart of the Day: FedEx Stock Is More Than Just a Shipping Story - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV2hVQjExbTRMT28yckU3QnNMOUkxUHg2Mngya2xzMGU0Y1lwdU9UUjludDB1VUpUM3BTTFh2bTBmSDlfQVV1aVdsdTdNQmdRY3kxODZlQ0hXUndpTGFkMGRUeDdIbXVGLXZHQzFJTmNvVTg2V2VVZjlXMl82UjN6Z3pGdmNsNC1FZTYyYVhocC1HQVJMQ1FwWk9JUQ?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 84,
+      "title": "US Army enlists FedEx to modernize logistics at depots - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTXVwQ3ZxS29RU3pFM28wT3NXOWZWLWV2RmxIMjRyU2N5eVdUall6ZXVrbnNYUThOanZPcTg2d0c2UnFKZ1AtQ1FWOVlMNmhBdFBTeDl2UFFFaEhNQ3BRMzNibTViMmZjY3FCTHFma2t1UEUxQTBMbUVjS2tVdnpoN2F3NjAzMzdZNFllc2ZmVkZ4dw?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 85,
+      "title": "FedEx rolls out five weekly Asia-U.S. cargo flights before Peak Season - Logistics Management",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRDQ3MjR0YVM2SHZUUmx6TEJTVEkyX2pDMlJYdmdrUF9TZ1ZRWjdDLXc5TXh5N1o3Q0VpalRKSF9xMzF4anVMVy1FZ1BTQkJweVp2Z0Z5bXZXQno5enJLNzV1bHo3UlVIUHAwNnVDNk1PR1VrcHMya2MxeG1zNVdGVEhKdDg4RDZsX3N1NHJWWUZ0Z1pSMUVMZ3FJZ1ZqUkxtbHl5ekpaa3MtQ1k?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 86,
+      "title": "Jim Cramer says buy a recovering logistics stock after sharp rebound - TheStreet",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUWk4WEY1MDVBRlBtMkZPMERab3k5Z3Exb2Zqck9XOUc4dFRuajlWMU0zenR4ME1FZ0N5Xy1nNU1vTTNMak1kU0M1c2VRQzh2Z2dCZVZOdDRMeHpVVmpEQzU1alVEd0tjVUJUQUJoTWxTSjBXZGVDSXk4Q1R6N3RUMkNJcjk5QkdXWUVHd1hTM2JGZW1ZOUVIWWI4NE9Lc3JXT0diZWtNVG03MTN6d09ENFBlbU5mWGlPWWpTR2h4T1FCWGVVcWtmYTllVEE5RzhHZWpPQmVwUnFlQQ?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 87,
+      "title": "FedEx Boosts Madrid-Barajas Operational Capacity to Support Trade Ahead of Peak Season - FedEx newsroom",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR3ViWEdqZFVJZWRhNEV6WVJUSGktOWJtdkdhNnRiMUFPeENyR3hoQmZOU1YxTHloa1Y4MG9MOGxZMkppMFNFdWdoMzRGck9VdnN0VXk3X2hGZEgwcDBiSWZRc1c5YWlOcDN4MXlOdHZRb1c5c1ZFVDR2bXJWZVVCRU9yTDF4VmZ4WjFjZWJ5WVFsOG5xR3RmVUtlZ3hkbDlPN09rbGV0MDRpclRDS2NwYUIyXzJUT1BES1dsRHozZV9PMHlGaVpaU3FLYXRtWExJamRr?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 88,
+      "title": "Amazon class action lawsuit claims no-poach scheme suppresses driver wages - Top Class Actions",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeHlYTFNLbTFqUThRV0JwcjVBMUpwX1ppRHZlVUNoOVRNZV9vNGhqMGdndnlhVDRPQ1BqNVY5aURsbFpRbW9fMGZrWlBQVkFVMWx3M1JGVzFaTjBhcDVDWXNLZUR4UmpuZzFORXlSNklTWElVN3NscDFTS0FnZHZURkF0TkNNTkRPZ3F6M2F6OUNMR1ZkbHFON1F2RzhKNFI0TFQ0bWF1a3NaTk1IRDlkYW52aDZNVEk5NkR6Vk45UE9SUkFXU3VnLVdWWnBzOUxtNWc?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 89,
+      "title": "You Can Now Order Uber Eats on Amazon Prime (with a $0 Delivery Fee) — Here’s How - People.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTloxc2ZtMkZYVDJhNG9lMzRmQUpsR1hRaE1BbHNLclVBemxSQVB4UUw4WDJmT0ZrZUJZX3FFNlk2bnJaN2JJQ0doWTI3QWxiOTh6OXQzZWZzaDIyWDFydWtXcUppTm5TUktOWDREbUw4SVUwUWQtNTZkekpSYXpxMTJOWmpMbkhHX0RKUzhTVjBJRVZ5dWN0aklYM3doRHFjaDB1Nk9iOThTTUtoSjRmdktJUGVKV2dneThNX2J3?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 90,
+      "title": "Amazon Swaps Grubhub for Uber Eats in Prime Lineup - Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZXAxcjE0ZWI1TzlldEhVSDFNWkNBMERoZzFpSUNjdllFNDdxdjJqY1p2a2s1RWVVOFd6cDNVdXA5OGUtZGV5R3QtN01OdUd5WDlPMmNyR1UxZDA4S1ZGckZUaktoZXE3bzJXVmFLVmZ3NXg2M3kzVGdJOWZITlF5TTBBcGdSdw?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 91,
+      "title": "Amazon switches to Uber Eats for restaurant delivery perks - Nation’s Restaurant News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmNsOF9EVUFiZmFqOVRFS0VxZXZiYkpldGZvY3FHOTNCUGpMY1pMc09xRlFiSURQTlgzUDNrSVpxdkhPcDVNLWx2RmI5SmtxdGVLOTRMTWljYzI3N3dmT1FfVE5qVG05SnI5LU5FLTlULWZtS3daTWU5OHdybUdXU01Mc21wTUtjbTNVbEpCTFBZOWlkcHNPdGEzWU53RVB3bVE?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 92,
+      "title": "Amazon Adds Uber Eats Restaurant Delivery As Prime Benefit - The Shelby Report",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNlEwUWVaUE5XQnlxSjZTazRGeFJCX0pTNl81ekpuMnItamd3ZlBsOHZveUxSeWRMV3pPX1phd05FS1BPalI3M0NobHhoblV6eEl5UjdRUTZvOHBWZ0JBNTM5a2JnVDZob0FJWk1xMDVhVTAybU9RbjJrSmZ2Rmc4cFZKbFB3aS1nN0hGdko3czhzbzcxV3hxSG9NdVgwd28?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 93,
+      "title": "Zipline Tops $21 Billion Valuation, Adds 300 Walmart Drone Sites - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMW9CcVBZMS1kQTZ3NDVfcDA5TWJGcldNY0hNdmFITkFXbURfanU0WVMtUVFOazR3RkdpRTFLR2ZSczNRU09YWkVuOHFLNDNJOGtJRUF6bW5VMnhkNWZYa2YyRVZYeEdEc2VxQUFUVEwyS1A5Qm1JYjZmb00yaWt1YXNONFY2dEVhb0lTanNRVmhwbF85Y1Q3bm5aU3plMjNZWXFMeTZRRVI0VGM0bFgxUmthQQ?oc=5",
+      "source": "Logistics Startups"
+    },
+    {
+      "id": 94,
+      "title": "Perth logistics analysis startup Indrus moves on $750,000 pre-Seed - Startup Daily",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXRveHJKd0xVQXE2b2JJODhwWDRqZGZnR19GN0FLTHN0ZkVnRXlCUzkxLWtKV3VyZUVlRjlVMTljYm9LUVRsdk40ZFAxbnZleklWWTZMdk1La09iZnl6alkzZGk1Q3BZMDM1NnVaTk5DZzlKZnB6TlJES1dlNFdxdXczRjJpdzlQODU3THVPZWprNy1vX01TY3E1RDlsQ1RPX3B2RTRvUEZXUnlU?oc=5",
+      "source": "Logistics Startups"
+    }
+  ]
+}
