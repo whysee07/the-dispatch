@@ -1,0 +1,483 @@
+{
+  "feed": "pmm",
+  "feed_name": "PMM / PM",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T17:43:34.548442+00:00",
+  "raw_text": "Alright, buckle up. Today's data dump has some real talk about AI hitting the wall on cost and actual user value. Texas just threw a wrench in the AI infrastructure buildout, Apple's pinching pennies on AI, and Uber's AI agents are basically collecting dust. Meanwhile, TikTok's just doing what TikTok does best: selling you stuff, but with its own app now.\n\nHere’s the breakdown:\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\nThe political shift in Texas is shaking up the AI data center buildout, threatening the core infrastructure growth that's been fueling the AI boom [S33][S73]. This isn't just about real estate; it's about the fundamental cost and availability of compute power for every AI product team. The product angle most people are missing is how this directly impacts product roadmaps and pricing models for compute-intensive AI applications, making efficiency paramount. For PMMs, this means positioning products around cost-efficiency and performance optimization becomes critical, especially in a market where the \"more AI is better\" narrative is getting a reality check. PMs need to start baking in infrastructure cost optimization into their development cycles and consider multi-region deployment strategies seriously. The one thing to act on or watch in the next 30 days is how other states react to this \"blue wave\" sentiment, and if similar political headwinds emerge elsewhere for data center expansion.\n\n---\n\n🎯 POSITIONING WATCH\n**TikTok Shop App — Launching a standalone shopping app** [S2][S24]\n- **Narrative angle:** TikTok is telling consumers, \"Forget endless scrolling for entertainment, come here specifically to shop and get deals.\" They're targeting users who are already buying via TikTok but want a more focused, deal-driven, and streamlined shopping experience, distinct from the main content feed.\n- **ICP signal:** Value-conscious mobile shoppers who are already familiar with short-form video and live streams as a shopping discovery mechanism. The language \"App-only deals, free shipping offers & exclusive first-order benefits\" screams consumer direct-to-consumer.\n- **What's sharp:** Creating a dedicated app signals serious commitment to e-commerce, separating shopping intent from entertainment. It legitimizes TikTok as a retail destination, not just a discovery platform.\n- **What's fuzzy:** The global rollout isn't clear, and whether users actually want yet another shopping app on their phone, or prefer embedded experiences, is still a question mark.\n- **Steal this:** If your product has a popular feature that's getting buried in a larger app, consider a lightweight standalone app or web experience to highlight that specific value prop and dedicated user flow.\n\n**Polylane for Google Cloud — An AI on-call engineer for your Google Cloud apps** [S9][S79]\n- **Narrative angle:** They're selling peace of mind and operational efficiency to DevOps and SRE teams, positioning AI as a direct replacement for human on-call toil. The story is \"AI handles the grunt work, you get to sleep.\"\n- **ICP signal:** Organizations heavily invested in Google Cloud, likely with complex distributed systems, where on-call rotations are a pain point. The language \"AI on-call engineer\" is very specific to IT ops/DevOps.\n- **What's sharp:** The direct comparison to a \"human\" engineer makes the value proposition immediately clear: automate a high-stress, repetitive role. Very specific problem, very specific solution.\n- **What's fuzzy:** \"AI on-call engineer\" could be too broad. Does it diagnose, remediate, or just alert? What level of autonomy does it have? The summary is light on actual capabilities.\n- **Steal this:** If you're building an AI tool, don't just say \"AI for X.\" Frame it as \"AI [role] for [target user]\" to make the value and user benefit concrete and relatable.\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n**Instagram vs CapCut (and other video editors)** [S26]\n- **What changed:** Instagram is bringing its \"Edits\" video editing functionality to desktop, directly challenging ByteDance's CapCut, which has dominated desktop video editing for short-form content. This is a feature and distribution play.\n- **Why they did this now:** Instagram wants to keep creators in its ecosystem. If creators are jumping to CapCut for desktop editing, they're losing control and potentially engagement. This move is about reducing friction and capturing more of the creator workflow before content is published elsewhere.\n- **PMM action item:** If you're a competing video editing tool, update your battlecard. Focus on your unique desktop features, deeper integrations, or specialized effects that Instagram can't replicate. Start drafting quick comparison guides for sales.\n- **Battlecard update needed?** Yes. Add \"Instagram Edits (Desktop)\" as a new competitive entry. Note its integration with the Instagram ecosystem as a strength, and its potential feature limitations as a weakness.\n\n**Amazon vs Grubhub / Uber Eats** [S42]\n- **What changed:** Amazon ditched Grubhub as its Prime restaurant delivery partner and officially tapped Uber Eats. This is a major strategic partnership and distribution shift.\n- **Why they did this now:** Amazon is clearly optimizing its Prime benefits. The move indicates a belief that Uber Eats offers better terms, broader coverage, or a superior user experience that aligns more with Prime's value proposition. It's a bet on customer preference and operational efficiency.\n- **PMM action item:** If you're a competing delivery service (or a restaurant platform that partners with them), assess how this strengthens Uber Eats' market position and what incentives you can offer to retain or attract restaurants and diners who might be swayed by Prime integration.\n- **Battlecard update needed?** Yes. Under \"Uber Eats,\" add \"Exclusive Amazon Prime partnership.\" Under \"Grubhub,\" note \"Lost Amazon Prime partnership.\" This impacts reach and perceived value for both.\n\n---\n\n🚀 LAUNCH DISSECTION\n**Polylane for Google Cloud by Polylane** [S9][S79]\n- **Launch tier:** T2 — positioned as a targeted solution for a specific cloud provider and role. It's not a broad platform, but a significant automation tool for a critical function. The positioning seems about right for its actual impact.\n- **Core message:** \"An AI on-call engineer for your Google Cloud apps.\" Clear, concise, and immediately understandable.\n- **GTM channels used:** Product Hunt. Likely early adopter focus, community engagement.\n- **Sales readiness signal:** No explicit mention of enablement content, but the Product Hunt page implies a direct-to-developer/SRE motion which might not require traditional sales content immediately.\n- **Buyer emotion targeted:** Frustration (with on-call rotations, alert fatigue, weekend interruptions) and Ambition (to be more efficient, reliable, and innovative).\n- **What worked:** The crystal-clear problem/solution statement. \"AI on-call engineer\" instantly tells you what it does and who it's for.\n- **What's missing:** Details on how it *actually* works, what level of incidents it can resolve, and what the onboarding process looks like. A short demo video or a \"how it works\" diagram would significantly boost credibility.\n- **If you were the PMM:** I'd launch with a short, sharp explainer video showing an incident being resolved by Polylane, highlighting the specific Google Cloud services it integrates with and the types of issues it handles.\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n**HubSpot Marketing — What is RAG in AI? A plain-English guide for marketers** [S3]\n- **The core argument or insight:** As AI assistants become primary information sources, brands must understand how Retrieval Augmented Generation (RAG) works to ensure their content is found, selected, and cited by AI, rather than just optimizing for traditional search engines.\n- **Community reaction:** Resonating. PMMs and content marketers are scrambling to understand how to stay relevant as search behavior shifts from \"list of links\" to \"AI-generated answer.\"\n- **The sharpest counter-take if one exists:** Some argue that foundational SEO principles still apply, and RAG is just another layer on top, so don't overcomplicate it. Focus on high-quality, authoritative content first.\n- **Worth engaging?** Yes — This is a critical shift in content strategy. PMMs need to be fluent in RAG basics to guide content teams.\n\n**TechCrunch — Almost no one uses AI agents to book their Uber, company says** [S65]\n- **The core argument or insight:** Despite the hype, actual user adoption of AI agents for practical tasks like booking an Uber is extremely low, with only four users making bookings via an AI agent during Uber's busiest week.\n- **Community reaction:** Being debated. Some see it as validation that AI agents are overhyped; others point to early stages of adoption or poor UX implementation.\n- **The sharpest counter-take if one exists:** This data point is too narrow. Uber's AI agent experience might be clunky, or the use case itself (booking a ride) might not be compelling enough for an AI agent compared to a direct app interaction.\n- **Worth engaging?** Skim — It's a useful reality check on AI agent adoption, but one data point isn't the whole story. Good for tempering expectations.\n\n**Wired — Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’** [S17]\n- **The core argument or insight:** Alexis Ohanian believes the internet is \"compromised,\" and the era of building new general-purpose social media apps is over, implying a shift towards different forms of user-generated content or community building.\n- **Community reaction:** Resonating, especially among founders and platform PMMs. Many are feeling the fatigue of managing \"shared reality\" and content moderation.\n- **The sharpest counter-take if one exists:** While general social media might be saturated, niche communities and vertical platforms still have massive growth potential, especially with new monetization models.\n- **Worth engaging?** Yes — Provocative thought for anyone building platform products or community features. Forces a rethink of engagement models.\n\n**Wired — He Trolls AI Labs for a Living. Now They All Want to Work With Him** [S40]\n- **The core argument or insight:** Husk, an influencer who publicly exposes AI chatbots' shortcomings, is now being courted by the very AI labs he critiques (OpenAI, Anthropic, SpaceXSI) to help them improve their models.\n- **Community reaction:** Resonating. It highlights the value of adversarial testing and transparency in AI development, and the power of public feedback.\n- **The sharpest counter-take if one exists:** While valuable, this is still a reactive approach. Labs should be investing more in internal red-teaming and robust testing *before* public release.\n- **Worth engaging?** Skim — Interesting take on product testing and feedback loops for AI, but more about AI development than PMM/PM strategy.\n\n---\n\n💡 USE CASE OF THE DAY\n**Optimize Content for AI Overviews & RAG Systems**\nCategory: Content\nRole: PMM\n\n**The workflow:**\nStep 1: **Identify high-value content** for your product/category that potential buyers might ask an AI assistant about (e.g., \"What's the best [solution category] for [ICP's problem]?\").\nStep 2: **Audit existing content** (blog posts, solution pages, FAQs) for clarity, conciseness, and direct answers to common questions. Ensure key terms and concepts are explicitly defined.\nStep 3: **Restructure or create new content** that provides definitive, authoritative answers in a format easily digestible by AI models, like dedicated Q&A sections, summary boxes, or structured data.\n\nTools used: Claude, Google Search (for current AI Overview behavior), your CMS\nTime to complete: 2-4 hours per key content piece\nOutput you get: Content optimized for AI retrieval, increasing the likelihood of your brand appearing in AI-generated answers.\nWhy it matters now: AI is increasingly mediating information access; if your content isn't AI-ready, your brand will become invisible. [S3]\n\nPrompt or template (if AI-assisted):\n\"Act as an expert in Retrieval Augmented Generation (RAG) and content optimization for AI models. I am a PMM for [Your Product/Company] which does [brief product description]. My target buyers are [ICP description].\nHere is a piece of content: [Paste your content here].\nAnalyze this content for its suitability to be retrieved and cited by AI models (like Google's AI Overviews or AI assistants). Identify:\n1. Specific phrases, sections, or data points an AI model would likely extract to answer a user query about [main topic of content].\n2. Areas where the content is ambiguous, uses jargon, or lacks direct answers that would hinder AI retrieval.\n3. Suggestions for restructuring, adding summary sections, or using structured data to make the content more 'AI-friendly' for RAG systems.\n4. Specific questions a target buyer might ask an AI assistant that this content *should* answer, but currently doesn't clearly.\"\n\n---\n\n📚 LEARNING PICK OF THE DAY\n**What is RAG in AI? A plain-English guide for marketers** — HubSpot Marketing [S3]\n**What it's about:** This article demystifies Retrieval Augmented Generation (RAG), explaining how AI models find and cite information to answer user queries. It shifts the focus for marketers from just SEO to optimizing content for direct AI consumption, as AI assistants increasingly replace traditional search results.\n**3 actionable takeaways:**\n1. **Content Audit for AI Answers:** Review your top-performing content and key solution pages. Can an AI assistant easily extract a concise, definitive answer to a common buyer question from it? If not, rewrite to be more direct.\n2. **Prioritize Authoritative Summaries:** Start adding executive summaries, \"key takeaways\" boxes, or dedicated FAQ sections to crucial pages. These are prime targets for AI models looking for quick, authoritative snippets.\n3. **Educate Your Content Team:** Share this article (or your summary of it) with your content and SEO teams. They need to understand RAG to adapt future content strategies and measure performance beyond traditional keyword rankings.\n**Who should read this:** PMMs — at all career stages.\n**Read time:** 8 minutes\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n**AI Agent Usage for Uber Bookings is Negligible** [S65]\n- **What was found or demonstrated:** Uber reported that during its busiest week last quarter, only four people booked a ride using an AI agent. This indicates extremely low user adoption for a seemingly straightforward AI agent use case.\n- **The method used:** Direct internal usage data from Uber's platform.\n- **How it changes or validates current best practice:** This strongly validates the need for rigorous user research and understanding actual user pain points before deploying AI agents. The assumption that users *want* to interact with an AI agent for a task already efficiently handled by a dedicated app is proven false, at least in this instance. It highlights that \"can do\" doesn't equal \"should do\" or \"will use.\"\n- **PM action item:** For any AI agent initiatives, conduct extensive user research *before* significant development. Focus on identifying tasks that are genuinely cumbersome or impossible with current interfaces, where an AI agent provides a clear, undeniable advantage, rather than just replicating existing functionality.\n\n---\n\n💼 PMM/PM JOBS PULSE\nNo specific job listings data was provided in today's dataset. Therefore, I cannot list actual job titles and companies. This section will reflect the absence of such data.\n\nThe market signal for PMM/PM roles cannot be accurately assessed today due to the lack of job listing data.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n**Zipline — $1.5 Billion (Series F), $21.5B valuation, expanded Walmart partnership** [S22]\n- **What they do:** Autonomous drone delivery for medical supplies, food, and other goods.\n- **GTM motion:** Enterprise / Vertical SaaS (logistics) / Partner-led (Walmart)\n- **What this signals about B2B investment direction:** Strong investor confidence in mature, proven last-mile logistics and drone delivery, especially with established enterprise partnerships. The focus is on physical world automation and supply chain efficiency.\n- **PMM implication:** If you're in logistics, last-mile, or physical product delivery, this means the market for drone solutions is heating up. PMMs should be tracking Zipline's expansion and how they position their value against traditional logistics.\n- **PM implication:** Product teams in logistics should be evaluating drone integration and automation capabilities. Consider how your product can either compete with or integrate into this rapidly expanding autonomous delivery ecosystem.\n\n**Dropbox — Acquires Tigris Data for $350M** [S25]\n- **What they do:** Dropbox is a cloud storage and collaboration platform. Tigris Data provides AI infrastructure.\n- **GTM motion:** Product-led / Enterprise (for Dropbox); likely Developer-led / PLG for Tigris Data's original offering.\n- **What this signals about B2B investment direction:** Large tech companies are actively acquiring to bolster their internal AI infrastructure, especially for developing AI models and agents. It's a land grab for underlying AI capabilities.\n- **PMM implication:** If your product relies heavily on AI or generates large amounts of data, expect competitors to double down on internal AI development. Position your product's AI capabilities clearly and differentiate based on accuracy, privacy, and integration.\n- **PM implication:** Product teams within larger companies need to understand the strategic importance of internal AI infrastructure. If you're building AI features, advocate for strong underlying data and compute resources. For smaller companies, this acquisition highlights the challenge of competing with giants who can buy their way to AI infrastructure.\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n**CC Auto Review — macOS app that reviews GitHub PRs w/ your local Claude Code** [S4]\n- **One-line description:** An AI-powered macOS app for automated code reviews on GitHub, using a local Claude Code model.\n- **Category:** Developer Tools / Code Quality / AI Assistant\n- **Best for:** PM (for understanding developer workflows, potentially setting code quality standards) / PMM (for understanding developer pain points, competitive intel on dev tools)\n- **Free tier:** No (implied, it's a macOS app, likely paid) / Trial (unknown)\n- **Honest take:** Genuinely new capability for local AI code review, leveraging local models for privacy and speed. \"Local Claude Code\" is a key differentiator against cloud-based alternatives.\n- **Who should try it this week:** PMs managing dev tool products or developer experience, to see how AI is being deployed directly into engineering workflows.\n\n**Nemotron 3.5 Transcribe — Intelligent Transcription with a Speech LLM** [S5]\n- **One-line description:** Nvidia's new speech large language model for intelligent transcription.\n- **Category:** AI / Transcription / Voice AI\n- **Best for:** Both (PMMs for content creation, PMs for integrating voice AI)\n- **Free tier:** No (implied, likely enterprise or API-based) / Trial (unknown)\n- **Honest take:** This is a feature dressed up as a launch, but a *significant* feature. Nvidia's \"Nemotron\" brand for speech LLMs is a big deal for accuracy and intelligence in transcription. This isn't just basic ASR; it's about understanding context.\n- **Who should try it this week:** PMMs and PMs working on products with voice interfaces, call transcription, meeting summaries, or any audio-to-text functionality. Check out their API docs.\n\n---\n\n⚡ SPEED ROUND\n☕️ **Ember Cup 6-ounce on sale for $33.** Luxury tech becoming more accessible, even if it's tiny. [S1]\n📜 **FAA finally ditching floppy disks.** A reminder that legacy tech debt is real, even for critical infrastructure. [S11]\n🎬 **Grimes starring in an AI movie.** Celebrity endorsement of AI-generated content moves from music to film. [S13]\n🎮 **Xbox PC app gets a 60% speed boost.** Performance is still a killer feature, especially for demanding users. [S14]\n🛡️ **OpenAI's GPT-6 Cyber is \"better at not hacking.\"** Good news, but highlights previous \"rogue AI\" issues. [S15]\n🔍 **Windows 12 is still a no-show.** Microsoft focusing on Windows 11 performance fixes instead of new OS hype. [S16]\n✖️ **Axiom Math verifies Stacks Project with AI agents.** AI for formal verification: keeping math honest. [S18]\n📈 **Bluesky hit peak usage on election night.** Proves that \"real-time news\" is still a social media driver. [S21]\n🎧 **ElevenLabs now publishes AI music directly to SoundCloud.** AI-generated content gets direct distribution channels. [S27]\n🔋 **RadianX promises solar-powered devices that never need charging.** Perovskite cells could be a game-changer for IoT/wearables. [S29]\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\n**Challenge: AI Overview Readiness Check for a Key Feature**\nRole focus: Both\n\n**The setup:** Google's AI Overviews and other AI assistants are now the first point of contact for many user queries. Your product has a key feature that solves a common problem. You need to ensure an AI assistant can accurately and concisely describe this feature and its benefit to a prospective user.\n\n**What to do:**\nStep 1: Go to Google Search and search for a common problem your feature solves (e.g., \"how to automate [task X]\"). Observe the AI Overview generated. [URL: google.com]\nStep 2: Now, search for \"[Your Feature Name] benefits\" or \"[Your Feature Name] use cases.\" Evaluate if the AI Overview accurately reflects your desired positioning and value props.\nStep 3: If not, open a document and draft a 2-3 sentence \"AI Summary\" for your feature, explicitly defining what it is, what problem it solves, and its unique benefit, using plain language and keywords. This will be your target for content optimization.\n\n**The exact prompt or template:**\n```\nFeature Name: [Your Feature Name]\nCore Problem it Solves: [1 sentence]\nKey Benefit for User: [1 sentence]\nDesired AI Summary (2-3 sentences): [Draft your ideal summary]\nGaps found in current AI Overviews: [List discrepancies or missing info]\nActionable content changes needed: [e.g., Add a dedicated FAQ, create a \"What is X?\" page, update solution page intro]\n```\n\n**What good looks like vs. mediocre:**\n- **Good:** Your drafted \"AI Summary\" is concise, directly answers a user's likely question, uses strong keywords, and differentiates your feature. It's something you'd be proud for an AI to quote directly.\n- **Mediocre:** The summary is vague, uses internal jargon, or doesn't clearly state the user benefit. It reads like marketing fluff rather than a direct answer.\n\n**Why this skill matters in the next 6 months:** As AI becomes the primary interface for information discovery, ensuring your product's message is AI-ready is as critical as SEO was a decade ago. It's about controlling your narrative in the age of AI. [S3]\nTime: 15 minutes or less.\n\n---\n\n🧠 EDGE INSIGHT\nThe biggest pattern today isn't a single launch, but a quiet, collective sigh from the AI industry: the party's getting expensive and the ROI isn't always there. Between Texas's political shift threatening data center growth, Apple's internal AI budget cuts, and Uber's almost comically low AI agent usage, we're seeing the first serious reality check on the AI boom [S33][S60][S65][S73]. This isn't doom and gloom, but a pivot. The focus is shifting from \"AI everywhere\" to \"efficient, responsible, and *actually used* AI.\" PMMs need to ditch the generic \"AI-powered\" badge and get hyper-specific about *how* AI delivers tangible, verifiable value, especially for cost-conscious enterprise buyers. PMs, meanwhile, need to prioritize AI applications that solve *real* user pain, not just novel ones, because the market is starting to sniff out the difference between innovation and expensive experimentation.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Ember’s smallest self-heating mug is on sale for just $33",
+      "url": "https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "TikTok launched a dedicated TikTok Shop app",
+      "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
+      "source": "The Verge"
+    },
+    {
+      "id": 3,
+      "title": "What is RAG in AI? A plain-English guide for marketers",
+      "url": "https://blog.hubspot.com/marketing/rag-in-ai",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 4,
+      "title": "CC Auto Review",
+      "url": "https://www.producthunt.com/products/cc-auto-review",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 5,
+      "title": "Nemotron 3.5 Transcribe",
+      "url": "https://www.producthunt.com/products/nvidia",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 6,
+      "title": "TextKit",
+      "url": "https://www.producthunt.com/products/textkit-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 7,
+      "title": "Scrollsnacks",
+      "url": "https://www.producthunt.com/products/scrollsnacks",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "FounderMail",
+      "url": "https://www.producthunt.com/products/foundermail-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 9,
+      "title": "Polylane for Google Cloud",
+      "url": "https://www.producthunt.com/products/polylane",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 10,
+      "title": "Nintendo says it’s not planning another Switch 2 price hike",
+      "url": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
+      "source": "The Verge"
+    },
+    {
+      "id": 11,
+      "title": "The FAA is finally ditching floppy disks",
+      "url": "https://www.theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids",
+      "source": "The Verge"
+    },
+    {
+      "id": 12,
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 13,
+      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+      "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+      "source": "The Verge"
+    },
+    {
+      "id": 14,
+      "title": "Xbox overhauls its PC, web, and cloud apps with a faster design",
+      "url": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
+      "source": "The Verge"
+    },
+    {
+      "id": 15,
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "source": "The Verge"
+    },
+    {
+      "id": 16,
+      "title": "Where is Windows 12?",
+      "url": "https://www.theverge.com/tech/1027621/where-is-windows-12-notepad",
+      "source": "The Verge"
+    },
+    {
+      "id": 17,
+      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+      "source": "Wired"
+    },
+    {
+      "id": 18,
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 19,
+      "title": "Sony’s retro headphones brought me back to my childhood in the best way",
+      "url": "https://www.theverge.com/tech/1026958/sony-mdr-3r-headphones-review",
+      "source": "The Verge"
+    },
+    {
+      "id": 20,
+      "title": "Camp Snap made a smaller kid-friendly version of its retro digital camcorder",
+      "url": "https://www.theverge.com/tech/1027575/camp-snap-cs-8-mini-retro-film-camera-kid-friendly",
+      "source": "The Verge"
+    },
+    {
+      "id": 21,
+      "title": "Bluesky hit peak usage for the year on election night",
+      "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 22,
+      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+      "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 23,
+      "title": "Area Man Feels Joy Online for First Time in Years",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
+      "source": "Wired"
+    },
+    {
+      "id": 24,
+      "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+      "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 25,
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 26,
+      "title": "Instagram brings Edits to desktop to take on CapCut",
+      "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 27,
+      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 28,
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 29,
+      "title": "RadianX promises solar-powered devices that never need charging",
+      "url": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 30,
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 31,
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "url": "https://www.wired.com/story/aina-smart-ring/",
+      "source": "Wired"
+    },
+    {
+      "id": 32,
+      "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+      "url": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 33,
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 34,
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 35,
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "source": "Wired"
+    },
+    {
+      "id": 36,
+      "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
+      "url": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 38,
+      "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
+      "url": "https://www.wired.com/gallery/best-wireless-chargers/",
+      "source": "Wired"
+    },
+    {
+      "id": 39,
+      "title": "AI’s Next Trick? Speaking Dolphin",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+      "source": "Wired"
+    },
+    {
+      "id": 40,
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+      "source": "Wired"
+    },
+    {
+      "id": 41,
+      "title": "The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?",
+      "url": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
+      "source": "Wired"
+    },
+    {
+      "id": 42,
+      "title": "Amazon ditches Grubhub, taps Uber Eats for Prime",
+      "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
+      "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
+      "source": "Wired"
+    },
+    {
+      "id": 44,
+      "title": "The Best Smart Ring for Discreet Fitness Tracking in 2026",
+      "url": "https://www.wired.com/story/best-smart-ring/",
+      "source": "Wired"
+    },
+    {
+      "id": 45,
+      "title": "Israel Is Destroying the Machinery South Lebanon Needs to Rebuild",
+      "url": "https://www.wired.com/story/israel-is-destroying-the-machinery-south-lebanon-needs-to-rebuild/",
+      "source": "Wired"
+    },
+    {
+      "id": 46,
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 47,
+      "title": "A New UK Porn Ban Sparks Fears of Unprecedented Sex Censorship",
+      "url": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+      "source": "Wired"
+    },
+    {
+      "id": 48,
+      "title": "Zoro Coupon Codes: 20% Off November 2026",
+      "url": "https://www.wired.com/story/zoro-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 49,
+      "title": "B&H Photo Promo Codes and Deals This November 2026",
+      "url": "https://www.wired.com/story/bh-photo-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 50,
+      "title": "Booking.com Promo Codes: 20% Off | November 2026",
+      "url": "https://www.wired.com/story/booking-com-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 51,
+      "title": "Corsair Discount Code: Up to 50% Off for November 2026",
+      "url": "https://www.wired.com/story/corsair-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Udemy Coupon Codes: 20% Off November 2026",
+      "url": "https://www.wired.com/story/udemy-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "Ray-Ban Promo Codes: Save 50% in November 2026",
+      "url": "https://www.wired.com/story/ray-ban-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "Meta Quest Promo Codes and Coupons for November 2026",
+      "url": "https://www.wired.com/story/meta-quest-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
+      "url": "https://www.wired.com/story/nomad-discount-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Herman Miller Promo Codes: 40% Off November 2026",
+      "url": "https://www.wired.com/story/herman-miller-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 57,
+      "title": "HP Coupon Codes and Deals November 2026",
+      "url": "https://www.wired.com/story/hp-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 58,
+      "title": "Altra Running Promo Codes: 10% Off November 2026",
+      "url": "https://www.wired.com/story/altra-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 59,
+      "title": "HostGator Coupon Codes: 76% Off Hosting in November 2026",
+      "url": "https://www.wired.com/story/hostgator-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 60,
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 61,
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 62,
+      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+      "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+      "source": "Wired"
+    },
+    {
+      "id": 63,
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 64,
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 65,
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 66,
+      "title": "Snapchat surpasses 30M paid subscribers",
+      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 67,
+      "title": "‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-cj-pearson-and-kat-abughazaleh/",
+      "source": "Wired"
+    },
+    {
+      "id": 68,
+      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+      "source": "Wired"
+    },
+    {
+      "id": 69,
+      "title": "‘Blade Runner 2099’ Shows the ‘Silver Linings’ of a Replicant Takeover",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-blade-runner-2099/",
+      "source": "Wired"
+    },
+    {
+      "id": 70,
+      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+      "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+      "source": "Wired"
+    },
+    {
+      "id": 71,
+      "title": "Knives Are Out in the White House",
+      "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+      "source": "Wired"
+    },
+    {
+      "id": 72,
+      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+      "source": "Wired"
+    },
+    {
+      "id": 73,
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 74,
+      "title": "Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350",
+      "url": "https://www.wired.com/story/google-pixel-11-deal-november-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 75,
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 76,
+      "title": "The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-mark-lanier/",
+      "source": "Wired"
+    },
+    {
+      "id": 77,
+      "title": "Small Phones Have Vanished. Enough Phone Wants to Bring Them Back",
+      "url": "https://www.wired.com/story/big-tech-abandoned-the-small-phone-the-enough-phone-wants-to-save-it/",
+      "source": "Wired"
+    },
+    {
+      "id": 78,
+      "title": "FounderMail",
+      "url": "https://www.producthunt.com/products/foundermail-2",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 79,
+      "title": "Polylane for Google Cloud",
+      "url": "https://www.producthunt.com/products/polylane",
+      "source": "Product Hunt"
+    }
+  ]
+}
