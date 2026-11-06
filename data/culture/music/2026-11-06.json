@@ -1,0 +1,33 @@
+{
+  "section": "music",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T12:00:00+00:00",
+  "news": [
+    {"title": "A legacy label bets big on AI-assisted mastering — and its biggest artists push back", "source": "Billboard", "url": "https://www.billboard.com/", "age": "2d"},
+    {"title": "Vinyl outsells CDs for the fourth straight year as the format war quietly ends", "source": "Rolling Stone", "url": "https://www.rollingstone.com/", "age": "3d"},
+    {"title": "India's indie circuit lands its first proper arena tour", "source": "Rolling Stone India", "url": "https://rollingstoneindia.com/", "age": "4d"}
+  ],
+  "tracks": [
+    {"title": "Midnight Rerun", "artist": "The Hinterlands", "why": "Fuzzed-out indie rock with a chorus that won't leave.", "genre": "Indie Rock", "geo": "world", "url": "https://open.spotify.com/"},
+    {"title": "Shaher Ki Raat", "artist": "Lifafa", "why": "Dreamy indie Hindi — synths over a city hum.", "genre": "Indie Indian", "geo": "india", "url": "https://open.spotify.com/"},
+    {"title": "Low Tide", "artist": "Marée", "why": "Deep house that builds slow and pays off.", "genre": "House", "geo": "world", "url": "https://open.spotify.com/"},
+    {"title": "Gully Ka Scene", "artist": "DIVINE", "why": "Desi hip-hop with a filthy bassline.", "genre": "Desi Hip-Hop", "geo": "india", "url": "https://open.spotify.com/"}
+  ],
+  "charts": {
+    "global": [
+      {"title": "Afterglow", "artist": "Sable"},
+      {"title": "No Service", "artist": "Kit Vara"},
+      {"title": "Heavy Water", "artist": "The Eights"},
+      {"title": "Golden Hour", "artist": "Pavement Kids"},
+      {"title": "Run It Back", "artist": "Marée"}
+    ],
+    "india": [
+      {"title": "Sheher", "artist": "Prabh"},
+      {"title": "Jhoom", "artist": "Seedhe Maut"},
+      {"title": "Barfi", "artist": "Taba Chake"},
+      {"title": "Nasha", "artist": "Raftaar"},
+      {"title": "Raasta", "artist": "When Chai Met Toast"}
+    ]
+  },
+  "genres": ["Rock", "Indie", "Pop", "House", "Indie Indian", "Bollywood", "Desi hip-hop"]
+}

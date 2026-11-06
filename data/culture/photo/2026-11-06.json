@@ -1,0 +1,25 @@
+{
+  "section": "photo",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T12:00:00+00:00",
+  "potd": {
+    "title": "Fog over the Blue Ridge",
+    "caption": "Fog over the Blue Ridge, at dawn. Shot from Craggy Gardens as first light burned off the valley mist.",
+    "credit": "© A. Rivera — via Unsplash Editorial (CC)",
+    "image": ""
+  },
+  "news_photo": {
+    "title": "Relief convoys move at first light",
+    "caption": "Relief convoys move at first light. Ties to today's Daily Brief lead on the reopened corridor.",
+    "credit": "Reuters — Pictures of the Day (editorial, credited)",
+    "image": ""
+  },
+  "gallery": [
+    {"caption": "Street · Mumbai", "image": ""},
+    {"caption": "Landscape · Iceland", "image": ""},
+    {"caption": "Portrait · Lagos", "image": ""},
+    {"caption": "Architecture · Osaka", "image": ""},
+    {"caption": "Night · Delhi", "image": ""},
+    {"caption": "Wildlife · Kenya", "image": ""}
+  ]
+}

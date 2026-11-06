@@ -1,0 +1,42 @@
+name: Culture · Photography feed
+
+on:
+  schedule:
+    - cron: '10 12 * * *'   # daily 12:10 UTC — photo of the day / news photo
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-culture-photo
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - name: Install dependencies
+        run: pip install -r feeds/culture/requirements.txt
+      - name: Run Photography culture generator
+        env:
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}   # optional; DEMO_KEY used if unset
+        run: python feeds/culture/photo_culture.py
+      - name: Commit issue to archive
+        run: |
+          git config user.name  "dispatch-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/culture/photo
+          if git diff --staged --quiet; then echo "No new photo issue."; exit 0; fi
+          git commit -m "data(culture/photo): $(date -u +%F)"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin main && git push origin main; then echo "Pushed."; exit 0; fi
+            echo "Push race — retrying ($i)..."; sleep $((RANDOM % 6 + 2))
+          done
+          echo "Failed to push after retries"; exit 1

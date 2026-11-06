@@ -3,7 +3,7 @@ name: Build & deploy site
 on:
   # Rebuild after any feed finishes (workflow_run fires even for bot commits)
   workflow_run:
-    workflows: ["Daily Brief feed", "AI Insider feed", "PMM feed"]
+    workflows: ["Daily Brief feed", "AI Insider feed", "PMM feed", "Culture · Music feed", "Culture · Movies feed", "Culture · Photography feed"]
     types: [completed]
   workflow_dispatch:
   schedule:
