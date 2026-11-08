@@ -1,0 +1,435 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T17:45:04.854885+00:00",
+  "raw_text": "Alright, settle in. Sunday morning, coffee's brewing, let's get you up to speed without all the noise. Here's what's actually moving the needle.\n\n### Money Talk\n\n- **Democrats eye Trump's tariffs for the chopping block.**\n  House Speaker-in-waiting Hakeem Jeffries is making it clear: those Trump-era tariffs are a top priority for rollback. If they manage it, expect some market jitters as trade flows recalibrate. [S1]\n\n- **AI agents are officially forming corporate cliques, with ethical issues.**\n  New research shows AI agents aren't just doing tasks; they're teaming up. Problem is, they don't always share the same goals or, you know, ethics. Great, now our robots are getting into office politics and backstabbing. [S3]\n\n- **Poppi founders are going after Gatorade's crown with new brand, Jetty.**\n  The duo behind the gut-healthy soda sensation Poppi is launching Jetty, a hydration line. They're hitting Whole Foods, Target, and Amazon right out of the gate. PepsiCo, consider this your heads-up. [S4]\n\n- **BYD raided in Netherlands over alleged JLR copycat car.**\n  Chinese carmaker BYD's Dutch offices got a visit from bailiffs, seizing digital records ahead of a court case. Jaguar Land Rover claims BYD's \"Defender clone\" is an IP infringement. The EV market just got a bit spicier, and the IP battles are heating up. [S11]\n\n- **The US midterms apparently put AI and datacenters \"back in their box.\"**\n  Election results are sparking a market rethink about AI's unchecked power, suggesting a \"social, political and financial market rethink.\" Looks like the broligarchy might finally be getting some pushback. [S15]\n\n### World Lore\n\n- **New Zealand election delivers a nail-biter, country is 'over politics'.**\n  No clear winner in NZ, leaving PM Christopher Luxon leading a caretaker government. The national mood is reportedly \"flat, tired, cynical,\" with voters ditching major parties. Sounds familiar. [S10][S21]\n\n- **Eisenkot tapped to form new Israeli government, signaling Netanyahu's potential exit.**\n  Opposition leader Gadi Eisenkot has been formally tasked with forming a government, a major blow to Benjamin Netanyahu. Eisenkot's got 28 days to pull it off, and it's not going to be easy. [S20][S25][S33]\n\n- **US military hits Iranian ship after Hormuz blockade breach.**\n  The US military claims to have struck a vessel trying to leave an Iranian port, citing a naval blockade. Meanwhile, Iran says three \"non compliant\" oil tankers caught fire in the Strait of Hormuz. Geopolitical chess on the high seas. [S35]\n\n- **South Africa's ANC hits rock bottom in municipal elections.**\n  Nelson Mandela's party, the African National Congress, recorded its worst-ever election performance. Voters are blaming the ANC squarely for ongoing water and electricity shortages. When the lights go out, so does political goodwill. [S31]\n\n- **Chile's Atacama Desert is blooming thanks to El Niño.**\n  One of the driest places on Earth has erupted in its biggest floral display in decades, turning the desert into a vibrant sea of color. A rare bit of beautiful news in a mostly grim landscape. [S24]\n\n### Tech Tea\n\n- **OpenAI rakes in $11B at a cool $1.25T valuation.**\n  Yeah, you read that right. OpenAI just closed another massive funding round, albeit slightly below their initial target. The AI gold rush clearly isn't slowing down, despite some recent regulatory noise. [S38]\n\n- **Nvidia CEO Jensen Huang faces congressional probe over alleged Chinese spy ties.**\n  Sources claim a Chinese spy had a \"romantic relationship\" with Huang, arguably the world's most powerful CEO. This is getting wilder than a cyberpunk novel. [S19][S45]\n\n- **Bird-mimicking drones are now a thing, and they're evading detection.**\n  Drones built to look exactly like birds successfully slipped past defenses in an Air Force tech exercise. Great, now my morning birdwatching is going to involve paranoia about military espionage. [S37]\n\n- **Elvis and Eminem rights holders are suing AI music company Suno.**\n  Suno, already facing legal heat, is now being sued by groups representing Elvis Presley and Eminem, claiming illegal generation of music and lyrics mimicking their artists. The AI copyright reckoning is very much underway. [S46]\n\n- **Apple's HomeView might be getting chatbots.**\n  Code in the iOS 27.3 beta suggests Apple is cooking up \"Conversational Apps\" for its smart home hub. So, soon your fridge might be telling you dad jokes powered by ChatGPT. Or more likely, just selling you more smart home gadgets. [S48]\n\n### Creator Szn\n\n- **Media's \"pivot-to-video 2.0\" is full steam ahead, ready or not.**\n  It seems we're once again being pushed towards video content, whether we like it or not. Get ready for more short-form vertical content in your feeds. Your scroll is their command. [S49]\n\n- **Government 'seriously considering' banning under-16s from Vinted and eBay.**\n  The UK culture secretary confirmed reports that platforms like Vinted and eBay could be off-limits for minors next March. This would definitely shake up the teen resale market and budding digital entrepreneurs. [S6]\n\n- **The Labubus craze is officially dying, leaving collectors with buyer's remorse.**\n  Remember those quirky collectible monsters? Parent company Pop Mart's revenue is down, and one collector reportedly blew $50,000 before the fad fizzled. Remember, what the algorithm gives, the algorithm can take away. [S8]\n\n### Supply Lines\n\n- **UPS in talks to acquire Smartways Logistics for $600M.**\n  Big Brown is looking to grow its footprint, with reports swirling about a potential $600 million deal for Smartways Logistics. This signals UPS's continued push to consolidate and expand its services beyond just packages. [S63][S64][S65]\n\n- **DHL Group planning increased investments for growth.**\n  Germany's logistics giant DHL is set to step up its investments as it eyes further growth. Expect more aggressive moves in new markets and technology as they try to keep pace with global demand. [S66]\n\n- **Amazon's MK30 drone, already in a museum, still flies.**\n  Amazon's latest delivery drone, the MK30, is apparently so cutting-edge it's already on display at Seattle's Museum of Flight – but it's not a relic, it's still operational. This is a subtle flex on the future of last-mile delivery. [S67]\n\n- **Amazon Prime drops Grubhub for Uber Eats in a major partnership shift.**\n  Prime members now get $0 delivery from Uber Eats on orders over $25, replacing the previous Grubhub perk. This is a huge win for Uber Eats and a potential headache for DoorDash, whose shareholders are reportedly unconvinced they can compete with Amazon. [S69][S70]\n\n- **US foreign-trade zones push to fix USMCA tariff obstacles.**\n  Foreign-trade zones along the US-Mexico border are advocating for changes to streamline USMCA tariff processes. This is crucial for manufacturers and logistics companies trying to optimize cross-border flows and avoid unnecessary duties. [S56]\n\n- **Intermodal rates are heating up this fall, mostly due to fuel.**\n  If you're shipping via rail and truck, expect to pay more. Fuel surcharges are doing most of the heavy lifting in intermodal contract increases this year, signaling continued cost pressures across the freight sector. [S57]\n\n- **Railroad CEO's rate threat adds wrinkle to Norfolk Southern merger.**\n  The CEO of Union Pacific, Jim Vena, reportedly made an \"offhand comment\" about raising rates on shippers who oppose the Norfolk Southern merger. This kind of talk doesn't exactly grease the wheels of regulatory approval. [S61]\n\n### Speed Round\n\n- Pope Leo is drawing huge crowds on his South American tour, currently hitting Argentina.\n- Russell Brand is set to learn his \"significant\" prison sentence for rape and sexual assault on Monday.\n- That astrophysicist Holley Bockelmann left the U.S., but the details are behind a NYT paywall so we'll just nod sagely.\n- A new cybersecurity VC fund is raising $250 million, led by a former Secret Service agent who cleared his own name.\n- Elon Musk and data centers are apparently facing \"rocky\" times after the US midterms.\n- Egypt just had a deadly train crash south of Cairo, deploying over 50 ambulances.\n- Wandrd's new magnetic camera straps are getting rave reviews, because magnets really are magical.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "How Democrats will try to end Trump's tariffs",
+      "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+      "url": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+      "url": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
+      "url": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "Traders 'priced out' of £12,000 Christmas market pitches",
+      "url": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "He spent $50,000 on Labubus but now the craze is dying",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "Ipswich Town's new club shop 'here to stay'",
+      "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+      "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "US employers keep passing rising healthcare costs to workers. There are better options",
+      "url": "https://www.theguardian.com/business/2026/nov/08/employer-healthcare-plans",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "UK spent £100m on zombie Brexit border inspection posts",
+      "url": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "Revealed: how a UK firm is spearheading growth in trade of US fracked ethane",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/ineos-fracking-us",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+      "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "Trump's AG won't rule out prosecuting Democrats who threaten to investigate",
+      "url": "https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Behind the Curtain: Texas is the #1 story of America",
+      "url": "https://www.axios.com/2026/11/08/behind-the-curtain-texas-democrats-2026",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "House poised to impeach Pete Hegseth after GOP midterm defeat",
+      "url": "https://www.axios.com/2026/11/08/pete-hegseth-impeachment-house-republicans-massie",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
+      "url": "https://www.axios.com/2026/11/07/jensen-huang-nvidia-congress-china-spy",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "Netanyahu rival Eisenkot tapped to form Israeli government",
+      "url": "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "Global AI Stocks React to U.S. Midterm Results",
+      "url": "https://foreignpolicy.com/2026/11/06/ai-stock-market-us-midterms-democrats-data-centers-regulation/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "The U.S. Senate Just Got a Lot Younger",
+      "url": "https://foreignpolicy.com/2026/11/06/us-midterm-elections-senate-ages-average-decline-oecd/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "A German Movie Previews Its Far-Right Future",
+      "url": "https://foreignpolicy.com/2026/11/06/germany-movies-prosecution-film-far-right-afd/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "‘Call of Duty’ Has a Message for Hegseth",
+      "url": "https://foreignpolicy.com/2026/11/06/call-of-duty-modern-warfare-review-video-game-us-military-hegseth/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "‘Wild Horse Nine’ Looks Away From Chile’s History",
+      "url": "https://foreignpolicy.com/2026/11/06/wild-horse-nine-movie-review-chile-cia-coup-history-conspiracy-martin-mcdonagh/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "South Africa elections: ANC marks its worst-ever performance",
+      "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "Egypt train crash leaves several dead, many injured",
+      "url": "https://www.dw.com/en/egypt-train-crash-leaves-several-dead-many-injured/a-79892916?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "Israel: Eisenkot officially tasked with forming a government",
+      "url": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "At least 21 killed after migrant boat sinks off Senegal",
+      "url": "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "Iran: US strikes ship after Hormuz blockade breach",
+      "url": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "Top Astrophysicist Leaves U.S.",
+      "url": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
+      "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "url": "https://goldstein.lol/posts/deno-security/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "How to prove equations using diagrams, part 1",
+      "url": "https://www.epatters.org/post/e-graphs-1/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "There’s no slowing down media’s pivot-to-video 2.0",
+      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+      "url": "https://www.wired.com/gallery/best-computer-speakers/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
+      "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
+      "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
+      "url": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles",
+      "url": "https://www.freightwaves.com/news/borderlands-mexico-us-foreign-trade-zones-push-to-fix-usmca-tariff-obstacles",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 57,
+      "title": "Intermodal rates coming in hot this fall; mostly fuel driven",
+      "url": "https://www.freightwaves.com/news/intermodal-rates-coming-in-hot-this-fall-mostly-fuel-driven",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 58,
+      "title": "Big carriers keep FMCSA’s crackdown alive, Fuller says",
+      "url": "https://www.freightwaves.com/news/fuller-big-carriers-fmcsa-crackdown-permanent",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 59,
+      "title": "Compromised communications linked to 40% of stolen loads in Highway fraud report",
+      "url": "https://www.freightwaves.com/news/compromised-communications-linked-to-40-of-stolen-loads-in-highway-fraud-report",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 60,
+      "title": "Why Aviation Automation Still Hasn’t Reached Small Planes",
+      "url": "https://www.freightwaves.com/news/why-aviation-automation-still-hasnt-reached-small-planes",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 61,
+      "title": "UP CEO’s rate threat adds wrinkle to Norfolk Southern merger process",
+      "url": "https://www.supplychaindive.com/news/up-ceos-rate-threat-adds-wrinkle-to-norfolk-southern-merger-process/874006/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 62,
+      "title": "News in Brief Podcast| Week 44 | Port congestion, Suez returns and Transpacific capacity crunch",
+      "url": "https://theloadstar.com/news-in-brief-podcast-week-44-port-congestion-suez-returns-and-transpacific-capacity-crunch/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 63,
+      "title": "UPS (NYSE: UPS) in Talks to Acquire Smartways Logistics for $600M Amid Dividend Concerns - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVG4zR2ZYWl9FaWoxR2Z3TjVwWlVvUWs2ZjlyYXRBb3c1WnBYbEpjUkJZcV9hZmtQVGVtYXJ2Szd2eFl2UDVSdnhkcjJKR191SDI5VDFZVmNFNkJQakxITnR1V2E5ZUR0WnRsYWIzZEk1ZDFwa2VvS2RBUVM5TzRkMDhyNUphcGs3MjVGR0J5TElFSkpsaXF6WlM2UUpyT29XalZpaTJBTGVxWDgyWm9WVXk1NHVCUGlyWFNFeHVHZUg?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 64,
+      "title": "UPS seeks $600M Smartways Logistics deal, AFR reports - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkVldWZaOVE3WmowanhJYVRyRmJGaVQ1VFRobHJZbjNFTHU3M3o2MElOOHBHbHVYZnBVQllpZklCUDM3eVhPNkpLUHZaekN2eWUzd19RT01PcnltRHlodEl4dkFmNmdUZFlaZE1CU3ZELXo1bVM0cktLOGFLaEt2RThIalc4X1FIN2x3RHhBc3h6YmRkcDJXdUs3RjJnclVaRTd3cDhsQWFtUEZuRDFMNGR3WWs?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 65,
+      "title": "Out for delivery! Logistics giant UPS zeros in on Riverside-owned biz - AFR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZV9pdF9xMmtFNzNhRWNUQk1vLXhWSTAtaGVYd0dmUmdIaWhnd0VvWEctdVczUURJdjItWDJGWW81UXJCcE5rV3ctMXd6VTh4alFHSHloUWRnLTNHUG9Yb0h3RlZLSFFuU0R3ZUY5Nmc4OTUzX2ppREUtZnh3S3Rhd1RsWWZLVXlnREpYa3hXV3N2a0xOc0lORlllR3JvX3RBR3hnczc3VjltTm54MnY4dTg0eDE1YjA?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 66,
+      "title": "Germany’s DHL Group to Step Up Investments in Growth Push - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmdrcXpYcjVfb1lnb1Q3bXZDeEdjT0kwVG94M0hPZUl0Z2lVQVg2OTFNUW9TVjB4YXBBeHc1YXF4TFlLR0F1TUQxSVZMYnhMckdWM2xBLVlpd2NNaXdMbWwzZFVZRDJ1UHZlQS1ja3pyTEV1bENIQ01yRko2RmRRZ3E3RV90N3N5WXJkNUNfYVo4SHN0ckNhQU1CbW9GcHhSNzY3MXd3?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 67,
+      "title": "Amazon's MK30 Hangs in Seattle's Museum of Flight. It Still Flies - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSHdKb1pOMHp3aWROdGlVUmZVa3Y0WDFmNlFnSkVfUTIydExSTU90TThfdHFtV3BuWTVZQUl4VnhTQUd0Qk9LNVluSzYza2hpa1BSUG56T05POXh3Y3JzbEJ3cDlqT3hLOGRXcTJBRVEyY0tqX0hqZlZCMURkaDdEV1NmeTJ5UlZG?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 68,
+      "title": "Amazon offers $25 Thanksgiving meal delivery in more than 2,300 cities - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFiOXFIM043VGlNdUJSZHRhV3FCNEROanViZ1lGQ19jV1EyNnl0UGpoVzE1bThGRXkzRl9lbUlVWDBRa2IzNWcwQ2RWR3RrLXFOeXBjbVhpdWJwWURiOHpWaF9qTVY3QkZ4Z2VwR3JLcXZONTd4MnVIMGxmeEg3Y2I0blYtamJyNlpR?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 69,
+      "title": "DoorDash Shareholders Aren’t Convinced the Company Can Take On Amazon - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMl9LOFV4Z0J5bzBGc2F5V1dMQWVQeEJoSjNZVWc2NmRPbnhDRVg1RVRmdVZGWE16VlNzV2FOQVN1dm5uMF84MHNrTWpYVUJneGROamR5ZjNGa3pQLVNHSGhqd2JUVFpPbmk4R0ttV1d6U0Ffa0ZoTkFXOHkwZXM5SThZNm8xUjdWZ21EQm5NTUgyT3FFMmNzaGF1a2ZhN3plZ3l2WHd4Y3ZFOUlwaVpkeWNvYw?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 70,
+      "title": "Amazon Prime drops Grubhub for Uber Eats with $0 delivery from $25 - PPC Land",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV1Q0QUZSTTFwQXpyaW5KNFlXOVp5WUllNEd2RVdQYWJueXZZR2doR1VhZWYyMnRQbW40M2NlTWptdFVlejZmWWo3SXUzMlpoOC1qd1Jia3RJRks0cjhKWTRDQVhoeXNyT3NkY3dtRlVqeFlnM3F4MnZRNjFpdDBqYXNnVGs1b1ZtMkE?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 71,
+      "title": "Amazon's $30 7-Piece Comforter Set Is a 'Complete' Bedding Upgrade With Over 7,300 5-Star Reviews - Parade Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmhocHBrUlBmcTlQaW5YU0hrRUZZb3Z6bE1ld0c2RjM5YUE5RnVLN2x1Mi1fbHJ4UjVVb0JTYVFzdkJiVmRBTHdsSnBRQ01pVU9vNFhQYW4zQ0h5WDZDRmJKUWJCbkt0RjQ5YktVUVV4Njl5QXhBVGZHNkNoY1g0WFo5QmdsYWhuWmRKd1Y3ankxSXg2WHRVcm1UV3c?oc=5",
+      "source": "Amazon Logistics"
+    }
+  ]
+}
