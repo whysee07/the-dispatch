@@ -1,0 +1,273 @@
+{
+  "feed": "ai",
+  "feed_name": "AI Insider",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T16:56:45.018801+00:00",
+  "raw_text": "Sunday, November 8, 2026\n\n---\n\n**🔥 THE BIG STORY**\n\nA new report reveals that Claude Code's \"Don't Ask Again\" feature inadvertently exposed secrets and passwords in over a thousand public GitHub files. This isn't just another bug; it's a massive warning shot for the entire AI agent ecosystem. The feature, designed for user convenience, allowed the agent to commit sensitive information to public repos without repeated user confirmation. The implication most will miss: the race for agent usability is creating a new and massive security attack surface, and the next frontier of AI safety isn't just about model alignment, but about designing secure, boring-but-safe user permissions. [S30]\n\n---\n\n**🛠️ TOOL DROPS & UPDATES**\n\n-   **NYT Cooking adds an AI recipe modifier.**\n    The New York Times has rolled out a beta feature in its cooking app that uses AI to suggest ingredient swaps and recipe adjustments. Who cares: This is a textbook example of integrating a practical AI feature into a mainstream, non-tech product to solve a common user problem. [S11]\n\n-   **New plugin unlocks free, unlimited access to frontier models.**\n    A wildly popular new plugin for the \"dsh\" (DeepSeek Harness) environment provides free, no-login, no-API-key access to models like DeepSeek V4.1 Flash and Kimi K3. Who cares: This dramatically lowers the barrier to entry for developers and researchers wanting to experiment with cutting-edge models, effectively democratizing access that was previously behind paywalls. [S22]\n\n-   **GitHub previews a new pull request overview page.**\n    The new UI for pull requests is now in public preview, offering a more streamlined way to view changes and review code. Who cares: For the millions of developers building with AI, any improvement to this core workflow is a significant productivity boost, setting the stage for deeper AI-native code review features. [S32]\n\n---\n\n**🎯 USE CASE SPOTLIGHT — BY ROLE**\n\n-   **📣 Product Marketer**\n    Analyze the rollout of the NYT Cooking AI modifier [S11]. Use it as a case study for positioning an AI feature not as a technical marvel, but as a simple, helpful tool that solves a tangible problem (\"Can I make this with almond flour?\").\n\n-   **📋 Product Manager**\n    Use the Claude Code credential leak [S30] as a cautionary tale in your next feature planning session. For any proposed agentic feature with file-system access, map out the \"convenience vs. security\" trade-offs and build a threat model specifically for \"helpful\" automation that might go wrong.\n\n-   **🎨 Designer (UI/UX)**\n    Rethink permission prompts for AI agents based on the Claude Code incident [S30]. Instead of a simple \"Don't Ask Again\" checkbox, design tiered or scoped permissions that grant access for a specific task or duration, making the default path the safest one.\n\n-   **📸 Photographer**\n    Experiment with the `watermarks-remover` tool on your own watermarked images to understand its capabilities and limitations [S27]. This provides firsthand knowledge of the current state of AI-based watermark circumvention, informing your own content protection strategies.\n\n-   **🎬 Videographer & Filmmaker**\n    Explore the `hypit` repository to storyboard workflow variations for a short social video [S28]. Use its agent-based approach to conceptualize how you could quickly generate 10 different versions of an ad by swapping faces, voiceovers, and B-roll, all from a single command.\n\n-   **📱 App Developer**\n    Follow the tutorial on building multi-agent systems with the OpenAI Agents SDK [S2]. Build the sample \"EV purchase adviser\" to get hands-on experience with agentic patterns like fan-out and pipelines, which are becoming core building blocks for complex AI applications.\n\n---\n\n**🔬 FROM THE LABS**\n\n**LLMs still fail basic logic puzzles, even when they explain their work.**\nA new analysis shows five different large language models consistently failing a modified version of the classic Monty Hall problem. Despite being prompted for step-by-step reasoning, and even correctly quoting the new rule that changed the probabilities, the models still defaulted to the textbook answer for the *original* puzzle, achieving only ~33% accuracy. This demonstrates that current models often rely on sophisticated pattern matching of their training data rather than true causal reasoning. In 6-12 months, this means we'll see a push for products with hybrid systems that pair LLMs with more formal, structured logic engines for tasks requiring genuine deductive reasoning. [S9]\n\n---\n\n**🚚 AI IN LOGISTICS & SUPPLY CHAIN**\n\n-   **Teradyne's robotics unit hits profitability, partners for warehouse workflows.**\n    The industrial automation giant's robotics division is now in the black and has announced a tie-up with Sereact to focus on warehouse pick-and-place solutions. This is a major signal that the warehouse robotics market is maturing from speculative growth to proven profitability and strategic consolidation. [S16]\n\n-   **Amazon doubles down on robotics for both home and warehouse.**\n    While its MK30 delivery drone lands in a museum, Amazon is simultaneously staffing up a new team for a \"new-to-world\" home robot, signaling a long-term vision beyond the mixed reception of Astro. For logistics operators, Amazon's home robotics efforts are a leading indicator of its ambitions in ambient, automated fulfillment that will eventually connect the warehouse to the living room. [S1][S4][S8]\n\n-   **New benchmark tool helps logistics firms measure AI maturity.**\n    A new tool has been released to help manufacturing and logistics companies assess where they stand on AI adoption. This matters because it moves the industry conversation from vague \"we need AI\" mandates to structured, data-driven roadmaps for implementation. [S13]\n\n-   **Industry grapples with the gap between automation and intelligence.**\n    A recurring theme in supply chain discussions is the need to close the gap between basic warehouse automation (robots following fixed paths) and true AI-driven intelligence (systems that adapt to real-time disruptions). This distinction is critical for anyone building logistics tech; the value is no longer in the robot itself, but in the intelligent orchestration software. [S20]\n\n---\n\n**💸 MONEY & MOVES**\n\n-   **Teradyne Robotics signals market maturation with profitability.**\n    In lieu of a funding round, Teradyne's robotics unit hitting profitability and announcing a strategic partnership with Sereact is the day's biggest move. This signals a shift in the robotics and automation space from venture-fueled growth to a focus on sustainable business models and ecosystem partnerships. [S16]\n\n-   **ARM Institute's robotics consortium swells to over 500 members.**\n    The Advanced Robotics for Manufacturing (ARM) Institute has surpassed 500 member organizations. This signals a broadening and deepening of the public-private ecosystem dedicated to advancing robotics, indicating strong foundational growth for the industry beyond individual company valuations. [S7]\n\n---\n\n**🤖 OPEN SOURCE WATCH**\n\n-   **dsh-our-free-model**\n    This plugin for the DeepSeek Harness gives free, unlimited, no-key access to frontier models like DeepSeek V4.1 Flash and Kimi K3. Created about 6 weeks ago, it's exploding with ~1468 stars/day. Developers and researchers should grab this immediately to slash their API bills and experiment freely. [S22]\n\n-   **agent-autoloop**\n    This tool lets you run command-line agents in the background that work autonomously and only surface decisions when they're uncertain. Created just 5 days ago and already gaining ~817 stars/day, it's a must-try for anyone building or using agents who wants to reduce notification fatigue and improve the human-agent interaction model. [S24]\n\n-   **sand3d**\n    A Python library for 3D modeling designed specifically to be used by LLMs. It's brand new (created 5 days ago) and rising fast with ~265 stars/day. Anyone interested in generative 3D, digital twins, or the emerging field of \"world models\" should check this out as a foundational building block. [S29]\n\n---\n\n**🗣️ HACKER NEWS PULSE**\n\n-   **Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files**\n    The thread vibe is a mix of alarm and validation for security-conscious developers, with many pointing out the inherent dangers of convenience-first features in powerful tools. The sharpest take: This is a product design failure, not just a bug; the UX pattern of \"Don't Ask Again\" is fundamentally incompatible with agents that have write-access to sensitive code. [S30]\n\n-   **Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU**\n    The comment section is filled with technical awe and excitement about the democratization of powerful models. The sharpest take: While impressive, the real test is performance on complex reasoning tasks, as extreme quantization can sometimes degrade model quality in non-obvious ways; nevertheless, this collapses the hardware barrier for countless developers. [S31]\n\n-   **GitHub New pull request overview page in public preview**\n    The vibe is cautiously optimistic, with users appreciating the UI refresh while immediately suggesting further improvements. The sharpest take: A cleaner UI is nice, but the real game-changer will be integrating substantive AI-powered summaries and \"intent analysis\" directly into the PR overview, a feature this new design seems built to accommodate eventually. [S32]\n\n---\n\n**⚡ SPEED ROUND**\n\n-   Amazon's MK30 delivery drone is now officially a museum piece, even as the drone program continues. [S1]\n-   The head of product for Google's Gemini uses a \"60-20-20\" framework (60% core, 20% adjacent, 20% speculative) to ship ahead of the curve. [S5]\n-   \"World models,\" which simulate real-world physics, are being touted as the next major step for training robots and autonomous vehicles. [S14]\n-   Amazon has reportedly been canceling large orders for Nvidia GPUs, impacting AI educators and even Epic Games CEO Tim Sweeney. [S10]\n-   A US intelligence memo reportedly alleged that a tech executive was recruited by China to spy on Nvidia's CEO. [S19]\n-   The ARM robotics consortium has officially grown to more than 500 member organizations. [S7]\n-   A new open-source project, `Mika`, provides an on-device AI agent for Android that can operate apps and the web for you. [S25]\n-   Another new repo, `hypit`, uses AI agents to clone viral videos, letting you swap faces, scripts, and B-roll with a single command. [S28]\n-   AI shopping assistants are forcing brands to rethink their Amazon listing strategies, prioritizing structured data over keyword stuffing. [S6]\n-   Despite a mixed reception for its Astro robot, Amazon is building a new team dedicated to creating a \"new-to-world\" home robot. [S4][S8]\n\n---\n\n**🎮 TODAY'S DAILY CHALLENGE — TRY THIS IN 15 MINUTES**\n\n**Tool:** dsh (DeepSeek Harness) with the `dsh-our-free-model` plugin (installation instructions on the GitHub page: https://github.com/Ebony-Vinyl/dsh-our-free-model)\n\n**The Workflow:**\nOnce you have the plugin installed, you can access several top-tier models for free. Let's compare their code generation style.\n\n1.  Open the dsh interface.\n2.  Select the **DeepSeek V4.1 Flash** model.\n3.  Use this prompt: `Write a simple Python function that takes a URL, fetches its HTML content, and returns all the unique domain names linked in 'href' attributes.`\n4.  Copy the generated code.\n5.  Now, switch the model to **Kimi K3**.\n6.  Use the exact same prompt.\n\n**What to look for:** Compare the two outputs. Does one use more modern Python libraries (e.g., `requests` and `BeautifulSoup` vs. `urllib`)? Is one more robust with error handling? Is the code better commented?\n\n**Why this matters right now:** This challenge gives you a zero-cost, hands-on feel for the subtle but important differences between frontier models. The `dsh-our-free-model` tool [S22] has removed the financial barrier, allowing you to quickly test which model has the \"vibe\" and technical chops that best fit your own workflow.\n\n---\n\n**🧠 EDGE INSIGHT**\n\nToday's news reveals a critical tension that will define the next 90 days of AI product development: the collision of **agent convenience** and **system security**.\n\nThe Claude Code secret-leaking fiasco [S30] is the canary in the coal mine. It was caused by a feature designed to make the agent *less annoying*. Meanwhile, new open-source tools like `agent-autoloop` [S24] are explicitly designed to make agents run in the background and \"not bother you.\" This is the direction users want to go.\n\nThe non-obvious insight is that the most important work in AI over the next quarter won't be about making models smarter, but about making them safer to give agency to. This isn't a problem that can be solved with better prompting. It requires a fundamental rethinking of product design, sandboxing, and permissioning models. The companies that build the \"IAM for AI agents\"—a boring but essential layer of security and access control—will unlock the true potential of autonomous AI, while those who prioritize convenience above all will face a wave of security disasters.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Amazon's MK30 Hangs in Seattle's Museum of Flight. It Still Flies - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSHdKb1pOMHp3aWROdGlVUmZVa3Y0WDFmNlFnSkVfUTIydExSTU90TThfdHFtV3BuWTVZQUl4VnhTQUd0Qk9LNVluSzYza2hpa1BSUG56T05POXh3Y3JzbEJ3cDlqT3hLOGRXcTJBRVEyY0tqX0hqZlZCMURkaDdEV1NmeTJ5UlZG?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 2,
+      "title": "How to Build Multi-Agent Systems with the OpenAI Agents SDK",
+      "url": "https://towardsdatascience.com/how-to-build-multi-agent-systems-with-the-openai-agents-sdk/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 3,
+      "title": "Notes on Take-Off Speeds and RSI",
+      "url": "https://www.alignmentforum.org/posts/ft9hzw82v7FRDKmpn/notes-on-take-off-speeds-and-rsi",
+      "source": "AI Alignment Forum"
+    },
+    {
+      "id": 4,
+      "title": "Amazon Builds Home Robotics Team for New-to-World Robot - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUXM4OXBSZ2tlTDAxWGhIbUJES1hnOU1JNTZVTFBmQ1hXZUZ6eXNCcmZfSmlQeGxNcWR5Yi11dUs4Y3ZTSGl6M1hvWFpfMjdVX3ZjWjFKTUVBY1dnUzdDcXYtQkVQVDVlLWV1R1B4UVhtbTQxYnVCcmY4LWYzdWpUWjJZWQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 5,
+      "title": "What it actually takes to build frontier models | Tulsee Doshi (Head of Product for Gemini)",
+      "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 6,
+      "title": "What AI Shopping Assistants Mean for Amazon Listings - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLWpMOUo5ODZSb1VvY1BoZDd3NGpNekU5LUpoSE5PU2lJZFQ0RzBfSDVJOTEwcWpKQVJtdUlmQ2ktVUg4T1BUMnlhQmlWMlNlb2YzQzc5bTR5T0lhUzRSQlhjOU9Dc1lSalBBODJVMXkzOWJSbXNnTnczMjRpSEtJNWszRQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 7,
+      "title": "ARM Institute consortium grows to more than 500 organizations",
+      "url": "https://www.therobotreport.com/arm-institute-members-grows-more-than-500-organizations/",
+      "source": "The Robot Report"
+    },
+    {
+      "id": 8,
+      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qdFh3U0hRSG94d05zeVBjNS13dzNJbWZ1Mml3TTFnd1NfbHBmdWY1UjV3V3ZKbUhudzBKMmxXM0hmZ29qLTFNSmlORER4d2dKVW1HTGhXZXV5MWFfRjRiaGt3c3ZFOEJCbTh0UUhieWJ3MzZ2Z1E?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 9,
+      "title": "Change One Monty Hall Rule and Five LLMs Still Say Switch",
+      "url": "https://towardsdatascience.com/change-one-monty-hall-rule-and-five-llms-still-say-switch/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 10,
+      "title": "Amazon closed an AI educator's account after he ordered seven Nvidia DGX Spark mini-PCs, and Tim Sweeney says his GPU orders were canceled too - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQemNHeFoxWWMwdzlPbXBzUjh3ano0VmtOSkl5RFVKa19odXJJXzdfNFZqNzhZYlNJRVNMR0g4YkdlNjY3Sm9uUjZTeWhmNl9DUS1Lb2pCZmJFYzV3X2U5SjBsM2JjYnZ6QUgwSzVzdUVVQjd5Q0NEcGRkbEJsVzJnb0VOQUxIcXNGZ3JvMW1mSVYxOVVHc1owV1VGNEFqQ3ZSZEJtZUxiTjUza2RHaE9CNXNBdmw0Y3VqYk9YcmU3SlYwYUM4TVRBa1c1Q3BXRk5laUk0dFRVME5taExnbUZsb2U5a00tOWJ0b2ZUQTBycG5fSFU?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 11,
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 12,
+      "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles",
+      "url": "https://www.freightwaves.com/news/borderlands-mexico-us-foreign-trade-zones-push-to-fix-usmca-tariff-obstacles",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 13,
+      "title": "New Tool Shows Manufacturing and Logistics Companies Where They Stand on AI - Building Indiana Business",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDlydVUyMVJxQ1VQb0dFdnFwRGZrM01FNTlJMFlySFBveTNZZTk5VFp4c2Q3YnpybnNBaUVhVmZLUTFfcTRhYTFPcDlxWHlhM2s5UUE3SENuWktuR3dkMFNhSEVyVGNuSXpSdExNMTFrVkNFd2dyNVVPWGQ2NUZraXdzVFp2b3Rfa2xJXzVONXRma01OUTVtUlRzcEYydzZjR3VHalR0bUxLTkhrNVZIWmUyb3VFRU53YkQ1RDFB?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 14,
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 15,
+      "title": "1 Stat That Makes Amazon Hard to Ignore Right Now - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSXRtSldFVnJtbXliWTVzNHFfZjdka29sZnFmcjJ3SC1CMVNUT2JmU1IwdEZ2Z1FXNmNXOGpGTC1VUUZQb3lsNjFtRWpPWmRNV3BsSTdoNVg0eDAxNzBMb2M2WHl3VHBTWGdhdUtLQ1dLNkVzaU5CTHk2Mmo2OV9ubW1ZR0R0dTYtZ2FLUk4waHR4dzA?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 16,
+      "title": "Teradyne's Robotics Unit Turns Profitable as Sereact Tie-Up Targets Warehouse Workflows - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQlRuNmhZdnFhNjloNjlWMGo5LWJDM0ZkVmJvZkUxZE95Y2dHNk5XX0tBdXNfVWMyTExWVU5QX1JVY25Rd01oNkxaaWdzTVRqdzdib01PUTBDZVE1MTlVX19zYXBkYkhaRzdEX3FQZm9wTVBLbDMzeG91cng0VzNRN1VrSlFOaGYzSzQ4OGJraEIyQ2hVeHJHZnFRdlY0S3VncVFiZGZhNWtRdHR1a1ZzVFpjWVFtVGpJSzloSHF4NVpwdTV5U3N0bVlEVzFpZDVYek52NXpsb0hGMWd4VkZHUGhQMGk3bkxQVTN0MGpWalk?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 17,
+      "title": "Intermodal rates coming in hot this fall; mostly fuel driven",
+      "url": "https://www.freightwaves.com/news/intermodal-rates-coming-in-hot-this-fall-mostly-fuel-driven",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 18,
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 19,
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 20,
+      "title": "Warehouse Automation vs Intelligence: Close the Gap - Supply & Demand Chain Executive",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3ducms2ZFdzamttZkZvRUE4UjduSWF3UVFCaHdicmFZRlN4UnhzTU5HVGJsc0hJTDNWT3o0NVdKanJUYUJHY3BPSVdfMy1HMUs3VWxGLUt2RVNITm0yOUNfTGk5SDROSjJnMDF5Vk1UaXJmUjh5UGVuRlN2cXlaVDI0bjF2SThMT0U1cXJ3Xzhrb0h6QTJOcWRINXlfR1BmdjRyYUliRnFDcjduTHpzbklBYjlSdnhNdV8wVmhDTGxmN3N2VDZLaw?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 21,
+      "title": "How Walmart and Amazon’s drone growth could impact Chattanooga - Chattanooga Times Free Press",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGU4U1RQRGk0cU1LUHBFVTBtTXd1d2lXalR4N3BkQWh2czUycVFXcWZ2WXVxOFluR0Ywa3plckRCQ2ZxSi1tT3VUS1RqZkRlS2lRWVF4cHpkQlNsTWhyZGhWV3RZUHROUjgtYktncVJuRjNoeVVzQUxmcDJuTkdkelk4ZHhGRmJzTE81cXFkNkpzeF95dTdKaWhjZEhfcDhfaXBOZEtUbVlMbFBfSEFR?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 22,
+      "title": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "source": "GitHub"
+    },
+    {
+      "id": 23,
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "source": "GitHub"
+    },
+    {
+      "id": 24,
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "source": "GitHub"
+    },
+    {
+      "id": 25,
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "source": "GitHub"
+    },
+    {
+      "id": 26,
+      "title": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "source": "GitHub"
+    },
+    {
+      "id": 27,
+      "title": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "source": "GitHub"
+    },
+    {
+      "id": 28,
+      "title": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "source": "GitHub"
+    },
+    {
+      "id": 29,
+      "title": "Sandflow-ai/sand3d",
+      "url": "https://github.com/Sandflow-ai/sand3d",
+      "source": "GitHub"
+    },
+    {
+      "id": 30,
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "Hacker News"
+    },
+    {
+      "id": 31,
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "source": "Hacker News"
+    },
+    {
+      "id": 32,
+      "title": "GitHub New pull request overview page in public preview",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 33,
+      "title": "GitHub Down Again?",
+      "url": "https://github.com/torvalds/linux",
+      "source": "Hacker News"
+    },
+    {
+      "id": 34,
+      "title": "A lack of male protagonists is making it harder to get young boys into books",
+      "url": "https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 35,
+      "title": "LLMs are terrible at designing AI systems",
+      "url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 36,
+      "title": "Modern LLMs have tiny GPTs hidden inside them",
+      "url": "https://invertedpassion.substack.com/p/modern-llms-have-tiny-gpts-hidden",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+      "url": "https://thezvi.substack.com/p/gpt-6-astra-covertly-underperforms",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "Ask HN: LLM-Resistant Publishing Strategies",
+      "url": "https://news.ycombinator.com/item?id=50411036",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "Ask HN: What would happen to GPTs if everyone just fed them fake data?",
+      "url": "https://news.ycombinator.com/item?id=50406647",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "Show HN: Conductor sold to Meta. Rebuilding the app (3 days, $170) (MIT)",
+      "url": "https://github.com/jahala/conducted/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "Show HN: Velork – Design and Code, Together",
+      "url": "https://velork.com",
+      "source": "Hacker News"
+    },
+    {
+      "id": 42,
+      "title": "Show HN: aiport – A self-improving local LLM gateway for the erratic vibe coder",
+      "url": "https://github.com/harelix/aiport",
+      "source": "Hacker News"
+    },
+    {
+      "id": 43,
+      "title": "Is \"GPU-hour per user\" a sane way to price LLM inference?",
+      "url": "https://www.mirastacklabs.ai/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 44,
+      "title": "Show HN: NLP capabilities of Opus, Astra, Argon measured by Codenames skills",
+      "url": "https://wordspies.com/hn",
+      "source": "Hacker News"
+    }
+  ]
+}
