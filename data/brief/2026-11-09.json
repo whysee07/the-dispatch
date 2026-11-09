@@ -1,0 +1,543 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T22:02:49.219864+00:00",
+  "raw_text": "Alright, strap in. Monday morning, and it’s already a dumpster fire in some corners, a gold rush in others. Let's get into it.\n\n**Money Talk**\n\n- **Nvidia's AI Kingpin Embroiled in Spy Scandal, Shares Tank**\n  Jensen Huang, the guy who basically *is* Nvidia, is now under investigation by his own company for an affair with an alleged Chinese spy, wiping hundreds of billions from the chipmaker's value. Succession planning? What's that? [S5][S6][S7][S13][S14][S16][S19]\n- **Lucid Hits a Pothole, Saudi Fund Extends a Hand**\n  EV darling Lucid missed Q3 earnings expectations, but hey, at least they got an expanded loan from Saudi Arabia's fund. New CEO, new restructuring plan, same reliance on desert money. [S2]\n- **Securitize Tokenizes its Way to Growth, Acquires River One**\n  The tokenization platform saw Q3 growth and is making moves into asset-backed finance by acquiring River One. Might be time to actually understand what tokenization means beyond crypto bros LARPing. [S3]\n- **Boeing Trims Commercial Workforce by 5%**\n  The aerospace giant is cutting about 5% of its commercial plane workforce through layoffs and attrition, moderating the pace of jet production. Fewer planes, fewer problems, I guess? [S12]\n- **Fossil Fuel Prices Spreading Inflation \"Like a Cancer\"**\n  The UN climate chief at Cop31 is laying it bare: high fossil fuel prices are fueling inflation globally. So much for \"transitory.\" [S15]\n\n**World Lore**\n\n- **Hegseth Impeachment Articles Land in House**\n  Defense Secretary Pete Hegseth is facing impeachment articles from Rep. Thomas Massie over his handling of the Iran war, likely heading for a House vote this week. Things are getting spicy in D.C. [S4][S17][S28][S29][S31]\n- **Iran Blamed for French Supermarket Freezer Cyber-Attack**\n  French officials are pointing fingers at Iran's Revolutionary Guards for a \"not particularly complex\" cyber-attack that defrosted supermarket freezers across France. Talk about cold war tactics. [S11][S33]\n- **Trump Cuts Aid to Israel, But It's Complicated**\n  President Trump says he's cutting aid to Israel, causing concern, but experts suggest it might just be a bureaucratic reshuffle from the State Department to the Pentagon, where oversight is thinner. Classic shell game. [S21]\n- **Russia's Independent Novaya Gazeta Shuts Moscow Doors**\n  The investigative newspaper Novaya Gazeta, labeled a \"foreign agent\" by authorities, has been ordered to vacate its Moscow premises and is closing its newsroom. Another casualty in the information war. [S34]\n- **Pope Leo Draws Millions in Buenos Aires, Slams Austerity**\n  Pope Leo held his largest gathering yet in Buenos Aires, drawing 2.5 million people, and reiterated warnings against President Milei's austerity cuts impacting the vulnerable. The Pontiff clearly isn't a fan of \"shock therapy.\" [S32]\n\n**Tech Tea**\n\n- **Nvidia CEO's Affair Rocks AI World, Huang Cancels Appearances**\n  Jensen Huang's alleged affair with a Chinese spy isn't just a financial hit; he's pulled out of major tech summits like ElevenLabs and Anthropic, leaving the AI world to wonder about its figurehead. [S5][S6][S7][S13][S14][S16][S19][S41][S51]\n- **Anthropic Drops New Fable & Mythos Models**\n  Anthropic just released Claude Fable 5.2 and Mythos 5.2, claiming improvements in coding, reasoning, and vision, plus faster outputs. Let's see if they can help *me* reason through this week's news. [S36][S43][S48]\n- **AI Hardware Startup Nominal Triples Valuation to $3B**\n  Nominal, which builds an AI platform for hardware engineering, has seen its valuation triple to $3 billion in just eight months. Clearly, the AI gold rush is still very much on, even if the king is having a tough week. [S44]\n- **Apple Intelligence Now Costs Extra to Use**\n  Apple is introducing \"Intelligence Usage Packs\" for $49.99 to extend access to some AI features on Logic Pro. Because nothing says \"seamless integration\" like a microtransaction for core functionality. [S47]\n- **Sainsbury's Tests Facial Recognition to Stop Shoplifters**\n  UK supermarket Sainsbury's is trialing facial recognition technology to combat shoplifting. Orwellian, perhaps, but if it keeps prices down, your local grocer might just adopt it too. [S8]\n\n**Creator Szn**\n\n- **Ogilvy & CAA Partner to Clone Celebs for AI Ads**\n  Expect to see AI-generated versions of big names like Terry Crews in ads soon, thanks to a new partnership between Ogilvy and CAA. Don't worry, they'll be *marked* as AI, so you can still tell the difference... for now. [S56]\n- **Publishers Scramble to Combat AI Scrapers, Google's Double Play**\n  Publishers are fighting tooth and nail to protect their content from AI scraping, while Google is simultaneously rolling out opt-out options and enhancing AI Overviews that make opting out less appealing. It's a lose-lose for content creators. [S55][S57][S59]\n- **Creator Rate Cards Shift to Performance Metrics**\n  Advertisers are ditching follower counts and demanding hard data like cost per lead and conversions from creators. Good luck faking that engagement, fam. [S58]\n- **YouTube Returns Streaming Data to Billboard Charts**\n  After a major disagreement, YouTube will resume sharing streaming data with Billboard in 2027, with the charts giving more weight to free, ad-supported music streams. Your guilty pleasure listens will finally count. [S42]\n- **Hulu Docuseries Dives into \"Looksmaxxing\" Dangers**\n  A new Hulu docuseries, \"Get Huge: Looksmaxxing to Death,\" investigates the dark side of male influencer culture, covering mysterious deaths and disappearances in Thailand. This \"glow-up\" culture has a grim underbelly. [S53]\n\n**Supply Lines**\n\n- **UPS in Talks to Acquire Smartways Logistics for $600M**\n  Big Brown is looking to expand, reportedly pursuing a $600 million acquisition of Smartways Logistics. Keep an eye on how this impacts their last-mile strategy and competition. [S72][S73][S74][S75]\n- **Zipline Secures $1.5B, Boosts US Drone Manufacturing**\n  Drone delivery startup Zipline just raised a massive $1.5 billion and plans to expand its US manufacturing. With Walmart and Uber already on board, expect more packages dropped via drone. [S65]\n- **DHL Global Forwarding Appoints New Sub-Saharan Africa CEO, Reports Strong Q3**\n  DHL Global Forwarding named Sascha Geiken as CEO for Sub-Saharan Africa. The broader DHL Group is also touting air cargo's contribution to a healthy 16% Q3 profit gain. Good news for their shareholders. [S76][S77]\n- **FedEx Adds Andreesen Horowitz Partner to Board, Ramps Up AI/Robotics for Peak**\n  Katherine M. Boyle from Andreessen Horowitz has been elected to FedEx's board, signaling a potential tech-forward shift. Meanwhile, FedEx is opening new hubs and deploying AI and robotics to prep for peak season. [S81][S82][S83][S84]\n- **Ocean Freight Sees Q3 Profit Jump, But Geopolitics Loom**\n  Cosco reported an 81% profit increase in Q3, driven by stronger trans-Pacific trade. However, geopolitical disruptions are clouding the future, because, well, everything is connected. [S61]\n- **Freight Demand and Spot Rates Climb Nationally**\n  National freight demand jumped nearly 5% week-over-week, with spot rates still climbing across the board. If you're moving goods, expect to pay up. [S64]\n- **Driverless Trucking Moves from Hype to Commitments**\n  The driverless trucking industry is seeing carriers make concrete commitments, with Kodiak securing a binding agreement for 75 autonomous trucks. The debate is shifting from \"can it work?\" to \"how fast can it scale?\" [S69]\n\n**Speed Round**\n\n- Defense Secretary Hegseth's impeachment articles could be voted on this week.\n- New Delhi's post-Diwali smog is making the city unbreathable again.\n- British comedian Russell Brand got a decade-plus sentence for rape and sexual assault.\n- Trump just appointed Stephen Miller as his new chief of staff – get ready for fireworks.\n- Fervo secured $12 billion in orders for its geothermal power tech.\n- USPS now offers official ZIP Code boundary polygons, because sometimes the low-tech stuff is important.\n- Xbox Game Pass Ultimate is on sale for under $20/month for three months.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+      "url": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+      "url": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
+      "url": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "Hegseth impeachment articles introduced by Rep. Massie",
+      "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+      "url": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "The facial recognition technology stopping shoplifters",
+      "url": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "How a civil servant got away with juggling five jobs for so long",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "Cyber-attack on French supermarket freezers has geopolitical context",
+      "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "Boeing to cut about 5% of its commercial plane workforce",
+      "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+      "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "The Guardian view on Jensen Huang’s affair: why did Trump ignore the warnings? | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
+      "url": "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "What we know about the mystery woman at the center of Nvidia's spy scandal",
+      "url": "https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Hegseth faces impeachment resolution from a GOP member with little to lose",
+      "url": "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Democrats' 2028 presidential auditions begin in Denver",
+      "url": "https://www.axios.com/local/denver/2026/11/09/democrats-whats-next-conference-denver-2028",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Nvidia has no obvious successor to Jensen Huang — and that's a problem",
+      "url": "https://www.axios.com/2026/11/09/nvidia-jensen-huang-succession-plan",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "White House cautiously upbeat about Russia-Ukraine peace talks this week",
+      "url": "https://www.axios.com/2026/11/09/ukraine-russia-zelensky-putin-peace-abu-dhabi",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "What Trump meant when he said the U.S. is cutting aid to Israel",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6029320/what-trump-meant-when-he-said-the-u-s-is-cutting-aid-to-israel",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
+      "url": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "It’s Possible to Fix the United Nations",
+      "url": "https://foreignpolicy.com/2026/11/09/united-nations-security-council-reform-fix/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "The Vexing Arithmetic of Israeli Coalition-Building",
+      "url": "https://foreignpolicy.com/2026/11/09/israel-eisenkot-netanyahu-election-government-herzog/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "The Experts Are Taking Their Revenge Again",
+      "url": "https://foreignpolicy.com/2026/11/09/trump-iran-cia-intelligence/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "Is Hegseth the New Rumsfeld?",
+      "url": "https://foreignpolicy.com/2026/11/09/hegseth-impeachment-iran-war-democratic-congress-donald-rumsfeld/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "Skydance replaces James Gunn and Peter Safran as DC Studios chiefs following Warner Bros. takeover",
+      "url": "https://www.dw.com/en/skydance-replaces-james-gunn-and-peter-safran-as-dc-studios-chiefs-following-warner-bros-takeover/a-79904972?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 31,
+      "title": "Republican Thomas Massie seeks to force House vote on impeaching Defense Secretary Pete Hegseth over Iran war",
+      "url": "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "Pope Leo draws 2.5 million in Buenos Aires, renews warning over Milei's austerity",
+      "url": "https://www.dw.com/en/pope-leo-draws-2-5-million-in-buenos-aires-renews-warning-over-milei-s-austerity/a-79904137?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "French officials blame Iran for supermarket fridge hacking",
+      "url": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "Russia: Independent Novaya Gazeta shuts its Moscow newsroom",
+      "url": "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "Supply chain attack on Qubole customers",
+      "url": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
+      "source": "Hacker News"
+    },
+    {
+      "id": 36,
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+      "url": "https://parkgraph.com/parking-app-fees",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "CUI – Native UI components for C",
+      "url": "https://yappologistic.github.io/CUI/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 41,
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 46,
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+      "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "The 9 Best TV Shows to Stream This Month (November 2026)",
+      "url": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
+      "source": "Wired"
+    },
+    {
+      "id": 51,
+      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion",
+      "url": "https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing",
+      "url": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement",
+      "url": "https://www.wired.com/story/the-midterms-were-a-pretty-good-sign-for-right-to-repair/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Why publishers must act now to protect content from AI scrapers",
+      "url": "https://digiday.com/sponsored/why-publishers-must-act-now-to-protect-content-from-ai-scrapers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 56,
+      "title": "Ogilvy and CAA launch partnership to clone celebrity talent for AI ads",
+      "url": "https://digiday.com/marketing/ogilvy-and-caa-launch-partnership-to-clone-celebrity-talent-for-ai-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "As publishers await click data, Google’s AI visibility push complicates the opt-out decision",
+      "url": "https://digiday.com/media/as-publishers-await-click-data-googles-ai-visibility-push-complicates-the-opt-out-decision/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "How performance metrics are rewriting creator rate cards",
+      "url": "https://digiday.com/marketing/how-performance-metrics-are-rewriting-creator-rate-cards/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "WTF is the AI training opt-out policy token?",
+      "url": "https://digiday.com/media/wtf-is-the-ai-training-opt-out-policy-token/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "Jacobs’ ‘playbook’ will target new industry, to be determined",
+      "url": "https://www.freightwaves.com/news/jacobs-playbook-will-target-new-industry-to-be-determined",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 61,
+      "title": "Cosco profit rockets 81% as ocean freight revenue climbs in Q3",
+      "url": "https://www.freightwaves.com/news/cosco-profit-rockets-81-as-ocean-freight-revenue-climbs-in-q3",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 62,
+      "title": "AI in Logistics: How to Get Real ROI, Not Just Hype",
+      "url": "https://www.freightwaves.com/news/ai-in-logistics-how-to-get-real-roi-not-just-hype",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "SELF-DRIVING Trucks Are HERE: Venti CEO Reveals US Fleet Operations",
+      "url": "https://www.freightwaves.com/news/self-driving-trucks-are-here-venti-ceo-reveals-us-fleet-operations",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 64,
+      "title": "Freight Demand Jumps 5% as Spot Rates Climb",
+      "url": "https://www.freightwaves.com/news/freight-demand-jumps-5-as-spot-rates-climb",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 65,
+      "title": "Zipline raises $1.5B, plans US drone manufacturing expansion",
+      "url": "https://www.supplychaindive.com/news/zipline-raises-15b-plans-us-drone-manufacturing-expansion/874009/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 66,
+      "title": "How Chili’s supply chain improvements are helping menu consistency",
+      "url": "https://www.supplychaindive.com/news/how-chilis-supply-chain-improvements-are-helping-menu-consistency/874109/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 67,
+      "title": "HMM Platinum general average adds to cargo woes, as search for refuge drags on",
+      "url": "https://theloadstar.com/hmm-platinum-general-average-adds-to-cargo-woes-as-search-for-refuge-drags-on/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 68,
+      "title": "‘Multi-node supply chains’ are the future, in a ‘multi-polar pharma world’",
+      "url": "https://theloadstar.com/multi-node-supply-chains-are-the-future-in-a-multi-polar-pharma-world/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 69,
+      "title": "Driverless trucking’s carriers start to sign – next test: which signatures bind",
+      "url": "https://theloadstar.com/driverless-truckings-carriers-start-to-sign-next-test-which-signatures-bind/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 70,
+      "title": "Bangkok cargo backlog spreads to exports as airlines restrict inbound freight",
+      "url": "https://theloadstar.com/bangkok-cargo-backlog-spreads-to-exports-as-airlines-restrict-inbound-freight/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 71,
+      "title": "Hapag’s ASX will reverse December Asia-ECSA capacity squeeze",
+      "url": "https://theloadstar.com/hapags-asx-will-reverse-december-asia-ecsa-capacity-squeeze/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 72,
+      "title": "UPS Pursuing Acquisition of Smartways Logistics - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVUN0YlZ3T2owSTlJRmpkWF9NMjhtWVRBeWdhSXZ0UktFLTlNeEJPc01GSm5kYURUb3ZNTVFVVmV0dFVNd2dpRmlnOVJzMWxPMjdXRWtoZC1zOVJtbm9VQlFWVlFjS01HaUxJX2Q3Mzd5OXJORThXWThTbWtpZ2k2YjRlbTBET2Q0SWZHUU5WUjhRdmd0Q1ZFZWN2MWlHQVJlWVE?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 73,
+      "title": "UPS (NYSE: UPS) in Talks to Acquire Smartways Logistics for $600M Amid Dividend Concerns - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVG4zR2ZYWl9FaWoxR2Z3TjVwWlVvUWs2ZjlyYXRBb3c1WnBYbEpjUkJZcV9hZmtQVGVtYXJ2Szd2eFl2UDVSdnhkcjJKR191SDI5VDFZVmNFNkJQakxITnR1V2E5ZUR0WnRsYWIzZEk1ZDFwa2VvS2RBUVM5TzRkMDhyNUphcGs3MjVGR0J5TElFSkpsaXF6WlM2UUpyT29XalZpaTJBTGVxWDgyWm9WVXk1NHVCUGlyWFNFeHVHZUg?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 74,
+      "title": "UPS seeks $600M Smartways Logistics deal, AFR reports - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkVldWZaOVE3WmowanhJYVRyRmJGaVQ1VFRobHJZbjNFTHU3M3o2MElOOHBHbHVYZnBVQllpZklCUDM3eVhPNkpLUHZaekN2eWUzd19RT01PcnltRHlodEl4dkFmNmdUZFlaZE1CU3ZELXo1bVM0cktLOGFLaEt2RThIalc4X1FIN2x3RHhBc3h6YmRkcDJXdUs3RjJnclVaRTd3cDhsQWFtUEZuRDFMNGR3WWs?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 75,
+      "title": "Out for delivery! Logistics giant UPS zeros in on Riverside-owned biz - AFR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZV9pdF9xMmtFNzNhRWNUQk1vLXhWSTAtaGVYd0dmUmdIaWhnd0VvWEctdVczUURJdjItWDJGWW81UXJCcE5rV3ctMXd6VTh4alFHSHloUWRnLTNHUG9Yb0h3RlZLSFFuU0R3ZUY5Nmc4OTUzX2ppREUtZnh3S3Rhd1RsWWZLVXlnREpYa3hXV3N2a0xOc0lORlllR3JvX3RBR3hnczc3VjltTm54MnY4dTg0eDE1YjA?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 76,
+      "title": "DHL Global Forwarding Appoints Sascha Geiken as Chief Executive Officer (CEO) for Sub-Saharan Africa - Social News XYZ",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONjI4X1hPU2JucmVYcWI2ei1SQVRQMURueEY3YmhhbklhaTdaWktYX0kybC1tS0tSdFJyVlB1QXdNeHdyc3E1S2ZUbTB0YTJodmtVVkxIU192ck5uWE82eXptcUR6R2d3T0ZjVUhHXzVPTUx1OEJXcEJqaDgyem1vNkFJa1E1Z3ZFS2lhUzB0REpiTWVNNVFkV3VTTWdXd0Z3bHZ1NnJ0eG5NVXZaZ054ZzQtc2VXRWRuaFQyRnVad2NlYkhSYThNMWNycDRKb0swTWVN0gHTAUFVX3lxTE42MjhfWE9TYm5yZVhxYjZ6LVJBVFAxRG54RjdiaGFuSWFpN1paS1hfSTJsLW1LS1J0UnJWUHVBd014d3JzcTVLZlRtMHRhMmh2a1VWTEhTX3ZyTm5YTzZ5em1xRHpHZ3dPRmNVSEdfNU9NTHU4QldwQmpoODJ6bW82QUlrUTVndkVLaWFTMHRESmJNZU01UWRXdVNNZ1d3RndsdnU2cnR4bk1VdlpnTnhnNC1zZVdFZG5oVDJGdVp3Y2ViSFJhOE0xY3JwNEpvSzBNZU0?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 77,
+      "title": "DHL calls out air cargo contribution to 16% Q3 profit gain - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblhxNDREN0wtb29QQm93NlN1R1lURERDcmxiM2tET2JkaGFJRWdRM284SEw3Sk1iRF9FVzJxdUp1dmVRLUpSMUwwd2lmYWxIZFpxem1raGd5ZjV1Uk9ybnV6QXpPamVYbkQxd0pFNzc4dF9pY0RSMGFtZWJsWUxkVmpMb0JwNXRmVTY2bmdwX0tmMU9oSmc?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 78,
+      "title": "DHL Group : DZ Bank reiterates its Buy rating - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlphd2FRRHNGVENfMnp2OUhxbll6MlJpdmtzUXJtUzN6X2xiMDlDZkVZd0lFR1ZWbnRvS1hnSkduMG9MRVM1Q2wtNFdDT1FCZEFkajNEYWdQY0p4N0hoVHZDZXFPTFpmZE1nLTVOWndaT1VUVmk5UTEtSWhNcThtN19GY2VackRtLUdCY25taWk0aHJwVTRSeUExRXc?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 79,
+      "title": "DHL Group : Warburg Research reiterates its Neutral rating - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmUyenRZeXB6Zzh4TVg5Q0lvU0Y5M0YxbVU0MDliWHVMZHNJWUhoQUZpQlpUa0xYeWlmd1ZCOElMZlA0WFlTdUF6MmdYQVFweDZoc1VHbHE4U3V3c1lZNGt0MllFNmZJNXVzZVMweTdnTlVxLURuZ2dTWkR4LTFEVFBNR3ZDM3NuY1pzMFFEdGRlZzJib2NPaThwOE80aEJ3WF9YcUhEZXFrVzJreGc?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 80,
+      "title": "DHL Group : Receives a Buy rating from JP Morgan - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3k5cUpreC02WE9qZmoyay12bW1uMDgxdnZXMDhuV3d2MUU4eURXV1IyM2xieU16ZkE5dHFJQlZBUTQwRjB5dGxzeGVPZElyaEZNWG1MdS1laW9mVWpCMG1uZUtfcmhzS3FlbXgwaW41ZDdSRUNkUlByUGl0YzFaOXJWRUJZeG9CdnBqdkdVSnpZV21Obk9Cdmt1QjVqamNs?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 81,
+      "title": "Katherine M. Boyle, General Partner, Andreessen Horowitz, Elected to FedEx Board of Directors - FedEx newsroom",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVRJQTRKMFdPbEZLV2dRb1RzMng3XzViNlhEZUh0WUZCRXVDZEgtUFpWdzU4NnZvaE1KOVUyZkhJSGhVRGFnWTZtUmxRNGc4THNLa3dqYWs5S0R5RldDMVdVN3FDUU5UYld0Vi02NGI1bF9kbEh3WU4ydnZaOTU4QWhnX3V4NExyUDZFcG9PdzVQalFmZEVjaC1FRkUyNWU1bXgtV2RCZ0d3OHdLYzE3cXlheExtcE0?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 82,
+      "title": "FedEx Opens Road Hub, Air Cargo Facility Before Peak Season - Supply Chain Digital Magazine",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMk1UcGFQdmNKOUNoNWZzTk05RFFWNTVWNWZmSjJfLVg5bU13V0J2NG5SU2t5bjBCNEh4UkdicU9UcDQ4RlMxQkZGY2xKNVBIRE5wWkdPdHVaVEp6dHZlVTdud3NfTVdzRWJkbkNNNHpUSFVBbDY5SUw0ZnZfZ0dSS2dJa2lsN2FQUTdvbUczaEhxMHJMOWdwV0JvSU9UeGZX?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 83,
+      "title": "FedEx Makes the Holidays Smarter with AI-Enabled Tools, Robotics, and Predictive Technology - WebWire",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyWGNDdkZxSWFiU0hYeGM2MkZxdTRDYjVVTVVOOXpQMkhqTXNiTDYyQ0syUnhyUjhndEJvOTlUUEJEYWVGX3RkbEd1a0w0cDhRRE5md190WHdtZUdNX3ZqMg?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 84,
+      "title": "FedEx opens new road hub in Alzenau - Logistics Manager",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ObndJWDdKRzN3M2h0TVZ2Y2FGaU1XQlhzTGNEb3lieEluY2J3UGZhdi01YnRPZTFYS3JTelVOQTk1aHJKQnlWTmx3dUlsVDVfM2lDWnFyM3cya3hvcURBYW4zWEpnbEdKX2hPemZ4OWl2VXRwQnRKag?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 85,
+      "title": "Amazon's Christmas Tree delivery - Nine.com.au",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGk1bGlORDJTcllDLS1kNUxQN3duWmdBd0hGNm9KTk42a3hrQUp6aEZwcGF4bjRub0Q5a0doTHZZSDJQYkpFU3RoRDZ5dWc0ZVNEcWZTb1VzbHVLQ2N6b0ZwS2ExQUNKTlVyN2RIampUYmM0ZWltN09nbHNabmVnMVpTdldBRzRQZWxfV1FHZ3E4WUVuNGh3T2k5YXhNTEV6Q3BueWVZVQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 86,
+      "title": "Amazon surpasses 75 million free meal deliveries to U.S. families since 2020 - Mass Market Retailers",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkNWY3VWeHZ5NUFPWlVXYm5qdWpqYnVvV1JnckFmeUJuWFE1YlVCVEVuX3E4SG9yWHVzMXFiYlRLUTVVTWljY3p6Z2MzYUVkMHRyQ0ZyaTNUVGRXd0JfM2JLUHlXMlRGNHB3WEN2TmE1RUlEbW9IRzJUMHU2ZkhiVW0tcmx0YXU3bFR5MFJOYll1SkcwZ1hWUHhnU3VWbWM0eTI5NGNaakFTeGdl?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 87,
+      "title": "Savings Season Starts Now on AMAZON.SA: Incredible Deals, Unbeatable Value, and Fast Delivery This 11.11 - Saudi Gazette",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGxPaUFfa0FNV2FLX2Z1dXZ6TlI0M2xUU2hOdEI0cmpaNVc2WlZveDhOU1BENUpWVEpCTlF5TVU5Nl9DTm11N2hYX1ZiNFJBaG8xR2lYUm55dk45SUhrMEtyYnRBcUNsNDZRclJSZFB0Q2VhT0JZaWRIVlZlN0ZOODNnQlM2ZjFXSHB6d1FvV3ZwdmNVWlRiWGMzRUdnMEpRMzU4ZVZLMklRd0hOZlRuT2pCbnVORk5USzR4NnhNQ1I2cUIwRDdZZUhpd2dNNVV5VlJuTzdUWWxqVVZoaFBkZ2dSNGhGQQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 88,
+      "title": "Amazon Prime Members Now Get Free Uber Eats Delivery on Orders Over $25 - Android Headlines",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTXNYbmNHTWF5Mk1Qa2NjTFFHakpHelBjSGFlNlhMd0p5eE45Y3VVQThpZzJWWUsyUjhqeU9ldmZnYmxZWmJ6ZnY2WkJ5XzJFX3hmaUp1M09zVzNLSVNrUmhFRXluTWZNbm8yWW1iVmg4U2JrYm9mWjA2M2RHdnpBam1FNnJ5azJSQ2I5MFJZX2pGNjdfUVJaaEdUTnpZVUczNjVnN3U3SC1VVXhfMjRPYUdkc2FMcmM?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 89,
+      "title": "Amazon Prime Uber Eats deal: Get $20 off first two orders - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUWNrN2piSlZxSThoTGhPRDd1TWZqekpzczBJaF9oMVcwQ29PcTFIMGdQR2I2QW5Wa2VJQkJjcW5SZWV0OF9oOWlQeDFlWUhnMUdETzJJSVp5WHRzTUtrVlNDQzRucUhZSTdkQW4yNDNxVHQtRmZKRVliVUxKLXY1YXhidUk?oc=5",
+      "source": "Amazon Logistics"
+    }
+  ]
+}
