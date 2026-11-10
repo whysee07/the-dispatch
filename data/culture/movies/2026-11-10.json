@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T04:59:43.883012+00:00",
+  "tonight": {
+    "title": "The Odyssey",
+    "meta": "2026 · Adventure · 2h 53m · ★ 8.0",
+    "why": "Tonight, brace yourself for 'Godzilla Minus Zero,' where Japan's post-war recovery is brutally interrupted by the king of monsters. This isn't just a kaiju flick; it's a visceral, human story of survival against an unstoppable, atomic nightmare.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg"
+  },
+  "releases": [
+    {
+      "title": "Resident Evil",
+      "take": "A medical courier's worst night delivers more than just packages; it delivers pure, relentless chaos.",
+      "score": 75,
+      "geo": "world"
+    },
+    {
+      "title": "Model Citizen",
+      "take": "Amnesia, an isolated farm, and escalating paranoia prove that sometimes, the past isn't just forgotten, it's hunted.",
+      "score": 65,
+      "geo": "world"
+    },
+    {
+      "title": "Heart of the Beast",
+      "take": "Stranded in Alaska with only his loyal combat dog, a Special Forces officer learns that the wild has no mercy for man or beast.",
+      "score": 73,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "The Odyssey",
+    "blurb": "For a truly sharp take on media ethics, 'Primetime' delivers a scathing indictment of reality TV's hunger for spectacle over genuine justice. It's a chilling, thought-provoking narrative that reveals the monsters lurking behind the lens.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
