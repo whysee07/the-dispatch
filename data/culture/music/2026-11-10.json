@@ -1,7 +1,7 @@
 {
   "section": "music",
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T05:02:32.687069+00:00",
+  "generated_at": "2026-11-10T05:03:57.920855+00:00",
   "genres": [
     "Rock",
     "Indie",
@@ -10,5 +10,115 @@
     "Indie Indian",
     "Bollywood",
     "Desi hip-hop"
-  ]
+  ],
+  "news": [
+    {
+      "title": "YouTube Squashes Feud With Billboard Charts",
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/story/youtube-squashes-feud-with-billboard-charts/",
+      "age": "1d"
+    },
+    {
+      "title": "GTA VI Is Putting on a Music Festival",
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/story/gta-vi-is-putting-on-a-music-festival/",
+      "age": "2d"
+    },
+    {
+      "title": "Juan Atkins’ Catalog Surges 1,285% on Streaming After Producer’s Death",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/music/music-news/juan-atkins-music-catalog-streams-surge-producer-death-1236378199/",
+      "age": "3d"
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Low Roader",
+      "artist": "Opus Kink",
+      "why": "This track blends post-punk energy with a captivating horn section, announcing a vibrant new voice.",
+      "genre": "Rock",
+      "geo": "world"
+    },
+    {
+      "title": "Fantasy",
+      "artist": "Black Belt Eagle Scout",
+      "why": "A deeply personal and atmospheric track that captures raw emotion with its intricate guitar work.",
+      "genre": "Indie",
+      "geo": "world"
+    },
+    {
+      "title": "Dream Girl in Shibuya",
+      "artist": "Hayley Williams",
+      "why": "A shimmering, introspective pop anthem that feels both fresh and nostalgic, perfect for contemplation.",
+      "genre": "Pop",
+      "geo": "world"
+    },
+    {
+      "title": "Be (With You)",
+      "artist": "DJ Sabrina The Teenage DJ",
+      "why": "An euphoric and dreamy house track that transports you to a blissful, dance-filled reverie.",
+      "genre": "House",
+      "geo": "world"
+    },
+    {
+      "title": "Apna Bana Le",
+      "artist": "Chaar Diwaari",
+      "why": "This track offers a refreshing, heartfelt take on modern Indian indie with relatable lyrics and a captivating melody.",
+      "genre": "Indie Indian",
+      "geo": "india"
+    },
+    {
+      "title": "Admirin' You",
+      "artist": "Karan Aujla ft. Ikky",
+      "why": "A slick, confident track showcasing top-tier Punjabi flow and production that dominates the Desi hip-hop scene.",
+      "genre": "Desi hip-hop",
+      "geo": "india"
+    }
+  ],
+  "charts": {
+    "global": [
+      {
+        "title": "Texas Hold 'Em",
+        "artist": "Beyoncé"
+      },
+      {
+        "title": "Beautiful Things",
+        "artist": "Benson Boone"
+      },
+      {
+        "title": "Greedy",
+        "artist": "Tate McRae"
+      },
+      {
+        "title": "Stick Season",
+        "artist": "Noah Kahan"
+      },
+      {
+        "title": "Lose Control",
+        "artist": "Teddy Swims"
+      }
+    ],
+    "india": [
+      {
+        "title": "Lutt Putt Gaya",
+        "artist": "Arijit Singh"
+      },
+      {
+        "title": "Heeriye",
+        "artist": "Jasleen Royal & Arijit Singh"
+      },
+      {
+        "title": "Jamal Kudu",
+        "artist": "Harshavardhan Rameshwar"
+      },
+      {
+        "title": "Pehle Bhi Main",
+        "artist": "Vishal Mishra"
+      },
+      {
+        "title": "Kahani Suno 2.0",
+        "artist": "Kaifi Khalil"
+      }
+    ]
+  }
 }
