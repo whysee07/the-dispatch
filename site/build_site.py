@@ -468,6 +468,10 @@ def _culture_movies(d: dict) -> str:
     if c:
         out.append(_sect("⭐", "Critic's pick",
                    f'<div class="ccritic"><h4>{_esc(c.get("title"))}</h4><p>{_esc(c.get("blurb"))}</p></div>'))
+    # TMDB attribution (required by their API terms wherever their data appears)
+    out.append('<p class="cattrib">Movie data &amp; artwork from '
+               '<a href="https://www.themoviedb.org/" target="_blank" rel="noopener">TMDB</a>. '
+               'This product uses the TMDB API but is not endorsed or certified by TMDB.</p>')
     return "\n".join(out)
 
 
@@ -997,6 +1001,8 @@ footer{border-top:3px solid var(--ink);padding-block:22px 44px;margin-top:20px;}
   border-bottom:1px solid var(--rule);font-family:var(--disp);font-weight:600;font-size:15px;}
 .crail .crow:last-child{border-bottom:none;}
 .crail .crow .num{font-family:ui-monospace,Menlo,monospace;font-size:12px;color:var(--muted);font-weight:500;}
+.cult .cattrib{font-family:ui-monospace,Menlo,monospace;font-size:10px;color:var(--muted);letter-spacing:.03em;margin-top:24px;line-height:1.5;}
+.cult .cattrib a{color:var(--accent);text-decoration:none;}
 
 @media (prefers-reduced-motion:reduce){*{transition:none!important;}}
 """
