@@ -73,8 +73,11 @@ def _blurbs(payload: str) -> dict:
     try:
         from google import genai
         client = genai.Client(api_key=GEMINI_API_KEY)
-        resp = client.models.generate_content(model=MODEL, contents=prompt)
-        return extract_json(resp.text)
+        resp = client.models.generate_content(
+            model=MODEL, contents=prompt,
+            config={"response_mime_type": "application/json", "temperature": 0.7},
+        )
+        return extract_json(resp.text or "")
     except Exception as e:  # noqa: BLE001
         print(f"movies: gemini failed ({e})")
         return {}

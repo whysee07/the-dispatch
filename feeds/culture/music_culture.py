@@ -86,12 +86,17 @@ def main() -> None:
             from google import genai
             client = genai.Client(api_key=GEMINI_API_KEY)
             resp = client.models.generate_content(
-                model=MODEL, contents=PROMPT.format(genres=GENRES, head=head)
+                model=MODEL,
+                contents=PROMPT.format(genres=GENRES, head=head),
+                config={"response_mime_type": "application/json", "temperature": 0.7},
             )
-            parsed = extract_json(resp.text)
+            raw = (resp.text or "").strip()
+            parsed = extract_json(raw)
             if parsed:
                 data.update(parsed)
                 data["genres"] = parsed.get("genres") or GENRES
+            else:
+                print(f"music: unparseable model output (len={len(raw)}): {raw[:200]!r}")
         except Exception as e:  # noqa: BLE001
             print(f"music: gemini failed ({e}); writing fallback")
     else:
