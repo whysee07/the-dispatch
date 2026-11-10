@@ -84,7 +84,7 @@ def main() -> None:
     if GEMINI_API_KEY:
         try:
             from google import genai
-            client = genai.Client(api_key=GEMINI_API_KEY)
+            client = genai.Client(api_key=GEMINI_API_KEY, http_options={"api_version": "v1beta"})
             resp = client.models.generate_content(
                 model=MODEL,
                 contents=PROMPT.format(genres=GENRES, head=head),
