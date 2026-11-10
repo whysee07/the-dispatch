@@ -1,0 +1,44 @@
+name: Culture · Movies feed
+
+on:
+  schedule:
+    - cron: '20 12 * * *'   # daily 12:20 UTC — "what to watch tonight" stays fresh
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-culture-movies
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - name: Install dependencies
+        run: pip install -r feeds/culture/requirements.txt
+      - name: Run Movies culture generator
+        env:
+          TMDB_API_KEY:   ${{ secrets.TMDB_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CULTURE_MODEL:  gemini-2.5-flash
+        run: python feeds/culture/movies_culture.py
+      - name: Commit issue to archive
+        run: |
+          git config user.name  "dispatch-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/culture/movies
+          if git diff --staged --quiet; then echo "No new movies issue."; exit 0; fi
+          git commit -m "data(culture/movies): $(date -u +%F)"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin main && git push origin main; then echo "Pushed."; exit 0; fi
+            echo "Push race — retrying ($i)..."; sleep $((RANDOM % 6 + 2))
+          done
+          echo "Failed to push after retries"; exit 1

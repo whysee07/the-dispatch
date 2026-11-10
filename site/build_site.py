@@ -89,6 +89,21 @@ FEEDS = [
 ]
 FEED_BY_ID = {f["id"]: f for f in FEEDS}
 
+# ── CULTURE ("The Weekend") ───────────────────────────────────────────────────
+# Three structured sub-sections under the top-level "The Weekend" switch.
+CULTURE_SECTIONS = [
+    {"id": "music", "nav": "Music",
+     "headline": 'What\'s <span class="mark">worth hearing</span> this week.',
+     "dek": "Industry moves, new tracks and the charts — world and India."},
+    {"id": "movies", "nav": "Movies",
+     "headline": 'What to <span class="mark">watch</span> tonight.',
+     "dek": "One pick for tonight, what's new, and the one worth your evening."},
+    {"id": "photo", "nav": "Photography",
+     "headline": 'A week in <span class="mark">pictures</span>.',
+     "dek": "A photo of the day, the day's news photo, and the weekend gallery."},
+]
+CULTURE_IDS = [s["id"] for s in CULTURE_SECTIONS]
+
 # ── LOAD ─────────────────────────────────────────────────────────────────────
 
 def load_issues(feed_id: str) -> list[dict]:
@@ -357,6 +372,176 @@ def render_sections(feed: dict, raw_text: str, sources: list[dict] | None = None
         out.append('<section class="section"><div class="body"><p>This issue is being compiled.</p></div></section>')
     return "\n".join(out)
 
+# ── CULTURE RENDERING ─────────────────────────────────────────────────────────
+
+def load_culture(section_id: str) -> list[dict]:
+    folder = DATA_DIR / "culture" / section_id
+    issues: list[dict] = []
+    if folder.exists():
+        for p in folder.glob("*.json"):
+            try:
+                issues.append(json.loads(p.read_text(encoding="utf-8")))
+            except (json.JSONDecodeError, OSError):
+                continue
+    issues.sort(key=lambda r: r.get("date", ""))
+    for i, rec in enumerate(issues, start=1):
+        rec["_num"] = i
+    issues.reverse()
+    return issues
+
+
+def _esc(s) -> str:
+    return html_lib.escape(str(s if s is not None else ""))
+
+
+def _geo(geo: str) -> str:
+    if geo == "india":
+        return '<span class="geo in">India</span>'
+    if geo == "world":
+        return '<span class="geo w">World</span>'
+    return ""
+
+
+def _fill(url: str, alt: str = "") -> str:
+    return f'<img src="{_esc(url)}" alt="{_esc(alt)}" loading="lazy">' if url else ""
+
+
+def _sect(emoji: str, label: str, body_html: str) -> str:
+    return (f'<section class="section"><h3 class="sectlabel"><span class="se">{emoji}</span> '
+            f'{_esc(label)}</h3><div class="body">{body_html}</div></section>')
+
+
+def _culture_music(d: dict) -> str:
+    out = []
+    news = d.get("news") or []
+    if news:
+        rows = "".join(
+            f'<div class="cn"><a class="cn-t" href="{_esc(n.get("url"))}" target="_blank" '
+            f'rel="noopener">{_esc(n.get("title"))}</a><span class="cn-s">{_esc(n.get("source"))}'
+            f'{(" · " + _esc(n.get("age"))) if n.get("age") else ""}</span></div>'
+            for n in news)
+        out.append(_sect("🎧", "On the record", f'<div class="cnews">{rows}</div>'))
+    tracks = d.get("tracks") or []
+    if tracks:
+        rows = ""
+        for t in tracks:
+            title = _esc(t.get("title"))
+            if t.get("url"):
+                title = f'<a href="{_esc(t["url"])}" target="_blank" rel="noopener">{title}</a>'
+            rows += (f'<div class="ctrk"><div class="art">{_fill(t.get("art",""), t.get("title",""))}</div>'
+                     f'<div><h4>{title}</h4><div class="by">{_esc(t.get("artist"))}</div>'
+                     f'<div class="why">{_esc(t.get("why"))}</div>'
+                     f'<div class="tags"><span class="pill">{_esc(t.get("genre"))}</span>'
+                     f'{_geo(t.get("geo",""))}</div></div></div>')
+        out.append(_sect("💿", "New tracks", f'<div class="ctracks">{rows}</div>'))
+    charts = d.get("charts") or {}
+    if charts.get("global") or charts.get("india"):
+        def col(title, items):
+            lis = "".join(f'<li>{_esc(i.get("title"))}<span class="by">{_esc(i.get("artist"))}</span></li>'
+                          for i in (items or []))
+            return f'<div class="cchart"><h5>{title}</h5><ol>{lis}</ol></div>'
+        body = (f'<div class="ccharts">{col("Global Top 5", charts.get("global"))}'
+                f'{col("India Top 5", charts.get("india"))}</div>')
+        out.append(_sect("📈", "Top of the list", body))
+    return "\n".join(out)
+
+
+def _culture_movies(d: dict) -> str:
+    out = []
+    t = d.get("tonight") or {}
+    if t:
+        chips = "".join(f'<span class="pill">{_esc(w)}</span>' for w in (t.get("where") or []))
+        chips += _geo(t.get("geo", ""))
+        body = (f'<div class="cpick"><div class="poster">{_fill(t.get("poster",""), t.get("title",""))}</div>'
+                f'<div><h4>{_esc(t.get("title"))}</h4><div class="m">{_esc(t.get("meta"))}</div>'
+                f'<p>{_esc(t.get("why"))}</p><div class="chips">{chips}</div></div></div>')
+        out.append(_sect("🍿", "Tonight's pick", body))
+    rel = d.get("releases") or []
+    if rel:
+        rows = ""
+        for r in rel:
+            rows += (f'<div class="crl"><div class="crl-t"><b>{_esc(r.get("title"))}</b> — '
+                     f'{_esc(r.get("take"))} {_geo(r.get("geo",""))}</div>'
+                     f'<div class="score">{_esc(r.get("score"))}</div></div>')
+        out.append(_sect("🎬", "New &amp; notable", f'<div class="crel">{rows}</div>'))
+    c = d.get("critic") or {}
+    if c:
+        out.append(_sect("⭐", "Critic's pick",
+                   f'<div class="ccritic"><h4>{_esc(c.get("title"))}</h4><p>{_esc(c.get("blurb"))}</p></div>'))
+    return "\n".join(out)
+
+
+def _culture_photo(d: dict) -> str:
+    out = []
+
+    def frame(f):
+        return (f'<div class="cframe"><div class="ph">{_fill(f.get("image",""), f.get("title",""))}</div>'
+                f'<div class="cap"><b>{_esc(f.get("title"))}.</b> {_esc(f.get("caption"))}</div>'
+                f'<div class="credit">{_esc(f.get("credit"))}</div></div>')
+    if d.get("potd"):
+        out.append(_sect("📷", "Photo of the day", frame(d["potd"])))
+    if d.get("news_photo"):
+        out.append(_sect("📰", "The day's news photo", frame(d["news_photo"])))
+    gal = d.get("gallery") or []
+    if gal:
+        cells = "".join(f'<div><div class="g">{_fill(g.get("image",""), g.get("caption",""))}</div>'
+                        f'<div class="gcap">{_esc(g.get("caption"))}</div></div>' for g in gal)
+        out.append(_sect("🖼️", "The gallery", f'<div class="cgallery">{cells}</div>'))
+    return "\n".join(out)
+
+
+_CULTURE_BODY = {"music": _culture_music, "movies": _culture_movies, "photo": _culture_photo}
+
+
+def culture_rail(section_id: str, issues: list[dict]) -> str:
+    latest = issues[0] if issues else {}
+    if section_id == "music":
+        title = "Genres on rotation"
+        rows = "".join(f'<div class="crow">{_esc(g)}</div>' for g in (latest.get("genres") or [])) \
+            or '<div class="crow"><span class="num">—</span></div>'
+    elif section_id == "movies":
+        title = "Streaming on"
+        rows = "".join(f'<div class="crow">{_esc(s)}</div>' for s in (latest.get("services") or [])) \
+            or '<div class="crow"><span class="num">—</span></div>'
+    else:
+        title = "Past frames"
+        rows = "".join(f'<div class="crow">{fmt_long(r["date"])}<span class="num">#{r["_num"]}</span></div>'
+                       for r in issues[:5]) or '<div class="crow"><span class="num">No frames yet</span></div>'
+    return (f'<aside class="rail"><div class="railbox crail">'
+            f'<p class="railtitle">{title}</p>{rows}</div></aside>')
+
+
+def culture_tabs(active: str, depth: int) -> str:
+    prefix = "" if depth == 0 else "../../"
+    tabs = []
+    for s in CULTURE_SECTIONS:
+        sel = "true" if s["id"] == active else "false"
+        tabs.append(f'<a class="tab" role="tab" aria-selected="{sel}" data-feed="{s["id"]}" '
+                    f'id="tab-{s["id"]}" href="{prefix}index.html#{s["id"]}">{_esc(s["nav"])}</a>')
+    return "\n      ".join(tabs)
+
+
+def render_culture_panel(sec: dict, issues: list[dict], depth: int, hidden: bool) -> str:
+    hidden_attr = " hidden" if hidden else ""
+    latest = issues[0] if issues else None
+    kdate = fmt_kicker(latest["date"]) if latest else "This week"
+    body = _CULTURE_BODY[sec["id"]](latest) if latest else ""
+    if not body.strip():
+        body = '<section class="section"><div class="body"><p>This section is being compiled.</p></div></section>'
+    rail = culture_rail(sec["id"], issues)
+    return f"""  <article class="issue cult" data-accent="culture" data-feed="{sec['id']}" data-group="weekend" role="tabpanel" aria-labelledby="tab-{sec['id']}"{hidden_attr}>
+    <div class="kicker"><span class="big">The Weekend</span><span class="sm">{kdate}</span></div>
+    <h2 class="headline">{sec['headline']}</h2>
+    <p class="dek">{sec['dek']}</p>
+    <div class="layout">
+      <div class="col">
+{body}
+      </div>
+{rail}
+    </div>
+  </article>"""
+
+
 # ── DATES ────────────────────────────────────────────────────────────────────
 
 def fmt_long(d: str) -> str:
@@ -485,23 +670,34 @@ def page_shell(body: str, active: str, depth: int, script: str,
 
 INDEX_SCRIPT = """
 (function(){
-  var feeds=["brief","ai","pmm"];
+  var paper=["brief","ai","pmm"], week=["music","movies","photo"], all=paper.concat(week);
   var tabs=[].slice.call(document.querySelectorAll(".tab"));
-  var panels={}; feeds.forEach(function(f){panels[f]=document.querySelector('.issue[data-feed="'+f+'"]');});
+  var panels={}; all.forEach(function(f){panels[f]=document.querySelector('.issue[data-feed="'+f+'"]');});
   var root=document.documentElement;
+  var papertabs=document.getElementById("papertabs"), weektabs=document.getElementById("weektabs");
+  var split=document.getElementById("split");
+  var lastPaper="brief", lastWeek="music";
   function show(f){
     if(!panels[f])return;
+    var wk=week.indexOf(f)>=0;
+    if(wk){lastWeek=f;}else{lastPaper=f;}
     tabs.forEach(function(t){t.setAttribute("aria-selected",t.dataset.feed===f?"true":"false");});
-    feeds.forEach(function(k){if(panels[k])panels[k].hidden=(k!==f);});
-    root.setAttribute("data-accent",f);
+    all.forEach(function(k){if(panels[k])panels[k].hidden=(k!==f);});
+    if(papertabs)papertabs.hidden=wk;
+    if(weektabs)weektabs.hidden=!wk;
+    if(split)split.querySelectorAll("button").forEach(function(b){
+      b.setAttribute("aria-pressed",((b.dataset.mode==="weekend")===wk)?"true":"false");});
+    root.setAttribute("data-accent",wk?"culture":f);
     try{localStorage.setItem("dispatch.feed",f);}catch(e){}
     if(location.hash.slice(1)!==f)history.replaceState(null,"","#"+f);
   }
   tabs.forEach(function(t){
     t.addEventListener("click",function(e){e.preventDefault();show(t.dataset.feed);});
   });
-  var start=feeds.indexOf(location.hash.slice(1))>=0?location.hash.slice(1):null;
-  if(!start){try{var s=localStorage.getItem("dispatch.feed");if(feeds.indexOf(s)>=0)start=s;}catch(e){}}
+  if(split)split.querySelectorAll("button").forEach(function(b){
+    b.addEventListener("click",function(){show(b.dataset.mode==="weekend"?lastWeek:lastPaper);});});
+  var start=all.indexOf(location.hash.slice(1))>=0?location.hash.slice(1):null;
+  if(!start){try{var s=localStorage.getItem("dispatch.feed");if(all.indexOf(s)>=0)start=s;}catch(e){}}
   show(start||"brief");
   var d=new Date(),t=document.getElementById("today");
   if(t)t.textContent=d.toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric",year:"numeric"});
@@ -533,21 +729,30 @@ def masthead(depth: int) -> str:
       <p class="tagline">{html_lib.escape(SITE_TAGLINE)}</p>
     </div>
     <div class="meta">
-      <div class="today" id="today">—</div>
-      <button class="toggle" id="themeBtn" type="button">Dark</button>
+      <div class="meta-row">
+        <div class="today" id="today">—</div>
+        <button class="toggle" id="themeBtn" type="button">Dark</button>
+      </div>
+      <div class="split" id="split" role="tablist" aria-label="Section">
+        <button type="button" data-mode="paper" aria-pressed="true">The Paper</button>
+        <button type="button" data-mode="weekend" aria-pressed="false">The Weekend</button>
+      </div>
     </div>
   </div>
 </header>
 <div class="tabsbar" id="tabsbar">
   <div class="wrap">
-    <div class="tabs" role="tablist" aria-label="Channels">
+    <div class="tabs" id="papertabs" role="tablist" aria-label="Channels">
       {nav_tabs('brief', depth)}
+    </div>
+    <div class="tabs" id="weektabs" role="tablist" aria-label="The Weekend" hidden>
+      {culture_tabs('music', depth)}
     </div>
   </div>
 </div>"""
 
 
-def build_index(feed_issues: dict[str, list[dict]]) -> str:
+def build_index(feed_issues: dict[str, list[dict]], culture_issues: dict[str, list[dict]]) -> str:
     articles = []
     first = True
     for f in FEEDS:
@@ -555,6 +760,8 @@ def build_index(feed_issues: dict[str, list[dict]]) -> str:
         latest = issues[0] if issues else None
         articles.append(render_article(f, latest, issues, depth=0, hidden=not first))
         first = False
+    for sec in CULTURE_SECTIONS:
+        articles.append(render_culture_panel(sec, culture_issues.get(sec["id"], []), depth=0, hidden=True))
     body = masthead(0) + '\n<main class="wrap">\n' + "\n".join(articles) + "\n</main>\n" + FOOTER
     return page_shell(body, "brief", 0, THEME_SCRIPT + INDEX_SCRIPT,
                       title=SITE_TITLE_SEO, page_url=SITE_URL + "/", og_type="website")
@@ -623,7 +830,12 @@ a{color:inherit;}
 .wordmark a{text-decoration:none;}
 .wordmark span{color:var(--accent);}
 .tagline{font-family:var(--body);font-weight:600;font-size:14px;color:var(--ink-soft);margin:10px 0 0;max-width:38ch;}
-.meta{display:flex;align-items:center;gap:10px;flex-shrink:0;padding-top:6px;}
+.meta{display:flex;flex-direction:column;align-items:flex-end;gap:12px;flex-shrink:0;padding-top:6px;}
+.meta-row{display:flex;align-items:center;gap:10px;}
+.split{display:inline-flex;gap:3px;background:var(--card);border:1px solid var(--rule);border-radius:999px;padding:4px;}
+.split button{font-family:var(--disp);font-weight:700;font-size:13px;padding:7px 15px;border:none;background:none;color:var(--muted);border-radius:999px;cursor:pointer;}
+.split button[aria-pressed="true"]{background:var(--ink);color:var(--paper);}
+.tabs[hidden]{display:none;}
 .today{font-family:var(--disp);font-weight:600;font-size:12px;color:var(--ink-soft);text-align:right;line-height:1.3;}
 .toggle{font-family:var(--disp);font-weight:700;font-size:12px;background:var(--ink);color:var(--paper);
   border:none;border-radius:2px;padding:9px 13px;cursor:pointer;}
@@ -727,6 +939,65 @@ a{color:inherit;}
 footer{border-top:3px solid var(--ink);padding-block:22px 44px;margin-top:20px;}
 .foot{font-family:var(--disp);font-weight:600;font-size:13px;color:var(--muted);display:flex;
   justify-content:space-between;gap:12px;flex-wrap:wrap;}
+/* ── Culture ("The Weekend") ── magenta channel + editorial module styles ── */
+[data-accent="culture"]{--accent:#E5327E;}
+.cult .cnews .cn{padding:13px 0;border-bottom:1px solid var(--rule);}
+.cult .cnews .cn:last-child{border-bottom:none;}
+.cult .cnews .cn-t{font-family:var(--disp);font-weight:700;font-size:clamp(16px,2.3vw,19px);
+  letter-spacing:-.015em;text-decoration:none;color:var(--ink);border:none;}
+.cult .cnews .cn-t:hover{color:var(--accent);}
+.cult .cnews .cn-s{display:block;font-family:ui-monospace,Menlo,monospace;font-size:11px;color:var(--muted);margin-top:4px;letter-spacing:.04em;}
+.cult .art,.cult .poster,.cult .ph,.cult .g{background:var(--card-2);border:1px solid var(--rule);border-radius:8px;overflow:hidden;}
+.cult .art img,.cult .poster img,.cult .ph img,.cult .g img{width:100%;height:100%;object-fit:cover;display:block;}
+.cult .ctracks .ctrk{display:grid;grid-template-columns:54px 1fr;gap:15px;padding:14px 0;border-bottom:1px solid var(--rule);}
+.cult .ctracks .ctrk:last-child{border-bottom:none;}
+.cult .ctrk .art{width:54px;height:54px;}
+.cult .ctrk h4{font-family:var(--disp);font-weight:700;font-size:16px;margin:0;letter-spacing:-.01em;}
+.cult .ctrk h4 a{text-decoration:none;color:var(--ink);border:none;}
+.cult .ctrk h4 a:hover{color:var(--accent);}
+.cult .ctrk .by{font-size:13px;color:var(--ink-soft);}
+.cult .ctrk .why{font-size:13px;color:var(--muted);margin-top:4px;}
+.cult .ctrk .tags{display:flex;gap:6px;margin-top:7px;flex-wrap:wrap;align-items:center;}
+.cult .pill{font-family:ui-monospace,Menlo,monospace;font-size:9px;letter-spacing:.06em;text-transform:uppercase;
+  border:1px solid var(--rule);border-radius:999px;padding:3px 8px;color:var(--ink-soft);}
+.cult .geo{font-family:ui-monospace,Menlo,monospace;font-size:8.5px;letter-spacing:.1em;text-transform:uppercase;padding:3px 7px;border-radius:5px;}
+.cult .geo.in{background:var(--pop);color:#17160F;}
+.cult .geo.w{border:1px solid var(--rule);color:var(--muted);}
+.cult .ccharts{display:grid;grid-template-columns:1fr 1fr;gap:26px;}
+@media (max-width:520px){.cult .ccharts{grid-template-columns:1fr;}}
+.cult .cchart h5{font-family:ui-monospace,Menlo,monospace;font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin:0 0 6px;}
+.cult .cchart ol{margin:0;padding:0;list-style:none;counter-reset:c;}
+.cult .cchart li{counter-increment:c;display:flex;gap:11px;align-items:baseline;padding:9px 0;border-bottom:1px solid var(--rule);font-size:15px;font-weight:600;}
+.cult .cchart li:last-child{border-bottom:none;}
+.cult .cchart li::before{content:counter(c);font-family:var(--disp);font-weight:800;color:var(--accent);width:18px;}
+.cult .cchart .by{color:var(--muted);font-size:12px;font-weight:500;margin-left:auto;}
+.cult .cpick{display:grid;grid-template-columns:118px 1fr;gap:20px;}
+@media (max-width:480px){.cult .cpick{grid-template-columns:1fr;}}
+.cult .cpick .poster{aspect-ratio:2/3;}
+.cult .cpick h4{font-family:var(--disp);font-weight:800;font-size:clamp(20px,3vw,26px);letter-spacing:-.02em;margin:0;}
+.cult .cpick .m{font-family:ui-monospace,Menlo,monospace;font-size:11px;color:var(--muted);letter-spacing:.04em;margin:6px 0 10px;}
+.cult .cpick p{font-size:15px;color:var(--ink-soft);margin:0 0 12px;}
+.cult .chips{display:flex;gap:7px;flex-wrap:wrap;align-items:center;}
+.cult .crel .crl{display:flex;gap:14px;justify-content:space-between;align-items:baseline;padding:13px 0;border-bottom:1px solid var(--rule);}
+.cult .crel .crl:last-child{border-bottom:none;}
+.cult .crel .crl-t{font-size:16px;font-weight:600;line-height:1.5;}
+.cult .crel .crl-t b{font-family:var(--disp);font-weight:700;}
+.cult .crel .score{font-family:var(--disp);font-weight:800;font-size:19px;color:var(--accent);flex-shrink:0;}
+.cult .ccritic h4{font-family:var(--disp);font-weight:800;font-size:clamp(20px,3vw,24px);letter-spacing:-.02em;margin:0 0 7px;}
+.cult .ccritic p{font-size:15px;color:var(--ink-soft);margin:0;max-width:60ch;}
+.cult .cframe .ph{aspect-ratio:16/9;width:100%;}
+.cult .cap{font-size:14px;color:var(--ink-soft);margin-top:11px;}
+.cult .cap b{color:var(--ink);font-weight:700;}
+.cult .credit{font-family:ui-monospace,Menlo,monospace;font-size:10px;color:var(--muted);letter-spacing:.04em;margin-top:4px;}
+.cult .cgallery{display:grid;grid-template-columns:repeat(3,1fr);gap:13px;}
+@media (max-width:520px){.cult .cgallery{grid-template-columns:1fr 1fr;}}
+.cult .cgallery .g{aspect-ratio:1;width:100%;}
+.cult .gcap{font-family:ui-monospace,Menlo,monospace;font-size:9.5px;color:var(--muted);margin-top:6px;}
+.crail .crow{display:flex;justify-content:space-between;align-items:baseline;gap:10px;padding:10px 0;
+  border-bottom:1px solid var(--rule);font-family:var(--disp);font-weight:600;font-size:15px;}
+.crail .crow:last-child{border-bottom:none;}
+.crail .crow .num{font-family:ui-monospace,Menlo,monospace;font-size:12px;color:var(--muted);font-weight:500;}
+
 @media (prefers-reduced-motion:reduce){*{transition:none!important;}}
 """
 
@@ -794,6 +1065,7 @@ def build_sitemap(feed_issues: dict) -> str:
 
 def main() -> None:
     feed_issues = {f["id"]: load_issues(f["id"]) for f in FEEDS}
+    culture_issues = {sec["id"]: load_culture(sec["id"]) for sec in CULTURE_SECTIONS}
 
     (OUT_DIR / "assets").mkdir(parents=True, exist_ok=True)
     (OUT_DIR / "feeds").mkdir(parents=True, exist_ok=True)
@@ -806,7 +1078,7 @@ def main() -> None:
             if p.is_file():
                 shutil.copy2(p, OUT_DIR / "assets" / p.name)
 
-    (OUT_DIR / "index.html").write_text(build_index(feed_issues), encoding="utf-8")
+    (OUT_DIR / "index.html").write_text(build_index(feed_issues, culture_issues), encoding="utf-8")
 
     total_issues = 0
     for f in FEEDS:

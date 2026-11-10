@@ -1,0 +1,24 @@
+{
+  "section": "movies",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T12:00:00+00:00",
+  "tonight": {
+    "title": "The Quiet Export",
+    "meta": "2026 · Thriller · 1h 54m · ★ 8.1",
+    "why": "A tense, slow-burn heist across three port cities — the kind of film that rewards a dark room and your full attention.",
+    "where": ["Netflix", "Prime", "Max"],
+    "geo": "world",
+    "poster": ""
+  },
+  "releases": [
+    {"title": "Monsoon Wedding Redux", "take": "A warm, overstuffed family comedy that mostly earns its 2h20.", "score": 74, "geo": "india"},
+    {"title": "Hollow Point", "take": "Gorgeous to look at, hollow at the center. Rent, don't rush.", "score": 58, "geo": "world"},
+    {"title": "The Archivist", "take": "A quiet sci-fi gem; the year's best ending so far.", "score": 88, "geo": "world"}
+  ],
+  "critic": {
+    "title": "The Archivist",
+    "blurb": "If you watch one thing this week, make it this — a patient, humane sci-fi that trusts you to keep up. Streaming on Max; worth the late night.",
+    "where": "Max"
+  },
+  "services": ["Netflix", "Prime Video", "Max", "Apple TV+", "JioHotstar", "MUBI"]
+}
