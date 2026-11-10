@@ -1,38 +1,38 @@
 {
   "section": "movies",
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T05:04:01.723531+00:00",
+  "generated_at": "2026-11-10T19:45:07.541251+00:00",
   "tonight": {
     "title": "The Odyssey",
     "meta": "2026 · Adventure · 2h 53m · ★ 8.0",
-    "why": "Tonight, prepare for a kaiju-sized spectacle that redefines a classic. Godzilla Minus Zero isn't just monster-mashing; it's a visceral, emotionally charged ride through a nation's struggle against an unstoppable force.",
+    "why": "Tonight, dive into a twisting amnesia thriller where an ex-cop's past is a dangerous blank slate and every new face might be a foe. It's a gripping descent into paranoia that will keep you guessing until the credits roll.",
     "where": [],
     "geo": "world",
     "poster": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg"
   },
   "releases": [
     {
+      "title": "Model Citizen",
+      "take": "Amnesia, an isolated farm, and suspicious neighbors? Sounds like a 'relaxing' weekend getaway gone very, very wrong.",
+      "score": 63,
+      "geo": "world"
+    },
+    {
       "title": "Resident Evil",
-      "take": "Turns out, delivering packages can be more apocalyptic than your worst Amazon Prime nightmare.",
+      "take": "Another night, another zombie apocalypse, proving that even medical couriers can't escape the undead's delivery service.",
       "score": 75,
       "geo": "world"
     },
     {
-      "title": "Model Citizen",
-      "take": "This ex-cop's amnesia cure involves more paranoia and primal urges than any self-help guru could recommend.",
-      "score": 65,
-      "geo": "world"
-    },
-    {
       "title": "Heart of the Beast",
-      "take": "Man's best friend meets nature's worst in an Alaskan survival tale that'll make you grateful for central heating.",
+      "take": "Man's best friend gets a truly wild adventure, proving that even a good boy can't escape a plane crash and the Alaskan elements.",
       "score": 73,
       "geo": "world"
     }
   ],
   "critic": {
     "title": "The Odyssey",
-    "blurb": "For the discerning viewer, Primetime offers a chilling dissection of media ambition and the slippery slope of performative justice. It's a nuanced, uncomfortable watch that will spark conversations long after the credits roll.",
+    "blurb": "My critic's pick goes to Godzilla Minus Zero, a monumental achievement that reinvents the kaiju genre with poignant post-war trauma and breathtaking spectacle. It's not just a monster movie; it's an emotional gut-punch wrapped in cinematic awe.",
     "where": ""
   },
   "services": [
