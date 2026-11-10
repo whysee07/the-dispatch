@@ -1,0 +1,555 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T19:27:56.788685+00:00",
+  "raw_text": "Alright, here's the rundown from the last couple days. Buckle up, it's been a ride.\n\n***\n\n**Money Talk**\n\n- **Nvidia CEO's alleged affair with Chinese spy triggers probe.**\n  Jensen Huang, the guy running the most important AI company on the planet, admitted to an affair. Now, Congress and a fancy law firm are digging into whether his paramour had ties to Chinese intelligence. Talk about supply chain risk management. [S1][S4][S47]\n- **Treasury yields spike as inflation just won't quit.**\n  The 10-year Treasury is back at 5% after another hotter-than-expected CPI report. Waller and the Fed are probably already dusting off their rate hike boots. Looks like that \"transitory\" thing just keeps taking detours. [S2][S18][S20]\n- **Anthropic slashes IPO valuation targets, but still eyes $1.4 trillion.**\n  The Claude chatbot maker is set to debut at a slightly less insane valuation than first expected, somewhere between $1.3 trillion and $1.4 trillion. Investors got cold feet on the AI hype train, or maybe they just realized how much actual money these things burn. [S6][S15]\n- **Amazon Ring unleashes flying drones and home patrol robots.**\n  For a mere $250, you can have a little drone fly around your house or business, investigating suspicious noises. Because nothing says \"peace of mind\" like a privacy-invading mini-chopper whirring through your living room. [S3]\n- **Alphabet shares show signs of life after brutal sell-off.**\n  After getting hammered, Google's parent company might be finding a floor. Options traders are eyeing a rebound. Might be a good time to bet on the search giant, unless you think AI chatbots will totally replace it tomorrow. [S5]\n\n**World Lore**\n\n- **US snubs UN human rights review, again.**\n  For the second year straight, the US skipped its key UN human rights review. Critics are saying it undermines global accountability, but hey, maybe they just had other plans? Or maybe they just don't like being told what to do. [S21]\n- **Kim Jong Un's daughter, Kim Ju Ae, tipped as heir apparent.**\n  North Korea's spy agency thinks the reportedly 13-year-old \"Ju Ae\" is being groomed to take over. Apparently, she's \"like gods reigning over humans.\" So, prepare for another generation of... interesting leadership. [S22]\n- **Indonesia's VP offers resignation amid wiretapping probe.**\n  The Vice President of Indonesia is stepping down as his eligibility is questioned and police officials are investigated for allegedly wiretapping the president. Never a dull moment in global politics. [S23]\n- **Defense Secretary Hegseth faces impeachment vote, calls it a \"farce.\"**\n  The House is set to vote on impeaching Pete Hegseth, though actually removing him from office will be a different fight. Vice President Vance says it's not about Iran, but Hegseth's willingness to \"take on challenges.\" Sounds like political theater with high stakes. [S17][S24][S26]\n- **UK warns Argentina over Falklands oil project blockade.**\n  Britain is saying Argentina blocking the Sea Lion oil project could have \"devastating consequences\" for the Falkland Islanders. The tribunal risks reigniting a sovereignty dispute that's been simmering for decades. [S11]\n\n**Tech Tea**\n\n- **Starlink Mini 2 drops with a swappable battery.**\n  SpaceX just refreshed its portable satellite internet dish, now with an integrated, swappable battery. For $99, you can get internet anywhere you can see the sky. Might just replace your hot spot for those truly off-grid adventures. [S36][S46]\n- **Synaptics patent claims halt DisplayLink driver development.**\n  Apparently, Synaptics is throwing its weight around with patent claims, stopping work on DisplayLink drivers. Because nothing says innovation like lawyers arguing over who owns the rights to make your monitor work. [S37]\n- **Oura shells out $625M for AI-native primary care startup Counsel Health.**\n  Just weeks after postponing its own IPO, Oura, the smart ring company, is buying a health startup. Guess if you can't go public, you might as well go shopping, especially for AI-driven health tech. [S41]\n- **Google's Pixel Tag, Android's answer to AirTag, is finally here.**\n  After years of letting third parties handle Android item tracking, Google has officially launched its own Pixel Tag. Now you can lose your keys and find them with Google's network, just like Apple users have been doing forever. [S44][S48]\n- **New Linux OS \"Kora\" targets AI power users.**\n  Built by a Cyanogen co-founder, Kora is a new Linux-based desktop OS designed for nerds running local AI models. If you're tired of Windows and macOS, and want something that actually embraces the AI revolution, this might be your new daily driver. [S55]\n\n**Creator Szn**\n\n- **OpenAI offers brands free \"business agents\" in ChatGPT, but controls the data.**\n  ChatGPT is getting business profiles, letting brands engage with users directly, almost like Google. It’s a free ride for now, but OpenAI is keeping a tight grip on the data and recommendations. Giving with one hand, taking with the other. [S43][S56]\n- **Apple's strict AI token caps spark debate in marketing.**\n  Apple is limiting its employees' AI token use, making everyone wonder if the marketing industry should follow suit. Given the \"creative\" output some AI generates, maybe a little restraint isn't a bad idea. [S57]\n- **Reddit dangles Q4 ad credits, still struggles to prove year-round value.**\n  Reddit's trying to lure advertisers with holiday credits, but brands are still wary about its measurement and ad capabilities for sustained spend. It's a gold mine of niche communities, but turning that into consistent ad dollars is proving tough. [S58]\n- **Amazon's auction trial highlights agentic advertising's trust problem.**\n  Unsealed FTC allegations against Amazon's auction system are raising red flags about \"black box\" agentic advertising. Basically, if you don't know how it works, can you really trust it? [S60]\n- **Ad tech pushes server-side shift, sparking privacy concerns.**\n  The ad tech world is moving towards server-side processing, but questions are mounting about user privacy implications. IAB Tech Lab says it's fine, but \"trust us\" rarely plays well in this space. [S59]\n\n**Supply Lines**\n\n- **Zipline raises whopping $1.5B, eyes US drone manufacturing.**\n  The drone delivery startup just secured a massive funding round and plans to expand its US manufacturing. With deals already inked with Walmart and Uber, these little birds are flying high, literally. [S70]\n- **UPS pursuing Smartways Logistics acquisition, sues CBP over tariffs.**\n  UPS is reportedly looking to buy Smartways Logistics, while simultaneously taking US Customs and Border Protection to court to reclaim $500M in \"unlawful\" tariff payments. Big moves on both the M&A and legal fronts. [S74][S76]\n- **Amazon continues to dominate parcel volume, eats UPS's lunch.**\n  Amazon keeps grabbing market share in parcel delivery, relying less on traditional carriers like UPS as it expands its own logistics network. If you're not building your own shipping empire, you're probably losing ground. [S68]\n- **El Niño causes transport chaos, hitting Latin American perishables.**\n  Bad weather and natural disasters are hammering agriculture exports and transport routes in Latin America. Chile's cherry season already got off to a rocky start with trucker protests. [S71]\n- **Cold chain cyberattacks expose critical vulnerabilities.**\n  Recent cyberattacks targeting supermarket refrigeration units, causing millions in losses, highlight a massive risk. These same systems protect pharma warehouses and blood banks, and many are still openly accessible online. This is not just about spoiled milk, folks. [S75]\n\n**Speed Round**\n\n- Defense Secretary Hegseth calls his impeachment efforts a \"farce\" and a \"stunt.\"\n- China's XPeng says its $300k \"flying cars\" could be launching next summer.\n- Kim Kardashian's Skims is offering refunds for its panned $148 advent calendar.\n- The UK is willing to discuss paying into the EU electricity market.\n- Google's Pixel 11 Pro is getting a new \"HiLight\" feature to notify you of favorite contacts.\n- Sales of tinned food and bottled water jumped after the UK's \"Be Ready\" campaign.\n- US federal judge sides with The Atlantic in Kash Patel defamation suit, shields reporting materials.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+      "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+      "url": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with a Chinese spy",
+      "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "Alphabet shares appear to have bottomed. How to play it for a quick rebound",
+      "url": "https://www.cnbc.com/2026/11/10/alphabet-shares-appear-to-have-bottomed-how-to-play-it-for-a-quick-rebound.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "Some pupils 'struggling just to get a hot meal'",
+      "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+      "url": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
+      "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+      "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "Call it tough love, with the love removed: it’s Kemi’s war on benefits claimants",
+      "url": "https://www.theguardian.com/politics/2026/nov/10/john-crace-kemi-badenoch-tough-love-war-on-benefits",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "‘Flying cars’ could launch in China next summer, maker of two-seat model says",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "The Atlantic can pursue FBI records in fight with Kash Patel",
+      "url": "https://www.axios.com/2026/11/10/kash-patel-atlantic-fbi-defamation-records-lawsuit",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Vance says Hegseth impeachment vote \"isn't about Iran\"",
+      "url": "https://www.axios.com/2026/11/10/hegseth-impeachment-iran-jd-vance",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Harsh new inflation reality",
+      "url": "https://www.axios.com/2026/11/10/inflation-cpi-interest-rates",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Pressure builds on Thune ahead of GOP leadership elections",
+      "url": "https://www.axios.com/2026/11/09/thune-senate-republican-leadership-elections",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "Price pressures persisted in October",
+      "url": "https://www.axios.com/2026/11/10/cpi-october-inflation-fed",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "U.S. boycotts U.N. human rights review for second year running",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
+      "url": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
+      "url": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
+      "url": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
+      "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "‘Sabotage’: Read Hegseth’s Fiery Speech Against His Impeachment",
+      "url": "https://foreignpolicy.com/2026/11/10/hegseth-speech-impeachment-transcript-pentagon-full-text/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "The Economic Impact of Israel’s Election",
+      "url": "https://foreignpolicy.com/2026/11/10/israel-election-economy-netanyahu-eisenkot-united-states-trump/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "The Democrats Have a Mandate to Tackle Corruption. Here’s How.",
+      "url": "https://foreignpolicy.com/2026/11/10/democrats-republicans-elections-corruption-campaign-finance-trump/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "And What About Europe’s Center-Left?",
+      "url": "https://foreignpolicy.com/2026/11/10/democrats-us-europe-eu-center-left/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "The Global Economy Braces for Yet Another Blow",
+      "url": "https://foreignpolicy.com/2026/11/10/el-nino-economy-agriculture-cost/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "UK Privy Council overrules Trinidad and Tobago gay sex law",
+      "url": "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "Victims of Nazi war in Poland call on Germany for support",
+      "url": "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "Iran denies role in fridge hack, France summons ambassador",
+      "url": "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "Controversial kinship: From colonial rule to the Holocaust?",
+      "url": "https://www.dw.com/en/controversial-kinship-from-colonial-rule-to-the-holocaust/a-79902228?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "Poland: Krakow shooting suspect 'fascinated' by Norwegian mass murder Anders Breivik, says justice minister",
+      "url": "https://www.dw.com/en/poland-krakow-shooting-suspect-fascinated-by-norwegian-mass-murder-anders-breivik-says-justice-minister/a-79910435?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Starlink Mini 2 adds a swappable battery",
+      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Google’s Pixel Tag tracker is now available",
+      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "One of our favorite multi-filament 3D printers is $100 off",
+      "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP",
+      "url": "https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Kitchen Gear From Our Place Is Steeply Discounted",
+      "url": "https://www.wired.com/story/our-place-sale-november-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
+      "url": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "4DX Movies Are Entering Their Thirsty Romance Era",
+      "url": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "OpenAI’s new business agents give brands a free way into the conversation it’s also selling as an ad",
+      "url": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "The case for and against AI token capping",
+      "url": "https://digiday.com/marketing/case-for-against-ai-token-capping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "Reddit dangles seasonal ad credits but advertisers still want better proof it works all year round",
+      "url": "https://digiday.com/marketing/reddit-dangles-seasonal-ad-credits-but-advertisers-still-want-better-proof-it-works-all-year-round/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "Can web users trust ad tech’s server-side shift?",
+      "url": "https://digiday.com/media-buying/can-web-users-trust-ad-techs-server-side-shift/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "Ad Tech Briefing: Amazon’s auction trial puts agentic advertising’s trust problem in focus",
+      "url": "https://digiday.com/media-buying/ad-tech-briefing-amazons-auction-trial-puts-agentic-advertisings-trust-problem-in-focus/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 61,
+      "title": "Rising Q3 transportation costs squeeze manufacturers, reward railroads and reshape trade",
+      "url": "https://www.freightwaves.com/news/rising-q3-transportation-costs-squeeze-manufacturers-reward-railroads-and-reshape-trade",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 62,
+      "title": "Port of Long Beach, coalition aims for electricity to power 35% of shipping by 2035",
+      "url": "https://www.freightwaves.com/news/port-of-long-beach-coalition-aims-for-electricity-to-power-35-of-shipping-by-2035",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "Diesel market points down post-election; benchmark slides",
+      "url": "https://www.freightwaves.com/news/diesel-market-points-down-post-election-benchmark-slides",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 64,
+      "title": "$760K fuel-card fraud scheme tied to impersonated Michigan trucking company",
+      "url": "https://www.freightwaves.com/news/760k-fuel-card-fraud-scheme-tied-to-impersonated-michigan-trucking-company",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 65,
+      "title": "Kearney, MIT put US driverless truck cost parity at 2028",
+      "url": "https://www.freightwaves.com/news/kearney-mit-driverless-truck-cost-parity-2028",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 66,
+      "title": "Canada Goose will revisit pricing to blunt tariffs next year, CFO says",
+      "url": "https://www.supplychaindive.com/news/canada-goose-will-revisit-pricing-to-blunt-tariffs-next-year-cfo-says/874196/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 67,
+      "title": "Apparel shipper expands US fulfillment operations to skirt de minimis’ end",
+      "url": "https://www.supplychaindive.com/news/apparel-shipper-expands-us-fulfillment-operations-to-skirt-de-minimis-end/874073/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 68,
+      "title": "Amazon, alternative carriers gained parcel volume in 2026’s first half",
+      "url": "https://www.supplychaindive.com/news/amazon-alternative-carriers-gained-parcel-volume-in-2026s-first-half/873932/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 69,
+      "title": "Deere to end production at 2 Iowa plants to align with demand",
+      "url": "https://www.supplychaindive.com/news/deere-to-end-production-at-2-iowa-plants-to-align-with-demand/874059/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 70,
+      "title": "Zipline raises $1.5B, plans US drone manufacturing expansion",
+      "url": "https://www.supplychaindive.com/news/zipline-raises-15b-plans-us-drone-manufacturing-expansion/874009/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 71,
+      "title": "El Niño transport chaos hits LatAm perishables exports",
+      "url": "https://theloadstar.com/el-nino-transport-chaos-hits-latam-perishables-exports/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 72,
+      "title": "Cargo surge and port congestion send Far East–Middle East rates climbing",
+      "url": "https://theloadstar.com/cargo-surge-and-port-congestion-send-far-east-middle-east-rates-climbing/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 73,
+      "title": "Shenzhen belly cargo ban threatens peak-season squeeze at other gateways",
+      "url": "https://theloadstar.com/shenzhen-air-cargo-restrictions-ahead-of-apec-threaten-peak-shipments/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 74,
+      "title": "UPS in court bid to recover tariff payments ruled ‘unlawful’",
+      "url": "https://theloadstar.com/ups-in-court-bid-to-recover-tariff-payments-ruled-unlawful/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 75,
+      "title": "Cold chain cyberattack risk – time to wake up",
+      "url": "https://theloadstar.com/cold-chain-cyberattack-risk-time-to-wake-up/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 76,
+      "title": "UPS Pursuing Acquisition of Smartways Logistics - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVUN0YlZ3T2owSTlJRmpkWF9NMjhtWVRBeWdhSXZ0UktFLTlNeEJPc01GSm5kYURUb3ZNTVFVVmV0dFVNd2dpRmlnOVJzMWxPMjdXRWtoZC1zOVJtbm9VQlFWVlFjS01HaUxJX2Q3Mzd5OXJORThXWThTbWtpZ2k2YjRlbTBET2Q0SWZHUU5WUjhRdmd0Q1ZFZWN2MWlHQVJlWVE?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 77,
+      "title": "GEPA, DHL explore affordable shipping solutions for Ghanaian exporters - Asaase Radio",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHpHRXcwZVUtZ2JZRGw0S1hUNFFxRTI5aXdxZWpoZWljOWRGNk5fM1FHZnRIYWdza0I3aXlNSmx1cHpuZVVzazZNYXBrcXN3YlYySmdnT2FyUUdJT1hxX1lkUUZabEJGR0hqT1UyaWhJa0NXTGRnSWZEUU05bVVuTm9GaXczdEVudGZfUWxGa3MyZU9jSTdWVHF3?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 78,
+      "title": "DHL opinion: Peak season, peak efficiency – solving supply chain complexity with confidence - Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdTFqSzVyZThzY0MyeXE0OHFRb2hnRTZ4T0N5SWhBeTZZbU5seXlQMVNUc3Zxa0oxZ2h6UVZvZWdmZURVUGdsQTczYTc0X1E1aVZadEtvcjRUQVdLNC11QlMtakdGa24tVng5TEg2alNRR1l2WlcwcmpPb3BtN0NSelFHaFVPRmZmV1NrWmRJOVU3Y3I4ZXlGaTJWT01TR1M3TTFKVUJ5TXlpZ1JWOEt2RjJCTVRIeWZtVHRSdzhPbmpZWlVURzdORWIyWHNHckZ2Y3BsOWRKYlIxY09t?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 79,
+      "title": "DHL: Using AI For Sustainable Logistics and Supply Chains - Sustainability Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOExCXzh1QThtc2dtVkZVNGUxbk5yT3dlRFMtem5yZTkycXRkeWZfQ2hvUy1Nb0Ryc3FXaHZla0hKeXM0dVV1RDUtdzhjWkJJWkxQcVlYMnBwZzhRQ2NTcTgzdUJjc2FNWW5wWDE4Q3p4dURjMnYtZmJMLWMxYnRpbmxIR3lxNm8weTlMUEFwYUtnbWE1LXc?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 80,
+      "title": "DHL Global Forwarding names Geiken as Sub-Saharan Africa CEO - Air Cargo News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWUJvUmFkV0dRQ0JaWGVTc0tYZ0lzMnRRVkdabm11VEphR2lsVmU5R0hWb1YxSDJfcll0SktEVmFobTlqMmtFM1pybEJYX0E1M29kYXdWZVlkcUJBRFhmUHBTQW9RZzd1SkxmTlRsU0s5RVhWTm8yOFZ6Z09Ua2J0NmdySGh2Z3ZCZTJUYy1xQks2YkdtNE5XLU5jY2tRdmpFVDlLVW1RZ08?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 81,
+      "title": "DHL Group (XTRA:DHL) Stock Still Trades Below Fair Value On Cash Flow - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80aUdsM0w4eVNieVRia01jUXlpZTlSWENjVTJTZk1FODBrdTNGaVBzZDJHaDhPeFZmZEtyZWVqUVpNT1BDamhMUWkwdXpJeTdJXzFGazN5VnB0VjU0QXpraV9od2d4bzNfSHNyZFV2b1R0US10U0pXMkM2Q2ZLUQ?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 82,
+      "title": "USPS, UPS and FedEx Release 2026 Holiday Shipping Deadlines for North Dakota - Hot 975",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91TFlmNG15dm1lVkdVZGllbEVaNGJYZmZzWTBpUl8xamN5N1lhbXNzaTAtMGlDTHNPdkNmSU5pMEY0cXUyaHN6QTJraUN2d1M1RFJXaC1xT0prenR6YktDSnpRQQ?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 83,
+      "title": "FedEx showcases logistics solutions for Hajj and Umrah businesses at Hajj Conference and Exhibition 2026 - Zawya",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTW1QRm81QUY1Z0tXUVlvOXluNmd3djAyWkl6TlpSZWM1OHN3bU80U3ZURk9hNXFOVV9OaHpjeWk2VTI4VlJwN3ZiN1M4eG90RE5QWnRoMzViLWtSZFQxTUw2TDNNcElkTTJsa2ZialJpNE9uRjdlMHpDV3pOUW1Gb0pKUHlWMWNmZDJRYi1NeXI4QmF4UVY4RjJ2S0h1UHdvOVRwSEMzZ3BCY0ZPQ2Jvb0hqYWQ0RnVWYTR0YW9oMGtrS0twQVhLeThFZndiUGk2eGR3bjN1ZDlEdmEyS2x2eTNfOG9IRGpFSUNrOTJfQUJEOG9IX2llQ0N3?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 84,
+      "title": "FedEx (FDX) Stock Trades Below Fair Value After A Strong Run - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnFyRFYyT3ZobUgyS2xNWmpYaEV2WVZEQ005SW5oZ0d4czBnMlVlZ1pQSzQ5ams4LXVxeHRsa0FpUUtPQ1hfRk1yS3c4T1ZmSVd6UGlod3F3dTB1dmdKR2dKU2dDWWVKSEJlSmFPMHNzb3d6cm9mOTRMV0dVOXNYOUZpLUl4dElpSTMwaTJOcGZUT01kWTdrS2dJeGtrY1dfLTN3Z3d3cmRuZkpiNlczZGZHMG8wN1pXUDdZMVBfeHd5aGvSAcgBQVVfeXFMTm00Y0JfZGNrZkhoT1lGZEJ1OHVOeWxMbW1FSWRPWHMzSGJjRW1COFRZbWE2MnU0ajlHNHdheUVQNmw2Q2FIY21xR1VQVzN0OVhjak1ZMDZuNVZXQTlxMzdhQ2NtckJLeXBhSFlyUmdhaEI1cUwwUDRfRmN6Q1dKR2VtUVNaOW1LYU56eG80V1lCSVBkZ2FVZ0E4RE1rOS01aHNCWnZpRnVsSVQwQW9GbWV6MjdTVlMwcUhxU01RazU4N1lWMXE4cU0?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 85,
+      "title": "Katherine M. Boyle, General Partner, Andreessen Horowitz, Elected to FedEx Board of Directors - FedEx newsroom",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVRJQTRKMFdPbEZLV2dRb1RzMng3XzViNlhEZUh0WUZCRXVDZEgtUFpWdzU4NnZvaE1KOVUyZkhJSGhVRGFnWTZtUmxRNGc4THNLa3dqYWs5S0R5RldDMVdVN3FDUU5UYld0Vi02NGI1bF9kbEh3WU4ydnZaOTU4QWhnX3V4NExyUDZFcG9PdzVQalFmZEVjaC1FRkUyNWU1bXgtV2RCZ0d3OHdLYzE3cXlheExtcE0?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 86,
+      "title": "FedEx Opens Road Hub, Air Cargo Facility Before Peak Season - Supply Chain Digital Magazine",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMk1UcGFQdmNKOUNoNWZzTk05RFFWNTVWNWZmSjJfLVg5bU13V0J2NG5SU2t5bjBCNEh4UkdicU9UcDQ4RlMxQkZGY2xKNVBIRE5wWkdPdHVaVEp6dHZlVTdud3NfTVdzRWJkbkNNNHpUSFVBbDY5SUw0ZnZfZ0dSS2dJa2lsN2FQUTdvbUczaEhxMHJMOWdwV0JvSU9UeGZX?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 87,
+      "title": "Amazon delivery drivers are getting smart glasses. What they can see might surprise you. - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT3g0V01MTjEwRUd2ZjVoWl9FMTFfOWpDRm43T2F2NFBqbzZGblQwb2NXLWNNWTI4UkhSZU5pRGRHRE5IaXRRUFgxUy1qS1VKSTFNTl80b1c1VF9sN3pBU1hXVzBqbUlaN3VDQ2JKcGRDSkFXR3ZwaWU0ODFwS2lPeUQ5SmN6QXpLakRGbko1dVR4TU9BUE9zd3JpaHhHMkZtUWNnS28wenQ4bkxQeTUtd00taWpDQjVIWHhsYXhEM0o?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 88,
+      "title": "Nampa neighbors say Amazon delivery drones are disrupting their daily lives - East Idaho News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGJ4Ylc5US1qQ1FPN0VWS0FPd01kLVpaSHFaZWJJWXZNY3VwYm02UE90dE5rT0Roa0FhaUdhQnN5Z1N1aG9JaGhUenBuUzdnME1SUVVfMjlhbjhYeUJoUnpVeEhnbm10TUdKVVpleHVMQWMyQzR4VVM0WWxjSUJPeUhUamVqRFFTcDVENG1PYWpfbW9JNURQcFc2UFZoVFNsOTVQRzZsUDlrblFWVjZoWmhpRXQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 89,
+      "title": "Uber Joins with Amazon on Food Delivery: A Major Growth Catalyst? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHpyTlgtaWl5NUd3UHF2cjlTLUxJaU81YlByclMydUxsLWlXMDhXdDNzN3JmMG5PSlRNNWFhekpIVkc3bk0tOC1XanZRNGt6Y21McWo5aHNGYzhjTm9TbklCS0dkc1IycUQ1RmRQWmhORVJmYXRJSVlxbXVZQ29mREdRbW9wQzVZTHFBSVdnV3NlN2gxV3RacEY2U18?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 90,
+      "title": "Amazon worker fired over parking lot speeding loses all five claims - Human Resources Director",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeG1pR2k3Y1p0eFZkQ1R1LVllMEMzNnEya1dQYzZvZEUtUHR4NXVCck9sZWtZZnQzeE5aendKanBGcFVrQVhIS05YZktRWUtwVGpjQjBDTkdwaGF5UFJJNkdlNXBfR1FWc2pfVXR0TmxsZjd1LUl3M3NhV1FWVUhNd2xMVzh4WFZoc2VFOF9JaVRHaFZ6dTdIUWJQRmZPYjFaVXhpbjcxZmRfVVRoWlJ0bHc1eVJvY3VZa2xWSVpYTF9lY3lJU0VfYTdn?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 91,
+      "title": "Holiday gifts ordered on Amazon may start their trip at Kansas City, Kansas, fulfillment center - KCTV",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTc3QThFdUo5RXZqeU1rdHBzQkhWckx5a3BHOEFJRXRTM3Z4Z2ItZGdpel9uTmgxS3FzTzhOaGVKemE5UHNPSEg2MTgzalB0QzlxNXB2MjQ2dXpOUGxwRUVBQzhucDdqQnY3Tk5ScXJaWVp2QzNtUGhrTHREc2tOMWxKNzFmZFhxb0hlNC1DZDNrY2RXcGppdkwyTWIzZ29oeHBYbVFXWkhLREc4ZjhHX3N4MHlwN1UtQjFweFl30gHSAUFVX3lxTE5zNjVsQUJBM2NMZHU4UU5YSE9ZLUNSd04zdGJZNlNXQk9FbU1KZ1N2ZlhSS0RvZjdwMzZBUzJ5NUhuOVdjMndmTTVfVFpxNU1CbE1RSjJrWWRReF80UG5IOXM3d3UtS3VGTk16RjBpVlh1NXZrNWFXZDF1VWNKdHQwZW9kVk5hcHYtR05HTXluT21FTEV0Q1o0WUU0elY2VWZHOEVScjRGLUlya1MzNlNkZDB5RGFmajNsRmRHUzhnZ1NiNTNEdVAtRVdEVVdxS1BtZw?oc=5",
+      "source": "Amazon Logistics"
+    }
+  ]
+}
