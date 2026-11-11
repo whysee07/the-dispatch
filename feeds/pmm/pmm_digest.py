@@ -140,6 +140,18 @@ class Signal:
 # ═══════════════════════════════════════════════════════════════════════════
 
 RSS_FEEDS: dict[str, list[tuple[str, str]]] = {
+    # ── General marketing, brand & advertising (the lead focus, ~60%) ──────
+    # Dead feeds fail gracefully (logged, 0 articles) — prune any that 404.
+    "General Marketing & Advertising": [
+        ("Marketing Brew",     "https://www.marketingbrew.com/feed"),
+        ("Digiday",            "https://digiday.com/feed/"),
+        ("Marketing Dive",     "https://www.marketingdive.com/feeds/news/"),
+        ("Adweek",             "https://www.adweek.com/feed/"),
+        ("The Drum",           "https://www.thedrum.com/rss.xml"),
+        ("Social Media Today", "https://www.socialmediatoday.com/feeds/news/"),
+        ("Contagious",         "https://www.contagious.com/rss"),
+        ("Think with Google",  "https://www.thinkwithgoogle.com/feed/"),
+    ],
     # ── PMM thought leaders & communities ─────────────────────────────────
     # URLs verified working as of 2026-04. Re-run the RSS checker if feeds go dead.
     "PMM Thought Leaders & Communities": [
@@ -198,6 +210,7 @@ RSS_FEEDS: dict[str, list[tuple[str, str]]] = {
 # Authority score per category — used when trimming articles to hit char cap.
 # Higher = prioritized when trimming (kept longer).
 FEED_AUTHORITY: dict[str, int] = {
+    "General Marketing & Advertising":   5,
     "PMM Thought Leaders & Communities": 5,
     "PM Thought Leaders":                5,
     "Competitive Intel & Positioning":   4,
@@ -1389,250 +1402,66 @@ def build_gemini_context(
 # ═══════════════════════════════════════════════════════════════════════════
 
 _SYSTEM_PERSONA = """\
-You are a sharp, witty friend who actually reads the news — specifically every \
-PMM and PM newsletter, community thread, job board, and product launch that matters. \
-You worked in product marketing at a Series B SaaS startup and then at a Fortune 500, \
-so you understand both worlds and never confuse what matters in each.
+You write THE PITCH — a daily marketing newsletter in the spirit of Morning Brew's Marketing Brew. \
+You're a sharp, funny friend who genuinely loves marketing and reads everything: the ad campaigns, \
+the brand moves, the platform drama, the martech, consumer trends, and especially product marketing. \
+You explain things clearly and make the reader a little smarter every day — including teaching \
+product-marketing fundamentals to someone growing into the field.
 
-You write the way you'd text a smart friend — direct, a little opinionated, \
-occasionally funny, always useful. No buzzwords. No "it's important to note." \
-No "in today's fast-paced world." If something is mediocre, you say so. \
-If something is genuinely worth stealing, you say that too.
+You write like you'd text a smart friend — direct, warm, a little opinionated, occasionally funny, \
+never buzzwordy. No "it's important to note." No "in today's fast-paced world." If something is hype, \
+you say so. If it's genuinely great, you say that too.
 
-Your reader is a senior PMM or PM at a US tech company — smart, time-starved, \
-and deeply allergic to fluff. They want to know what actually matters today \
-and what they should DO about it.\
+Your reader loves marketing, is leveling up into product marketing (and job-hunting in it), and is \
+deeply allergic to fluff. They want to enjoy the read AND come away knowing more.\
 """
 
 _DIGEST_PROMPT = """\
-Today is {today}. Everything in TODAY'S DATA is from the last 1–3 days. Write only about what's in that data — do not pull older news or stale product/version details from memory. When naming an AI model or tool, use its plain current name without an old version number unless that version appears in the data.
+Today is {today}. Everything in TODAY'S DATA is from the last 1–3 days. Write only about what's in that data — do not pull older news or stale details from memory. When naming a tool or model, use its plain current name without an old version number unless that version appears in the data.
 
-CRITICAL INSTRUCTION: You MUST write ALL 14 sections below, in order, without stopping early. \
-Do not truncate, summarize, or skip any section. Every section must be fully written out. \
-The 💼 JOBS PULSE section must list the actual job titles and companies from the JOB LISTINGS \
-data provided — do not say "no jobs found" if job data is present.
+You're writing THE PITCH — a daily marketing read in the spirit of Morning Brew's Marketing Brew: smart, breezy, a little funny, genuinely useful. Target mix: ~60% general marketing (brand, advertising, social, creators, consumer trends, martech), ~35% product marketing, ~5% product management.
 
-Here is today's collected data — RSS articles, community discussions, job listings, \
-product launches, and market signals from the PMM and PM world.
+Write EXACTLY these 7 sections, in order, each with the exact emoji header shown on its own line:
 
-Write a daily digest with EXACTLY these sections in this order:
+☕ THE LEAD
+The single biggest marketing story today — this is your one deeper piece, so give it room. 5–6 sentences with a real point of view: what happened, why it actually matters, who wins or loses, and the one thing worth remembering. Pick the story marketers will still be talking about next week, not incremental noise. Have a little voice.
 
----
+📣 THE MARKETING BRIEF
+3–4 quick hits from across marketing — brand moves, ad campaigns, social/platform shifts, the creator economy, consumer behavior, martech. Bold one-line headline + 1–2 sentences each. Keep them snappy and varied; don't let them all be the same topic.
 
-🔥 THE GTM SIGNAL OF THE DAY
-The single most important development for PMMs and PMs today. Could be a launch \
-worth studying, a positioning shift, a research finding about buyers, or a \
-strategic market move.
+🎯 THE PMM DESK
+What's happening in product marketing specifically: a notable launch, a positioning or messaging move, pricing/packaging, or GTM news. 2 items — bold headline + 2 sentences each: what they did and the sharp takeaway a PMM would notice.
 
-Write exactly 5 sentences:
-- What happened (sharp and factual)
-- The product angle most people are missing
-- What this means specifically for PMMs
-- What this means specifically for PMs
-- The one thing to act on or watch in the next 30 days
+🧠 PMM 101
+Today's bite-size product-marketing lesson — teach ONE concept, framework, or skill in plain language, as if to a smart friend leveling up into PMM. Prefer something tied to today's stories.
+**The concept:** [name it]
+What it is: [2–3 sentences, no jargon]
+Why it matters: [1 sentence]
+See it today: [tie it to one item in today's data when possible]
+Try it: [one concrete thing the reader can do this week]
 
-Don't pick incremental news. Pick the thing that will matter in retrospect.
+🧩 PRODUCT CORNER
+One product or PM item worth a marketer's attention — a build, a product decision, or a PM concept. Bold headline + 2 sentences.
 
----
-
-🎯 POSITIONING WATCH
-2–3 notable product launches, rebrands, homepage pivots, or messaging shifts \
-from the past 24 hours.
-
-For each:
-[Company Name] — [One-line description of the move]
-- Narrative angle: What story are they telling and to whom?
-- ICP signal: Who is clearly the target buyer based on the language they use?
-- What's sharp: One specific thing they did well
-- What's fuzzy: One thing that's unclear or generic
-- Steal this: One specific thing a PMM could adapt for their own product
-
----
-
-⚔️ COMPETITIVE INTEL CORNER
-2–3 competitive moves from B2B SaaS, AI tools, or enterprise software companies.
-
-For each:
-[Company] vs [Category or implied competitor]
-- What changed (pricing, features, packaging, messaging, distribution)
-- Why they did this now — what are they betting on?
-- PMM action item: What should a competing PMM do this week?
-- Battlecard update needed? Yes/No — and what specifically would change
-
----
-
-🚀 LAUNCH DISSECTION
-Pick ONE product launch from today's data and dissect it like a senior PMM \
-writing a post-mortem.
-
-[Product/Feature Name] by [Company]
-- Launch tier: T1 / T2 / T3 — and was it positioned right for its actual impact?
-- Core message: What was the hero message in their own language?
-- GTM channels used: press, social, email, in-product, partner, influencer, community, paid
-- Sales readiness signal: Did they publish enablement content alongside it?
-- Buyer emotion targeted: Fear / Ambition / Belonging / FOMO / Frustration
-- What worked: One concrete thing to replicate
-- What's missing: One thing a sharp PMM would have added
-- If you were the PMM: One sentence on what you'd do differently
-
----
-
-📣 WHAT THE PMM/PM COMMUNITY IS SAYING
-Top 4–5 posts or threads circulating in the PMM/PM world today.
-
-For each:
-[Author or Source] — [Topic or post theme]
-- The core argument or insight in 1–2 sentences (paraphrase, don't quote)
-- Community reaction: resonating, controversial, or being debated?
-- The sharpest counter-take if one exists
-- Worth engaging? Yes / Skim / Skip — one-line reason
-
----
-
-💡 USE CASE OF THE DAY
-A specific, reproducible PMM or PM workflow being discussed or shared today.
-
-[Use Case Title — action-oriented]
-Category: [Messaging / Competitive Intel / Launch Planning / Sales Enablement / \
-Customer Research / Roadmapping / Discovery / GTM Strategy / Content / Pricing]
-Role: [PMM / PM / Both]
-
-The workflow:
-Step 1: [Concrete first action]
-Step 2: [What to do next]
-Step 3: [Output or deliverable]
-
-Tools used: [Specific tools — Claude, Notion, Figma, Gong, Wynter, Dovetail, etc.]
-Time to complete: [Realistic estimate]
-Output you get: [Exactly what artifact or insight this produces]
-Why it matters now: [One sentence]
-
-Prompt or template (if AI-assisted):
-[Exact copy-paste prompt]
-
----
-
-📚 LEARNING PICK OF THE DAY
-The single best PMM or PM piece published or surfaced today.
-
-[Title] — [Author] — [Source]
-
-What it's about: 2–3 sentences on the core argument
-3 actionable takeaways:
-1. [Takeaway → specific application]
-2. [Takeaway → specific application]
-3. [Takeaway → specific application]
-
-Who should read this: [PMM / PM / Both] — at what career stage
-Read time: [Estimate]
-
----
-
-🔬 DISCOVERY & RESEARCH SIGNAL
-One notable finding about product discovery, user research, or customer insight.
-
-[Topic or Research Name]
-- What was found or demonstrated
-- The method used
-- How it changes or validates current best practice
-- PM action item: What to do differently in your next discovery sprint
-
----
-
-💼 PMM/PM JOBS PULSE
-List the top 6–8 roles from the job data provided.
-
-For each:
-[Company] — [Title]
-Stage: [Series X / Fortune 500]
-Location: [City or Remote-US]
-Comp: [Range if available, or 'Not listed']
-Why interesting: [One sentence]
-Source: [Wellfound / LinkedIn / YC / Greenhouse / Lever]
-
-Then 2 sentences on what today's listings collectively signal about the market.
-
----
-
-💸 GTM FUNDING & MARKET MOVES
-Funding rounds, acquisitions, or strategic partnerships with GTM implications.
-
-For each:
-[Company] — [Amount or deal type]
-- What they do (one line, no jargon)
-- GTM motion: Product-led / Sales-led / Marketing-led / Enterprise / \
-Community-led / Partner-led / Vertical SaaS / Usage-based
-- What this signals about B2B investment direction
-- PMM implication
-- PM implication
-
----
-
-🔧 TOOL DROP FOR PMMS & PMS
-New or meaningfully updated tools for PMM or PM workflows.
-
-For each:
-[Tool Name] — [One-line description]
-Category: [Competitive Intel / Message Testing / Sales Enablement / \
-Customer Research / Roadmapping / Discovery / Launch Planning / Analytics]
-Best for: [PMM / PM / Both]
-Free tier: Yes / No / Trial
-Honest take: Genuinely new capability or a feature dressed up as a launch?
-Who should try it this week: [one line]
-
----
+🔧 TOOL DROP
+One new or meaningfully updated martech / AI / marketing tool worth knowing.
+**[Tool]** — [one-line description]
+Best for: [who] · Free tier: [Yes / No / Trial] · Honest take: [genuinely useful, or hype?]
 
 ⚡ SPEED ROUND
-10 rapid-fire updates — stats, frameworks, launches, quotes, or signals.
-One punchy line each. Emoji + line. No filler. No categories. Just sharp.
-
----
-
-🎮 15-MINUTE PMM/PM CHALLENGE
-One hands-on skill-building exercise tied to today's digest.
-
-Challenge: [Action-oriented title]
-Role focus: [PMM / PM / Both]
-
-The setup: [2–3 sentences]
-
-What to do:
-Step 1: [Specific action with tool and URL]
-Step 2: [Next step]
-Step 3: [Final deliverable]
-
-The exact prompt or template:
-[Copy-paste ready]
-
-What good looks like vs. mediocre:
-[Calibration guide]
-
-Why this skill matters in the next 6 months: [One sentence]
-Time: 15 minutes or less.
-
----
-
-🧠 EDGE INSIGHT
-The non-obvious pattern a top-1% PMM or PM would notice today.
-NOT a summary. An original observation derived from today's signals together.
-
-Write 4–5 sentences. Coffee conversation, not LinkedIn post.
-
----
+5–6 rapid-fire one-liners — a stat, a campaign, a platform change, a quote, a trend. Start each with a small emoji (but NOT any of ☕ 📣 🎯 🧠 🧩 🔧 ⚡) and one punchy line. No filler.
 
 FORMATTING RULES:
-- Use the exact section headers and emojis above
-- Within a section, write each bullet as a bold one-line headline, a line break, then the detail — so it can be scanned fast and expanded for depth. Example:
-  **Usage-based pricing is becoming table stakes.**
-  Three more infra companies flipped from seat-based to consumption this week. If your pricing page still leads with "per seat," you're the outlier now.
-- SOURCE CITATION: TODAY'S DATA ends with a numbered SOURCES table. End each item with the [S#] marker(s) of the source(s) it draws on, e.g. [S12] or [S12][S30]. Use only markers from that table; never invent one. The JOBS PULSE section does not need per-row citations.
-- Never say 'consider doing X' — name the specific tool, prompt, or action
-- PMM: 60% / PM: 40%
-- If data is thin on a section, say so in one line and move on — no padding
-- Total: 1800–2500 words
-- Tone: practitioner-to-practitioner, occasionally witty, zero buzzwords
-- No sentence starting with "It's important to note"
-- No "in today's fast-paced world" or anything like it
+- Use the exact section headers and emojis above, each on its own line.
+- Within a section, write each item as a bold one-line headline, a line break, then the detail — scannable, expandable. Example:
+  **TikTok's new ad format is quietly eating retail budgets.**
+  Three big retailers shifted spend this week. If your media plan still treats it as experimental, you're late.
+- SOURCE CITATION: TODAY'S DATA ends with a numbered SOURCES table. End each item with the [S#] marker(s) of the source(s) it draws on, e.g. [S12] or [S12][S30]. Use only markers from that table; never invent one.
+- Never say 'consider doing X' — name the specific thing, tool, or action.
+- Target mix: ~60% general marketing / ~35% PMM / ~5% PM.
+- If data is thin on a section, say so in one line and move on — no padding.
+- Total: 900–1,300 words.
+- Tone: Marketing Brew — witty, curious, zero buzzwords. No "it's important to note", no "in today's fast-paced world".
 
 TODAY'S DATA:
 {context}
@@ -2158,11 +1987,8 @@ def main() -> None:
     articles = deduplicate_articles(articles_raw)
     stats["articles_deduped"] = len(articles)
 
-    # Step 3 — Scrape jobs
-    log.info("[2/5] Scraping job listings...")
-    jobs_raw = fetch_all_jobs()
-    stats["jobs_raw"]    = len(jobs_raw)
-    stats["jobs_deduped"] = len(jobs_raw)   # already deduped inside fetch_all_jobs
+    # Jobs section retired (Nov 2026) — The Pitch is a marketing read, not a job board.
+    jobs_raw: list[Job] = []
 
     # Step 4 — Fetch supplemental signals
     log.info("[3/5] Fetching supplemental signals...")

@@ -49,7 +49,7 @@ SITE_DESC = "A daily three-channel intelligence briefing — Daily Brief, AI Ins
 #   emoji    — split on lines that open with a known section emoji
 #   markdown — split on markdown / bold / emoji headers (generic)
 
-PMM_EMOJIS = ["🔥", "🎯", "⚔️", "🚀", "📣", "💡", "📚", "🔬", "💼", "💸", "🔧", "⚡", "🎮", "🧠"]
+PMM_EMOJIS = ["☕", "📣", "🎯", "🧠", "🧩", "🔧", "⚡"]
 
 FEEDS = [
     {
@@ -77,13 +77,13 @@ FEEDS = [
     },
     {
         "id": "pmm",
-        "nav": "PMM / PM",
-        "name": "PMM / PM",
-        "headline": 'Today\'s GTM signal, and <span class="mark">who\'s hiring</span>.',
-        "dek": "Product-marketing intelligence, compiled daily.",
-        "about": "<b>PMM / PM</b> aggregates 30+ sources, scrapes five job boards, and "
-                 "pulls community signals into one daily GTM read.",
-        "pipe": ["RSS ×30", "Jobs ×5", "Reddit", "HN", "PH"],
+        "nav": "The Pitch",
+        "name": "The Pitch",
+        "headline": 'Everything <span class="mark">marketing</span>, every morning.',
+        "dek": "A daily marketing read — brand, ads, and the product-marketing craft.",
+        "about": "<b>The Pitch</b> is your daily marketing brew — the day's biggest story, quick hits "
+                 "across brand, ads, social and martech, a product-marketing desk, and a daily PMM lesson.",
+        "pipe": ["Marketing", "PMM", "Learn"],
         "mode": "emoji",
     },
 ]

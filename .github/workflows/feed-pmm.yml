@@ -35,8 +35,6 @@ jobs:
           GMAIL_ADDRESS:        ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD:   ${{ secrets.GMAIL_APP_PASSWORD }}
           RECIPIENT_EMAIL:      ${{ secrets.RECIPIENT_EMAIL }}
-          CRUNCHBASE_API_KEY:   ${{ secrets.CRUNCHBASE_API_KEY }}
-          APIFY_API_KEY:        ${{ secrets.APIFY_API_KEY }}
           REDDIT_CLIENT_ID:     ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USER_AGENT:    pmm_digest_bot/1.0
