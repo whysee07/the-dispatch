@@ -1,0 +1,555 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T17:55:26.421677+00:00",
+  "raw_text": "Alright, settle in, grab your ethically sourced, single-origin coffee. Here's your daily download on what's actually moving the needle, without the usual pundit bluster.\n\n### Money Talk\n\n- **Nvidia shares rebound despite CEO's personal drama and China chip security row.**\n  Jensen Huang's alleged affair and the buzz around China using \"sexpionage\" to compromise him hasn't sunk Nvidia's stock, which saw a rebound. Meanwhile, Treasury Secretary Bessent reportedly confronted Commerce Secretary Lutnick over a failure to list an Nvidia customer, Megaspeed, for national security concerns, adding layers to AI's \"week from hell.\" [S1][S16][S19][S54]\n- **Kalshi under CFTC investigation for self-certified contracts.**\n  The CFTC is probing whether Kalshi, the event futures exchange, improperly self-certified certain contracts. This comes just a few months after they were told to yank their sports-related \"mention markets.\" Regulators clearly aren't amused by creative new ways to bet on… well, anything. [S3]\n- **Airlines chase premium profits with upgraded amenities.**\n  American Airlines is bringing back fresh food to first class on its New York-Chicago route, a luxury absent since 2019. Not to be outdone, JetBlue is unveiling its own new first-class seats today. Seems the strategy for profit isn't cutting costs, but charging more for a fancier ride. [S2][S4]\n- **Spain gripped by first general strike in 14 years.**\n  Thousands are protesting across Spain today over soaring housing costs and the overall high cost of living, less than three weeks before a national election. This isn't just a blip; it's widespread disruption signaling serious economic pain. [S6][S7][S9]\n- **UK's Poundland faces administration, founder appeals to the King.**\n  The discount retailer Poundland has filed for intention to appoint administrators, seeking protection from creditors. In a move that feels ripped from a period drama, the founder has reportedly written to the King for help. When the high street goes this low, you know things are bleak. [S8]\n\n### World Lore\n\n- **Iran-backed operatives accused of plotting UK attacks.**\n  Federal prosecutors have arrested three men accused of being Iran-backed operatives, charged with nearly 20 attacks, including a plot on a UK base housing US troops. Treasury Secretary Scott Bessent has even been moved to a military base due to \"growing threats\" from Iran. Tensions, meet escalation. [S5][S23][S24]\n- **Russia and Ukraine agree to major prisoner exchange.**\n  In rare humanitarian progress, Russia and Ukraine have agreed to a large-scale prisoner swap following US-mediated talks in Abu Dhabi. It's the biggest exchange since 2022, though the talks concluded without any broader breakthroughs. Small wins amidst the grind. [S22]\n- **Germany grapples with rising extremism and authoritarian desires.**\n  A new study reveals that one-quarter of Germans would prefer a right-wing authoritarian dictatorship, with prejudice and extremism on the rise. While immigrant integration is improving, violent youth remain a concern. This is a concerning undercurrent to European stability. [S31][S32]\n- **Senegal hosts first-ever African Olympic event with Youth Games.**\n  Dakar is buzzing as Senegal prepares to host the Youth Olympic Games this month, making history as the first African nation to ever hold an Olympic event. Breakdancers are reportedly training hard. A genuinely cool moment for the continent. [S21]\n- **Indonesia hit by high-level wiretap scandal.**\n  Indonesia's political scene is alight after a former chief of police was arrested, accused of spying on the president. This kind of internal political drama always makes you wonder how deep the rabbit hole goes. [S30]\n\n### Tech Tea\n\n- **OpenAI's revenue reportedly tops $10 billion for the first time.**\n  Sam Altman's crew just keeps raking it in, with quarterly sales hitting an estimated $10B—an almost 50% jump from last quarter. For all the talk of an AI bubble wobbling, OpenAI seems to be printing money. [S42]\n- **Anthropic's IPO target falls short, contributing to \"AI industry's week from hell.\"**\n  While OpenAI soars, the broader AI industry is apparently having a rough time. Anthropic's highly anticipated IPO missed its staggering target, adding to a week of \"political upheaval, financial turmoil and salacious scandal\" for the sector. Reality bites, even for AI darlings. [S19]\n- **Pomerado (YC F26) launches, aiming to unleash AI agents on the web.**\n  This new startup wants to turn any website into a \"deterministic, self-healing API\" in minutes, allowing AI agents to interact with systems previously out of reach. If it works, agents might finally move beyond glorified chatbots. [S36]\n- **AI developed to fight AI bioweapons.**\n  Radical Numerics has reportedly built an AI model capable of identifying natural and AI-engineered pathogens without needing an internet connection. This is the kind of high-stakes AI play that reminds you just how much is riding on these new capabilities. [S52]\n- **Google's Tabletop AI helps you build custom collaboration apps.**\n  Google is rolling out an experimental AI tool called Tabletop that generates personalized collaborative hubs for friends and family. Think Asana or Monday, but with AI doing the heavy lifting to keep your group projects (or family vacation planning) on track. [S47]\n\n### Creator Szn\n\n- **TikTok Shop launches a premium tier for its top 1 million US shoppers.**\n  TikTok is rolling out a new paid tier for its most loyal US customers, signaling a serious push to monetize its shopping platform and deepen engagement with power users. Creators selling via TikTok, take note. [S58]\n- **OpenAI's new business agents offer brands free chat access — with a catch.**\n  Brands can now get a \"free route\" into ChatGPT conversations using OpenAI's new business agents, but OpenAI will maintain control of the underlying data and recommendations. It's a clever move: give away the access, keep the intel. [S60]\n- **Sports betting creator \"Mystic Zach\" Hirsch racks up 200 million short-form views.**\n  Zach Hirsch has cracked the code for sports-betting content, driving massive engagement on short-form video. It shows that even in highly regulated niches, savvy creators can still find huge audiences. [S56]\n- **Mars preps for AI grocery agents by boosting LLM visibility.**\n  The candy giant is worried about losing impulse buys as AI takes over more grocery runs, so they're chasing LLM visibility and planning immersive stores. Your digital shopper bot might soon be influenced by sophisticated AI-driven marketing campaigns. [S57]\n- **Inside creator Grace Wells's 100-hour branded video production.**\n  A peek behind the curtain reveals the sheer effort involved in high-quality creator content, with Grace Wells detailing her 100-hour production process for branded videos. It's a reminder that \"effortless\" digital content often hides immense labor. [S59]\n\n### Supply Lines\n\n- **UPS scales up robotic truck unloading with Pickle Robot.**\n  UPS is moving forward with Pickle Robot, a startup focused on automated truck unloading. This signals a serious commitment from a major carrier to tackle one of the most labor-intensive and injury-prone parts of warehouse operations, potentially changing how freight gets moved off vehicles. [S76]\n- **DHL goes green with electric fleet and sustainable aviation fuel.**\n  DHL is making moves on the sustainability front, taking delivery of 25 new electric swap body movers from TII KAMAG and becoming the first express cargo carrier to use Sustainable Aviation Fuel (SAF) at Paris Charles de Gaulle Airport. It's a double-down on reducing carbon footprint across ground and air operations. [S77][S78]\n- **FedEx adds China-US AI hardware flights, simplifies imports.**\n  FedEx is boosting its capacity with four new weekly China-US cargo flights specifically for AI hardware, showing clear insight into where the high-value freight demand is. They're also simplifying import clearance with online tax payments, a small but significant step to ease friction for customers. [S84][S86]\n- **Amazon Prime Air expands drone delivery in the UK.**\n  Amazon's drone delivery service, Prime Air, just got SAIL 4 approval from the UK Air Authority, allowing it to reach 8,000 homes in Darlington. This is a big step for last-mile innovation, pushing autonomous drone operations further into the mainstream and making those sci-fi predictions feel a little more real. [S89][S91]\n- **US rail traffic hits intermodal record, signaling economic resilience.**\n  US railroads saw intermodal traffic hit a record high in October, with freight volumes increasing across most of the economy. The Association of American Railroads is calling this a sign of underlying economic resilience, which is good news for anyone moving goods. [S64]\n- **European hauliers face \"dire situation\" despite record rates.**\n  Despite what look like record road freight rates in Europe, hauliers are in a \"dire situation.\" Soaring fuel costs are eating into margins, and operators are struggling to pass those increases on to shippers. The optics of high rates mask a tough reality for the guys actually moving the goods. [S71]\n\n### Speed Round\n\n- Jensen Huang's personal drama isn't stopping Nvidia's stock rebound.\n- Spain just had its first general strike in 14 years, proving housing costs are a real powder keg.\n- OpenAI reportedly blew past $10B in quarterly revenue – the AI bubble is still inflating.\n- Databricks' CEO is using an AI agent to tell him the unvarnished truth about his 12,000-person company.\n- Toyota's Scion is back as an experimental mobility incubator, starting with a 25mph kei truck made in Indiana.\n- Poundland is writing to the King for help, which feels like peak British retail drama.\n- FedEx is adding flights to China specifically for AI hardware, showing where the smart money (and cargo) is headed.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+      "url": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "CFTC investigates if Kalshi improperly self-certified event contracts",
+      "url": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "JetBlue unveils new first class seats to bring back profits",
+      "url": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "Bessent moved to military base amid 'growing threats' from Iran",
+      "url": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "Spain sees widespread disruption in first general strike for 14 years",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "Workers across Spain stage first general strike in 14 years",
+      "url": "https://www.bbc.co.uk/news/videos/c920xlpdl28eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "Poundland founder writes to King for help",
+      "url": "https://www.bbc.co.uk/news/videos/cm4gndjd4nnno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "Protesters gather in Spain for first general strike in 14 years",
+      "url": "https://www.bbc.co.uk/news/videos/cwj0587gde88o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "What are cold weather payments and who can get them?",
+      "url": "https://www.bbc.co.uk/news/articles/c87470q4w21o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "Labour MPs warn against weakening electric vehicle targets ahead of crunch talks",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/11/labour-mps-electric-vehicle-targets",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "ITV to cut show budgets as UK TV and film production spend drops by more than £2bn",
+      "url": "https://www.theguardian.com/business/2026/nov/11/itv-cut-costs-falling-advertising-sales",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "Air traffic control boss says he was ‘most disliked person in the UK’ after flight chaos",
+      "url": "https://www.theguardian.com/business/2026/nov/11/air-traffic-control-nats-martin-rolfe-outages-ryanair",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "Diesel still costing close to a ‘dismal’ £2 a litre despite oil price falls",
+      "url": "https://www.theguardian.com/money/2026/nov/11/diesel-prices-petrol-business-oil-hormuz",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "From blood group ID to cycle racks: I asked for little ways to fix broken Britain and the public’s ideas give me hope  | Martin Lewis",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/11/how-fix-broken-britain-public-better",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "Scoop: Inside Bessent's Situation Room confrontation with Lutnick over China chip security",
+      "url": "https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Don Leonard isn't a House member yet. He's already rocking Capitol Hill.",
+      "url": "https://www.axios.com/2026/11/11/don-leonard-ohio-democrat-house-jeffries",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Dems put Noem on notice",
+      "url": "https://www.axios.com/2026/11/11/kristi-noem-homeland-security-congress-subpoena",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "The AI industry's week from hell",
+      "url": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "House GOP bets on MAGA \"fighter\" Jim Jordan",
+      "url": "https://www.axios.com/2026/11/11/jim-jordan-house-minority-leader-republicans",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
+      "url": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+      "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+      "url": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "Brazil Shows the Danger of Digital Chokepoints",
+      "url": "https://foreignpolicy.com/2026/11/11/brazil-meta-lula-elections-big-tech/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "How New Delhi Sees the Blue Tsunami",
+      "url": "https://foreignpolicy.com/2026/11/11/us-midterms-india-blue-tsunami-trump-democrats-trade/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "How Netanyahu Lost His Bet on Trump",
+      "url": "https://foreignpolicy.com/2026/11/11/us-midterm-elections-netanyahu-trump-republicans-israel-aid/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "Memory Chips Are Completely Distorting South Korea’s Economy",
+      "url": "https://foreignpolicy.com/2026/11/11/south-korea-semiconductor-memory-chips-artificial-intelligence-inflation-affordability/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "Indonesia’s Wiretap Scandal Heralds a Political Showdown",
+      "url": "https://foreignpolicy.com/2026/11/11/indonesia-wiretap-prabowo-police-chief/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "Integration of immigrants in Germany: Much has been accomplished but problems remain",
+      "url": "https://www.dw.com/en/integration-of-immigrants-in-germany-much-has-been-accomplished-but-problems-remain/a-79923241?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "Democracy study: One-quarter of Germans want a right-wing authoritarian dictatorship",
+      "url": "https://www.dw.com/en/democracy-study-one-quarter-of-germans-want-a-right-wing-authoritarian-dictatorship/a-79922718?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "Kenya's last Ebola patient leaves hospital",
+      "url": "https://www.dw.com/en/kenya-s-last-ebola-patient-leaves-hospital/a-79921240?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "Brazil electoral court fines Meta, sees no deliberate election bias",
+      "url": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "Is AIIB's complaint mechanism failing affected communities?",
+      "url": "https://www.dw.com/en/is-aiib-s-complaint-mechanism-failing-affected-communities/a-79919917?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "url": "https://news.ycombinator.com/item?id=50455811",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "Reddit Migration's Impact on Lemmy (2023)",
+      "url": "https://www.jmis.org/archive/view_article?pid=jmis-10-4-333",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "The hardest notes to find on the guitar fretboard",
+      "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Siri co-founder backs Helix for its voice ID tech",
+      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "The best early Black Friday deals you can already shop",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+      "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Ocarina of Time is even better if you use a smartphone app",
+      "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-11-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "A Startup Wants to Fight AI Bioweapons With AI",
+      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+      "url": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
+      "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "How a sports betting creator drove 200 million short-form views of his podcast",
+      "url": "https://digiday.com/media/how-a-sports-betting-creator-drove-200-million-short-form-views-of-his-podcast/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "Mars wants to future proof impulse buys as AI is poised to take over more grocery runs",
+      "url": "https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "TikTok Shop launches a paid premium tier for 1M of its top U.S. shoppers",
+      "url": "https://digiday.com/marketing/tiktok-shop-launches-a-paid-premium-tier-for-1m-of-its-top-u-s-shoppers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "Future of TV Briefing: Inside creator Grace Wells’s 100-hour branded video production process",
+      "url": "https://digiday.com/future-of-tv/future-of-tv-briefing-inside-creator-grace-wellss-100-hour-branded-video-production-process/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "OpenAI’s new business agents give brands a free way into the conversation it’s also selling as an ad",
+      "url": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 61,
+      "title": "Latam Cargo to increase flower exports with Bogota terminal expansion",
+      "url": "https://www.freightwaves.com/news/latam-cargo-to-increase-flower-exports-with-bogota-terminal-expansion",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 62,
+      "title": "US postpones ‘million-dollar’ China ship tax until January",
+      "url": "https://www.freightwaves.com/news/us-postpones-million-dollar-china-ship-tax-until-january",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "Texas trucking owner indicted in scheme involving 57 unauthorized drivers",
+      "url": "https://www.freightwaves.com/news/texas-trucking-owner-indicted-in-scheme-involving-57-unauthorized-drivers",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 64,
+      "title": "US rail traffic hits intermodal record as October freight gains signal economic resilience, says AAR",
+      "url": "https://www.freightwaves.com/news/us-rail-traffic-hits-intermodal-record-as-october-freight-gains-signal-economic-resilience-says-aar",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 65,
+      "title": "US Postal Service reduces annual operating loss by 12.7%",
+      "url": "https://www.freightwaves.com/news/us-postal-service-reduces-annual-operating-loss-by-12-7",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 66,
+      "title": "BMW announces new battery supply deals for the US, Europe",
+      "url": "https://www.supplychaindive.com/news/bmw-announces-new-battery-supply-deals-for-the-us-europe/874409/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 67,
+      "title": "Transpacific ocean rates ease slightly as peak winds down",
+      "url": "https://www.supplychaindive.com/news/transpacific-ocean-rates-ease-slightly-as-peak-winds-down/874262/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 68,
+      "title": "CarParts.com revs up in-house last-mile delivery for cost, speed benefits",
+      "url": "https://www.supplychaindive.com/news/carpartscom-revs-up-in-house-last-mile-delivery-for-cost-speed-benefits/874287/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 69,
+      "title": "Asics boosts inventory management using warehouse drones",
+      "url": "https://www.supplychaindive.com/news/asics-boosts-inventory-management-using-warehouse-drones/874273/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 70,
+      "title": "Honda to invest $3B in new Ohio hybrid vehicle plant",
+      "url": "https://www.supplychaindive.com/news/honda-to-invest-3b-in-new-ohio-hybrid-vehicle-plant/874281/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 71,
+      "title": "Record rates mask ‘dire situation’ for hauliers as costs outstrip earnings",
+      "url": "https://theloadstar.com/record-rates-mask-dire-situation-for-hauliers-as-costs-outstrip-earnings/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 72,
+      "title": "Ports could future-proof to beat box terminal congestion",
+      "url": "https://theloadstar.com/ports-could-future-proof-to-beat-box-terminal-congestion/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 73,
+      "title": "Innovation in pharma not a prescription for boosting logistics profits",
+      "url": "https://theloadstar.com/innovation-in-pharma-not-a-prescription-for-boosting-logistics-profits/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 74,
+      "title": "Earnings season champ: where DSV beat K+N to the punch",
+      "url": "https://theloadstar.com/earnings-season-champ-where-dsv-beat-kn-to-the-punch/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 75,
+      "title": "Return to Suez transits raises congestion fears at Red Sea ports",
+      "url": "https://theloadstar.com/return-to-suez-transits-raises-congestion-fears-at-red-sea-ports/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 76,
+      "title": "UPS and Pickle Robot: Has Robotic Truck Unloading Finally Reached Its Scale-Up Moment? - Logistics Viewpoints",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcTllQzFDdHE3TjQtcm1EZ2xZWkdnRElucUR0R016Z2EzaG9QYUV5b2RQQ3JCUjJyWTVKVTVJX29rYlp3aEV3Vm5xaHdvbkdvSFhDR3VmUzhFenplMTMxSWc0WnNOY1JnSEIzNmpleVRpUHZCQWpKZ0F0YVJLeTQ2cnA5YUZvbnBHaWxJMGQwODBwNkxhV0VGSTBpWHRlazUwXzdkSkhnMm53ZXVuYURSYks2dXdUZzZYcE9IR01HLTFYSDNrQkdJ?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 77,
+      "title": "TII KAMAG delivers 25 electric swap body movers to Deutsche Post DHL Group - Charged EVs",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZlN3UFVrcV9HUVBacUtUUjVjUzQwVFNSWjk0UlBENXRTU29XM2lQb0FNeC1pVlZ6Zk1CLUVYLWtKQkJwd2k4dzMwZVdSNFpDMzVJclg4d1hZUmk5dTZzUmNwM1gwbnc4RzBFUHVscmZoZWZCdEJsVWpzNll2cDRubFRqVG9STGthenhwN2huZ2UyNE5qT0NQQW9EMDl4Rmg4Q0dMdGxlWFNZeDQ?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 78,
+      "title": "DHL becomes first express cargo carrier to use SAF at Paris Charles de Gaulle Airport - Biomass Magazine",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUG9STFhqV0tEOG5lUE1NLU9VeDdaZGJJaHQtTDZuX0NyQXdlVExIMDFjS0RidHJpZG9wSG9TVHVuVUN3dlVfNnlLMEZxSlk4YU1tLWJXREdkdGE2V1ppaUtNNnQyN2NUODZYQWNUTXAyMlhpQW5pcTVQb0FYbmFiN0Exc04wa1pTQ05ZcmJIZlFLcjNRc25qZDFUX3NMYlo1ZThSYnFYbDNYUkp3U1BmX0FrOGEyMDVpMDBual9Baw?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 79,
+      "title": "Sascha Geiken to Drive DHL Global Forwarding’s Sub-Saharan Africa Business - Construction Business News Middle East",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbWdDTzRiRExqd1hwTVl0SUZwYk5hV2liV0lJbE1IYklnWktYdU1mVGhidDVNR0x3N1YwWHpsZm1tUGs5ODBhRTZFZVVOQ3ZkTk1aSlIySTVJZEhXcVlrNDY1RURxeEpjMTdjX2w3X1JNeUF5Si1tYkdFQWJqYjVqbHRvaHNhbjNhRHBDZmJ5WjZpdlpXWG80eHd0Tm5PTHAzdGFSb3lrOEVOWHd0TGhYag?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 80,
+      "title": "GEPA, DHL explore affordable shipping solutions for Ghanaian exporters - Asaase Radio",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHpHRXcwZVUtZ2JZRGw0S1hUNFFxRTI5aXdxZWpoZWljOWRGNk5fM1FHZnRIYWdza0I3aXlNSmx1cHpuZVVzazZNYXBrcXN3YlYySmdnT2FyUUdJT1hxX1lkUUZabEJGR0hqT1UyaWhJa0NXTGRnSWZEUU05bVVuTm9GaXczdEVudGZfUWxGa3MyZU9jSTdWVHF3?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 81,
+      "title": "DHL opinion: Peak season, peak efficiency – solving supply chain complexity with confidence - Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdTFqSzVyZThzY0MyeXE0OHFRb2hnRTZ4T0N5SWhBeTZZbU5seXlQMVNUc3Zxa0oxZ2h6UVZvZWdmZURVUGdsQTczYTc0X1E1aVZadEtvcjRUQVdLNC11QlMtakdGa24tVng5TEg2alNRR1l2WlcwcmpPb3BtN0NSelFHaFVPRmZmV1NrWmRJOVU3Y3I4ZXlGaTJWT01TR1M3TTFKVUJ5TXlpZ1JWOEt2RjJCTVRIeWZtVHRSdzhPbmpZWlVURzdORWIyWHNHckZ2Y3BsOWRKYlIxY09t?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 82,
+      "title": "Holiday shipping deadlines 2026: USPS, UPS and FedEx dates - The Clarion-Ledger",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaGhQdlhFWExjV1NmSWhQTE1xVi1DSW42UU5LQ3ROanhwRVdfa2lsOENaT29lLU9kUmwtZl96c1l0azA2N0p6TlZZb0ZzbV9fNnVaNGlpQ04yNk5lNXhhQTZXbzdtZnMwZjhpZHFMLWs1ZGxMZDFFZFBJVnE5MFRpbVk5ekJhMGhLbDQ5NXUtNFBKWndGYTlicTZnZjZDOE5lRHV6M3J3WXhvU0p5TkU2bWlrNGlyTFRaek1sS3IwZFkwVS1pVGhkc3NhemQ3ajRiVUJuX2VFemg5QnlPWV9rRzM5NFpMN0ZuM2xCdjRTN3NvbXoxOGc0Tg?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 83,
+      "title": "FedEx Showcases Logistics Solutions for Hajj and Umrah Businesses at Hajj Conference and Exhibition 2026 - Al-Bawaba",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWHBqcXhxcEtmRXh5dUNtd0xzX2VLWlRoOGVSSmRLSHM5MUhLWXUya2h3RFN5cTBQalBNN2kwNEJHaHlFWjJ2QTBXUnNWT1FHWlB4dzlhNzNZeGdtR0ZGQ0JKNUw3dVZxcnBoNlhYelhZUkRrQVBxc1cwcEJrWnJsdjdPODh5WFFETGV2SXNn?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 84,
+      "title": "FedEx simplifies import clearance with online tax payments - InsiderPH",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa0xwbGRYN2NpUnJnWmdUTHpIUW54eVFqelVBeWREN2d0ZUNTbzQ5UDQtSTlHQjlScVZ1a3FxTHhxTFh4UnhWMWVIOGM1aUZiOW1sNEhJQ3lmWUFMQk1Id1N1NXNxRGVfdGUwdW9CZEFrLTVveThBdnJ2TzZNdUFuV2lwNWVzNjQ?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 85,
+      "title": "What's open and closed on Veterans Day 2026 - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MUkRPMWpfVmpzZEZaZVZHWm5wUVNkQkVZQVRfWjlRc0puZ05pOXdKdEtGYm1JcnR4eU9HS05aaHRodUNhaGxZZVBQZVZLLW0tLUd0VWR3QUZ5cGF2cTdSRURmMWItcWRWeXRxV1R2SUxsbkstNjliM9IBfkFVX3lxTE5iMXJWbjdWY3dWRWpzVTg3M09NVkJjR3FhWmFuX044eEEtUk55OTByT2pIWmlCX1J1N0ZQNGQ2NXpCUFEyZWI1RFdWTi1jUFU4VlFtRm5qM0VvcHc4bmtGRWctVllMamdsZ2c5Vm5pa0JWNXk3X2E0ZnhWcHV1QQ?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 86,
+      "title": "FedEx Adds Four Weekly China-US Cargo Flights for AI Hardware - Retail News Asia",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXhXTk95eVBIbko3S0JpTlhLRk5iX0Zub2JmZEJPbXhpRllaaUxVQ2dKQVhCb1k5REV2MnRlWDRGNWlLQWdKRUpURnA2Q3J0TmdkWFl2NWRSRV9zZ2xQM3VNNUtYaVRhWEs2X3JaS2p2bWZfOTJmYm1CRDRFcGZISi1zRnd5MmhzVEx5MnZn?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 87,
+      "title": "Amazon’s Smart Glasses Sound Like the Work Surveillance Final Boss - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtcmdJV0hWZS1uR3JJUUgzczRiRnhUT3h5dW9lQ3NIN2dTNDFUVzRQckpmWWlyazhFdDhFU0R1d2dXa1ZzbXlNUmU4dkpEZGotWWpVUkdwTXdQdUFfNlNRMjFfR3huZndxUllSd3g0NHpzQQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 88,
+      "title": "Is the post office closed today on Veterans Day 2026? Will mail be delivered? - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUlYS3lFaVVUWDloX2txcmptUzF5SW5sblVYaXM3Y2pseVU2TTlKcjBXYi1YYnhCemptNVNCVkluZVljWEs2QlJPMmNaZkhpdEl3TFhYazlfS1pWQUZ1X1VVWjVxWUxKRGxzV2JxN3JSWnh3a3dZbGsxSWt1bHJoaGJhT1ZrWWNTNUc4bFZzYnJ4aWhoMFdoeWMtckp1YnVBYWtITnEyZy1NS0FVdWRLMmR30gHGAUFVX3lxTFBBbE1aWUVTeldLeWlvVXgtUjFwaVlNVXZwb25LdkpJSWkzNHZoTnpINEt3cGlFYlN2ZWJVMnYxWDgza21HZXR2Mk15WVNjeVdNZ00wUmFWMDRGS0U5QjNob2ZlQVlGQ3hwbC0yM0tQTG5TbGJBend5bGs5N2V0UmZPYjJTblVvenV6MlNSb0l4VnJPbEM1M29wOHUxaVVrQV9OMTFXcmN5WWpqdFVWZkJvYjBMSExyNlJySGNhVm1ZWWlfWW5fdw?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 89,
+      "title": "Amazon Prime Air Receives First SAIL 4 Approval From UK Air Authority - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSDV4Z1dBcFdhZ0VRU1JadFliRFl0d2ZZNUZvNFFDRUJuQnpvbngyVk9TZVBRMWh6MXR4NnlGVmJUcFpER1FKOGh6akc4QW92QnRvLUNLMS0zeHVRM216MlN3bTN3SXZSbjlwV2xEUVVGUjNxNnBYZWgxaW56ZGhvekk4MWM3MndpZy04S1UtQnIxYThpSjg3VWNqNlhIdUpaUmlnaml3?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 90,
+      "title": "Dylanex Announces Q4 Inventory Preparation Guidance for Amazon Sellers Ahead of Holiday Shopping Season - markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVGZSLWxWTmdmVnh2dU5WZWVpMHlRMG8wdENULXdFVXpUYTRFaVdDVmp3RmxjUnliLVAyYUw4a2pTN1dJdWZ5NTlBUGlaSWFMSy14ZC1zRG5UQkVEbHJwSnU4R2plZmlmVl9ob0xuRU8xX0lJZi1SMXZibHhFU1d5V1dmbFp6WHA2QnZUOGluUF9BYVFfSGJIUjFMUkVQQngyUFlPUmgwTzBtREc4ejlFa3JLaDI2cnlXMU9JX3dFellIY0hyaFpYTllXVDdpLVM3RzlaZXpxeFMwXzdTYWNtODRLWGRFV1ZEai1pSFloR3o2VlRK?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 91,
+      "title": "Amazon drone service reaches 8,000 Darlington homes after CAA approval - Business Matters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORjYtNWdzR0FlZkJ2VUgwYVVITHJHLU92WEZFdGo1Umd5cHUwS3ZhZEFPcFBRUUhzZEIxdmI2UjhiZWE3UVc0c1UxbjZtNTBxcTB5clBHVnBJVjhhZXc4SEQ3d1ByVV9Pb2t1LThDSDdDU0pKNDZyUnl4aWRkOFlsOUdRQmtMdw?oc=5",
+      "source": "Amazon Logistics"
+    }
+  ]
+}
