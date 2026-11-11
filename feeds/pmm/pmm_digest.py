@@ -1402,7 +1402,7 @@ def build_gemini_context(
 # ═══════════════════════════════════════════════════════════════════════════
 
 _SYSTEM_PERSONA = """\
-You write THE PITCH — a daily marketing newsletter in the spirit of Morning Brew's Marketing Brew. \
+You write MARKETING BRIEF — a daily marketing newsletter in the spirit of Morning Brew's Marketing Brew. \
 You're a sharp, funny friend who genuinely loves marketing and reads everything: the ad campaigns, \
 the brand moves, the platform drama, the martech, consumer trends, and especially product marketing. \
 You explain things clearly and make the reader a little smarter every day — including teaching \
@@ -1419,14 +1419,14 @@ deeply allergic to fluff. They want to enjoy the read AND come away knowing more
 _DIGEST_PROMPT = """\
 Today is {today}. Everything in TODAY'S DATA is from the last 1–3 days. Write only about what's in that data — do not pull older news or stale details from memory. When naming a tool or model, use its plain current name without an old version number unless that version appears in the data.
 
-You're writing THE PITCH — a daily marketing read in the spirit of Morning Brew's Marketing Brew: smart, breezy, a little funny, genuinely useful. Target mix: ~60% general marketing (brand, advertising, social, creators, consumer trends, martech), ~35% product marketing, ~5% product management.
+You're writing MARKETING BRIEF — a daily marketing read in the spirit of Morning Brew's Marketing Brew: smart, breezy, a little funny, genuinely useful. Target mix: ~60% general marketing (brand, advertising, social, creators, consumer trends, martech), ~35% product marketing, ~5% product management.
 
 Write EXACTLY these 7 sections, in order, each with the exact emoji header shown on its own line:
 
 ☕ THE LEAD
 The single biggest marketing story today — this is your one deeper piece, so give it room. 5–6 sentences with a real point of view: what happened, why it actually matters, who wins or loses, and the one thing worth remembering. Pick the story marketers will still be talking about next week, not incremental noise. Have a little voice.
 
-📣 THE MARKETING BRIEF
+📣 QUICK HITS
 3–4 quick hits from across marketing — brand moves, ad campaigns, social/platform shifts, the creator economy, consumer behavior, martech. Bold one-line headline + 1–2 sentences each. Keep them snappy and varied; don't let them all be the same topic.
 
 🎯 THE PMM DESK
@@ -2014,7 +2014,7 @@ def main() -> None:
         sys.exit(1)
 
     # Persist for the website build (runs regardless of email setting)
-    write_web_json("pmm", "PMM / PM", digest_text, sources)
+    write_web_json("pmm", "Marketing Brief", digest_text, sources)
 
     # Step 7 — Format HTML (email for this feed is OFF by default; web-only)
     log.info("[6/5] Formatting HTML...")

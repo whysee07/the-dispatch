@@ -77,11 +77,11 @@ FEEDS = [
     },
     {
         "id": "pmm",
-        "nav": "The Pitch",
-        "name": "The Pitch",
+        "nav": "Marketing Brief",
+        "name": "Marketing Brief",
         "headline": 'Everything <span class="mark">marketing</span>, every morning.',
         "dek": "A daily marketing read — brand, ads, and the product-marketing craft.",
-        "about": "<b>The Pitch</b> is your daily marketing brew — the day's biggest story, quick hits "
+        "about": "<b>Marketing Brief</b> is your daily marketing brew — the day's biggest story, quick hits "
                  "across brand, ads, social and martech, a product-marketing desk, and a daily PMM lesson.",
         "pipe": ["Marketing", "PMM", "Learn"],
         "mode": "emoji",
@@ -331,7 +331,7 @@ def render_body(body: str, speed: bool = False, smap: dict | None = None) -> str
         raw = [it for it in raw if it]
         if not raw:
             return ""
-        lis = "".join(f"<li>{_inline(it)}</li>" for it in raw)
+        lis = "".join(f'<li><span class="t">{_inline(it)}</span></li>' for it in raw)
         return f'<ul class="speed">{lis}</ul>'
 
     parts: list[str] = []
@@ -920,6 +920,7 @@ a{color:inherit;}
 /* Speed Round stays a flat numbered list */
 .body ul.speed{list-style:none;margin:0;padding:0;counter-reset:s;}
 .body ul.speed li{display:flex;gap:14px;align-items:baseline;margin-bottom:13px;font-size:17px;color:var(--ink-soft);}
+.body ul.speed li .t{flex:1;min-width:0;}
 .body ul.speed li:last-child{margin-bottom:0;}
 .body ul.speed li::before{counter-increment:s;content:counter(s,decimal-leading-zero);
   font-family:var(--disp);font-weight:800;font-size:14px;color:var(--accent);flex-shrink:0;}
