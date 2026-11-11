@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T18:06:42.406074+00:00",
+  "tonight": {
+    "title": "The Odyssey",
+    "meta": "2026 · Adventure · 2h 53m · ★ 8.0",
+    "why": "Forget everything you thought you knew about kaiju flicks; this isn't just a monster movie, it's a gut-wrenching post-war drama where humanity's resilience is tested by a force more devastating than any bomb. Prepare for a spectacle that's as emotionally resonant as it is terrifyingly grand.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+  },
+  "releases": [
+    {
+      "title": "Model Citizen",
+      "take": "When your memories vanish and everyone's watching, maybe that 'farm' isn't just for growing potatoes.",
+      "score": 63,
+      "geo": "world"
+    },
+    {
+      "title": "Resident Evil",
+      "take": "Turns out 'medical courier' is just a fancy title for 'future zombie bait' in this chaotic night of survival.",
+      "score": 75,
+      "geo": "world"
+    },
+    {
+      "title": "Heart of the Beast",
+      "take": "Man's best friend meets nature's worst intentions in an Alaskan survival tale that'll make you appreciate your couch.",
+      "score": 74,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "Ebenezer",
+    "blurb": "For those craving a slow-burn psychological thriller, 'Model Citizen' offers a chilling descent into forgotten memories and paranoid suspicion. It’s a masterclass in unsettling tension, proving that sometimes the scariest monsters are the ones you can't remember.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
