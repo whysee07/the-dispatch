@@ -2,7 +2,8 @@ name: PMM feed
 
 on:
   schedule:
-    - cron: '0 10 * * *'   # 10:00 UTC daily
+    - cron: '35 9 * * *'    # 09:35 UTC (~3:35am CT) — primary, off the top of the hour
+    - cron: '40 12 * * *'   # 12:40 UTC (~6:40am CT) — backup catch-up (no-op if already fresh)
   workflow_dispatch:
 
 permissions:
@@ -29,7 +30,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r feeds/pmm/requirements.txt
 
+      - name: Skip if today's issue already exists
+        id: fresh
+        run: |
+          if [ -f "data/pmm/$(date -u +%F).json" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"; echo "Today's Marketing Brief already exists — skipping generation."
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Run PMM digest
+        if: steps.fresh.outputs.run == 'true'
         env:
           GEMINI_API_KEY:       ${{ secrets.GEMINI_API_KEY }}
           GMAIL_ADDRESS:        ${{ secrets.GMAIL_ADDRESS }}

@@ -2,7 +2,8 @@ name: Culture · Movies feed
 
 on:
   schedule:
-    - cron: '20 12 * * *'   # daily 12:20 UTC — "what to watch tonight" stays fresh
+    - cron: '45 10 * * *'   # 10:45 UTC (~4:45am CT) — primary
+    - cron: '10 13 * * *'   # 13:10 UTC (~7:10am CT) — backup catch-up (no-op if already fresh)
   workflow_dispatch:
 
 permissions:
@@ -24,7 +25,17 @@ jobs:
           cache: 'pip'
       - name: Install dependencies
         run: pip install -r feeds/culture/requirements.txt
+      - name: Skip if today's issue already exists
+        id: fresh
+        run: |
+          if [ -f "data/culture/movies/$(date -u +%F).json" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"; echo "Today's movies already exist — skipping."
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Run Movies culture generator
+        if: steps.fresh.outputs.run == 'true'
         env:
           TMDB_API_KEY:   ${{ secrets.TMDB_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}

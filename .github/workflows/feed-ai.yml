@@ -2,7 +2,8 @@ name: AI Insider feed
 
 on:
   schedule:
-    - cron: '0 11 * * *'   # 11:00 UTC daily
+    - cron: '55 9 * * *'    # 09:55 UTC (~3:55am CT) — primary, off the top of the hour
+    - cron: '50 12 * * *'   # 12:50 UTC (~6:50am CT) — backup catch-up (no-op if already fresh)
   workflow_dispatch:
 
 permissions:
@@ -29,7 +30,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r feeds/ai/requirements.txt
 
+      - name: Skip if today's issue already exists
+        id: fresh
+        run: |
+          if [ -f "data/ai/$(date -u +%F).json" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"; echo "Today's AI issue already exists — skipping generation."
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Run AI digest
+        if: steps.fresh.outputs.run == 'true'
         env:
           GEMINI_API_KEY:     ${{ secrets.GEMINI_API_KEY }}
           GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}

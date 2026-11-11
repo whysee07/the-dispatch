@@ -7,7 +7,7 @@ on:
     types: [completed]
   workflow_dispatch:
   schedule:
-    - cron: '30 12 * * *'   # safety rebuild after all feeds have run
+    - cron: '40 13 * * *'   # 13:40 UTC (~7:40am CT) — guaranteed deploy of the freshest data before the morning read
 
 permissions:
   contents: read

@@ -2,7 +2,8 @@ name: Daily Brief feed
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # 12:00 UTC daily
+    - cron: '15 10 * * *'   # 10:15 UTC (~4:15am CT) — primary, off the top of the hour
+    - cron: '0 13 * * *'    # 13:00 UTC (~7:00am CT) — backup catch-up (no-op if already fresh)
   workflow_dispatch:
 
 permissions:
@@ -27,7 +28,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r feeds/brief/requirements.txt
 
+      - name: Skip if today's issue already exists
+        id: fresh
+        run: |
+          if [ -f "data/brief/$(date -u +%F).json" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"; echo "Today's Brief already exists — skipping generation."
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Run Daily Brief digest
+        if: steps.fresh.outputs.run == 'true'
         env:
           GEMINI_API_KEY:     ${{ secrets.GEMINI_API_KEY }}
           GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}

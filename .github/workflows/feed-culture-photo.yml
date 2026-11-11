@@ -2,7 +2,8 @@ name: Culture · Photography feed
 
 on:
   schedule:
-    - cron: '10 12 * * *'   # daily 12:10 UTC — photo of the day / news photo
+    - cron: '35 10 * * *'   # 10:35 UTC (~4:35am CT) — primary
+    - cron: '5 13 * * *'    # 13:05 UTC (~7:05am CT) — backup catch-up (no-op if already fresh)
   workflow_dispatch:
 
 permissions:
@@ -24,7 +25,17 @@ jobs:
           cache: 'pip'
       - name: Install dependencies
         run: pip install -r feeds/culture/requirements.txt
+      - name: Skip if today's issue already exists
+        id: fresh
+        run: |
+          if [ -f "data/culture/photo/$(date -u +%F).json" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"; echo "Today's photo already exists — skipping."
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Run Photography culture generator
+        if: steps.fresh.outputs.run == 'true'
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}   # optional; DEMO_KEY used if unset
         run: python feeds/culture/photo_culture.py
