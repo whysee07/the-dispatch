@@ -1658,7 +1658,9 @@ def generate_digest(context: str) -> str:
     if not GEMINI_API_KEY:
         raise ValueError("GEMINI_API_KEY not set in .env")
 
-    client = genai.Client(api_key=GEMINI_API_KEY)
+    # v1beta is required: the v1 API rejects system/developer instructions
+    # ("Developer instruction is not enabled for api version v1").
+    client = genai.Client(api_key=GEMINI_API_KEY, http_options={"api_version": "v1beta"})
     prompt = _DIGEST_PROMPT.format(
         today=NOW_UTC.strftime("%A, %B %-d, %Y"),
         context=context,
@@ -1666,11 +1668,10 @@ def generate_digest(context: str) -> str:
 
     # Try models newest-first — first one that responds wins.
     # Use versioned names (e.g. gemini-2.5-flash) which work on all account tiers.
+    # gemini-2.0-* were retired by Google (Nov 2026) and now 404; keep 2.5 only.
     model_names = [
         "gemini-2.5-flash",
         "gemini-2.5-pro",
-        "gemini-2.0-flash-001",
-        "gemini-2.0-flash-lite-001",
     ]
 
     for attempt in range(2):
