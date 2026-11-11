@@ -2,409 +2,535 @@
   "feed": "pmm",
   "feed_name": "PMM / PM",
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T05:19:02.750829+00:00",
-  "raw_text": "Alright, let's cut through the noise. Here's what's actually moving the needle today.\n\n---\n\n🔥 THE GTM SIGNAL OF THE DAY\nOpenAI is rolling out new business profiles, explicitly making ChatGPT function more like a consumer discovery engine. This isn't just a minor feature; it's a strategic pivot that positions ChatGPT as a direct competitor to traditional search and review platforms. For PMMs, this means a new, critical channel for product visibility and trust-building that demands a distinct content and engagement strategy. PMs need to consider how their product's core value proposition can be articulated and discovered within an AI conversational interface, not just a static webpage. The one thing to act on or watch in the next 30 days is to explore how to optimize your product's presence and narrative for AI-driven discovery, beyond standard SEO. [S24]\n\n---\n\n🎯 POSITIONING WATCH\n**OpenAI** — **Turning ChatGPT into a consumer discovery engine with business profiles** [S24]\n- **Narrative angle**: Businesses can now \"empower\" ChatGPT to help users find them, making the AI a trusted guide for consumer choices. It's about being discovered through conversation, not just search.\n- **ICP signal**: Clearly targeting businesses that want to reach end-consumers through a conversational interface, likely those with product-led or strong content-led GTM motions who understand the value of early adoption in new discovery channels.\n- **What's sharp**: The direct challenge to Google's core search function and Yelp-like review sites. It forces businesses to think beyond keywords to \"AI-friendly\" information architecture.\n- **What's fuzzy**: How OpenAI plans to monetize this for businesses, and the quality control mechanisms to prevent \"AI slop\" or biased recommendations within this new discovery engine.\n- **Steal this**: Think about how your product's core value props and differentiators can be summarized and delivered conversationally. If an AI agent were recommending your product, what would it say?\n\n**Anthropic** — **Launching Claude Meetings to automate workplace discussions into plans and tasks** [S27]\n- **Narrative angle**: AI isn't just for content generation; it's for driving meeting productivity, turning spoken words into actionable outcomes, instantly.\n- **ICP signal**: Businesses and teams struggling with meeting bloat, action item follow-through, and knowledge capture. It's for enterprise and mid-market teams looking for efficiency gains and better collaboration.\n- **What's sharp**: Directly addressing a universal pain point (bad meetings) with a high-value AI application (real-time planning, task mapping, info retrieval). The integration with \"connected work apps\" is key.\n- **What's fuzzy**: The potential for over-reliance on AI to interpret nuanced discussions, and the integration effort required for \"connected work apps\" to be truly seamless.\n- **Steal this**: Identify a common, high-frequency, high-frustration point in your target users' workflow. Can your product introduce an AI-powered solution that fundamentally changes that experience?\n\n**Google** — **Releasing Pixel Tag, its AirTag competitor, alongside a rebranded Find Hub network** [S22][S25]\n- **Narrative angle**: The Android ecosystem finally has a native, secure, and integrated solution for tracking lost items, bringing peace of mind to millions of users.\n- **ICP signal**: Existing Android users, particularly Pixel owners, who want a seamless item-tracking experience without resorting to third-party hardware or switching ecosystems. Also, people who appreciate platform-native solutions.\n- **What's sharp**: Leveraging the massive Android network for tracking and integrating deeply with Google's own hardware/software ecosystem, much like Apple did. The price point is competitive.\n- **What's fuzzy**: The \"Find Hub\" branding itself is a bit generic. Also, how effectively Google will communicate the security and privacy aspects compared to existing third-party trackers.\n- **Steal this**: When entering a mature product category, lean heavily into your existing platform advantages. What unique network effects or integrations can you leverage that competitors can't?\n\n---\n\n⚔️ COMPETITIVE INTEL CORNER\n**Microsoft Auto SR** vs **Nvidia DLSS** [S2]\n- **What changed**: Microsoft's Automatic Super Resolution (Auto SR) is officially rolling out for Xbox Ally X and select Windows Copilot Plus PCs, now fully functional in handheld mode and on battery. This directly competes with Nvidia's established DLSS.\n- **Why they did this now**: Microsoft is betting on the ubiquity of its Windows platform and the growing demand for high-performance, power-efficient gaming experiences across diverse hardware, especially handhelds. They want to own the upscaling tech for their ecosystem.\n- **PMM action item**: If you're building a gaming or graphics-intensive app, immediately test performance with Auto SR. Understand its capabilities and limitations relative to DLSS for your specific use cases. Update your performance benchmarks and messaging.\n- **Battlecard update needed?** Yes. Add Auto SR as a key performance differentiator for Microsoft-backed hardware. Detail its power efficiency and handheld mode support.\n\n**Google Pixel Tag** vs **Apple AirTag** [S22][S25]\n- **What changed**: Google has finally released its own item tracker, Pixel Tag, priced comparably to Apple's AirTag 2, and integrated with the rebranded \"Find Hub\" network.\n- **Why they did this now**: Google is closing a major ecosystem gap for Android users, preventing them from needing to buy third-party trackers or use Apple's solution. They're betting on platform loyalty and the sheer scale of Android devices for network coverage.\n- **PMM action item**: If you're a hardware accessory maker, immediately evaluate compatibility and integration potential with Google's Find Hub. If you're a competing tracker, reassess your unique value proposition beyond basic item finding – perhaps focus on specific niches or advanced features Google doesn't cover.\n- **Battlecard update needed?** Yes. Add Pixel Tag, its pricing, and Find Hub network to the \"item tracking\" category. Note its advantages for Android users and potential network scale.\n\n**X's Clipping Feature** vs **TikTok/YouTube** [S1]\n- **What changed**: X launched its own feature for clipping long videos into short, shareable segments, aiming to boost influencer engagement.\n- **Why they did this now**: X is desperately trying to retain and attract creators and their audiences, especially in the short-form video space dominated by TikTok and YouTube Shorts. They're betting that making content creation easier will drive more viral engagement on their platform.\n- **PMM action item**: If your product's GTM relies on video content or influencer marketing, experiment with X's new clipping feature. Analyze engagement rates compared to other platforms. Consider how short-form video can be integrated into your product's marketing strategy on X.\n- **Battlecard update needed?** Yes. Add \"native clipping feature\" to X's platform capabilities. Note its potential for increased video reach and creator tools.\n\n---\n\n🚀 LAUNCH DISSECTION\n**Claude Meetings** by **Anthropic** [S27]\n- **Launch tier**: T1 — This was positioned correctly. It's a significant expansion of Claude's capabilities into a core business workflow, moving beyond pure content generation to active productivity.\n- **Core message**: \"Claude Meetings: Turn workplace discussions into plans and tasks.\"\n- **GTM channels used**: Press (TechCrunch), likely social media, and potentially direct outreach to existing Claude enterprise users. Given the nature, in-product announcements and partner integrations would be crucial for adoption.\n- **Sales readiness signal**: The description mentions Claude drafting plans, mapping timelines, answering questions, and \"accessing connected work apps.\" This implies a level of integration and functionality that would require significant sales enablement content, though none was explicitly published in the data.\n- **Buyer emotion targeted**: Frustration (with unproductive meetings, lack of clear outcomes) and Ambition (to be a more efficient, organized, and effective team/individual).\n- **What worked**: The clear, problem-solution messaging. Everyone hates bad meetings. The concept of AI actively participating and structuring outcomes is highly appealing. The promise of integrating with \"connected work apps\" is smart, hinting at broader ecosystem value.\n- **What's missing**: Concrete examples or case studies. While the idea is great, seeing *how* it handles a complex, multi-stakeholder discussion and produces a coherent, actionable plan would build more trust. A public demo video or a trial period focused on this specific feature would be key.\n- **If you were the PMM**: I'd immediately launch a \"30-day Meeting Makeover Challenge\" for early adopters, providing templates and best practices, then publish those success stories with quantitative results on time saved and clarity gained.\n\n---\n\n📣 WHAT THE PMM/PM COMMUNITY IS SAYING\n**Lenny's Newsletter** — **State of the tech job market: late 2026** [S3]\n- **The core argument or insight in 1–2 sentences**: The tech job market in late 2026 is surprisingly dynamic, with significant shifts in demand for certain roles and skills, defying some earlier predictions of a sustained downturn.\n- **Community reaction**: Resonating, especially among those feeling anxious about career progression or looking for new opportunities. People are hungry for data-driven insights on market trends.\n- **The sharpest counter-take if one exists**: While the report might show dynamism, some in the comments are likely pointing out that \"dynamic\" often means \"unstable\" for individual job seekers, or that the recovery is highly sector-specific (e.g., AI vs. other areas).\n- **Worth engaging?** Skim — Good for understanding the macro environment and identifying potential skill gaps to address, but the specifics of *your* job market might vary.\n\n**Teresa Torres & Petra Wille** — **Discovery & The 4 Risks - All Things Product Podcast** [S4]\n- **The core argument or insight in 1–2 sentences**: While continuous discovery habits are effective at the team level, their organizational-level adoption and sustainability for achieving predictable, scaled outcomes remains questionable.\n- **Community reaction**: Being debated. Many PMs champion continuous discovery, so this critical look at its systemic challenges likely sparks both agreement from those who've struggled to scale it, and defense from advocates.\n- **The sharpest counter-take if one exists**: Some argue that the problem isn't the framework itself, but organizational culture or leadership's commitment to truly embedding discovery, implying a change management challenge rather than a product-market fit issue for the habits.\n- **Worth engaging?** Yes — This challenges fundamental assumptions about product practice and offers a deeper, more philosophical look at how product orgs actually operate.\n\n**HubSpot Marketing** — **AEO benchmarking: What market data reveals about AI search** [S5]\n- **The core argument or insight in 1–2 sentences**: AEO (AI Engine Optimization) benchmarking is crucial for marketers to differentiate between market shifts in AI search visibility (e.g., ChatGPT changing answers) and changes due to their own content performance.\n- **Community reaction**: Resonating. Marketers are scrambling to understand and measure AI search performance, and this provides a framework for proving ROI and making informed tactical decisions.\n- **The sharpest counter-take if one exists**: Some might argue that AEO is still too nascent and volatile to reliably benchmark, or that attempting to \"optimize\" for LLMs runs the risk of creating even more \"AI slop\" content.\n- **Worth engaging?** Yes — This is a practical, forward-looking framework for PMMs dealing with the new reality of AI search.\n\n**HubSpot Marketing** — **How to use AI to write a blog post (that isn’t slop)** [S6]\n- **The core argument or insight in 1–2 sentences**: AI is a powerful tool for content creation, but requires human expertise in briefing, outlining, drafting, and editing to produce high-quality, non-generic content.\n- **Community reaction**: Resonating. Many marketers are grappling with how to leverage AI without sacrificing quality, and this piece offers a pragmatic, hands-on approach.\n- **The sharpest counter-take if one exists**: Some might argue that even with human oversight, AI-generated content struggles to capture authentic voice or deep subject matter expertise, questioning the efficiency gains versus the quality trade-off.\n- **Worth engaging?** Skim — Good for tactical advice if you're actively using AI for content, but much of the core message (AI needs human guidance) is well-trodden ground.\n\n---\n\n💡 USE CASE OF THE DAY\n**AEO Benchmarking for AI Search Visibility**\nCategory: Content / GTM Strategy\nRole: PMM\n\n**The workflow:**\nStep 1: **Define your AI search queries and target LLMs.** Identify the top 5-10 conversational queries buyers use to find solutions like yours, and the primary LLMs (ChatGPT, Gemini, Perplexity, etc.) your audience uses.\nStep 2: **Establish baseline visibility and track changes.** Manually or using a specialized tool, record how each LLM answers your queries regarding your brand vs. competitors. Note mentions, sentiment, and depth of information.\nStep 3: **Analyze market vs. brand performance.** When visibility shifts, compare your data to broader market trends (e.g., industry news, LLM updates) to determine if the change is systemic or specific to your content.\n\nTools used: ChatGPT, Gemini, Perplexity, Google Search, Spreadsheet (for tracking), potentially specialized AEO tools (if available).\nTime to complete: 1-2 hours for initial setup, 30 minutes weekly for tracking.\nOutput you get: A clear understanding of your brand's AI search presence, performance trends, and data to justify content strategy adjustments to leadership.\nWhy it matters now: AI search is a black box; this workflow helps you make data-driven decisions instead of guessing. [S5]\n\nPrompt or template (if AI-assisted):\n\"Act as a prospective customer for [Your Product Category]. I'm trying to solve [Problem]. Using your general knowledge, which solutions or brands would you recommend, and why? Then, specifically, tell me what you know about [Your Brand] and [Competitor A] and [Competitor B] regarding [Key Feature 1], [Key Feature 2], and [Key Benefit 1].\"\n\n---\n\n📚 LEARNING PICK OF THE DAY\n**Discovery & The 4 Risks - All Things Product Podcast with Teresa Torres & Petra Wille** — **Teresa Torres & Petra Wille** — **ProductTalk.org** [S4]\n\n**What it's about**: This podcast episode takes a meta-look at continuous discovery habits, applying Teresa Torres's own \"four risks\" framework (desirability, viability, feasibility, usability) to the discovery practice itself. It explores why, despite its effectiveness at the team level, continuous discovery often struggles to achieve organizational-level adoption and predictable outcomes, raising questions about its \"product-market fit\" within larger companies.\n\n**3 actionable takeaways**:\n1. **Assess your org's \"discovery-market fit\"**: Ask if your organization truly has the appetite and structure for continuous, messy discovery, or if it demands predictable, roadmap-driven outcomes that clash with the iterative nature of discovery.\n2. **Focus on outcomes, not just habits**: When advocating for discovery, frame it less as a set of rituals and more as a means to achieve specific, measurable business outcomes that leadership cares about (e.g., reduced rework, faster time to value, higher customer satisfaction).\n3. **Identify organizational-level blockers**: Pinpoint specific systemic issues (e.g., funding models, reporting structures, leadership incentives) that prevent discovery from truly sticking beyond individual teams, and strategize how to address those.\n\n**Who should read this**: PM at all career stages, especially those in larger organizations attempting to scale discovery practices. PMMs who partner closely with PMs on product strategy will also benefit.\n**Read time**: 45-60 minutes (podcast duration).\n\n---\n\n🔬 DISCOVERY & RESEARCH SIGNAL\n**Discovery & The 4 Risks** [S4]\n- **What was found or demonstrated**: The continuous discovery habits, while effective for individual product teams, face significant challenges in achieving sustainable, organization-wide adoption and delivering predictable outcomes at scale. The \"product-market fit\" of discovery *as a product* for organizations is questioned.\n- **The method used**: A philosophical discussion applying a product framework (the 4 risks: desirability, viability, feasibility, usability) to the practice of product discovery itself.\n- **How it changes or validates current best practice**: It challenges the assumption that if discovery works for a team, it will naturally scale. It validates that scaling discovery is not just about training, but about deeply embedding it into organizational culture and processes, which is a much harder problem.\n- **PM action item**: In your next discovery sprint, explicitly consider the organizational context. Beyond user needs, identify internal \"customer\" needs (e.g., leadership's demand for predictability) and \"organizational risks\" that could derail the adoption or impact of your discovery efforts.\n\n---\n\n💼 PMM/PM JOBS PULSE\nNo specific job listings were provided in today's data.\n**Lenny's Newsletter** reports on the state of the tech job market in late 2026, noting surprising dynamism and shifts in demand [S3]. This signals that while the market isn't necessarily booming, specific skills and roles are in high demand, suggesting a more targeted and specialized hiring environment.\n\n---\n\n💸 GTM FUNDING & MARKET MOVES\n**Oura** — **Acquires Counsel Health for $625M** [S10][S18]\n- **What they do**: Oura makes health wearables (rings); Counsel Health is an AI-native primary care company with an AI chatbot providing health insights.\n- **GTM motion**: Product-led (Oura's app/wearable), shifting towards a hybrid model with AI-driven service and potential for partner-led (physician network).\n- **What this signals about B2B investment direction**: Strong continued investment in AI-driven health tech, particularly solutions that leverage personal data from wearables to provide actionable insights and primary care support. Vertical AI is hot.\n- **PMM implication**: If you're in health tech, emphasize the AI-driven personalization and actionable insights your product provides. Oura's move shows the market values integrated hardware/software/AI health solutions.\n- **PM implication**: Consider how AI can transform raw user data into personalized, proactive services within your product. Think beyond analytics to active intervention or recommendation.\n\n**OpenAI** — **Acquires Odessia (travel startup)** [S11]\n- **What they do**: Odessia is a travel startup, founded by Sonder founder Francis Davidson. OpenAI's plans for it are unstated.\n- **GTM motion**: Unknown for Odessia, but OpenAI's move suggests potential for AI-led or platform-led GTM in travel.\n- **What this signals about B2B investment direction**: OpenAI is looking to expand its AI capabilities into specific vertical markets like travel, likely aiming to build specialized agents or integrate AI into travel planning/booking.\n- **PMM implication**: Watch for OpenAI's move into specific verticals. If you're in a sector ripe for AI disruption, anticipate large AI players entering with specialized offerings.\n- **PM implication**: Consider how your product could be enhanced or disrupted by a powerful general AI model acquiring specialized vertical expertise. Are you building defensible features or just a thin AI wrapper?\n\n**Proximal Ventures** — **Raises $27.5 million debut fund** [S14]\n- **What they do**: New fund focused on backing startups that bring AI to drug development.\n- **GTM motion**: Investor-led, targeting early-stage B2B SaaS or deep tech in pharma.\n- **What this signals about B2B investment direction**: Continued strong investor confidence in vertical AI, especially in highly specialized and regulated industries like pharma where AI can accelerate R&D and discovery.\n- **PMM implication**: If you're in a specialized B2B vertical, hone your messaging around how AI specifically solves industry-specific pain points, not just general efficiency.\n- **PM implication**: For PMs in niche B2B markets, this signals that investors are looking for deep, domain-specific AI applications, not generic tools. Focus on solving hard, industry-specific problems with AI.\n\n---\n\n🔧 TOOL DROP FOR PMMS & PMS\n**Adobe Firefly Prototype Builder** — **New tool for building prototypes** [S38]\nCategory: Launch Planning / Roadmapping / Discovery\nBest for: PM / Both (PMMs can use for concept validation)\nFree tier: No (likely part of Adobe Creative Cloud subscription)\nHonest take: This is a direct shot at Figma. Adobe needs to prove it's genuinely intuitive and collaborative for rapid prototyping, not just another feature in a sprawling suite.\nWho should try it this week: PMs currently using Figma or Sketch for prototyping who are already in the Adobe ecosystem. Test its collaboration features and ease of use compared to your existing tool.\n\n---\n\n⚡ SPEED ROUND\n🤖 **X launches video clipping.** Aiming for viral influencer content. [S1]\n🎮 **Microsoft Auto SR works handheld.** Big for Xbox Ally X and mobile gaming. [S2]\n🌌 **Disney Plus VR gets 3D movies.** Meta Quest users get immersive content. [S9]\n⚖️ **New York's AI safety law takes effect.** OpenAI, Anthropic face oversight. [S13]\n💰 **Anthropic founders cashing out.** $250M each in IPO. [S16]\n🛰️ **Starlink Mini 2 adds swappable battery.** More portable, longer use. [S19]\n💡 **Google Pixel HiLight is slightly less useless.** Now lights for favorite contacts' texts. [S23]\n🛍️ **Reddit turns conversations into AI product reviews.** Smart move for holiday shopping. [S35]\n⌚ **Meta's AI agent Muse on smartwatches.** Voice interaction on Apple Watch, Wear OS. [S34]\n🎨 **Apple TV adds built-in sign language.** Major accessibility win. [S31]\n\n---\n\n🎮 15-MINUTE PMM/PM CHALLENGE\n**Challenge: Benchmark Your Brand's AI Search Visibility**\nRole focus: PMM\n\n**The setup**: With OpenAI positioning ChatGPT as a discovery engine and HubSpot pushing AEO benchmarking, understanding how your brand appears in AI search results is no longer optional. This challenge helps you get a quick baseline.\n\n**What to do**:\nStep 1: Go to ChatGPT, Gemini, and Perplexity (or other LLMs your target audience uses). [ChatGPT, Gemini, Perplexity URLs]\nStep 2: Enter the \"Exact prompt or template\" below, replacing bracketed info with your product's details. Repeat for each LLM.\nStep 3: Capture screenshots or copy/paste the responses. Note down mentions of your brand, competitors, key features, and overall sentiment. Compare across LLMs.\n\n**The exact prompt or template**:\n\"Act as a prospective customer for [Your SaaS Product Category, e.g., 'customer engagement platform']. I'm a [Your ICP role, e.g., 'marketing leader at a Series B startup'] trying to solve [Core Problem your product solves, e.g., 'reducing churn and increasing customer lifetime value']. Using your general knowledge, which solutions or brands would you recommend, and why? Then, specifically, tell me what you know about [Your Brand Name] and [Competitor A Name] and [Competitor B Name] regarding [Unique Selling Proposition 1], [Key Feature 2], and [Main Benefit 1].\"\n\n**What good looks like vs. mediocre**:\n- **Good**: You get specific mentions of your brand and competitors, accurate summaries of features/benefits, and insights into how the AI perceives your differentiators. You'll see patterns across different LLMs.\n- **Mediocre**: The AI gives generic answers, avoids naming specific brands, or hallucinates features. This signals your brand isn't well-represented in its training data or public knowledge.\n\n**Why this skill matters in the next 6 months**: As AI becomes a primary discovery channel, knowing how your brand is perceived by LLMs is as critical as traditional SEO. [S5][S24]\nTime: 15 minutes or less.\n\n---\n\n🧠 EDGE INSIGHT\nThe sheer volume and variety of AI-driven launches today reveal a subtle but profound shift: AI is moving from being a feature *in* products to becoming a foundational layer *for* products and even entire GTM motions. OpenAI making ChatGPT a \"discovery engine\" and Anthropic building \"Claude Meetings\" aren't just new tools; they're new interfaces and channels through which businesses will be found and work will get done. This means the battle for mindshare is now also a battle for \"AI-share\"—how well your product's value is understood and articulated by LLMs. The old GTM playbook of just optimizing for search engines and social feeds is rapidly becoming obsolete, replaced by a need to influence AI's recommendations and integrate into AI-powered workflows.",
+  "generated_at": "2026-11-11T06:07:47.330672+00:00",
+  "raw_text": "☕ THE LEAD\nOpenAI just dropped a massive hint about the future of brand discovery, and it looks a lot less like traditional search and a lot more like a direct conversation. They've rolled out a new Business Hub in ChatGPT, letting brands claim verified profiles and feed in their product details. Think of it as your brand's official spokesperson, always on call. The real kicker? E-commerce and online service businesses can now publish a \"business agent\" – a free, organic chat that speaks for their brand whenever a user wants to dig into a product or service. This isn't just another ad unit; it's a fundamental shift in how consumers might find and engage with products, giving brands a direct, conversational line *within* the AI platform. Marketers need to stop thinking about \"AI search\" as glorified SEO and start planning for a world where their brand *is* an AI agent, ready to chat, answer questions, and guide discovery. This could seriously disrupt traditional search marketing and the entire GEO specialist industry. [S18][S29][S60]\n\n📣 THE MARKETING BRIEF\n**TikTok Shop launches a premium subscription tier for its top users.**\nTikTok Shop Plus costs $9.99 a month after a 30-day free trial, offering expanded free shipping, exclusive discounts, coupon bundles, and instant refunds to its top 1 million U.S. shoppers. This is a bold, Amazon Prime-esque move to deepen loyalty and supercharge its e-commerce play, locking in its most valuable customers just in time for the hyper-competitive holiday shopping season. [S10][S15]\n\n**Mars grapples with the future of impulse buys in an AI-driven world.**\nWith agentic shopping assistants poised to take over more of the weekly grocery run, the snack conglomerate (think M&Ms, Pop-Tarts) is trying to \"future-proof\" impulse purchases, questioning what happens to that checkout candy bar or magazine when an AI does the shopping. It's a fascinating look at how CPG brands are thinking about the long-term, strategic impact of AI on consumer behavior and retail shelf space. [S4]\n\n**Creators are getting super strategic and meticulous about branded content.**\nSports betting analyst Zach \"Mystic Zach\" Hirsch pulled 200 million short-form views for his podcast, showcasing the massive reach of creator-led content, even while navigating content policy issues (like a past Jake Paul video taken down due to an unnamed offshore betting sponsor). Meanwhile, creator Grace Wells detailed a rigorous 100-hour production process for a single branded video, emphasizing the shift towards high-quality, pre-production heavy, and deeply integrated partnerships. [S3][S11]\n\n**Reddit tests AI-compiled product reviews to help shoppers.**\nThe platform is experimenting with converting user comments and conversations into AI-generated overviews of what people like and dislike about 10,000 products. This feature aims to streamline recommendations and information, making Reddit an even more powerful research tool for consumers and a crucial (and now summarized) touchpoint for brands ahead of the holidays. [S16][S71]\n\n🎯 THE PMM DESK\n**Oura acquires AI chatbot to expand its health wearable into primary care.**\nThe smart ring company is buying Counsel Health for $625 million, integrating its AI chatbot for personalized health insights and direct access to in-house physicians, following an earlier app integration this year. This is a sharp GTM move, positioning Oura not just as a data tracker, but as an \"AI-native primary care company\" – a significant pivot into a new, high-value market. [S46][S54]\n\n**Google launches Pixel Tag, an Android-ready item tracker with competitive pricing.**\nPriced at $29.99 for a single and a discounted $99.99 for a four-pack, Google's entry into the item-tracking market directly competes with Apple's AirTag 2, leveraging its existing Find Hub network. The clear, aggressive pricing and direct comparison indicate a confident market entry aimed at rapidly capturing a significant share of the Android ecosystem, focusing on accessibility and value. [S58][S61]\n\n🧠 PMM 101\n**The concept:** Product-Market Fit (PMF)\nWhat it is: PMF is that sweet spot where you've built a product that successfully satisfies a strong market demand. It means customers love your product, tell others about it without prompting, and you're seeing sustainable, organic growth. It's about truly solving a real, significant problem for a well-defined group of people.\nWhy it matters: Without PMF, even the most brilliant marketing campaign or sales team won't save a product. It's the absolute foundation for any successful venture.\nSee it today: Teresa Torres's podcast notes that while continuous discovery habits work beautifully at the *team* level, their organizational-level PMF might be shaky. Boards often prioritize predictable, up-front roadmaps over continuous experimentation, making it hard for discovery practices to stick company-wide. [S6]\nTry it: If you're building or marketing a product, clearly define the problem you're solving and for whom. Then, talk to 5 target users this week and ask if your solution genuinely addresses their pain points, how they currently solve it, and what they'd *actually* pay for your offering.\n\n🧩 PRODUCT CORNER\n**Sony shuts down PlayStation Plus PC app due to incredibly low user adoption.**\nLess than 0.4% of eligible PlayStation Plus Premium members were using the PC app for cloud streaming, prompting Sony to retire it on December 10th. This is a textbook example of a product decision based on user adoption and efficient resource allocation – sometimes, you have to kill a feature or product with minimal engagement to \"focus on enhancing high-quality experiences that more of our members want to use\" elsewhere. [S53]\n\n🔧 TOOL DROP\n**Anthropic Claude Meetings** — An AI assistant designed to transform workplace discussions into actionable plans, tasks, and timelines.\nBest for: Teams drowning in meeting notes, struggling with follow-ups, or needing to quickly synthesize decisions · Free tier: No info in data · Honest take: Genuinely useful. If Claude can truly draft plans, map timelines on whiteboards, answer questions in chat, and access connected work apps *during* a meeting, this could be a game-changer for meeting productivity and project management. [S63]\n\n⚡ SPEED ROUND\n💡 Mars is hedging against AI grocery runs, proving CPG is thinking *way* ahead on how agentic assistants will disrupt impulse buys. [S4]\n🔗 X just added video clipping, allowing users to share shorter snippets of creator content while giving credit and enabling monetary rewards. [S12][S42]\n🛍️ Amazon's Black Friday deals officially kick off on November 19, but they're already pushing early deals to get a jump on holiday spending. [S44]\n👀 Google's Pixel Tag is here for Android users, directly challenging Apple's AirTag with its $29.99 price point. [S58][S61]\n✍️ HubSpot warns that using AI for blog writing requires a *human* expert to create thorough briefs, build outlines, and edit for emotion to avoid \"AI slop.\" [S8]\n💰 Anthropic's 7 founders are each cashing out $250M in its IPO, a tidy sum for the AI startup. [S52]\n📱 Meta's AI agent Muse is now available on Apple Watch and Android Wear OS, expanding AI assistance to smartwatches via voice, text, or dictation. [S70]",
   "sources": [
     {
       "id": 1,
-      "title": "X launches its own clipping feature to spur influencer engagement",
-      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
-      "source": "TechCrunch"
+      "title": "Best Buy Discount Codes: 60% Off",
+      "url": "https://www.wired.com/story/best-buy-discount-code/",
+      "source": "Wired"
     },
     {
       "id": 2,
-      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-      "source": "The Verge"
+      "title": "Home Depot Promo Codes: 30% Off in November 2026",
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "source": "Wired"
     },
     {
       "id": 3,
+      "title": "How a sports betting creator drove 200 million short-form views of his podcast",
+      "url": "https://digiday.com/media/how-a-sports-betting-creator-drove-200-million-short-form-views-of-his-podcast/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 4,
+      "title": "Mars wants to future proof impulse buys as AI is poised to take over more grocery runs",
+      "url": "https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 5,
       "title": "State of the tech job market: late 2026",
       "url": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
       "source": "Lenny's Newsletter"
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "Discovery & The 4 Risks - All Things Product Podcast with Teresa Torres & Petra Wille",
       "url": "https://www.producttalk.org/discovery-the-4-risks-all-things-product-podcast-with-teresa-torres-petra-wille/",
       "source": "Teresa Torres"
     },
     {
-      "id": 5,
+      "id": 7,
       "title": "AEO benchmarking: What market data reveals about AI search",
       "url": "https://blog.hubspot.com/marketing/aeo-benchmarking",
       "source": "HubSpot Marketing"
     },
     {
-      "id": 6,
+      "id": 8,
       "title": "How to use AI to write a blog post (that isn’t slop)",
       "url": "https://blog.hubspot.com/marketing/how-to-use-ai-to-write-a-blog-post",
       "source": "HubSpot Marketing"
     },
     {
-      "id": 7,
+      "id": 9,
       "title": "MuJoCo 4",
       "url": "https://www.producthunt.com/products/google",
       "source": "Product Hunt Daily"
     },
     {
-      "id": 8,
+      "id": 10,
+      "title": "TikTok Shop launches a paid premium tier for 1M of its top U.S. shoppers",
+      "url": "https://digiday.com/marketing/tiktok-shop-launches-a-paid-premium-tier-for-1m-of-its-top-u-s-shoppers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 11,
+      "title": "Future of TV Briefing: Inside creator Grace Wells’s 100-hour branded video production process",
+      "url": "https://digiday.com/future-of-tv/future-of-tv-briefing-inside-creator-grace-wellss-100-hour-branded-video-production-process/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 12,
+      "title": "X adds video clipping",
+      "url": "https://www.socialmediatoday.com/news/x-adds-video-clipping/874341/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 13,
+      "title": "YouTube shares insight into EU creator concerns",
+      "url": "https://www.socialmediatoday.com/news/youtube-shares-insight-into-eu-creator-concerns/874340/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 14,
+      "title": "Threads adds advanced search filters",
+      "url": "https://www.socialmediatoday.com/news/threads-adds-advanced-search-filters/874339/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 15,
+      "title": "TikTok tests shopping subscriptions",
+      "url": "https://www.socialmediatoday.com/news/tiktok-tests-shopping-subscriptions/874337/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 16,
+      "title": "Reddit tests AI-compiled product reviews",
+      "url": "https://www.socialmediatoday.com/news/reddit-tests-ai-compiled-product-reviews/874336/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 17,
+      "title": "Thursday, Nov. 5 Daily Cable News Ratings: Fox News Takes Primetime",
+      "url": "https://www.adweek.com/tvnewser/thursday-nov-5-2026-daily-cable-news-ratings/",
+      "source": "Adweek"
+    },
+    {
+      "id": 18,
+      "title": "OpenAI’s new business agents give brands a free way into the conversation it’s also selling as an ad",
+      "url": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 19,
+      "title": "Wednesday, Nov. 4 Daily Cable News Ratings: MS NOW Tops in Primetime",
+      "url": "https://www.adweek.com/tvnewser/wednesday-nov-4-2026-daily-cable-news-ratings/",
+      "source": "Adweek"
+    },
+    {
+      "id": 20,
+      "title": "Tuesday, Nov. 3 Daily Cable News Ratings: Fox News Most-Watched on Election Night",
+      "url": "https://www.adweek.com/tvnewser/tuesday-nov-3-2026-daily-cable-news-ratings/",
+      "source": "Adweek"
+    },
+    {
+      "id": 21,
+      "title": "X Previews Labels That Tell Users Why Its AI System Flagged Their Posts",
+      "url": "https://www.adweek.com/media/x-previews-labels-that-tell-users-why-its-ai-system-flagged-their-posts/",
+      "source": "Adweek"
+    },
+    {
+      "id": 22,
+      "title": "Netflix embraces 35mm film in international campaign",
+      "url": "https://www.marketingdive.com/news/netflix-embraces-35mm-film-in-international-campaign/874237/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 23,
+      "title": "Priceline’s AI agent Penny lands in Snapchat ads amid holiday rush",
+      "url": "https://www.marketingdive.com/news/pricelines-ai-agent-penny-lands-in-snapchat-ads-amid-holiday-rush/874247/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 24,
+      "title": "Why Rao’s heated up brand building with a request to slow down meals",
+      "url": "https://www.marketingdive.com/news/raos-heats-up-brand-building-with-a-request-to-slow-down-meals/874122/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 25,
+      "title": "Synthetic audiences fall short: What marketers need to know",
+      "url": "https://www.marketingdive.com/news/synthetic-audiences-fall-short-what-marketers-need-to-know/833664/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 26,
+      "title": "Commerce Media&#8217;s Consolidation Era Is Here",
+      "url": "https://www.adweek.com/commerce/commerce-medias-consolidation-era-is-here/",
+      "source": "Adweek"
+    },
+    {
+      "id": 27,
+      "title": "Skydance to Embrace Bundling Across Business Functions",
+      "url": "https://www.adweek.com/convergent-tv/skydance-to-embrace-bundling-across-business-functions/",
+      "source": "Adweek"
+    },
+    {
+      "id": 28,
+      "title": "Omnicom Makes Tom Schwenger CEO of Omnicom Health Marketing",
+      "url": "https://www.adweek.com/brand-marketing/omnicom-makes-tom-schwenger-ceo-of-omnicom-health-marketing/",
+      "source": "Adweek"
+    },
+    {
+      "id": 29,
+      "title": "OpenAI Gives Brands Some Data About How They Appear in ChatGPT",
+      "url": "https://www.adweek.com/commerce/openai-gives-brands-some-data-about-how-they-appear-in-chatgpt/",
+      "source": "Adweek"
+    },
+    {
+      "id": 30,
+      "title": "The 3 Paths to Being a Better Marketer That Have Nothing to Do with Marketing.",
+      "url": "https://www.adweek.com/brand-marketing/the-3-paths-to-being-a-better-marketer-that-have-nothing-to-do-with-marketing/",
+      "source": "Adweek"
+    },
+    {
+      "id": 31,
+      "title": "Beyond the Cookie: How AI Is Transforming Marketing Performance",
+      "url": "https://www.adweek.com/brand-marketing/beyond-the-cookie-how-ai-is-transforming-marketing-performance/",
+      "source": "Adweek"
+    },
+    {
+      "id": 32,
+      "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
+      "url": "https://www.wired.com/story/ulta-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 33,
+      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in November 2026",
+      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 34,
+      "title": "Google Workspace Promo Codes: 14% Off for November 2026",
+      "url": "https://www.wired.com/story/google-workspace-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 35,
+      "title": "OnePlus Promo Codes: 30% Off November 2026",
+      "url": "https://www.wired.com/story/oneplus-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 36,
+      "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
+      "url": "https://www.wired.com/story/noom-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "Visible Promo Codes and Coupons for November 2026",
+      "url": "https://www.wired.com/story/visible-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 38,
+      "title": "Vivid Seats Promo Codes and Deals: Get 10% Off",
+      "url": "https://www.wired.com/story/vivid-seats-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 39,
+      "title": "Factor Promo Code: 50% Off Off Meal Prep",
+      "url": "https://www.wired.com/story/factor-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 40,
+      "title": "Squarespace Promo Codes: 20% Off in November 2026",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 41,
+      "title": "T-Mobile Promo Codes: 25% Off | November 2026",
+      "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 42,
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "source": "The Verge"
+    },
+    {
+      "id": 44,
       "title": "Best Early Amazon Black Friday Deals (2026)",
       "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
       "source": "Wired"
     },
     {
-      "id": 9,
+      "id": 45,
       "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
       "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
       "source": "The Verge"
     },
     {
-      "id": 10,
+      "id": 46,
       "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
       "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
       "source": "The Verge"
     },
     {
-      "id": 11,
+      "id": 47,
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
       "source": "TechCrunch"
     },
     {
-      "id": 12,
+      "id": 48,
       "title": "Sony cancels live-service shooter Fairgames",
       "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
       "source": "The Verge"
     },
     {
-      "id": 13,
+      "id": 49,
       "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
       "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
       "source": "TechCrunch"
     },
     {
-      "id": 14,
+      "id": 50,
       "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
       "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
       "source": "TechCrunch"
     },
     {
-      "id": 15,
+      "id": 51,
       "title": "X-energy gets green light to build its first small modular nuclear reactors",
       "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
       "source": "TechCrunch"
     },
     {
-      "id": 16,
+      "id": 52,
       "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
       "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
       "source": "TechCrunch"
     },
     {
-      "id": 17,
+      "id": 53,
       "title": "The PlayStation Plus PC app is shutting down next month",
       "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
       "source": "The Verge"
     },
     {
-      "id": 18,
+      "id": 54,
       "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
       "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
       "source": "TechCrunch"
     },
     {
-      "id": 19,
+      "id": 55,
       "title": "Starlink Mini 2 adds a swappable battery",
       "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
       "source": "The Verge"
     },
     {
-      "id": 20,
+      "id": 56,
       "title": "The US is winning the AI race. Jensen Huang could have blown it",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
       "source": "The Verge"
     },
     {
-      "id": 21,
+      "id": 57,
       "title": "PSI is trying to make a business out of AI-driven scientific discovery",
       "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
       "source": "TechCrunch"
     },
     {
-      "id": 22,
+      "id": 58,
       "title": "Google’s Pixel Tag tracker is now available",
       "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
       "source": "The Verge"
     },
     {
-      "id": 23,
+      "id": 59,
       "title": "Google is making Pixel HiLight slightly more useful",
       "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
       "source": "The Verge"
     },
     {
-      "id": 24,
+      "id": 60,
       "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
       "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
       "source": "TechCrunch"
     },
     {
-      "id": 25,
+      "id": 61,
       "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
       "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
       "source": "TechCrunch"
     },
     {
-      "id": 26,
+      "id": 62,
       "title": "One of our favorite multi-filament 3D printers is $100 off",
       "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
       "source": "The Verge"
     },
     {
-      "id": 27,
+      "id": 63,
       "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
       "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
       "source": "TechCrunch"
     },
     {
-      "id": 28,
+      "id": 64,
       "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
       "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "source": "TechCrunch"
     },
     {
-      "id": 29,
+      "id": 65,
       "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
       "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
       "source": "TechCrunch"
     },
     {
-      "id": 30,
+      "id": 66,
       "title": "‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP",
       "url": "https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/",
       "source": "Wired"
     },
     {
-      "id": 31,
+      "id": 67,
       "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
       "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
       "source": "TechCrunch"
     },
     {
-      "id": 32,
+      "id": 68,
       "title": "Google broadens its AI hardware portfolio with two new specialized chips",
       "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
       "source": "TechCrunch"
     },
     {
-      "id": 33,
+      "id": 69,
       "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
       "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
       "source": "TechCrunch"
     },
     {
-      "id": 34,
+      "id": 70,
       "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
       "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
       "source": "TechCrunch"
     },
     {
-      "id": 35,
+      "id": 71,
       "title": "Reddit is turning user conversations into AI-powered product reviews",
       "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
       "source": "TechCrunch"
     },
     {
-      "id": 36,
+      "id": 72,
       "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
       "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
       "source": "TechCrunch"
     },
     {
-      "id": 37,
+      "id": 73,
       "title": "Kitchen Gear From Our Place Is Steeply Discounted",
       "url": "https://www.wired.com/story/our-place-sale-november-2026/",
       "source": "Wired"
     },
     {
-      "id": 38,
+      "id": 74,
       "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
       "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
       "source": "TechCrunch"
     },
     {
-      "id": 39,
+      "id": 75,
       "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
       "url": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
       "source": "Wired"
     },
     {
-      "id": 40,
+      "id": 76,
       "title": "4DX Movies Are Entering Their Thirsty Romance Era",
       "url": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
       "source": "Wired"
     },
     {
-      "id": 41,
+      "id": 77,
       "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
       "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
       "source": "Wired"
     },
     {
-      "id": 42,
+      "id": 78,
       "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
       "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
       "source": "Wired"
     },
     {
-      "id": 43,
+      "id": 79,
       "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
       "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
       "source": "MIT Technology Review"
     },
     {
-      "id": 44,
+      "id": 80,
       "title": "Evolving metal extraction processes",
       "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
       "source": "MIT Technology Review"
     },
     {
-      "id": 45,
+      "id": 81,
       "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
       "url": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
       "source": "Wired"
     },
     {
-      "id": 46,
+      "id": 82,
       "title": "Louis Rossmann Wants More People to Care About the Right to Repair",
       "url": "https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/",
       "source": "Wired"
     },
     {
-      "id": 47,
+      "id": 83,
       "title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
       "url": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/",
       "source": "Wired"
     },
     {
-      "id": 48,
+      "id": 84,
       "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
       "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
       "source": "Wired"
     },
     {
-      "id": 49,
+      "id": 85,
       "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
       "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
       "source": "Wired"
     },
     {
-      "id": 50,
+      "id": 86,
       "title": "Huupe Mini 2 Review: More Game Than It Can Handle",
       "url": "https://www.wired.com/review/huupe-mini-2/",
       "source": "Wired"
     },
     {
-      "id": 51,
+      "id": 87,
       "title": "Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane",
       "url": "https://www.wired.com/story/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/",
       "source": "Wired"
     },
     {
-      "id": 52,
+      "id": 88,
       "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
       "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
-      "source": "Wired"
-    },
-    {
-      "id": 53,
-      "title": "Valvoline Coupons and Promo Codes for November 2026",
-      "url": "https://www.wired.com/story/valvoline-coupons/",
-      "source": "Wired"
-    },
-    {
-      "id": 54,
-      "title": "Office Depot Coupons: $20 Off November 2026",
-      "url": "https://www.wired.com/story/office-depot-promo-codes/",
-      "source": "Wired"
-    },
-    {
-      "id": 55,
-      "title": "Rover Promo Codes and Referral Deals for November 2026",
-      "url": "https://www.wired.com/story/rover-promo-code/",
-      "source": "Wired"
-    },
-    {
-      "id": 56,
-      "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
-      "url": "https://www.wired.com/story/naturepedic-promo-code/",
-      "source": "Wired"
-    },
-    {
-      "id": 57,
-      "title": "Sam's Club Promo Codes and Membership Deals for November 2026",
-      "url": "https://www.wired.com/story/sams-club-coupon/",
-      "source": "Wired"
-    },
-    {
-      "id": 58,
-      "title": "Bose Promo Code: 40% Off for November 2026",
-      "url": "https://www.wired.com/story/bose-coupon-code/",
-      "source": "Wired"
-    },
-    {
-      "id": 59,
-      "title": "Chirp Discount Codes: 67% Off",
-      "url": "https://www.wired.com/story/chirp-discount-code/",
-      "source": "Wired"
-    },
-    {
-      "id": 60,
-      "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
-      "url": "https://www.wired.com/story/barkbox-promo-code/",
-      "source": "Wired"
-    },
-    {
-      "id": 61,
-      "title": "Sealy Promo Codes: $100 Off",
-      "url": "https://www.wired.com/story/sealy-promo-code/",
-      "source": "Wired"
-    },
-    {
-      "id": 62,
-      "title": "Babbel Promo Code: Up to 65% Off in November 2026",
-      "url": "https://www.wired.com/story/babbel-promo-code/",
-      "source": "Wired"
-    },
-    {
-      "id": 63,
-      "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-      "url": "https://www.wired.com/story/hr-block-coupon/",
-      "source": "Wired"
-    },
-    {
-      "id": 64,
-      "title": "Casetify Promo Codes | 15% Off November 2026",
-      "url": "https://www.wired.com/story/casetify-promo-code/",
-      "source": "Wired"
-    },
-    {
-      "id": 65,
-      "title": "Braun Promo Codes: 15% Off November 2026",
-      "url": "https://www.wired.com/story/braun-promo-code/",
-      "source": "Wired"
-    },
-    {
-      "id": 66,
-      "title": "Breville Promo Code: $700 Off | November 2026",
-      "url": "https://www.wired.com/story/breville-promo-code/",
-      "source": "Wired"
-    },
-    {
-      "id": 67,
-      "title": "Dyson Promo Codes: 25% Off in November 2026",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
       "source": "Wired"
     }
   ]
