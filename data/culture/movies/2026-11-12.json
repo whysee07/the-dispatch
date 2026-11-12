@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T18:37:50.603174+00:00",
+  "tonight": {
+    "title": "Model Citizen",
+    "meta": "2026 · Crime · 1h 33m · ★ 6.4",
+    "why": "For a heart-pounding ride that pits man and beast against the unforgiving Alaskan wild, look no further. This survival epic delivers raw intensity and an unbreakable bond that will leave you cheering.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg"
+  },
+  "releases": [
+    {
+      "title": "Ebenezer",
+      "take": "This holiday classic gets a spectral makeover, proving that even the most hardened hearts can be haunted into finding some seasonal cheer.",
+      "score": 86,
+      "geo": "world"
+    },
+    {
+      "title": "Heart of the Beast",
+      "take": "Forget The Revenant, this is the ultimate man-and-his-best-friend survival tale, where the only thing colder than the Alaskan wilderness is the odds of making it out alive.",
+      "score": 75,
+      "geo": "world"
+    },
+    {
+      "title": "Resident Evil",
+      "take": "One delivery, one delivery, and suddenly Bryan's fighting for more than just overtime—he's fighting for his life in a chaotic horror show.",
+      "score": 75,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "Ebenezer",
+    "blurb": "Sometimes you need a story that reminds you of the sheer power of myth and the enduring human spirit. \"The Odyssey\" is a masterclass in epic storytelling, a journey worth every single one of its legendary trials.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
