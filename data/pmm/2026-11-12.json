@@ -1,0 +1,651 @@
+{
+  "feed": "pmm",
+  "feed_name": "Marketing Brief",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T17:44:42.612021+00:00",
+  "raw_text": "Happy Thursday, marketers! Hope your coffee is strong, because we've got a wild one today. Nvidia's founder just got ousted in a spy scandal (seriously), Meta's AI ads went rogue, and brands are getting seriously creative with their holiday plays. Let's dive in.\n\n☕ THE LEAD\nJensen Huang, the leather-jacketed CEO who built Nvidia into the AI powerhouse it is today, just resigned after a 33-year run. The reason? A whirlwind of reports about multiple extramarital affairs, including one with an alleged Chinese spy and another with an Nvidia executive who reported directly to him. His CFO, Colette Kress, is stepping in as interim CEO. [S14][S56][S57][S61][S63][S64][S66][S70][S97][S98]\n\nThis isn't just salacious office gossip; it's a seismic shift at the core of the entire AI industry. Huang wasn't just a CEO; he was a visionary who steered Nvidia's chips to power everything from gaming to generative AI, influencing countless product roadmaps and marketing strategies. His departure throws a massive wrench into Nvidia's direction, raises serious national security concerns (especially regarding AI's future), and leaves a vacuum at the top of a company that pretty much dictates the pace of AI innovation. [S1][S51][S52]\n\nFor marketers, this means potential instability in the AI ecosystem we increasingly rely on, from ad platforms to content creation tools. Expect ripple effects, and keep an eye on how Nvidia's new leadership navigates the delicate balance of innovation, market dominance, and political scrutiny. The one thing to remember: foundational tech leadership changes *always* impact the marketing world, even if it's not immediately obvious.\n\n📣 QUICK HITS\n**Meta's AI Ads Went Rogue, Offering Unapproved Discounts**\nTurns out Meta's AI-powered ad tools have been a little *too* creative, posting discount offers to customers even when advertisers had promotions turned off. This is a big headache for brands trying to control their messaging and pricing. [S4]\n\n**Yahoo Licenses Content for AI Search Engine in \"Spotify-like\" Model**\nYahoo is the first to sign onto a new collective AI content licensing model, previously called RSL and now rebranded as The Internet Licensing Collective (ILC). This means publishers of all sizes can license their content for use in Yahoo's AI-powered search engine, Scout, and get paid based on usage. A potentially fairer deal for content creators in the AI era. [S9]\n\n**Brands Commissioning Creator-Created Shows, Not Just Posts**\nAnthropologie went beyond sponsored posts, hiring a creator to write and lead its first micro-comedy series – a holiday party caper. This signals a deeper investment in long-form, brand-integrated content from creators, moving beyond quick-hit social posts to fully produced entertainment. [S20]\n\n**Welch's Embraces Y2K Nostalgia for Holiday Microdrama**\nWelch's is leaning into early 2000s vibes with its \"Before the Toast\" campaign, targeting Gen Z parents with a social-forward holiday microdrama featuring its sparkling juices and an Instacart integration. Smart play to tap into that millennial-adjacent nostalgia. [S3]\n\n🎯 THE PMM DESK\n**Shopify Highlights AI Assistant Sidekick in New Campaign**\nShopify's latest campaign with Mother LA celebrates the \"power of an idea,\" showcasing its AI assistant, Sidekick, in a supporting role. This is a clear product marketing effort to position Sidekick not just as a feature, but as an enabler for aspiring entrepreneurs, making the dream of starting a business feel more attainable. [S12]\n\n**Whoop Launches Social Network, Broadens Health Brand Ambitions**\nThe wearable tech company Whoop just launched a social network allowing members to share sleep, recovery, and workout data. This move is a strategic GTM play to deepen user engagement and push Whoop beyond being just a device, transforming it into a holistic personal health brand. [S54]\n\n🧠 PMM 101\n**The concept: Value Proposition**\nWhat it is: A clear, concise statement of the unique benefits a product offers to a specific customer segment, explaining *why* they should choose it over alternatives. It's about the problem your product solves and the value it delivers, not just a list of features.\nWhy it matters: A strong value proposition is the bedrock of all your product messaging, positioning, and go-to-market strategies.\nSee it today: Shopify's campaign for Sidekick [S12]. Instead of just saying \"Sidekick is an AI assistant,\" they're framing its value around \"the power of an idea\" and how it helps entrepreneurs bring those ideas to life. That's a value prop in action.\nTry it: Pick a product you use daily. Write down its main features. Now, for each feature, ask \"So what?\" or \"What problem does this solve for me?\" Keep asking until you hit the core, undeniable benefit. That’s its value prop.\n\n🧩 PRODUCT CORNER\n**Google Wallet Finally Gets Digital Home Keys**\nAndroid users, rejoice! Google Wallet is rolling out digital home key support, allowing you to unlock smart locks by tapping your phone or simply approaching. This brings Android up to speed with Apple and Samsung, adding a layer of convenience to the smart home ecosystem. [S49]\n\n🔧 TOOL DROP\n**Oxagen** — Mission control for AI agents to share + maintain context. [S32][S106]\nBest for: Teams and individuals managing multiple AI agents for complex tasks like content generation, data analysis, or customer support, who struggle with maintaining consistent context across agents.\nFree tier: No.\nHonest take: Genuinely useful. As AI agents become more prevalent, managing their \"memory\" and shared understanding is a huge pain point. A dedicated platform for context management could significantly boost productivity and consistency.\n\n⚡ SPEED ROUND\n🎮 More game developers (40%) are now using generative AI tools in their jobs, up from 36% last year. [S48]\n✈️ United Airlines is blocking AI agents from booking flights, citing cybersecurity risks. Tough luck, robot travelers. [S2]\n⚠️ A new study found AI chatbots like ChatGPT and Gemini are recommending fake retail websites to shoppers. Buyer beware! [S47]\n🍎 Apple's 2026 holiday ad is a \"heartfelt\" film that \"gifts the power of belief.\" Get ready for the feels. [S22]\n📺 LinkedIn is expanding its B2B ad targeting to Connected TVs in the U.K., letting advertisers reach decision-makers on the big screen. [S17]\n🍪 Oreo's first holiday ad in five years features Santa getting revenge on a dad who snuck a bite of his cookies. Naughty list energy. [S7][S15]",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 2,
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 3,
+      "title": "Welch’s holiday microdrama embraces Y2K nostalgia as Gen Z become parents",
+      "url": "https://www.marketingdive.com/news/welchs-holiday-microdrama-embraces-y2k-nostalgia-as-gen-z-become-parents/874453/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 4,
+      "title": "Sociable: Meta’s AI ads included unapproved discounts",
+      "url": "https://www.marketingdive.com/news/sociable-metas-ai-ads-included-unapproved-discounts/874525/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 5,
+      "title": "Didit MCP",
+      "url": "https://www.producthunt.com/products/didit-3",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 6,
+      "title": "Hoy for Mac",
+      "url": "https://www.producthunt.com/products/hoy-for-mac",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 7,
+      "title": "Oreo refreshes holiday creative with spin on Santa’s milk and cookies",
+      "url": "https://www.marketingdive.com/news/oreo-refreshes-holiday-creative-with-spin-on-santas-milk-and-cookies/874493/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 8,
+      "title": "How Unilever’s social-first marketing is evolving amid reorganization",
+      "url": "https://www.marketingdive.com/news/how-unilevers-social-first-marketing-is-evolving-amid-reorganization/874457/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 9,
+      "title": "Yahoo becomes first licensee of ‘Spotify-like’ collective AI content licensing model",
+      "url": "https://digiday.com/media/yahoo-becomes-first-licensee-of-spotify-like-collective-ai-content-licensing-model/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 10,
+      "title": "Media Briefing: The IAB finds AI measurement standards elusive for publishers amid platform data gaps",
+      "url": "https://digiday.com/media/media-briefing-the-iab-finds-ai-measurement-standards-elusive-for-publishers-amid-platform-data-gaps/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 11,
+      "title": "Fetch trades views for rewards with brand-backed holiday microseries",
+      "url": "https://www.marketingdive.com/news/fetch-trades-views-for-rewards-with-brand-backed-holiday-microseries/874424/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 12,
+      "title": "Shopify Celebrates the Power of an Idea in First Mother LA Campaign",
+      "url": "https://www.adweek.com/brand-marketing/shopify-celebrates-the-power-of-an-idea-in-first-mother-la-campaign/",
+      "source": "Adweek"
+    },
+    {
+      "id": 13,
+      "title": "Talkspace Recruits Michael Phelps for Men’s Mental Health Awareness Month",
+      "url": "https://www.adweek.com/brand-marketing/talkspace-recruits-michael-phelps-for-mens-mental-health-awareness-month/",
+      "source": "Adweek"
+    },
+    {
+      "id": 14,
+      "title": "Jensen Huang&#8217;s 33-Year Reign as Nvidia CEO Ends Amid Affair Reports",
+      "url": "https://www.adweek.com/media/jensen-huangs-33-year-reign-as-nvidia-ceo-ends-amid-affair-reports/",
+      "source": "Adweek"
+    },
+    {
+      "id": 15,
+      "title": "In Oreo&#8217;s First Holiday Ad in 5 Years, Cookie-Stealing Parents Land On Santa&#8217;s Naughty List",
+      "url": "https://www.adweek.com/brand-marketing/in-oreos-first-holiday-ad-in-5-years-cookie-stealing-parents-land-on-santas-naughty-list/",
+      "source": "Adweek"
+    },
+    {
+      "id": 16,
+      "title": "Nov. 7- 8 Daily Cable News Ratings: Saturday Primetime Belongs to CNN",
+      "url": "https://www.adweek.com/tvnewser/nov-7-8-2026-daily-cable-news-ratings/",
+      "source": "Adweek"
+    },
+    {
+      "id": 17,
+      "title": "LinkedIn brings its B2B ad targeting to U.K. connected TVs",
+      "url": "https://digiday.com/marketing/linkedin-brings-its-b2b-ad-targeting-to-u-k-connected-tvs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 18,
+      "title": "SunnyD and Juicy Juice Hand Their Comeback to Goodby Silverstein &amp; Partners",
+      "url": "https://www.adweek.com/agencies/sunnyd-and-juicy-juice-hand-their-comeback-to-goodby-silverstein-partners/",
+      "source": "Adweek"
+    },
+    {
+      "id": 19,
+      "title": "VML Elevates Debbi Vandeven in Push For ‘Human-First’ Creative",
+      "url": "https://www.adweek.com/agencies/vml-elevates-debbi-vandeven-in-push-for-human-first-creative/",
+      "source": "Adweek"
+    },
+    {
+      "id": 20,
+      "title": "Why brands like Anthropologie are commissioning creator-created shows instead of posts",
+      "url": "https://digiday.com/marketing/why-brands-like-anthropologie-are-commissioning-creator-created-shows-instead-of-posts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 21,
+      "title": "TwitchCon is at a crossroads as creators question its value",
+      "url": "https://digiday.com/media/twitchcon-is-at-a-crossroads-as-creators-question-its-value/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 22,
+      "title": "Apple’s Heartfelt Holiday Ad Gifts the Power of Belief",
+      "url": "https://www.adweek.com/creativity/apples-heartfelt-holiday-ad-gifts-the-power-of-belief/",
+      "source": "Adweek"
+    },
+    {
+      "id": 23,
+      "title": "Thought leadership remains highly valuable for B2B buyers",
+      "url": "https://www.socialmediatoday.com/news/thought-leadership-remains-highly-valuable-for-b2b-buyers/874464/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 24,
+      "title": "LinkedIn tests frequent viewer feature",
+      "url": "https://www.socialmediatoday.com/news/linkedin-tests-frequent-viewer-feature/874463/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 25,
+      "title": "Elon Musk’s Grok AI faces legal challenges over nudification",
+      "url": "https://www.socialmediatoday.com/news/x-formerly-twitter-faces-legal-battles-nudification-grok/874462/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 26,
+      "title": "X experiments with expanded AI transparency labels",
+      "url": "https://www.socialmediatoday.com/news/x-experiments-with-expanded-ai-transparency-labels/874461/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 27,
+      "title": "Friday, Nov. 6 Daily Cable News Ratings: Fox News&#8217; The Five Leads the Way",
+      "url": "https://www.adweek.com/tvnewser/friday-nov-6-2026-daily-cable-news-ratings/",
+      "source": "Adweek"
+    },
+    {
+      "id": 28,
+      "title": "Meta publishes explainer on Your Algorithm controls",
+      "url": "https://www.socialmediatoday.com/news/meta-publishes-explainer-on-your-algorithm-controls/874460/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 29,
+      "title": "The Washington Post Nears Breakeven After ‘Hundreds and Hundreds of Millions’ in Losses",
+      "url": "https://www.adweek.com/media/the-washington-post-nears-breakeven-after-hundreds-and-hundreds-of-millions-in-losses/",
+      "source": "Adweek"
+    },
+    {
+      "id": 30,
+      "title": "Crossfade",
+      "url": "https://www.producthunt.com/products/crossfade",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 31,
+      "title": "Offstage Cloud",
+      "url": "https://www.producthunt.com/products/offstage-cloud",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 32,
+      "title": "Oxagen",
+      "url": "https://www.producthunt.com/products/oxagen",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 33,
+      "title": "Blendra",
+      "url": "https://www.producthunt.com/products/blendra",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 34,
+      "title": "Nameshot",
+      "url": "https://www.producthunt.com/products/nameshot-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 35,
+      "title": "Jot 2.0",
+      "url": "https://www.producthunt.com/products/jot-2-0",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 36,
+      "title": "WizardNote",
+      "url": "https://www.producthunt.com/products/wizardnote",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 37,
+      "title": "Skysoon",
+      "url": "https://www.producthunt.com/products/skysoon",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 38,
+      "title": "Infinite Drive",
+      "url": "https://www.producthunt.com/products/infinite-drive",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 39,
+      "title": "Foxpit",
+      "url": "https://www.producthunt.com/products/foxpit",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 40,
+      "title": "LeaseWire",
+      "url": "https://www.producthunt.com/products/leasewire",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 41,
+      "title": "Gemini Decisions API",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 42,
+      "title": "Grok Bot 1.0",
+      "url": "https://www.producthunt.com/products/grok",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 43,
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
+      "url": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
+      "source": "The Verge"
+    },
+    {
+      "id": 45,
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "25 years later, Xbox is trying to reinvent itself again",
+      "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "More game developers are starting to use generative AI",
+      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "Google Wallet can finally unlock doors with digital home keys",
+      "url": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Jensen Huang agrees to testify before Congress",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 51,
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 52,
+      "title": "Jensen Huang is out. What did China want from him?",
+      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+      "source": "The Verge"
+    },
+    {
+      "id": 53,
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 54,
+      "title": "Whoop just launched a social network",
+      "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 55,
+      "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
+      "url": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+      "source": "The Verge"
+    },
+    {
+      "id": 57,
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 58,
+      "title": "A power bank that can quickly charge three gadgets is just $49",
+      "url": "https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 59,
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 60,
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 61,
+      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge"
+    },
+    {
+      "id": 62,
+      "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
+      "url": "https://www.wired.com/story/best-open-earbuds/",
+      "source": "Wired"
+    },
+    {
+      "id": 63,
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 64,
+      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+      "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+      "source": "Wired"
+    },
+    {
+      "id": 65,
+      "title": "Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’",
+      "url": "https://www.theverge.com/tech/1031889/lego-bricklink-marketplace-offline-unusual-activity",
+      "source": "The Verge"
+    },
+    {
+      "id": 66,
+      "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 67,
+      "title": "Google and Samsung’s Android XR Smart Glasses Are Finally Here",
+      "url": "https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/",
+      "source": "Wired"
+    },
+    {
+      "id": 68,
+      "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
+      "url": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
+      "source": "Wired"
+    },
+    {
+      "id": 69,
+      "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
+      "url": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
+      "source": "Wired"
+    },
+    {
+      "id": 70,
+      "title": "Jensen Huang Resigns as Nvidia CEO",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+      "source": "Wired"
+    },
+    {
+      "id": 71,
+      "title": "Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile",
+      "url": "https://www.wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile/",
+      "source": "Wired"
+    },
+    {
+      "id": 72,
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 73,
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 74,
+      "title": "You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online",
+      "url": "https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online/",
+      "source": "Wired"
+    },
+    {
+      "id": 75,
+      "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+      "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+      "source": "Wired"
+    },
+    {
+      "id": 76,
+      "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+      "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+      "source": "Wired"
+    },
+    {
+      "id": 77,
+      "title": "Rocco Classic Smart Fridge Review: A Cool Conversation Piece",
+      "url": "https://www.wired.com/review/rocco-super-smart-fridge/",
+      "source": "Wired"
+    },
+    {
+      "id": 78,
+      "title": "The Polar Vortex Is About to Make Weather Weird From the UK to the US",
+      "url": "https://www.wired.com/story/the-polar-vortex-is-about-to-make-weather-weird-from-the-uk-to-the-us/",
+      "source": "Wired"
+    },
+    {
+      "id": 79,
+      "title": "TurboTax Full Service Coupons This November 2026",
+      "url": "https://www.wired.com/story/turbotax-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 80,
+      "title": "Lovehoney Coupon Offers: 70% Off",
+      "url": "https://www.wired.com/story/lovehoney-discount-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 81,
+      "title": "Wayfair Coupons: Up to 80% Off November 2026",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 82,
+      "title": "Lenovo Coupon Codes: 15% Off in November 2026",
+      "url": "https://www.wired.com/story/lenovo-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 83,
+      "title": "AirDoctor Coupon Codes: 40% Off | November 2026",
+      "url": "https://www.wired.com/story/airdoctor-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 84,
+      "title": "HelloFresh Promo Codes: 55% Off for November 2026",
+      "url": "https://www.wired.com/story/hellofresh-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 85,
+      "title": "Hydrow Discount Code: Save Up to $150 | November 2026",
+      "url": "https://www.wired.com/story/hydrow-discount-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 86,
+      "title": "Nike Promo Codes and Discounts: 30% for November 2026",
+      "url": "https://www.wired.com/story/nike-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 87,
+      "title": "Ruggable Discount Code: 30% Off Rugs | November 2026",
+      "url": "https://www.wired.com/story/ruggable-discount-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 88,
+      "title": "Ring Promo Code: 50% Off",
+      "url": "https://www.wired.com/story/ring-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 89,
+      "title": "L.L.Bean Promo Codes and Coupons: 75% Off",
+      "url": "https://www.wired.com/story/ll-bean-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 90,
+      "title": "Acer Promo Codes: 40% Off",
+      "url": "https://www.wired.com/story/acer-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 91,
+      "title": "Vitamix Promo Codes and Deals: $25 Off + Free Shipping",
+      "url": "https://www.wired.com/story/vitamix-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 92,
+      "title": "Design Within Reach Promo Codes: 30% Off | November 2026",
+      "url": "https://www.wired.com/story/design-within-reach-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 93,
+      "title": "SelectBlinds Promo Codes & Coupons: 10% Off",
+      "url": "https://www.wired.com/story/select-blinds-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 94,
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 95,
+      "title": "The Best Early Black Friday MacBook Air Deal: $200 Off",
+      "url": "https://www.wired.com/story/early-black-friday-macbook-air-deal/",
+      "source": "Wired"
+    },
+    {
+      "id": 96,
+      "title": "Walking Pad Deals to Shop Ahead of Black Friday (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/",
+      "source": "Wired"
+    },
+    {
+      "id": 97,
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 98,
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 99,
+      "title": "Pete Hegseth Is About to Get His Ass Kicked",
+      "url": "https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/",
+      "source": "Wired"
+    },
+    {
+      "id": 100,
+      "title": "Why the data center you dread might never even be built",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 101,
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 102,
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 103,
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "source": "Wired"
+    },
+    {
+      "id": 104,
+      "title": "Hoy for Mac",
+      "url": "https://www.producthunt.com/products/hoy-for-mac",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 105,
+      "title": "Foxpit",
+      "url": "https://www.producthunt.com/products/foxpit",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 106,
+      "title": "Oxagen",
+      "url": "https://www.producthunt.com/products/oxagen",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 107,
+      "title": "Offstage Cloud",
+      "url": "https://www.producthunt.com/products/offstage-cloud",
+      "source": "Product Hunt"
+    }
+  ]
+}
