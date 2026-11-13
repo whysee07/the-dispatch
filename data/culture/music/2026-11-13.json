@@ -1,0 +1,124 @@
+{
+  "section": "music",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T20:09:53.099417+00:00",
+  "genres": [
+    "Rock",
+    "Indie",
+    "Pop",
+    "House",
+    "Indie Indian",
+    "Bollywood",
+    "Desi hip-hop"
+  ],
+  "news": [
+    {
+      "title": "Rosalía makes history with Album Of The Year award win at Latin Grammys and performs ‘Lux’ medley",
+      "source": "NME",
+      "url": "https://www.nme.com/news/music/rosalia-album-year-award-latin-grammys-performs-lux-medley-3975928",
+      "age": "1d"
+    },
+    {
+      "title": "Grammy Premiere Ceremony, Where Most Awards Are Presented, to Stream Live on Disney+ for the First Time",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/music/awards/grammy-premiere-ceremony-2027-stream-live-disney-plus-1236381697",
+      "age": "2d"
+    },
+    {
+      "title": "Dolly Parton Heals the Soul on Final Recording, ‘Torn,’ a Duet With Bono on U2’s New Album",
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-news/dolly-parton-final-recording-u2-torn-song-1235657413",
+      "age": "1d"
+    }
+  ],
+  "tracks": [
+    {
+      "title": "From The Cliff",
+      "artist": "Queens Of The Stone Age",
+      "why": "A raw, intense track with a NSFW video that perfectly captures their signature sound.",
+      "genre": "Rock",
+      "geo": "world"
+    },
+    {
+      "title": "Lovepill",
+      "artist": "yeule",
+      "why": "An ethereal and haunting electronic-tinged indie gem that showcases yeule's unique artistry.",
+      "genre": "Indie",
+      "geo": "world"
+    },
+    {
+      "title": "Honeymoon",
+      "artist": "54 Ultra & Clairo",
+      "why": "A dreamy, lo-fi pop collaboration that's both intimate and instantly captivating.",
+      "genre": "Pop",
+      "geo": "world"
+    },
+    {
+      "title": "Club Kid",
+      "artist": "Shygirl",
+      "why": "A pulsating, experimental track from the A24 soundtrack that pushes genre boundaries.",
+      "genre": "House",
+      "geo": "world"
+    },
+    {
+      "title": "Fragments",
+      "artist": "Bishu Chattopadhyay",
+      "why": "A deeply reflective and atmospheric track that weaves personal memories into its intricate soundscape.",
+      "genre": "Indie Indian",
+      "geo": "india"
+    },
+    {
+      "title": "Jhalak",
+      "artist": "Naam Sujal & Aanchal Tyagi",
+      "why": "A fresh, romantic collaboration that blends contemporary Indian pop sensibilities with heartfelt vocals.",
+      "genre": "Bollywood",
+      "geo": "india"
+    }
+  ],
+  "charts": {
+    "global": [
+      {
+        "title": "Paint The Town Red",
+        "artist": "Doja Cat"
+      },
+      {
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift"
+      },
+      {
+        "title": "Flowers",
+        "artist": "Miley Cyrus"
+      },
+      {
+        "title": "Rich Baby Daddy",
+        "artist": "Drake ft. Sexyy Red & SZA"
+      },
+      {
+        "title": "Standing Next to You",
+        "artist": "Jung Kook"
+      }
+    ],
+    "india": [
+      {
+        "title": "Arjan Vailly",
+        "artist": "Bhupinder Babbal"
+      },
+      {
+        "title": "Jamal Kudu",
+        "artist": "Harshavardhan Rameshwar"
+      },
+      {
+        "title": "Chaleya",
+        "artist": "Arijit Singh & Shilpa Rao"
+      },
+      {
+        "title": "Heeriye",
+        "artist": "Jasleen Royal & Arijit Singh"
+      },
+      {
+        "title": "Kya Loge Tum",
+        "artist": "B Praak"
+      }
+    ]
+  }
+}
