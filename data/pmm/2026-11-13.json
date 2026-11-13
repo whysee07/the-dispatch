@@ -1,0 +1,603 @@
+{
+  "feed": "pmm",
+  "feed_name": "Marketing Brief",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T17:22:08.047061+00:00",
+  "raw_text": "☕ THE LEAD\nMicrosoft's near two-day global outage for Outlook and 365 wasn't just a tech blip; it was a blaring siren for every business relying on a single cloud vendor. Millions of users, from schools to hospitals to governments, found themselves dead in the water, unable to send emails or access critical files, turning an email problem into a full-blown global crisis. This isn't just about lost productivity; it’s a stark reminder that when a tech giant stumbles, the domino effect can be catastrophic for the entire economy. For marketers, it means a hard look at where your essential tools live and how resilient your operations truly are when the core infrastructure goes dark. The biggest takeaway? Vendor diversification isn't a \"nice-to-have\" anymore; it's a \"must-have\" for business continuity and risk management. [S1][S43][S56]\n\n📣 QUICK HITS\n**CTV Home Screens are the New Frontier for Ad Spend.**\nAdvertisers are finally waking up to the smart TV home screen as prime, high-attention real estate, moving beyond just in-stream video. The catch? The infrastructure for buying ads there is still stuck in the past, begging for standardization. [S3]\n\n**Mattel Parks Barbie & Hot Wheels on TikTok Shop.**\nThe toy giant is launching branded storefronts for its iconic brands, starting with 20 products and quickly expanding to 40+. It's a clear signal that Mattel is all-in on live commerce and meeting consumers where they are. [S20]\n\n**AI-Derived Audience Insights? Tread Carefully.**\nA new report reveals that over 80% of industry leaders have experienced negative business outcomes because of inaccurate AI outputs in audience insights. Turns out, blindly trusting the bots with your strategy might be a bad idea. [S9]\n\n**Twitch Debuts Shoppable, Skippable Ads.**\nThe livestreaming platform is rolling out new ad products designed to serve full-funnel marketing needs. It's Twitch's play to boost monetization and prove its value beyond just brand awareness. [S4]\n\n🎯 THE PMM DESK\n**UiPath PMM Team Leverages AI Agents for Product Launches.**\nKuber Sharma, Senior Director of PMM at UiPath, has built an entire team of AI agents to manage product launches, using frameworks and templates to streamline the process. This isn't just AI for content; it's AI for operational orchestration. [S5]\n*PMM Takeaway:* This highlights a major shift in how PMMs can leverage AI: not just as a content assistant, but as an automated project manager for complex GTM workflows. Start thinking about how AI can *do* parts of the launch, not just *help you write* about it.\n\n**Paprika 4 Moves to Subscription for New Features.**\nAfter nearly a decade, the beloved recipe management app, Paprika, released a major upgrade (Paprika 4) with tons of new functionality, but accessing most of it now requires an annual $14.99 subscription, a switch from its previous one-time purchase model. [S46]\n*PMM Takeaway:* This is a classic monetization strategy for mature apps. PMMs launching such a shift need to nail the value proposition, clearly articulating *why* the new features are worth an ongoing fee and how they justify the move away from the old pricing structure.\n\n🧠 PMM 101\n**The concept:** Value-Based Pricing\nWhat it is: Setting a product's price based on the perceived value it delivers to the customer, rather than just the cost of production, competitor prices, or arbitrary numbers. It focuses on the benefits and problems solved for the user.\nWhy it matters: It aligns pricing with what customers are truly willing to pay, maximizing revenue while ensuring customers feel they're getting a worthwhile return on their investment.\nSee it today: Paprika 4's shift to a subscription model [S46]. To justify that $14.99/year, the PMM team needs to clearly communicate the *new* value the app provides (more functionality, cross-platform syncing, etc.) that makes it worth an ongoing cost over a one-time purchase.\nTry it: For a product you currently use, think about its core features. For each feature, identify the specific problem it solves for you and the quantifiable benefit (time saved, money earned, stress reduced) you gain. This exercise helps uncover the true value proposition.\n\n🧩 PRODUCT CORNER\n**ChatGPT Wallet Lets AI Agents Shop for You.**\nChatGPT is rolling out a new Wallet feature that empowers its AI agents to not just find products, but actually make purchases and check out on users' behalf, starting with U.S. Pro subscribers. This is a big step for AI agents, moving beyond recommendations to direct transaction. [S44]\n\n🔧 TOOL DROP\n**Nectar** — An AI agent designed to automate creator discovery and outreach for brands. [S93]\nBest for: Brands and agencies looking to scale their influencer marketing efforts without drowning in manual outreach.\nFree tier: No (implied).\nHonest take: Genuinely useful. Automating the grunt work of finding and contacting creators could free up huge amounts of time for marketers, letting them focus on strategy and relationship building.\n\n⚡ SPEED ROUND\n🎁 Black Friday deals are already dropping, but thanks to an \"AI memory crunch,\" expect prices to be higher than usual this year. [S49][S63]\n📺 LinkedIn just launched CTV ads in the UK, claiming they're 2.6x more likely to reach B2B audiences than other CTV options. [S26]\n🎮 YouTube is going all in for the GTA VI launch, with a 24-hour global livestream event and limited-edition digital gifts. [S25]\n🚫 Meta reportedly considered a \"Whisper strategy\" to turn academics against critic Jonathan Haidt, which has, predictably, backfired. Oof. [S54]\n🍷 Archer Roose Wines is building serious brand loyalty through \"irreverent brand storytelling\" and premium positioning for its canned wines. [S11]\n🍎 Apple just kicked off pre-orders for its new Home Collection smart devices, including the Siri AI-powered HomeView smart display. [S50]\n👀 Target's new CMO is on a mission to bring the brand's \"edge back\" and reclaim its spot at the forefront of culture. [S16]",
+  "sources": [
+    {
+      "id": 1,
+      "title": "The Microsoft Outage Is a Warning for the World",
+      "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
+      "source": "Wired"
+    },
+    {
+      "id": 2,
+      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+      "source": "The Verge"
+    },
+    {
+      "id": 3,
+      "title": "The future of CTV lies in standardization",
+      "url": "https://digiday.com/sponsored/the-future-of-ctv-lies-in-standardization/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 4,
+      "title": "Twitch debuts shoppable, skippable ads as TwitchCon feels growing pains",
+      "url": "https://www.marketingdive.com/news/twitch-debuts-shoppable-skippable-ads-as-twitchcon-feels-growing-pains/874614/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 5,
+      "title": "How Kuber Sharma, Senior Director of PMM at UiPath, built a team of AI agents  to run product launches",
+      "url": "https://www.productmarketingalliance.com/how-uipath-built-a-team-of-product-launch-agents/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 6,
+      "title": "AI influencers: What consumer sentiment data tells brands",
+      "url": "https://blog.hubspot.com/marketing/ai-influencers",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 7,
+      "title": "de:volt",
+      "url": "https://www.producthunt.com/products/de-volt",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "StockRip",
+      "url": "https://www.producthunt.com/products/stockrip",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 9,
+      "title": "AI-derived audience insights hurt results: What the numbers say",
+      "url": "https://www.marketingdive.com/news/ai-derived-audience-insights-hurt-results-what-the-numbers-say/874565/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 10,
+      "title": "Home Depot, ESPN Among 2026 Brand Hall of Fame Inductees",
+      "url": "https://www.adweek.com/brand-marketing/home-depot-espn-among-2026-brand-hall-of-fame-inductees/",
+      "source": "Adweek"
+    },
+    {
+      "id": 11,
+      "title": "Velocity Over Volume: Archer Roose Wines on Building Brand Loyalty in a Competitive Market",
+      "url": "https://www.adweek.com/brand-marketing/velocity-over-volume-archer-roose-wines-on-building-brand-loyalty-in-a-competitive-market/",
+      "source": "Adweek"
+    },
+    {
+      "id": 12,
+      "title": "How to go from experimenting with AI to a repeatable AI workflow",
+      "url": "https://www.productmarketingalliance.com/how-to-go-from-experimenting-with-ai-to-a-repeatable-ai-workflow/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 13,
+      "title": "Brandweek 2026: Why Gopuff Would ‘Rather Be Debated Than Ignored’ ft. Tyler Stewart",
+      "url": "https://www.adweek.com/brand-marketing/brandweek-2026-why-gopuff-would-rather-be-debated-than-ignored-ft-tyler-stewart/",
+      "source": "Adweek"
+    },
+    {
+      "id": 14,
+      "title": "Beyond Points and Perks: How Sephora Makes 46 Million Members Feel Known",
+      "url": "https://www.adweek.com/brand-marketing/beyond-points-and-perks-how-sephora-makes-46-million-members-feel-known/",
+      "source": "Adweek"
+    },
+    {
+      "id": 15,
+      "title": "Pamela Anderson on How Skincare Brand Sonsie’s First Holiday Ad Reflects Her World",
+      "url": "https://www.adweek.com/brand-marketing/pamela-anderson-on-how-skincare-brand-sonsies-first-holiday-ad-reflects-her-world/",
+      "source": "Adweek"
+    },
+    {
+      "id": 16,
+      "title": "Target’s New CMO Wants the Brand To Get Its Edge Back",
+      "url": "https://www.adweek.com/commerce/targets-new-cmo-wants-the-brand-to-get-its-edge-back/",
+      "source": "Adweek"
+    },
+    {
+      "id": 17,
+      "title": "Ads of the Week: 13 Campaigns That Caught Our Eye, From Disney to Maybelline",
+      "url": "https://www.adweek.com/creativity/ads-of-the-week-12-campaigns-that-caught-our-eye-from-disney-to-maybelline/",
+      "source": "Adweek"
+    },
+    {
+      "id": 18,
+      "title": "D+ Research: Marketers express revenue optimism for 2026 holiday season despite economic pressures",
+      "url": "https://digiday.com/marketing/d-research-marketers-express-revenue-optimism-for-2026-holiday-season-despite-economic-pressures/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 19,
+      "title": "Playfly’s CEO explains why leagues are looking to consolidate local sports rights",
+      "url": "https://digiday.com/media-buying/playflys-ceo-explains-why-leagues-are-looking-to-consolidate-local-sports-rights/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 20,
+      "title": "Mattel brings Barbie, Hot Wheels to TikTok Shop",
+      "url": "https://digiday.com/marketing/mattel-brings-barbie-hot-wheels-to-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 21,
+      "title": "AI is turning ad tech into a fight for the brain behind the buy",
+      "url": "https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 22,
+      "title": "Future of Marketing Briefing: Inside Guinness’ go-slow approach to creators",
+      "url": "https://digiday.com/marketing/future-of-marketing-briefing-inside-guinness-go-slow-approach-to-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 23,
+      "title": "Edits app gets speed curves and auto audio balancing",
+      "url": "https://www.socialmediatoday.com/news/edits-app-gets-speed-curves-and-auto-audio-balancing/874586/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 24,
+      "title": "Instagram experiments with sports feature",
+      "url": "https://www.socialmediatoday.com/news/instagram-experiments-with-sports-feature/874585/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 25,
+      "title": "YouTube announces GTA VI activations",
+      "url": "https://www.socialmediatoday.com/news/youtube-announces-gta-vi-activations/874583/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 26,
+      "title": "LinkedIn launches CTV ads in the UK",
+      "url": "https://www.socialmediatoday.com/news/linkedin-launches-ctv-ads-in-the-uk/874581/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 27,
+      "title": "Why user-first ad experiences build the strongest app businesses",
+      "url": "https://digiday.com/sponsored/why-user-first-ad-experiences-build-the-strongest-app-businesses/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 28,
+      "title": "5 Questions For…CNBC’s Carl Quintanilla on Nvidia CEO&#8217;s Shocking Departure",
+      "url": "https://www.adweek.com/tvnewser/5-questions-forcnbcs-carl-quintanilla-on-nvidias-ceo-shocking-departure/",
+      "source": "Adweek"
+    },
+    {
+      "id": 29,
+      "title": "Week of Nov 2 Cable News Ratings: Midterm Elections Bring in Viewers",
+      "url": "https://www.adweek.com/tvnewser/week-of-nov-2-2026-cable-news-ratings-midterm-elections-bring-in-viewers/",
+      "source": "Adweek"
+    },
+    {
+      "id": 30,
+      "title": "Pinterest adds holiday shopping tools",
+      "url": "https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 31,
+      "title": "Welch’s holiday microdrama embraces Y2K nostalgia as Gen Z become parents",
+      "url": "https://www.marketingdive.com/news/welchs-holiday-microdrama-embraces-y2k-nostalgia-as-gen-z-become-parents/874453/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 32,
+      "title": "Sociable: Meta’s AI ads included unapproved discounts",
+      "url": "https://www.marketingdive.com/news/sociable-metas-ai-ads-included-unapproved-discounts/874525/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 33,
+      "title": "Claude Meetings",
+      "url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 34,
+      "title": "Replicate",
+      "url": "https://www.producthunt.com/products/replicate-10",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 35,
+      "title": "Pocket Studio for Supabase",
+      "url": "https://www.producthunt.com/products/pocket-studio-for-supabase",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 36,
+      "title": "WHOOP Humans",
+      "url": "https://www.producthunt.com/products/whoop",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 37,
+      "title": "Paxper",
+      "url": "https://www.producthunt.com/products/paxper",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 38,
+      "title": "Hoverine",
+      "url": "https://www.producthunt.com/products/hoverine",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 39,
+      "title": "GAtrends",
+      "url": "https://www.producthunt.com/products/gatrends",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 40,
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://www.producthunt.com/products/gemini-6",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 41,
+      "title": "Expo Simulators",
+      "url": "https://www.producthunt.com/products/expo",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 42,
+      "title": "The new Apple TV has a YouTube problem",
+      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+      "source": "The Verge"
+    },
+    {
+      "id": 43,
+      "title": "Microsoft&#8217;s massive Outlook outage continues",
+      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "source": "The Verge"
+    },
+    {
+      "id": 44,
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "The Verge’s 2026 gift guide for dads",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 46,
+      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
+      "url": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "Jensen Huang and the End of the Founder Fairy Tale",
+      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+      "source": "Wired"
+    },
+    {
+      "id": 48,
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 49,
+      "title": "The best early Black Friday deals you can already shop",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Apple announces release dates for the first Apple Home Collection smart devices",
+      "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 52,
+      "title": "What&#8217;s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "source": "The Verge"
+    },
+    {
+      "id": 53,
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 54,
+      "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
+      "url": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
+      "source": "The Verge"
+    },
+    {
+      "id": 55,
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge"
+    },
+    {
+      "id": 56,
+      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 57,
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 58,
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 59,
+      "title": "3 Best Walking Pad Treadmills for Homes and Offices (2026)",
+      "url": "https://www.wired.com/story/best-walking-pads/",
+      "source": "Wired"
+    },
+    {
+      "id": 60,
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 61,
+      "title": "TCL QM7L Mini-LED TV Review (2026)",
+      "url": "https://www.wired.com/review/tcl-qm7l/",
+      "source": "Wired"
+    },
+    {
+      "id": 62,
+      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+      "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+      "source": "Wired"
+    },
+    {
+      "id": 63,
+      "title": "Even Black Friday Will Be More Expensive Than Usual",
+      "url": "https://www.wired.com/story/even-black-friday-2026-will-be-more-expensive-than-usual/",
+      "source": "Wired"
+    },
+    {
+      "id": 64,
+      "title": "‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next",
+      "url": "https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next/",
+      "source": "Wired"
+    },
+    {
+      "id": 65,
+      "title": "Inside the 42-Year Journey to Bring ‘Neuromancer’ to the Screen",
+      "url": "https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/",
+      "source": "Wired"
+    },
+    {
+      "id": 66,
+      "title": "‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk",
+      "url": "https://www.wired.com/story/cybertruck-fans-demand-answers-from-elon-musk-about-the-vehicles-demise/",
+      "source": "Wired"
+    },
+    {
+      "id": 67,
+      "title": "The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat",
+      "url": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/",
+      "source": "Wired"
+    },
+    {
+      "id": 68,
+      "title": "Bitdefender Antivirus Plus Review: Undercutting the Competition",
+      "url": "https://www.wired.com/review/bitdefender-antivirus-plus/",
+      "source": "Wired"
+    },
+    {
+      "id": 69,
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 70,
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 71,
+      "title": "Gametime Promo Code: Save on Tickets in November 2026",
+      "url": "https://www.wired.com/story/gametime-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 72,
+      "title": "Instacart Promo Code: $15 Off | November 2026",
+      "url": "https://www.wired.com/story/instacart-promo/code/",
+      "source": "Wired"
+    },
+    {
+      "id": 73,
+      "title": "Peacock Promo Codes: 40% Off November 2026",
+      "url": "https://www.wired.com/story/peacock-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 74,
+      "title": "LG Promo Codes and Coupons for November 2026",
+      "url": "https://www.wired.com/story/lg-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 75,
+      "title": "Chatbooks Promo Code: 40% Off | November 2026",
+      "url": "https://www.wired.com/story/chatbooks-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 76,
+      "title": "Western Digital Promo Code: 15% Off",
+      "url": "https://www.wired.com/story/western-digital-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 77,
+      "title": "Logitech Promo Codes and Deals: Up to $100 Off",
+      "url": "https://www.wired.com/story/logitech-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 78,
+      "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "source": "Wired"
+    },
+    {
+      "id": 79,
+      "title": "Roborock Robot Vacuum Early Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 80,
+      "title": "Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year",
+      "url": "https://www.wired.com/story/mint-mobile-phone-deal-november-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 81,
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 82,
+      "title": "Silicon Valley Is Still Defending Jensen Huang",
+      "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+      "source": "Wired"
+    },
+    {
+      "id": 83,
+      "title": "The 10 Best Early Black Friday TV Deals (2026)",
+      "url": "https://www.wired.com/story/early-black-friday-tv-deals-11-12-26/",
+      "source": "Wired"
+    },
+    {
+      "id": 84,
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 85,
+      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+      "source": "Wired"
+    },
+    {
+      "id": 86,
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 87,
+      "title": "Walmart Early Black Friday Deals Double as Great Gifts (2026)",
+      "url": "https://www.wired.com/story/walmart-black-friday-deals-gifts-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 88,
+      "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+      "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+      "source": "Wired"
+    },
+    {
+      "id": 89,
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 90,
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 91,
+      "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+      "url": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/",
+      "source": "Wired"
+    },
+    {
+      "id": 92,
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 93,
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 94,
+      "title": "Climate Change Has Pushed the World's Ice Out of Its Safe Zone",
+      "url": "https://www.wired.com/story/climate-change-abolishes-ice/",
+      "source": "Wired"
+    },
+    {
+      "id": 95,
+      "title": "Jensen Huang’s $470 Billion Affair",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+      "source": "Wired"
+    },
+    {
+      "id": 96,
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 97,
+      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+      "source": "Wired"
+    },
+    {
+      "id": 98,
+      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+      "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+      "source": "Wired"
+    },
+    {
+      "id": 99,
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "source": "TechCrunch"
+    }
+  ]
+}
