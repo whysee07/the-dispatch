@@ -1,0 +1,555 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T17:47:59.891608+00:00",
+  "raw_text": "Yo, TGIF. And what a week. Jensen Huang’s personal drama is overshadowing everything, Microsoft is proving why you don't put all your eggs in one cloud basket, and the global supply chain is just flexing its vulnerabilities. Let’s get into it.\n\nMoney Talk\n\n- **Nvidia CEO exit sends ripples through markets.**\nJensen Huang, the former face of Nvidia, resigned following an affair linked to an alleged Chinese spy, leaving behind risky AI bets and a legal mess. Treasury Secretary Scott Bessent is already pointing fingers at Commerce Secretary Lutnick for \"leakage\" of critical chips to China, and financial advisors are telling clients to re-evaluate their Nvidia exposure. The drama is real, folks, and it’s got national security implications. [S2][S3][S8][S10][S19]\n\n- **Treasury yields climb on Fed rate hike fears.**\nThe 10-year Treasury yield is up to 5.17% as the market is now pretty convinced the Fed will hike rates again in December. Brace yourselves, borrowing money isn't getting any cheaper, and liquidity is tightening up. [S1]\n\n- **Microsoft's multi-day outage warns of cloud over-reliance.**\nMillions of users are still reeling from a nearly two-day global outage affecting Outlook, Teams, and 365. Microsoft says it’s \"improving,\" but this kind of widespread disruption is a massive wake-up call about how much of the modern economy relies on single cloud providers. Think of all the lost productivity – the cost is staggering. [S5][S6][S11]\n\n- **Jaguar Land Rover posts heavy losses amid EV competition.**\nJLR reported a £451 million quarterly loss after cutting 4,000 jobs. Their CEO is practically begging the EU and Britain to team up to fend off Chinese EV makers. It seems even luxury brands aren't immune to the brutal efficiency of the Asian automotive machine. [S13]\n\n- **Data center demand remains robust, defying slowdown fears.**\nGood news for the AI infrastructure crowd: utility CEOs at a recent conference aren't seeing any slowdown in electricity growth expectations for data centers. This suggests the underlying demand driving the AI boom is still chugging along, so maybe that \"slowdown concern\" is indeed overblown. [S4]\n\nWorld Lore\n\n- **Nvidia's Huang out, CFO steps in amid AI and legal mess.**\nJensen Huang's scandalous departure has left Nvidia's CFO stepping into the interim CEO role, inheriting a minefield of \"risky AI bets and a legal mess.\" This isn't just a corporate leadership change; it's a major tremor in the geopolitically charged tech race between the US and China. [S21][S22][S30]\n\n- **US envoys shuttle between Putin and Zelenskyy.**\nJared Kushner and Steve Witkoff were in the Kremlin meeting with Putin after talks in Abu Dhabi, and they’re off to Ireland to see Zelenskyy next. High-level back-channel diplomacy is clearly in overdrive, suggesting some serious moves behind the scenes on the Ukraine conflict. [S23]\n\n- **Lame-Duck Trump embarks on Asia tour post-midterms.**\nPresident Trump is heading to the Philippines and China right after his party took a beating in the midterms. Expect fireworks, as this could be an attempt to reassert influence or, more likely, engage in some \"coercion\" tactics with U.S. allies. Buckle up. [S28][S26]\n\n- **Indonesia's VP resigns amid academic credential scandal.**\nIndonesia's Vice President Raka, son of former President Joko Widodo, has resigned after courts questioned his overseas education documents and eligibility. Another day, another political leader brought down by questionable paperwork. [S24]\n\n- **Mossad chief in DC as Netanyahu pushes for Iran war.**\nRoman Gofman, the director of Israel's Mossad and a close confidant of Benjamin Netanyahu, is in Washington D.C. for talks with the Trump administration about the ongoing war in Iran. The situation in the Middle East is clearly far from settled, and diplomatic pressure is ramping up. [S18]\n\nTech Tea\n\n- **Microsoft's cloud apocalypse continues.**\nOutlook, Teams, and much of Microsoft's cloud services have been down for nearly two days globally, impacting millions. This isn't just an outage; it's a full-blown \"global cloud crisis\" and a serious warning for everyone relying on a single vendor for critical infrastructure. LibreOffice is probably having a field day with the tweets. [S5][S6][S11][S37][S45][S49][S51]\n\n- **ChatGPT Wallet enables AI agents to shop for you.**\nOpenAI is rolling out \"ChatGPT Wallet\" to U.S. Pro subscribers, letting AI agents handle your online shopping and checkout. On one hand, convenient; on the other, this could open up a whole new world of accidental purchases and data privacy headaches. [S41]\n\n- **Huang's Nvidia legacy: sex scandal and environmental concerns.**\nBeyond the affair with an alleged Chinese spy that led to Jensen Huang's resignation, his tenure at Nvidia is also being critiqued for its environmental impact. Nvidia's AI chips are fueling water- and chemical-intensive factories and draining power grids. The \"founder fairy tale\" clearly has a dark side. Meanwhile, Arm's Rene Haas was apparently approached for the top job. [S36][S42][S46][S52]\n\n- **Multiple data breaches hit Uber, Brazilian insurer, and more.**\nIt’s been a rough couple of days for cybersecurity. Uber confirmed hackers stole thousands of drivers' license info via an AI cloud company, Brazil's Caixa insurer exposed names and tax IDs of 7.6 million customers, and North Korean hackers used fake video calls to steal a whopping $400 million in crypto. Change your passwords, people, and double-check those video calls. [S38][S39][S40][S43]\n\n- **New Apple TV 4K hits YouTube snags on launch day.**\nEarly adopters of the brand new Apple TV 4K are getting a black screen and an error message saying \"YouTube is not yet available on this device.\" Not exactly the seamless user experience Apple usually promises. Someone at Cupertino is probably having a bad Friday. [S48]\n\nCreator Szn\n\n- **Mattel jumps onto TikTok Shop with iconic brands.**\nMattel is launching a TikTok Shop store this week, featuring Barbie, Hot Wheels, Fisher-Price, and Monster High. It’s a smart move to capture Gen Z and millennial spending directly on the platform where cultural trends are born. [S59]\n\n- **AI is making ad tech a battle of brains, not just bids.**\nAs AI automates more advertising workflows, the competition is shifting from simply managing campaigns to who can leverage AI to make the smartest decisions. It's becoming a \"fight for the brain behind the buy,\" where strategic insights powered by AI will determine who wins the ad game. [S60]\n\n- **CTV pushes for standardization as smart TV screens become prime real estate.**\nAdvertisers are increasingly looking beyond traditional in-stream video to the smart TV home screen itself, recognizing its growing importance. This shift is driving a call for greater standardization in Connected TV (CTV) to make ad placement more consistent and effective. [S56]\n\n- **Marketers optimistic for a strong 2026 holiday shopping season.**\nDespite ongoing economic pressures, marketers are surprisingly bullish, expecting holiday revenues for 2026 to increase anywhere from 1% to over 31% compared to last year. If they’re right, expect a vibrant end to the year for creators and brands. [S57]\n\nSupply Lines\n\n- **DHL Express injects €55M into new Stockholm gateway.**\nDHL is dropping some serious cash, €55 million, into a new Stockholm gateway. This isn't just an upgrade; it's a strategic play to boost capacity and speed in the Nordic region, showing confidence in cross-border trade there. [S80]\n\n- **FedEx beefs up tech oversight with new board appointment.**\nFedEx has appointed Katherine Boyle to its board specifically to deepen tech oversight. This signals that digital transformation and leveraging technology are becoming even more critical priorities for the logistics giant, not just a nice-to-have. [S83][S85]\n\n- **Walmart dramatically expands drone delivery network with Zipline.**\nWalmart is set to more than double its drone delivery sites, partnering further with Zipline to offer rapid air delivery nationwide over the coming years. Drones are moving from niche novelty to a mainstream last-mile solution for the retail behemoth, changing how goods get to your door. [S68]\n\n- **White House set to extend Jones Act waiver.**\nSources indicate President Trump is likely to extend the Jones Act waiver, which allows foreign-flagged vessels to move cargo between U.S. ports. This helps alleviate domestic shipping capacity constraints and keeps things moving, especially for critical goods. [S63]\n\n- **USPS readies 2027 rate hikes and a permanent fuel surcharge.**\nPrepare your wallets: the USPS plans to increase prices by an average of 5.9% for services like Ground Advantage and Priority Mail in January, along with implementing a permanent fuel surcharge. Shipping costs aren't just rising; they're getting a long-term adjustment. [S69]\n\n- **Port of Los Angeles battles elevated rail dwell times.**\nThe Port of LA is once again seeing frustratingly long wait times for idle containers heading to rail transport, with dwell times exceeding nine days. This bottleneck means delays for goods moving inland and adds yet another layer of complexity to supply chain planning. [S66]\n\nSpeed Round\n\n- Nvidia's former CEO really fumbled the bag on the way out.\n- Microsoft's outage is a stark reminder that even giants stumble, and maybe you should back up your emails.\n- Pope Leo's South America tour is apparently as much about geopolitics as it is about prayer.\n- Emergency stockpiling now includes cider and candy canes, which is a very British form of apocalypse prep.\n- Jaguar Land Rover is bleeding cash and wants the UK and EU to hold hands against Chinese EV makers.\n- North Korean hackers are using fake video calls to steal millions, so maybe don't answer that Zoom from 'Bill Gates'.\n- Truck drivers are dying too young, highlighting a health crisis the industry desperately needs to address.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
+      "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+      "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "Why the data center slowdown concern is overblown. Two stocks to buy amid the fear",
+      "url": "https://www.cnbc.com/2026/11/13/data-center-slowdown-utility-stocks.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "Microsoft says email delivery and service availability 'improving' across more infrastructure",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "What are people emergency stockpiling?",
+      "url": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "Shoplifters 'stealing to order' in Scottish shops",
+      "url": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "Microsoft outage live: disruption continues to affect millions as company says service is improving",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
+      "url": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "Jaguar Land Rover reports £451m quarterly loss after cutting 4,000 jobs",
+      "url": "https://www.theguardian.com/business/2026/nov/13/jaguar-land-rover-quarterly-loss-electric-cars-job-cuts",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
+      "url": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "UK’s biggest insurer hit by rise in subsidence claims after record hot summer",
+      "url": "https://www.theguardian.com/business/2026/nov/13/uk-insurer-rise-in-subsidence-claims-aviva-hastings-direct-axa",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "The global economy's Achilles' heels",
+      "url": "https://www.axios.com/2026/11/13/global-trade-supply-hormuz-mckinsey",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Inside the aftermath of the Logan Circle shooting",
+      "url": "https://www.axios.com/local/washington-dc/2026/11/13/logan-circle-shooting-dc-barricade",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war",
+      "url": "https://www.axios.com/2026/11/13/mossad-israel-iran-war-netanyahu-pressures-trump",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Bessent puts Megaspeed heat on Lutnick: \"Commerce has the pen\"",
+      "url": "https://www.axios.com/2026/11/13/bessent-lutnick-megaspeed-nvidia",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "Oil supplies bounce back, but prices are still high",
+      "url": "https://www.axios.com/2026/11/13/oil-markets-iran-prices-trump-deal",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+      "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+      "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "Congress Can Do More to Defend U.S. Alliances",
+      "url": "https://foreignpolicy.com/2026/11/13/congress-alliances-nato-europe-china-defense-tariffs/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "Pope Leo’s South America Tour",
+      "url": "https://foreignpolicy.com/2026/11/13/pope-leo-south-america-trip-argentina-peru-uruguay/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "Lame-Duck Trump Heads to Asia",
+      "url": "https://foreignpolicy.com/2026/11/13/trump-asia-visit-apec-china-philippines-quad-asean-xi-putin/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "Hegseth’s Troubles Are Far From Over",
+      "url": "https://foreignpolicy.com/2026/11/12/hegseth-impeachment-congress-democrats-trump/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "Huang Out at Nvidia",
+      "url": "https://foreignpolicy.com/2026/11/12/nvidia-jensen-huang-resigns-ai-china-spy-megaspeed-extramarital-affairs/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "The dangers of revising Europe's security architecture",
+      "url": "https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "EU leaders urged to 'act now' to stay AI competitive with US, China",
+      "url": "https://www.dw.com/en/eu-leaders-urged-to-act-now-to-stay-ai-competitive-with-us-china/a-79937463?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "What's going on with the polar vortex?",
+      "url": "https://www.dw.com/en/what-s-going-on-with-the-polar-vortex/a-79943105?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "Ice hockey: Russia threatens against Canada and Germany over exclusion from tournaments",
+      "url": "https://www.dw.com/en/ice-hockey-russia-threatens-against-canada-and-germany-over-exclusion-from-tournaments/a-79942676?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "Why does El Salvador's Bukele have troops in Haiti?",
+      "url": "https://www.dw.com/en/why-does-el-salvador-s-bukele-have-troops-in-haiti/a-79940771?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+      "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "\"LibreOffice works 365 days a year. Just saying.\"",
+      "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "Apify Was Hacked",
+      "url": "https://status.apify.com/incidents/sxd1dj5j6749",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "North Korean hackers used fake video calls in $400M crypto hack, says FBI",
+      "url": "https://www.bbc.com/news/articles/cqdj1ellpd70o",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+      "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Jensen Huang was reckless with the environment, too",
+      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "The new Apple TV has a YouTube problem",
+      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "Microsoft&#8217;s massive Outlook outage continues",
+      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "The Verge’s 2026 gift guide for dads",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "The Microsoft Outage Is a Warning for the World",
+      "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Jensen Huang and the End of the Founder Fairy Tale",
+      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "3 Best Walking Pad Treadmills for Homes and Offices (2026)",
+      "url": "https://www.wired.com/story/best-walking-pads/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "TCL QM7L Mini-LED TV Review (2026)",
+      "url": "https://www.wired.com/review/tcl-qm7l/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+      "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "The future of CTV lies in standardization",
+      "url": "https://digiday.com/sponsored/the-future-of-ctv-lies-in-standardization/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "D+ Research: Marketers express revenue optimism for 2026 holiday season despite economic pressures",
+      "url": "https://digiday.com/marketing/d-research-marketers-express-revenue-optimism-for-2026-holiday-season-despite-economic-pressures/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "Playfly’s CEO explains why leagues are looking to consolidate local sports rights",
+      "url": "https://digiday.com/media-buying/playflys-ceo-explains-why-leagues-are-looking-to-consolidate-local-sports-rights/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "Mattel brings Barbie, Hot Wheels to TikTok Shop",
+      "url": "https://digiday.com/marketing/mattel-brings-barbie-hot-wheels-to-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "AI is turning ad tech into a fight for the brain behind the buy",
+      "url": "https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 61,
+      "title": "Truckers Die at 61? The Health Crisis We Ignore",
+      "url": "https://www.freightwaves.com/news/truckers-die-at-61-the-health-crisis-we-ignore",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 62,
+      "title": "Suspect in $100M Brink’s jewelry theft agrees to plead guilty in related cargo robbery case",
+      "url": "https://www.freightwaves.com/news/suspect-in-100m-brinks-jewelry-theft-agrees-to-plead-guilty-in-related-cargo-robbery-case",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "White House to extend Jones Act waiver as deadline nears, sources say",
+      "url": "https://www.freightwaves.com/news/white-house-to-extend-jones-act-waiver-as-deadline-nears-sources-say",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 64,
+      "title": "FMCSA revokes 133 electronic logging devices in fraud crackdown",
+      "url": "https://www.freightwaves.com/news/fmcsa-revokes-133-electronic-logging-devices-in-fraud-crackdown",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 65,
+      "title": "Proficient Auto Logistics eyes margin recovery after challenging Q3",
+      "url": "https://www.freightwaves.com/news/proficient-auto-logistics-eyes-margin-recovery-after-challenging-q3",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 66,
+      "title": "Port of Los Angeles grapples with elevated rail dwell times",
+      "url": "https://www.supplychaindive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874553/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 67,
+      "title": "JD Sports leverages tech for faster replenishment",
+      "url": "https://www.supplychaindive.com/news/jd-sports-leverages-tech-for-faster-replenishment/874427/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 68,
+      "title": "Walmart more than doubles planned drone delivery sites",
+      "url": "https://www.supplychaindive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites/874580/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 69,
+      "title": "USPS readies 2027 rate increase, permanent fuel surcharge",
+      "url": "https://www.supplychaindive.com/news/usps-readies-2027-rate-increase-permanent-fuel-surcharge/874524/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 70,
+      "title": "Trump threatens to double Mexico tariffs over migrant caravans",
+      "url": "https://www.supplychaindive.com/news/trump-threatens-to-double-mexico-tariffs-over-migrant-caravans/874534/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 71,
+      "title": "CMA CGM Q3 26 update out: Ocean outperforms, Ceva a mixed bag",
+      "url": "https://theloadstar.com/cma-cgm-q3-26-update-out-ocean-outperforms-ceva-a-mixed-bag/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 72,
+      "title": "Blanked sailings on the rise, with container spot rates on a gentle decline",
+      "url": "https://theloadstar.com/blanked-sailings-on-the-rise-with-container-spot-rates-on-a-gentle-decline/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 73,
+      "title": "Pinglu Canal fuels Nanning ambition to be an ASEAN logistics hub",
+      "url": "https://theloadstar.com/pinglu-canal-fuels-nanning-ambition-to-be-an-asean-logistics-hub/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 74,
+      "title": "Pay more or risk ‘an awful lot of cherry juice’: the perishables airfreight squeeze",
+      "url": "https://theloadstar.com/pay-more-or-risk-an-awful-lot-of-cherry-juice-the-perishables-airfreight-squeeze/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 75,
+      "title": "Democrat success may mean more trade stability, but alongside tariffs",
+      "url": "https://theloadstar.com/democrat-success-may-mean-more-trade-stability-but-alongside-tariffs/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 76,
+      "title": "UPS’ Teamsters contract expires in 2028. Shippers should prepare now. - Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUJ2Z08zLVppUE10MDFyVEZkY21acGhfWGt4WWlFZjZUbDJzbUIwTExDUU42TElqZzhKTlRZS2ozdU1Yc0pQbE4yX0I1bFBXLUtrV1U1Y1dfMjJQS0QyRWhmVF9mekdycGM1Z1M0b29HVTlzNFBCRTl6Q0otYWI5SVEwcnlncGFJaTF3VDMxQktmd185dXNZRElTZHhVbURYb1ZuNmFJUEo3Zm5oREktWg?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 77,
+      "title": "China Plus One Strategy: A Guide For SMEs - DHL",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFZGU1kwQUZtdVJDa3RyS2puNnkyRWtrTTZSWkZiMXZFN0stbHdZSC1MNFFUOXg5Yk5VeTlKanFMckx4THVwUUhOdUtYUnJCbk00Wk5CcXdOSm9UWTRtYjBpaVBTNllkQkNqeUdlQk54bUprUHUtTlpTTFllY0pCcUNZaFlROEUxTFhv?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 78,
+      "title": "DHL, Zimbabwe train digital youth - ITWeb Africa",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQWJhOThzZUNXR0lpMHpxZUd0UE5WeldqcmhLYjRtWVdqYTMwYnBkOGIyQ3g1SENGNzdGVUJXYy1nNHFGemp1cEdPT3hZNFhqaXdWZWM1STUzS2JwWmk0cDVReTdTRGNxSERtUWlsQzZHdGtSOXRhN0hjajd5TU1LandKMVE?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 79,
+      "title": "Nov 12, 2026: Respect and results strategy: DHL ranked #6 on World's Best Workplaces™ 2026 list - DHL Group",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMHd1bFN0NVFUS3ZDR015a2oyZmxIR2N5ZGRtWnlZeF9RcUh3ZUpBQi1xZFN2RHA3VWFUTjdtaDJUOEg3S2xPNzdjU0lFdmtmYVItMXh6SHBPR2ZkQnNpMFlENEV6VnI0VVFjNzIzQ0JDazQxNzlVRHlzeTNUckFyWGJndmRxZTQ4TzdaeWdDLVd6cHFPaVdUX2NGbXhzYTNVNWxfOXJZVkpqSDJ0Z1Jhc2xSbXN0MFMzNGpHVng5NHFXTHR3Rkpnand6Sk02Mm1mVnR2UEJSRlYtSkZud1E?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 80,
+      "title": "DHL Express invests €55 million in new Stockholm gateway - Container News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOck9SRm5GZ1lmaVdQaGptSFpteFdpLUVDZTJIeFBTTUlFZXhzRmxac3BuVUlISWdiMWFsMjJfaklUT0VQVnZkSGlQRUNvRXkxRi1sanNEcVNGd3FlN2p4X0xaV0RGdExCLUpNWUJYZkZkY0F2M0lDMjBtRzlNeHZvaVVkMjlwcUFQbkRqZg?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 81,
+      "title": "U.S. SMEs Enter 2027 With Strong Growth Expectations, Despite Economic Headwinds - DHL",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORDJXOTh5NGZkSzAzY0VoYTlyV0Q4RFNnQ1J1Ynd6ajJ5SWVWMlYyV2tEUVl6SDF3b0NlUmNnRGEyNHhBcloxQVdVR080TnBVdV9Mb2JMdjRBWFJwNEFDQmV4RG5WMnFITFltNUFZYTY3bkNTdEFVbVFETnBkWjJ6MzZDbjE2WVJ3dzZVcU11R29hM0pHZVhORHlzUXZpTzNUYk1OcDJiSm9hcG01ZU5iNXNlY2k3VFZuZW9zOC05QkZHN1RCVmtmWDVLUVM?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 82,
+      "title": "Start game planning holiday gifts if you haven't. 2026 shipping deadlines - The News-Press",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPam9nMU1peDhmek9ibzRBMDVHTldpZlFIdm1VM3FxdEJsbFNjN2lmUDdTZ1Rrd3NuUGZoNFduNEIzTjY1SWZ3Yk04UnY1cFVVQ0ROdE90U05kYVN2dzhBQVlFYnlaUkJQUDJWOEphU1RlVFZrN0FtamFwOGpGOGZtNW8tdm5zWVRUU1JCVnNCY3V6cVU0Tm1zejZDM3NKNDU5TWFCYXRIS0tnU1JrQnhLSV83UGE1U1ZZeWNKaw?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 83,
+      "title": "FedEx stock: Katherine Boyle joins board for tech oversight - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONDFoYUNjTGhRT2l3VHRta01oMkFmajhib2xOWmJmRGw1X3F1a3FEU3ZReENoX2U0RnFNWVB4d2pBRVc5Nm5ITkR1bUFVTzQwRE1QRmJXNzBnZ2l2T2tSNmpLcUJ6VzhqWi03YzhFaElhZVZrM21pYXE3MUJxZ0E0bmh1aEFrNjg1XzFrNHE4R21lSE53OThUc3p0QVF4NlN0RmRjZEFvbGZwZGlmWDkzQllEMjZCSTA2RkI0SXVR?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 84,
+      "title": "Help Me Ben: Navigating shipping troubles during the holiday season - wyomingnewsnow.tv",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDJ3em1fV3kxVFREcjFWeURZYWFySV8tOFpsRUtaOWQ2X0hCcDJ4T2tKejNJVEVGYmVPSHNqdGpfeW52VjREQk03Vmx6SjBLU1c0SlJST2lWeFhOTE84eTJteFlqaTU5OW9MVnZLNWpDTzVnVnhfWDJPZzcxajFkY1dHMi1aZFBSN0pIbVJHYS1YbFVVd1VPcGRFX2JNMm5Wb0RvTmhxY01SbFd3NXFhMC1fUXoyanRJVzhiYk1JTy16cUlKT1l0SnNQTy1SQTg1QjFIcXE0NFIyaWRrd1IyRWtZM1FxSkdHUml0ZjRJMmFaUQ?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 85,
+      "title": "FedEx (FDX) Appoints Katherine M. Boyle To Board as Tech Oversight Deepens - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbDIzSjZ5eXpXaEZscDZBbjVvdk14SnVoSEMxZ1JKS0tFVW5weUw4TlI2bG4wY3p4OEItRTNRVG55VXpPU0l0RVhHMmF0RHU5eHd1Zm1nb3VUMmU3eWJPa2daWGxMRFE5ZnlfN3pCYWxwZS1XaUI4cFJOV2xrbE9WSktMSGdvX3ZUU29yeGdMVm5MYnU4ckdXNTdjQmFXZ0pZbjFOQ0Q3czgwbVlwUHNNOXI5NkExczB0RTZJY1RQZEJBcTY1R2fSAcsBQVVfeXFMT0tlaXU0Y2ZRNGwzdzVCZHJ4ZjNQeC11N3dLUFppM1phNHBKYmJXY1lITU9lVW9BSXB6RmlHM3hjZm1WMGRGR0RrcDNvWjVXVkFBOGFoMFBzdXVQeFc0NmRtVHNJb0JwajBPOG5lRE0zNFk0STQ4VmpyWms2ZVhrYVhVdGlmdlNpSC1TQTd5X19vUEd4RmtRa1hpcEJFcjNwenlSVW1MSWhMVHRIYllIdHhoTHA1ZGNpZ2FpUkhxSm9kUnZicFJtdjhPMEE?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 86,
+      "title": "It is not too soon to plan for holiday shipping - Waitsburgtimes",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekNpZjEyNWVhaThmZXpSTjc2S0Ywa2ltb0NkVG1sS3QzMHhvZU9WdjhvRlhJUVE4LXNwY1pMeVBVNmxINllaUjdDYUxaUFVwTm15UlpqODExSkQ3SDRfYjBIMUpObzl1d3p0ZW45SjlON0dRTFVRN2kxdnl2akJQQnBYV21UYmZzU25TZzFSMW9fRWFqR2ZYejR0SlBaVzdhZzB6cmdwMHh5S0pQUnFzWg?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 87,
+      "title": "'Really big for us': CarbiCrete supplies carbon-negative pavers to Amazon - Sustainable Biz Canada",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVnk4ZzByVDVGbEtLRDhnSW5IRHBkbDB2UFpnTGZodzZ4ZEc3SU0xd01oVXZUTjE5VDFRbE0yR09BdndfNGFNSGk1TUdKTGFzeE1pM25oaW1Gai1YSGNDRzZQOEd0MF96VWE2TElrSVFXMXZDOFpVUA?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 88,
+      "title": "Amazon and Wichita delivery partners staff up ahead of holiday season - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYlpETVlpbFFEQzg2VW1GWkxlcjRxRWMxY21XVUpNZEtObk43RXd5clpXT0x5YU01YkJuYnNGR2taRzBUME9LdEZBLWZpUEk4bFEtMW5LaEVnZ3JpdllHeHRVNkhjQkhpWHY5VEdSNlQ5dWtDalpPUE9QWTFTb0dZV0dzdFYwNGdxbGp5OXBoeWlid28?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 89,
+      "title": "Microsoft outage delays vote on proposed LI Amazon warehouse - Newsday",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmF4MjZYaVQ0ajJxdkxULTB4YmxiU0hjMVpYSHRBM1hteEQ0bmVlZzhkSUdoUm5iN3VzUXUxNmtTazZCN0NnUTF5dDRTNzN0SFBtWkZ0LUVUbmhNSjZhV3VFNUJEcjFIMlcwc19ZSUctTXFmNlVPZFFvQ2drRVBubUNqUU9YQmttRnBIXw?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 90,
+      "title": "'Like a swarm of bees': Amazon drones are driving some Houston residents crazy - Chron",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZGlKUGJ2MHNUdGZJX3c3VTNvM3lSMk5mUGdoeEs2STNmVzRkS0VZRGw5NEhKbDRSY0lpZU5HVXhiazk0ZDY3NG5FY0kzVUtsVUd6RkdhVUh3NTdtMDh4YkJ2clVDRk9WaG5Zblpna2xubzJ2V1AtWmlfOGZhc2lISA?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 91,
+      "title": "Amazon EU Faces Italian Trial over Alleged €3.52M Unpaid Import VAT - Retail News Asia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNemxmQk9HVmNHMVdYNmp2LXp5OE9rRHoyUm0ycVl5ZEdqNm1ReTl6cG9lNzdLRzhDUlNzQ3p2VFJVUnlkUXVLZmJ6ZFVicndmUEVjbWNEcExjci0zXzNMZW1ZY1lvYVExc0o1WmZfSWg0S29Ma1c1U1R4bmozVVdnSG14NHdsT28wOVNKclA2TnZESUNVcnc?oc=5",
+      "source": "Amazon Logistics"
+    }
+  ]
+}
