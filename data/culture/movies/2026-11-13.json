@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T18:08:05.727927+00:00",
+  "tonight": {
+    "title": "The Odyssey",
+    "meta": "2026 · Adventure · 2h 53m · ★ 8.0",
+    "why": "Tonight, ditch the small talk and dive headfirst into 'Avengers: Doomsday,' where three universes collide in a spectacle of heroics and world-ending threats. It’s the kind of high-octane escapism designed to make your couch feel like the front row of an intergalactic battle.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+  },
+  "releases": [
+    {
+      "title": "Avengers: Doomsday",
+      "take": "Three universes, one big bad, and enough CGI to make your eyeballs feel like they've run a marathon.",
+      "score": 0,
+      "geo": "world"
+    },
+    {
+      "title": "Heart of the Beast",
+      "take": "Man's best friend meets nature's worst intentions in an Alaskan survival tale that's more bite than bark.",
+      "score": 75,
+      "geo": "world"
+    },
+    {
+      "title": "Other Mommy",
+      "take": "If your mom suddenly seems a little *too* perfect, maybe check her for tentacles, just in case.",
+      "score": 62,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "The Odyssey",
+    "blurb": "For the discerning viewer, 'Godzilla Minus Zero' isn't just another monster flick; it's a poignant, visceral exploration of national trauma and resilience, wrapped in the most terrifying and emotionally resonant kaiju film in years. This isn't just spectacle; it's cinema that bites.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
