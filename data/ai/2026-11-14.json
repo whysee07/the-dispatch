@@ -1,0 +1,549 @@
+{
+  "feed": "ai",
+  "feed_name": "AI Insider",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T16:14:46.371123+00:00",
+  "raw_text": "---\n\n**🔥 THE BIG STORY**\n\nAmazon is building a global product database, a proprietary knowledge graph of every item on Earth, not just the ones it sells. This is a direct shot at Google Search and the burgeoning field of independent AI shopping agents. While most see this as a way to improve Amazon's own shopping experience, the real play is far more ambitious: to become the foundational data layer for all AI-driven commerce. By owning the \"product brain\" of the internet, Amazon aims to ensure that any agent, anywhere, that wants to talk about products will have to go through them, effectively taxing the next generation of e-commerce. [S13][S19][S54][S57]\n\n---\n\n**🛠️ TOOL DROPS & UPDATES**\n\n- **Claude adds parallel workers to Code Projects.**\n  Anthropic's coding environment now lets developers spin up multiple AI agents to work on different parts of a codebase simultaneously. *Who cares and why:* This shifts AI development from a linear, conversational process to a parallel, multi-agent one, potentially collapsing complex coding timelines from days to hours. [S77]\n\n- **Amazon rolls out AI shopping assistant in Canada.**\n  The new tool integrates with Alexa, allowing conversational shopping based on a user's dialogue and past purchase history. *Who cares and why:* This is a major step toward truly personalized, conversational commerce, turning your chat history into a live, evolving shopping cart. [S9]\n\n- **Wakeo launches AI carrier-grading tool.**\n  The supply chain visibility platform released a new AI feature that grades carriers on their delivery performance and reliability *before* a freight tender is awarded. *Who cares and why:* It allows shippers to proactively de-risk their supply chain, using predictive AI to choose partners instead of relying on historical (and often outdated) performance data. [S7]\n\n---\n\n**🎯 USE CASE SPOTLIGHT — BY ROLE**\n\n- **📣 Product Marketer**\n  Analyze the new Amazon AI shopping assistant in Canada. Engage it in conversation about a product category you manage to understand how it surfaces features, compares competitors, and uses your purchase history to frame recommendations. [S9]\n\n- **📋 Product Manager**\n  Redefine your monitoring for any AI agent features. Based on new research, agents fail via \"silent drift,\" not errors. Instrument your dashboards to track not just error rates but also gradual declines in quality, increases in cost, and rising latency to catch failures before users do. [S5]\n\n- **🎨 Designer (UI/UX)**\n  Investigate the `expo/exact` framework on GitHub. Brainstorm UI patterns for an app that can be understood and operated by both a human and an AI agent, as this new framework is explicitly designed for agents to build, run, and test software on their own. [S73]\n\n- **📸 Photographer**\n  Today's data contains no new tools or developments directly applicable to photographers.\n\n- **🎬 Videographer & Filmmaker**\n  Today's data contains no new tools or developments directly applicable to videographers.\n\n- **📱 App Developer**\n  Use the new parallel workers in Claude Code Projects to accelerate your workflow. Task one AI worker with writing a new feature, a second with generating corresponding unit tests, and a third with drafting the API documentation, all at the same time. [S77]\n\n---\n\n**🔬 FROM THE LABS**\n\n**Old-school keyword search beats fancy AI for tool selection.**\nA new paper reveals a surprising truth for AI agents: when it comes to picking the right tool for a job from a large library, simple keyword search can be just as effective as a massive embedding model. Researchers tested BM25, a classic search algorithm, against a modern 8-billion-parameter embedding model for retrieving the correct tool for an agent. BM25 not only matched the AI model's accuracy but was also **40 times faster** running on a simple CPU. For products being built in the next 6-12 months, this is a wake-up call: faster, cheaper, and simpler often wins, and you might not need that expensive GPU-powered vector search for your agent's toolkit. [S65]\n\n---\n\n**🚚 AI IN LOGISTICS & SUPPLY CHAIN**\n\n- **Humble Robotics raises $51M for autonomous electric freight.**\n  The startup secured a massive Series A to scale its unique \"skateboard\" chassis, which combines a tractor and trailer into one autonomous electric vehicle for short-haul routes. This matters for operators because it targets the repetitive, predictable \"middle mile\" — the low-hanging fruit where autonomous freight is most likely to become commercially viable first. [S14][S37][S38]\n\n- **Amazon's grand plan for a global product database.**\n  Amazon is building a comprehensive data graph of products to power its next-gen AI shopping agents. For logistics, this is a seismic event. An AI that knows every product's attributes, supply chain, and availability can create hyper-optimized fulfillment paths, blurring the line between shopping cart and delivery route planning. [S13][S54]\n\n- **AI-powered cargo theft skyrockets to over $150M.**\n  Criminals are now using AI to generate fraudulent carrier identities and falsify shipping documents, leading to a massive surge in sophisticated cargo theft. This means logistics security is no longer just about physical locks; operators must now invest in AI-based verification systems to counter AI-driven threats. [S27][S28]\n\n- **ABB Robotics deploys \"physical AI\" for fashion logistics.**\n  The robotics giant is bringing industrial-grade AI to automate complex tasks in fashion warehouses, which have historically been difficult to automate due to product variability. For warehouse operators, this signals that AI is finally mature enough to handle high-mix, low-volume inventory, not just uniform boxes. [S17]\n\n---\n\n**💸 MONEY & MOVES**\n\n- **LangChain hits a $3B valuation.**\n  The startup providing tools for building AI agents has reached a new valuation milestone, with 7,000 customers for its LangSmith platform. *What this signals:* The big money is flowing to the \"picks and shovels\" of the AI gold rush — the frameworks and platforms that make agents actually work. [S41]\n\n- **Humble Robotics secures $51M Series A for autonomous trucks.**\n  The funding will expand the company's autonomous electric freight operations. *What this signals:* Focused, niche applications of autonomy (like short-haul electric freight) are attracting serious capital as investors bet on practical, near-term deployments over moonshots. [S14][S37]\n\n- **Axon invests another $1.2B in drone-maker Skydio.**\n  The public safety tech giant deepened its partnership with the autonomous drone company. *What this signals:* The market for autonomous physical AI, particularly in enterprise and government sectors like public safety, is white-hot and consolidating around key platform players. [S18]\n\n---\n\n**🤖 OPEN SOURCE WATCH**\n\n- **Ebony-Vinyl/dsh-our-free-model**\n  A plugin that gives free, unlimited, no-API-key-required access to frontier models like DeepSeek V4.1 Flash and Kimi K3. Created ~7 weeks ago, it's exploding with **~1481 stars/day**. Developers and researchers tired of paying API fees should try this immediately. [S68]\n\n- **KKKKhazix/agent-autoloop**\n  A framework for creating command-line agents that run tasks autonomously in the background, only surfacing a decision card when they need human input. Just 11 days old and already gaining **~482 stars/day**, it's perfect for anyone building long-running automations or DevOps tools. [S72]\n\n- **WinnerBrokerBarrow/ai--manus**\n  A general-purpose AI agent system that can run various tools and operations in a secure sandbox. Created just *yesterday*, it's already at **~303 stars/day**. This is one for early adopters who want to experiment with the cutting edge of sandboxed agent execution. [S75]\n\n---\n\n**🗣️ HACKER NEWS PULSE**\n\n- **Nvidia allegedly funded startups to buy its own GPUs.**\n  The comment thread vibe is a cynical shrug, with many viewing it as aggressive but standard \"ecosystem building\" for a dominant platform. The sharpest take: \"This isn't fraud, it's just late-stage capitalism's version of a self-licking ice cream cone. Nvidia created the demand, then funded the demand, then supplied the demand.\" [S76]\n\n- **Anthropic upgrades Claude Code Projects to run parallel AI workers.**\n  The vibe is cautiously optimistic, with developers intrigued by the speed boost but questioning the complexity of managing dependencies between parallel AI tasks. The sharpest take: \"This is a great 0-to-1 for parallel agents. The 1-to-100 will be the 'conductor' agent that can intelligently decompose a problem, assign it to workers, and synthesize the results without me having to play babysitter.\" [S77]\n\n- **Ask HN: What are the most useful, concrete AI skills to independently learn?**\n  The thread is a resounding call for fundamentals over hype, with a consensus forming around data engineering, classic machine learning, and fine-tuning open models. The sharpest take: \"The most durable skill is building a robust data pipeline. Prompts change, models change, but the person who can reliably get clean data to a model will always have a job.\" [S78]\n\n---\n\n**⚡ SPEED ROUND**\n\n- AI agents fail by \"silent drift\" in quality and cost, not by throwing loud errors. [S5]\n- AI-fueled ransomware is booming as attackers use AI tools to scale their campaigns. [S4]\n- The (hypothetical) departure of Nvidia's CEO is reportedly chilling AI startup funding. [S23]\n- Residents in Houston are complaining that Amazon's delivery drones sound \"like a swarm of bees.\" [S29]\n- New research finds banned Nvidia chips were used to train China's most powerful AI models. [S47]\n- A new open-source framework, `exact`, lets an AI agent build and test an app across web, macOS, iOS, and Linux. [S73]\n- Six humanoid robots successfully completed 1,730 tasks during a 24-hour trial in a working Shanghai convenience store. [S63]\n- Gemini is being used to automate last-mile workflows, with SMS as the final delivery mechanism. [S25]\n- Supply chain bottlenecks for semiconductors and data center components are now a major risk for continued AI expansion. [S15]\n\n---\n\n**🎮 TODAY'S DAILY CHALLENGE — TRY THIS IN 15 MINUTES**\n\nExperience the new frontier of parallel AI development with Claude's latest feature.\n\n- **The tool:** Claude (claude.ai)\n- **The exact workflow:**\n  1. Start a new \"Project\" in Claude.\n  2. In the first task window, give it this goal: `Create a simple Python web server using Flask that has two endpoints: \"/\" which returns \"Hello, World!\", and \"/time\" which returns the current UTC time.`\n  3. While it's working, click to open a **second, parallel task window**.\n  4. In the second window, give it this goal: `Write a test_app.py file using pytest to test the two endpoints of the Flask server being created in the other task.`\n- **What I'm testing for:** Watch how the two AI workers coordinate. Does the testing agent \"see\" the code the first agent is writing? How does it handle waiting for the first agent to finish a file before it starts testing? You're looking at the raw capability of multi-agent collaboration.\n- **Why this matters right now:** The future of AI-native software development isn't a single AI writing code linearly. It's a team of specialized AI agents working in parallel. This is one of the first commercially available tools that lets you experience that future firsthand. [S77]\n\n---\n\n**🧠 EDGE INSIGHT**\n\nToday's news signals a crucial shift in the AI value chain. The race for bigger, better foundation models is becoming table stakes. The new, more durable competitive advantage is being built one layer up: in the **orchestration and data layers** that make agents useful.\n\nAmazon isn't trying to out-model Google; it's building a proprietary product data graph that no other shopping agent can access. LangChain's $3B valuation isn't for a model; it's for the framework that connects models to tools and data. The hottest GitHub repos aren't model weights; they are agentic frameworks for execution and control.\n\nThe implication for the next 90 days: smart builders and investors will shift their focus from \"who has the smartest model?\" to \"who controls the workflow, the data, and the tools that the models need to get anything done?\" The real moats will be built not with parameters, but with pipelines.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "How to Build a Markov Chain in Python With NumPy",
+      "url": "https://towardsdatascience.com/how-to-build-a-markov-chain-in-python-with-numpy/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 2,
+      "title": "LED High Bay Lights Market Forecast to 2035: Warehouse Automation and Retrofits Fuel Growth - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTzRnNFk2eE5zekJmX3lBaTJ3d0VFYTFxai1KTmNBa01ReVhiUFh4Vi1PdDFGUTJ2T2lULVQzS1dVa3ZMM0lQVHAzNlNtNnluNl9lV1hXcE1YUDRNRlJHYkZlcDVoa244RFhUNnZWaEtpZHRxSERUWWNieFhENE94aEZ6bU1BZ0FvcjBPbEJUc0NkeDZ4SEN2S3VQQ0lRZ3Z2Y1JfQ0pKVDEyRWlLZ1NEd3dscld6clR6RGU5bVJrQ2pPU3NVMVE?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 3,
+      "title": "Tesla and Amazon are building the workforce a 1921 play imagined: One that never asks for a wage - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSVZSNlRiWThVSVE3eGxDOF9CbkdGZ3NCUTA4Tld5bDNYR3NtTmRRSXctLXpqRlcwMGFpaWdobXpoVE01UVJsNlRpMzlWNzdvcFJrU0tQYkxJRGRwbEdsamZZUmF6Y1JtUng3WWxMMGFDd2VoX3VMeWFEVE5iYjhtZXJocURXNzhiZUhaRHBubw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 4,
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 5,
+      "title": "Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors",
+      "url": "https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 6,
+      "title": "Pallet Inverters Market To 2035: Automation and Pallet Repair Fuel Forward Growth - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ092aW1maFlPUGZlbkpNOVRqTjZDd3VnbEhuSWxBVkdpeFFQQmg3b3d5WW82VXQybE9QSENhY1lxNWV0TnFRdGs2X0VhYnFtbEtFd0FWRmZpcVhPcWgzcTZUTlJadVVRR3loMEJhaE1GRzVZZldHdkRmT2FBR01oZEZCNFNSOGJhUV9sWFZoMjdEXzBESTBOUmRmRXVablZfZ2xJd2NPUGFCcWJmUE5zYWhnVUlUcU51VzlfN3NJWWZ3OW54?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 7,
+      "title": "Wakeo's new AI tool grades carriers on delivery record before freight tenders - MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMFJlNU1OTjRIa2ZjeHNsbk5laWI4anF6V0dtWVFmaEV3QjloTkVmVVlxTmlFRi1Dek9aZlJaWnNPaU1GRm5kR2xKNjdPS05aSVNDWXFSZ1hIbFRmZnJZS0xfRFpkcUtlUG1LZWlfdTBJdC1FeWdCbjRTanJNYVBuR2hWeEQxb1RXeEdYSUhRX1NXdmhDQ3lxQ0d0eTdsYWVkMHpJZ3EwdktrNDFyOURoMldENFAyal9iY3ZVMVJxUV9UeHFqSzdHYUV3?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 8,
+      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 9,
+      "title": "Amazon launches AI shopping assistant in Canada, linking Alexa conversations with purchase history - Retail Insider",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYXJNTHNDanAyQ1JzenUtWHE0UlJ4d2s3LXV2SktDT18xVHdOTUdwRHU4T0k3R0NveXN0VjZjbDBFeXYtU1BjNUZrOUdUZGxyRlhwMG1QYXVINjlVRHJPV2QxVDdtQVlxVWJadVdlUnZpTlpLWGV4d0Z0cjhQQXN2N3JhUjJSOUc4Y3BRUkN5bVlabXZjbmVQUWRITlE3YWMzZUdydGQtcEpoRHlkaE1fZDNrakZYYkl2OU1uM1ZUbzhxQVdFbFVtWFVYVE1hdzl2aTlpbzJFczMwYUljaTVzSUJR?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 10,
+      "title": "The Amazon Prime Video film that shows a world dominated by AI where emotions are a threat - MARCA",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQazFxRW5mTkg3eDhEX0JqbHpjVUNFMFRCNzlLd2ZOWG9YZllEa3VYT2w0UWwtNldHcGM5VTdDR0NFNHc4SXpNR0ZBQVJDNkZQZTA3S3dkMDYwRzBqYlUycXRJXzJ6cTBoYlVGQ1dKQ08waWt3SXRmbUhGU0tGenR1b2pqemtvV0pvU1lKUlhOcVZiNGl2VjVWR1JiSUEwRkZRZ3VtNDFMbnZ1Ti1uRS0zZ3BZay1MM09QOXRfTF9mSlVKWWptSzB4aU40NGR4Tmt0RkdPei1oTXl4NXBXdnV2OTVR0gHiAUFVX3lxTE5Jb2gwR0JuX1ZyQWNJYnBRcVRCdXhVUjlSd3k5V3AwWE9oaVlzeTA4cVl4QVpvUWZhQVN6aWktZTUzR0pLTUltTnVyNE5NaF9ncFZuQklSSmZYSG1IM2dkUkhJbkxGRnRXNEdLMXhkQVBicVJqOElqTER4U0NtMnZqOUR3STM5Wm5jYmMzODNncm1oZk56RlM5Q0VPbEYyclJsOHp4QkNkT2FxV3VRR0Y1Zk9WcVktT0JjVU4tYU15QUFzRDdFN0FQSXl2LVpnYm5GVVhsbzdQalhZRUlfU2o2Nmc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 11,
+      "title": "Gevo, DHL & DuPont: This Week's Top Five in Sustainability - Sustainability Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR1ZoMEZpVE5UZEVEVXdkclBTRlBHQjVSS0tZbDNsck1iSW5heUE2ZHJobW51TDRRM012QzcyLXJqdjZreU5KZ3JBamhpOVBrZkdkN3NjUW45X2MwaTV2MldUUVZrc04wdWdOQndDUmoxV3A3dHhjSzRhUXZMQklRUTB5V3h3eVVDQ3Z3ZTBoVXZhQQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 12,
+      "title": "Gevo, DHL & DuPont: This Week's Top Five in Sustainability - Sustainability Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR1ZoMEZpVE5UZEVEVXdkclBTRlBHQjVSS0tZbDNsck1iSW5heUE2ZHJobW51TDRRM012QzcyLXJqdjZreU5KZ3JBamhpOVBrZkdkN3NjUW45X2MwaTV2MldUUVZrc04wdWdOQndDUmoxV3A3dHhjSzRhUXZMQklRUTB5V3h3eVVDQ3Z3ZTBoVXZhQQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 13,
+      "title": "Amazon plans global product database to challenge Google search and rival AI shopping agents - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRzVvYlZVT3RwV012V0kwU1g1bDdydFlBaGZPTGhZZ3gtSWx1WmJjS2k5TW5uSDcyeUF6MHNHSG1QRnBZazNPYVQxTkc1NnVvQUZxN2pMRERvREFNRlRsWjRYOENsbjlrcDhucF95RUlmcnRsdVFLTkM1VWpweVN4UTZ6c2ZvY0NqOFZkcjh6TlZRaDNpTnFSRnVMV2pEUGJKaHpNczZfYXAwRkg0Wm8wYVNzWHpmR1ZnWFViMW5VRk5ndHhHekRzWFNkYW80VW9VUFhraGZhLVVmNFFHN3lDeFJn0gHnAUFVX3lxTE1UVmN0Xy1YSFBraWRKYnZDckstTEdvMXNzTGtqRjB3VEN1bGtFUDFYejctRmlWb1M3Zlk3WS1PcW1zQmVNYzNKQXZrMTFqZmRnTW1nSmFUOXE3bkE4ZnMzVUhJQ0ZpV0Y4RWt0dC13cjA4SmN1eHR6M0kwNUVhUDMyd1k2RGdQdW83OEtCTHNBbU05dUxGWmE5Q0hoOUdfWVFOZFJXTjc1OV8tckJ1T1dQQ21YbnpqZXprbXNycXJEdFBFMzFUeV9UZ1RkYUhfS1lJekJ0QTByMU5icjYwNUp6WjJwcnFPMA?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 14,
+      "title": "Humble Robotics raises $51 million to expand autonomous electric freight operations - Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnpGOEY3Z1R0NFpETlhNR0txYXZiQ1dSRkw0N3E4STIzVE8ybWhSR3YwVHpPMG9vaDkxMVlad0RDc2pGeGVSaHZ5SV9rbEhyVVoxYWxqektSNk5xUnVOcjhQcDFuZ1hDYWs0YTNKMGU2cTNNM3B2WlJPVnN2ampWOXpqSVhfaFM2YlFKS1ktS1pfZ1FnbmdBYVVtcWVjbW14YWZHSURyREkyazRVM0RMb1k1dFZRd3lkY2J2b2dIRzVfbVE4S0syem1MY1BYZFNmU2JhdjBR?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 15,
+      "title": "Supply chain bottlenecks challenge AI data centre expansion - ET Datacenters",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVG5FNWZkQVZFUldySDd2VXlJSUNJMW11Wl9jUlZwRXR6bWNIcERvSV94NkNBU2xUYzV5am5vN2tfSlh4N1pjRXVuUkgwdG5PY2lTOUN6REV0cURDelk5S2k2djY3czdnVlNRTzBlN29FVmsyb0RSdl9fcVlNUlhKVHJoRWFPdm92ZnVWR0ZmaEZBZmdwdHJjX1RCTTE3dWZ3N2NPaEtQVFNCOGxuU0VRMzc3MEdHQmxZLUR1SE1MWEZJQXJfb2tYQWRhT096MEc5elNkR3EtYTlHeE1DN3dtbVdXaDhSTDkt0gHsAUFVX3lxTE1UX1ltZ1p5TEdxNVpaY0FkNmNKdUc4NUVPeGZjcFdBb1lzOGI1V3RDVmxmdTUzU216dllubEtsU0hsX1Z6U3lCVHdlTmZENVVWTWJjcEl5RkMwT1ZucFphTTVEcjZueGxxcDlfc1NLT3RkZkN5SXJFNDhJLU5JbEUwOExHY3FxUUoxOTRQdWM4TWVmMkJoTVFmNVoxMTBJOFpYS3FudGQ2Ty10MjlPYXl4ekl6cFdPeHNOMnVZT3pqRTlqZTJ4aWlHRTZzMEFJTE1sY1pIRkZVWDJsblFFVmxmdldnWFJlNDNwbm5u?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 16,
+      "title": "Expoline completes international logistics project for humanoid robots - Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOXBQMjY1NmFDa1N0b24tdVdWdmkzTVJlNC1Hb3A1YUN5cnl5ektPZXNITUU1N2xuQUhGSTZNclZFSnJRVzIwMGVEZ3Vlcm5KdzVhMUl3ZnZWWlcxUmt0VU9QZHpnRllMVkRtTVR6N0E5clpNdGtlRlhqZVNka1ZQd3FfUEo1b3A3UGlDNlRuX0trbnYyMnUyWm9DOEkwN1dESnZrNjY4c2hyOERMVzVabFBza1pMUktKSjFmU2MtR2xIQm5WbXlRLVZ0dS1LVGNycm0zSGpXZGdrSkp3Umh5VDdrZw?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 17,
+      "title": "ABB Robotics brings industrial-grade physical AI to fashion logistics - Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGkzdUpSYkVsZ1pqYTNPeHlSd1VtZ2lLa01pNDNSeUtKakhaSFN6anozRTdaRVdvRFZEYTgzRkdYcHQ4LXhxREwwcjFwTXRPM1B5R0dJcXFGWnBPTlhTWmhLRXptQ1l0TFZZVzZTZmpNNTV1Ulhfc28yTHdvRUZuT1Q5a2wyazcwUExZTFpIMncxQmhqUEN0Mk04eEZjcFRzblB3ZFpiTVNoejhBemVwTHFWVEE1SzNMVFZRMjgtazF1U0Q4?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 18,
+      "title": "Axon Puts $1.2B More in Skydio, Ring's $249 Drone, Nampa Wants Data - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTN6dHdDYVk4dV9waWpBd3ZtYlQyVUdtaWpVV0JMV2Nna19rZG5zbWItNU1TcmtyMXA5emtya0R4TC1YeWxVUlBSWnZQRUdNNC00bUNEQTJkUUpteG93MDk2blBHWmtNVWtzOTNCdkpzcjJJbTZEcE90Z1ZSbnYzU21jcXRrd0xydkNZWG45X2xyRmMyS2N4TERn?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 19,
+      "title": "Amazon eyes product data graph to strengthen AI shopping tools - Tech in Asia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkxRVC1sdWtuUzdnRVE2TTRZMWdoalhUaDZkRXA2clBuaXh1NGZRcUVtTWV3VGxPM2hYQWYxRHc3Y1FaZUVRR0dXOC1henMwTnhBLXRucVhkdTFZUmotbDNEVnUwZm5yaFJ1T3ByWnFqcmdjNHM2M0JCTGJTb2tBREZoVGxMYXpHb2ZFYm9sd3dlS3F5Z0E?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 20,
+      "title": "A major test for the AI ​​market and semiconductor supply chain. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNW9lM2dZcmh5TTA0N3JNajJrVGZJWXRGNXl4WUJDSFhSWTBOYzlrS1puUnBtNXliLUxVNzBTTFFMMmVyQ21ucnRlX3I4dzFDRzRQTjNuLTlSeHhuY1BtYnh5OFZnNVA2WlE1RVFZck5VVk9MRURNSDBLNDRIdGxRS1M3dnBURnRrekpQVFlnNA?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 21,
+      "title": "Amazon Blamed for Drone Noise in Spring. Walmart's Wing Flies There - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZS0yRGd1RC1SaHdWTEdkbEdjbGttYUxoS3JHandkbHU3Z0RJTUJmUFBmSHFjS1BFVzhjSGs0TmJTM0I0czlCVmhjZ1Fub3haVnhLbG5wU0ZGRW9CaHhET3REUFJ3NExEVHFqOFB5b3d3SGQ4b2tUYV9pUl8wSW1uM1l4VTRVaDBTX0l3dU82MlhzUQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 22,
+      "title": "FAST showcases AI-driven logistics innovations to future engineers - InsiderPH",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVBjOWtFb3V1QWEwTzlINF94UkVTVEpRdTlCT2VMZU85RFQ5bEtEcHVBT3VRSXduZXA1aEltZi1GeFY1NVg4NnQzd2FQbWxvNzZzYUdnZGFRWlNGMjE5Tlc3X3pGaWVVazZBV0Q5aW9FcWg2RWlsenM5VEZaN0xJdzZnTmFmaGVoV2Y1bDJaYUNGUQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 23,
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 24,
+      "title": "Denial of funds to NY over non domiciled CDLs overturned: appellate court",
+      "url": "https://www.freightwaves.com/news/denial-of-funds-to-ny-over-non-domiciled-cdls-overturned-appellate-court",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 25,
+      "title": "Gemini decides, SMS delivers: closing the last mile of workflow automation in 2026 - iTWire",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNEk4TDVtNk94T0p0bExfd0JJM3dxRW5ZTTRHQmZIcEhyUlQ3SUpTeU5sTExBM3g0YXdXUW9PZW9IeWYzMklrbTYxekZGWjNFdmd5RE1aZnBvei1BeFE2ZnlNYVUyT0J3MzRUUV9TUG51WWZGN0ZQT0pSWTBjR2RIZHo0Z3BDZS1KUDNXZzhOOEV2YjUyam9CNXAxZ3J2M0ZQSTJtWFpKWkl2bHVxVXZ3am8tRXVKVjVoS1lGcVhJN01ROFVJdm9v?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 26,
+      "title": "Tanker strikes cruise riverboat in New Orleans",
+      "url": "https://www.freightwaves.com/news/tanker-strikes-cruise-riverboat-in-new-orleans",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 27,
+      "title": "AI cargo thefts top $150 million from June 2025 to June 2026",
+      "url": "https://www.freightwaves.com/news/ai-cargo-thefts-top-150-million-from-june-2025-to-june-2026",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 28,
+      "title": "AI cargo thefts top $150 million from June 2025 to June 2026 - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTdhd09nc1B6Ujl2NEFxWFFxZFUzQTZXMkh2Q3RvZmRNMFJtb1Zsd19WN0otMHQ0a243UmJOTzVYMGlMNURaQ2E1RndnZFRNelNWRmJkWkh6RV81STBwM3hFVjMyZG9ta0pRSHZOT3U0OEdsdTVUbHhmWWQ3Nlo2N2tENXZsY0hseXM3N3R5b3V4bXBUWlliOA?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 29,
+      "title": "'Like a swarm of bees': Amazon drones are driving some Houston residents crazy - Chron",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZGlKUGJ2MHNUdGZJX3c3VTNvM3lSMk5mUGdoeEs2STNmVzRkS0VZRGw5NEhKbDRSY0lpZU5HVXhiazk0ZDY3NG5FY0kzVUtsVUd6RkdhVUh3NTdtMDh4YkJ2clVDRk9WaG5Zblpna2xubzJ2V1AtWmlfOGZhc2lISA?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 30,
+      "title": "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQME01UzVZbGlaOHczRl94ZE1sVmdtM1FfRjI5ZHdYWHNHaWFyMkMtT1EtN0tZYzhvUXp4aFpmSFpnZDhETUFfcjVUMHNmYlItdWpnQU1xeERfbDIxMW5PV3RFTXRnRXZxYTRFTDNnN21mai1zNkJQaTNSQXRPencxY1FLOHUwQmlXZWtQME5ONVQ3RTYxYzZmSDQxdFhBa1d3U2JhTmZMTDVHY1hlcHNBeUVZSERkTUFjOUxBZkNLQksyLWxsN3NmdEhfRFZpODhCaVU4OQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 31,
+      "title": "Trailer Flexibility Is Becoming a Growth Strategy for Carriers",
+      "url": "https://www.freightwaves.com/news/trailer-flexibility-is-becoming-a-growth-strategy-for-carriers",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 32,
+      "title": "Saline County Airport Commission to discuss Amazon drone deliveries, hangar sales, and 2027 budget Nov. 17 - MySaline",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wdWUtZllSX21JMnpteVRTYTFObE0ybmtGQ0hJQlhRZTBESndVZVpMMVhWZW51RktYbXhNNi02dlBkdkhHYlJTRUlYXzd4dEJOMmc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 33,
+      "title": "Trucking Recession Continues: Why Carriers Face Layoffs and Bankruptcies",
+      "url": "https://www.freightwaves.com/news/trucking-recession-continues-why-carriers-face-layoffs-and-bankruptcies",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 34,
+      "title": "Freightos’ founder accuses company of ‘rigging’ proxy vote as company opposes his proposals",
+      "url": "https://www.freightwaves.com/news/freightos-founder-accuses-company-of-rigging-proxy-vote-as-company-opposes-his-proposals",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 35,
+      "title": "RICO Case Against TQL, CH Robinson: What’s At Stake for Brokers?",
+      "url": "https://www.freightwaves.com/news/rico-case-against-tql-ch-robinson-whats-at-stake-for-brokers",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 36,
+      "title": "Uninsured? What Mexican Border Freight Risks You’re Missing",
+      "url": "https://www.freightwaves.com/news/uninsured-what-mexican-border-freight-risks-youre-missing",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 37,
+      "title": "Humble Robotics: $51M Fuels Autonomous Electric Freight Future",
+      "url": "https://www.freightwaves.com/news/humble-robotics-51m-fuels-autonomous-electric-freight-future",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 38,
+      "title": "Humble Robotics: $51M Fuels Autonomous Electric Freight Future - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbVVOWXVXcUNUVmtTYTF2bmlPTGNMcFE2dGpxdnkyZVlBUjRxR193Z1JJdDQ5QXU1SmhoeHhrRFBJR0pHcFFKdHhueUxaRGNLbEFROU5xOEw4M01Ydlc5M2hoVTE4UXg2d0EwRi1fMlJkMlZ2aEkzY0p2czgxQUY1YlN0UVFnNGpidlR0RV9KaEhORTh1MmdhYlNn?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 39,
+      "title": "Microsoft Outage a Reminder of Fragility of Web Technology",
+      "url": "https://www.supplychainbrain.com/technology/all-technology/article/16425635/microsoft-outage-a-reminder-of-fragility-of-web-technology",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 40,
+      "title": "Amazon’s HR Leader On How Robots Will Work With Humans - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWRDUHpRMWs3eWlENjZJeWtER2FaeTZYNXRRX1Bja3BkQS1tbC1DSy11OFRhQi1uWF8tQmttNVY5dkItdFF0d1U2Tk9ZdkV3U1hTMUZNOFRQNm8yZkktT09uTmVNdUk2Y0swcHZxVzN0VUNjazM2cWFZVEt0eEFTenYzNU5Jdlk1UXpod2d1WkJveEExWlcwVy1pZ2o3a1ZFNThYVEhRVVVQYjg?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 41,
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 42,
+      "title": "Sayari Uses AI to Deepen Commercial Risk Platform Database - Supply Chain Digital Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdWp4ZnJfRWNMNTN6RzZ4eldJSjdLMEtNdEJaMzNLWTJKMmJ1a3V4R3pLVnFHSTJxVFdCdFBielJIQ3d6Q3JOUlVXMENscGNJNzFtelVJVEhrTUlyYjVkYWNMeEpaSVlVdHpadkJ4R2dOcFg5c29ReV9MWjBVUzJRU0NsLTlqQ3JwZnltTGpoV3dlQQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 43,
+      "title": "CMA CGM triples profit as Q3 freight rates and cargo volumes rise",
+      "url": "https://www.freightwaves.com/news/cma-cgm-triples-profit-as-q3-freight-rates-and-cargo-volumes-rise",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 44,
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 45,
+      "title": "USPS to add 11% permanent fuel surcharge along with parcel rate hike",
+      "url": "https://www.freightwaves.com/news/usps-to-add-11-permanent-fuel-surcharge-along-with-parcel-rate-hike",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 46,
+      "title": "Supply Chain Management Market Size, Forecast, Demand, Opportunities, 2034 - Straits Research",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tZ0VwUlVINkQzQWRVSEVOTVFZa3JEZFIzM01XUUpscjlER1V5Z016bVlzdWg5bzlmMks0QkhKekVHS2pDYXdZRlFjZkE0M0VReU1ELXRRTlNZSDZ3d3dTN3dXT1NSMXF4ODc2cGtSbVFEMGM?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 47,
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 48,
+      "title": "Walmart’s $6 Billion Automation Bet and DHL’s Orchestration Strategy: Two Playbooks, One Hard Question - Logistics Viewpoints",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbGRnWm9rc0hIZVhncHp5cDl4cklSVTBxY25UUGtkTDJrZ2hfWmtYOUU0WmZJYzZpeTFSTkhEYlAxM1dZV0JOUHNsZG80dEVja1k2WXBuTXlJdkUzVmNDWDJQQy1JcWRNMUpuUnNYNERvQkpvRmVmejVkNFMzdFN4dG5NSW80bEk5UDlwTkJXSzRTdFlVcVZuUDhzSzRaQi1wQTBrUUVYbGpleGZHYnNaWGxwSUZEbi1uTUxGZmt5V3pLb0V5eW9CcTVTdDFFbV9oU0UyYXBVN3E?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 49,
+      "title": "Walmart’s $6 Billion Automation Bet and DHL’s Orchestration Strategy: Two Playbooks, One Hard Question - Logistics Viewpoints",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbGRnWm9rc0hIZVhncHp5cDl4cklSVTBxY25UUGtkTDJrZ2hfWmtYOUU0WmZJYzZpeTFSTkhEYlAxM1dZV0JOUHNsZG80dEVja1k2WXBuTXlJdkUzVmNDWDJQQy1JcWRNMUpuUnNYNERvQkpvRmVmejVkNFMzdFN4dG5NSW80bEk5UDlwTkJXSzRTdFlVcVZuUDhzSzRaQi1wQTBrUUVYbGpleGZHYnNaWGxwSUZEbi1uTUxGZmt5V3pLb0V5eW9CcTVTdDFFbV9oU0UyYXBVN3E?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 50,
+      "title": "Higher freight rates, AI-driven trade fuel Q3 profit surge at CMA CGM - Baird Maritime",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlQ1R05GYW5Cc1dzNms0ZWZFUGNEYjljYW1TM0ZvU1phUmttaGYzRDh6cEIxMkhySWM2dlowZ0pJdkp1N1psVHdaSUdwYnFWSFY4bDQzVDNQTl9zVlltQnNwVFY2R3ZlOGpYY2NpYzdXQTVNRFhPMEVlcHM5V3hHZ1U5YVpORVhVakx4S2lNNmRSMjM2dW5Ra0ZsbFdKYmw2dEZoSWF6cGxMajBaSmFkMXZYalNndUXSAcQBQVVfeXFMUGZtY3JYVmpHM3Z1b2lmekYzTTIxNmRuOEl5YktSbk9wQ3ZPa1VNeDZTTzJTVGJtTnpSUVItS2lvS1BEclRjNlIydENHWklUVmoyNVpMQ04tTGEyWW1zNmtEMGRXR3hGdXpPTjJaUC1ZNExWS1NtTWRpQjJWeVQ2bkV2cEQ5cGRlQ1Q2OHJib2VGN1k2d2hUaEdXdzAxekxvVjZhZVJPQW9GTF9venZuejAtTVhrR0ZMS0JiTGdySnpxNWZGWQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 51,
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": 52,
+      "title": "Amazon-focused bill likely to pass in NYC but only after changes",
+      "url": "https://www.freightwaves.com/news/amazon-focused-bill-likely-to-pass-in-nyc-but-only-after-changes",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 53,
+      "title": "Truckers Die at 61? The Health Crisis We Ignore",
+      "url": "https://www.freightwaves.com/news/truckers-die-at-61-the-health-crisis-we-ignore",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 54,
+      "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 55,
+      "title": "Exclusive-Amazon’s plan to own the world’s product data and fight AI shopping agents - Euronext Markets: Real-time Stock Market Data | live",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGZlTTNhdFoxcG11OFJ2ek04ZWdfdkFrT3FaUVF4SDZ1RFlva3V5WGw1M1d5NXhuZUhMWkRtREpwdXNqVlFOaUVPYzJldGZWSTFyeU1lWTZWWEl4T0RQT3JDN0FYZlRmZkg1eDB4R0EwTWd5SEZ3OEU1blYxOU5xNnV5QzdETUF4LUtySGh5UFh6alJDY1dMb3hMQjM4aTQ4R2EySXNTVHBOenIxMS05c0tBNm1JOFh2TGpV?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 56,
+      "title": "Suspect in $100M Brink’s jewelry theft agrees to plead guilty in related cargo robbery case",
+      "url": "https://www.freightwaves.com/news/suspect-in-100m-brinks-jewelry-theft-agrees-to-plead-guilty-in-related-cargo-robbery-case",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 57,
+      "title": "Amazon's secret AI plan could change how Americans shop - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSTk4bDAwSU1pcFdFalVyRkFRYlVKVVBvenVIRGVZbFAzY3kyTHhVeEdzVy1uRzJGc0FYNU9QQkFGeVlWWV9LR3Jfd2lXZjFsTnUyRkdKQ05OazJMeGlrMlM4Vl83TjAxV1UyVDRxT1diT3BuLXpRaHFZV25YaHkzZC1uTV9PanhhY1FsQ0hTOVMtUFhWbkpLb0NNX1pleTgwRWYxemtYU3o5WTN0blJLR2dfV2Q4UQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 58,
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": 59,
+      "title": "Turning Better Forecasts Into Better Supply Chain Decisions",
+      "url": "https://www.supplychainbrain.com/blogs/think-tank/blog/15883286/turning-better-forecasts-into-better-supply-chain-decisions",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 60,
+      "title": "AI and data center construction drive freight volume growth into 2027 - Trucks, Parts, Service",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa1NQRnJieC12Z1hVYnVockFmeFN6LWVKRmhscVN6N1AxT3lweDZtRUZKOExjc3VhUWNhZkJKdF90bjZjc2plUWRCU1NYaG1QTUZUZHA2SEVvQTFaMWhHNEozdlZ3bnJxRFRzd0Q5MFdvU0p3S3A4bk1nV2lUMWx6OGFlUjItbWV5Sm1TcGNWTmZ1VkN2Q2JHZ0ZPdlVXOG1OTW1YalhUVXR0Vy1DaDBPdlplYjZvWVluVVhvT3F2eTZwUnhJS2hjZ2NKTDJST3EyWGZvc3l4TlYtZUNPbnp4bWVzUkZXZkRua3RkRDd3?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 61,
+      "title": "Amazon Eyes Products It Doesn't Sell in AI Shopping Tussle - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUkthVWwzc3ZwQkhPbWh5RXFIdDVuOXhsdmpMRWNmX2lfUWpOaDdiRzFNMTRWZVE1SVg2X1kteGZscHZRcnkyX0tFcHVQRS1qY29WU1JGUUVkRERFSEhjaXQxSGFnUVNqOWdBTHk2ZllkZGdjTHlLUHJaMGgwd0xRQkhUMmxOUmxJSkJwVmxUVlF1ZDMwZlhONFIzb2pCNmdXMDZiUnVheGluOUJvZmdiY2N2ejNoNEs1bEE?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 62,
+      "title": "Talk to My Agent: AI Shopping Agents Are Coming to Your Texts and DMs - WWD",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWXYzWVB3VDZmcnNUWUhZRG56azU1TVNKX2p0eWNvV0FXZWVydFJaV0twSy1rTjlXV0FZNGlnMFJoS0MwR1V2cEM3VDd2VEdUeXZodHFmSFhXMTVMRTNIWXk2dHYyVXZzc1h0M2FEc2hBQlR5WkEzWV9aaWg0RWNPcV8wV0xwYjlPUEN3Q29CTFktODlZWGhUQXpOcnpUNXE1N0MxMmxFUQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 63,
+      "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
+      "url": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/",
+      "source": "The Robot Report"
+    },
+    {
+      "id": 64,
+      "title": "Amazon’s Flying Ring Camera Makes Sense in Almost No Context - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QM0NxYms1V1ZsUTk5YU41NERjVldHcXkzM0Nsb05NUVZEUXZ1eTNzOTZXSmxlalVXdHdQaDhBTUp5OUYzT0ljSU50b05LN19UNVJiV3h5UklPczM4VURyeVJEeXN1VHc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 65,
+      "title": "Keyword Search Tied an 8B Embedding Model at Picking Agent Tools",
+      "url": "https://towardsdatascience.com/keyword-search-tied-an-8b-embedding-model-at-picking-agent-tools/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 66,
+      "title": "Octave Expands Industrial AI Offering After Cerebre Takeover - Supply Chain Digital Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2ZIeHBOc0dWZGl0T0hDdlhxdUdNXzFoa042RWVaNS1aVjA4V2YwemUtZE0tVWprNFFpLXl0SENKYmZiNXF0MFEwM05iSlpUZk5TeEg0SjJGQlJVdFlyRHhpT0FNekMtbXJXM2t3UzBkWDF6NHVDcmhDcFkydmdMNjQwZGVBYUtBeEptLVBlM0xkV3JVd280eWhHdUs?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 67,
+      "title": "How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain - Rest of World",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNmFyb3NOb040cU9XRGF2MGlfZUVGVjZJRktCdnNadW1sY0YzZEU2Qm1ybl9zTG5rbkFLb0lMYUdvaUhRQ3Juc3hrZXNCUTlTTThRUWV4cDR4aHR4NFRKLWRZZFRiWExEX25NWG1TN2JhM1dDYnhLZW56TlpzZ3h5aQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 68,
+      "title": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "source": "GitHub"
+    },
+    {
+      "id": 69,
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "source": "GitHub"
+    },
+    {
+      "id": 70,
+      "title": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "source": "GitHub"
+    },
+    {
+      "id": 71,
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "source": "GitHub"
+    },
+    {
+      "id": 72,
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "source": "GitHub"
+    },
+    {
+      "id": 73,
+      "title": "expo/exact",
+      "url": "https://github.com/expo/exact",
+      "source": "GitHub"
+    },
+    {
+      "id": 74,
+      "title": "google/elephant-goldfish-model",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "source": "GitHub"
+    },
+    {
+      "id": 75,
+      "title": "WinnerBrokerBarrow/ai--manus",
+      "url": "https://github.com/WinnerBrokerBarrow/ai--manus",
+      "source": "GitHub"
+    },
+    {
+      "id": 76,
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "Hacker News"
+    },
+    {
+      "id": 77,
+      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+      "url": "https://claude.com/resources/articles/projects-redesigned",
+      "source": "Hacker News"
+    },
+    {
+      "id": 78,
+      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "url": "https://news.ycombinator.com/item?id=50494696",
+      "source": "Hacker News"
+    },
+    {
+      "id": 79,
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "source": "Hacker News"
+    },
+    {
+      "id": 80,
+      "title": "Lying to Zed to get its remote server running on FreeBSD",
+      "url": "https://hayzam.com/blog/03-lying-to-zeds-remote-editor/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 81,
+      "title": "Gnomon. Git for Postgres data, built for agents",
+      "url": "https://github.com/bitsinfra/gnomon",
+      "source": "Hacker News"
+    },
+    {
+      "id": 82,
+      "title": "My process to get 6-11X speedup running Qwen3.6 on my RTX 4090, full repo.",
+      "url": "https://github.com/me-farza/lightreason/tree/main",
+      "source": "Hacker News"
+    },
+    {
+      "id": 83,
+      "title": "Philip Roth and David Remnick getting personal (2001)",
+      "url": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
+      "source": "Hacker News"
+    },
+    {
+      "id": 84,
+      "title": "Howard Lutnick Has Got to Go",
+      "url": "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia-howard-lutnick-commerce.html",
+      "source": "Hacker News"
+    },
+    {
+      "id": 85,
+      "title": "Show HN: Gamma PDF – AI-native PDF reader, self-hosted",
+      "url": "https://gammapdf.com/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 86,
+      "title": "Every Way to Get 192GB for Local AI (Without a $9,500 Mac) [video]",
+      "url": "https://www.youtube.com/watch?v=_e2dk4Pothw",
+      "source": "Hacker News"
+    },
+    {
+      "id": 87,
+      "title": "Why the Airbus A321XLR Often Gets Stuck Climbing for First Few Hours of Flight",
+      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 88,
+      "title": "Show HN: Memro – Persistent Memory for Claude Code, Cursor and Codex",
+      "url": "https://github.com/memrohq/memro",
+      "source": "Hacker News"
+    },
+    {
+      "id": 89,
+      "title": "Ask HN: OpenAI Astra post-launch slump?",
+      "url": "https://news.ycombinator.com/item?id=50493498",
+      "source": "Hacker News"
+    },
+    {
+      "id": 90,
+      "title": "Kalshi hiring a 'GTA VI Researcher' to livestream the game and study its economy",
+      "url": "https://finance.yahoo.com/technology/article/kalshi-is-hiring-a-gta-vi-researcher-to-livestream-the-game-and-study-its-economy-110000519.html",
+      "source": "Hacker News"
+    }
+  ]
+}
