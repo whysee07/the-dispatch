@@ -1,0 +1,351 @@
+{
+  "feed": "pmm",
+  "feed_name": "Marketing Brief",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T16:03:07.558069+00:00",
+  "raw_text": "☕ THE LEAD\n\nAmazon is quietly building a vault of *all* online shopping data, not just what's sold on its platform, and it’s a total game-changer for marketers. This project, dubbed the \"World Product Graph,\" means Amazon wants to be the definitive source of product information for everyone, everywhere. Think about that: if you're researching a product, Amazon wants you to stay on its site instead of bouncing to Google or Reddit. Even more critically, if future AI agents are doing the shopping for us, Amazon aims to be the foundational data layer they rely on. This isn't just about selling more; it's a strategic move to own the entire discovery and research phase of the shopping journey, making Amazon the gatekeeper for product information online. Every brand needs to start thinking about how their product data lives *outside* Amazon's walls, because Amazon is coming for it. [S42]\n\n📣 QUICK HITS\n\n**Twitch Adds Short-Form Video, Says It's Not \"TwitchTok\"**\nThe streaming giant is rolling out a new feature early next year, letting creators upload pre-made short-form videos to boost on-platform discoverability. While execs insist they're not trying to be a TikTok clone, it's a clear nod to changing consumption habits and a smart play to keep viewers *on* Twitch longer to find new streamers. [S4]\n\n**Lyft Tests Prominent New Ad Placement on Home Screen**\nBrands can now take over a significant portion of the Lyft home screen, the first thing users see before booking a ride. This is prime, high-intent real estate for advertisers, putting their message front and center when consumers are actively making a transportation decision. Expect more brands to jump on this, fast. [S7]\n\n**Election Advertising Drove 10% of Viewers to Ad-Free Options**\nA recent survey found that a tenth of viewers actively sought out ad-free options, muted ads, or switched channels due to election advertising. This is a stark reminder to advertisers: while you might be hitting your target demo, overly intrusive or frequent ads can drive consumers away from ad-supported platforms entirely. [S5]\n\n**Early Black Friday Deals Are Already Flooding In**\nRetailers like REI, Amazon, and others are kicking off \"Holiday Sales\" and \"Early Black Friday\" deals weeks before the actual shopping holiday. This trend of extending the discount season means marketers need to be agile, plan promotions earlier, and be ready to capture consumer attention well in advance of traditional peaks. [S1][S17][S18][S45][S52]\n\n🎯 THE PMM DESK\n\n**Tesla Launches Cybercab for \"Personal Use\" with a Catch**\nTesla is offering its Cybercab for $29,990 plus a mandatory $299/month \"Autonomy Subscription,\" but here's the kicker: it's only available in cities where Tesla already operates its Robotaxi service. The PMM takeaway here is a masterclass in controlled market entry and pricing strategy, bundling the hardware with a recurring service fee to capture continuous value while managing initial deployment complexity. [S9]\n\n**OpenAI Rolls Out ChatGPT Wallet for Agent Purchases**\nOpenAI's Dots AI agents can now make purchases for ChatGPT Pro subscribers, complete with biometric verification before checkout. The PMM lesson is about enabling seamless commerce within AI interactions; while the security check is crucial for trust, the integration of direct buying capability into an agent fundamentally changes the user journey and unlocks new transactional use cases. [S48]\n\n🧠 PMM 101\n\n**The concept:** Value-Based Pricing\nWhat it is: This is when you set a product's price based on the perceived value it delivers to the customer, rather than just its cost to make or what competitors charge. It’s all about focusing on the benefits and the return on investment (ROI) your product provides to the user.\nWhy it matters: It helps you capture more of the economic value your product creates, optimizes revenue, and ensures your pricing aligns with the actual impact your product has on a customer's life or business.\nSee it today: Tesla's Cybercab is a perfect example. The $29,990 purchase price isn't just for the vehicle's components; it's bundled with a mandatory $299/month \"Autonomy Subscription.\" This subscription captures the *value* of the autonomous driving service and access to the Robotaxi network, rather than just the cost of the hardware. Tesla is selling the future of transportation, not just a car. [S9]\nTry it: Pick a SaaS product or a premium service you use. Write down what you pay. Now, list three distinct ways that product or service makes your life easier, saves you time, or generates revenue. If you had to put a dollar value on those benefits, how much would they be worth to you annually? See if your perceived value aligns with the price, or if the company could charge more (or less!) based on the value it delivers.\n\n🧩 PRODUCT CORNER\n\n**Amazon's World Product Graph: A Core Product Strategy for Dominance**\nThis isn't just a marketing initiative; it's a deep product play. Amazon is building the foundational data layer for *all* commerce, creating a structured, comprehensive index of every product sold online. For product managers, this means Amazon is aiming to be the definitive source of truth for product information, influencing product discovery and comparison across the internet, not just within its own ecosystem. [S42]\n\n🔧 TOOL DROP\n\n**Thunder** — A blazing-fast, persistent, key-value AI workload database [S3][S57]\nBest for: Developers and data scientists building high-performance AI applications that need super-speedy data access for their models.\nFree tier: No (Product Hunt launch, typically implies early stage with potential trials)\nHonest take: Highly technical and niche, but if your AI models are currently bottlenecked by data retrieval, this could be genuinely useful. It's an infrastructure play, not a direct marketing tool, but critical for the AI tech stack many marketing tools rely on.\n\n⚡ SPEED ROUND\n\n*   💸 Black Friday deals are already everywhere, with retailers like REI kicking off sales weeks ahead of the official holiday. Get ready for a long discount season. [S1][S18]\n*   ✈️ A nationwide FAA ground stop halted all US flights for hours due to \"extraordinary circumstances,\" causing chaos but eventually lifting. [S40][S46]\n*   💾 Microsoft 365 suffered a 24-hour global outage, confirmed to be caused by a bad update, not a cyberattack. Yikes. [S54][S56]\n*   🤵 Jensen Huang's iconic leather jacket might be on its way out: Wired asked Vogue, GQ, and a pro stylist to rebrand his look. [S22]\n*   💰 AI agent startup LangChain just hit a $3 billion valuation, showing continued investor hunger for AI infrastructure tools. [S53]\n*   📚 Amazon's new Kindle Colorsoft is thinner, lighter, and pricier, but offers little compelling reason for first-gen owners to upgrade. [S43]",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge"
+    },
+    {
+      "id": 3,
+      "title": "Thunder",
+      "url": "https://www.producthunt.com/products/thunder-3",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 4,
+      "title": "‘We’re not trying to be TwitchTok’: Twitch adds new short-form video feature",
+      "url": "https://digiday.com/media/were-not-trying-to-be-twitchtok-twitch-adds-new-short-form-video-feature/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 5,
+      "title": "Election Advertising Drove 10% of Viewers to Seek Ad-Free Options",
+      "url": "https://www.adweek.com/convergent-tv/election-advertising-drove-10-of-viewers-to-seek-ad-free-options/",
+      "source": "Adweek"
+    },
+    {
+      "id": 6,
+      "title": "The future of CTV lies in standardization",
+      "url": "https://digiday.com/sponsored/the-future-of-ctv-lies-in-standardization/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 7,
+      "title": "Lyft Is Testing a Prominent New Ad Placement",
+      "url": "https://www.adweek.com/commerce/lyft-is-testing-a-prominent-new-ad-placement/",
+      "source": "Adweek"
+    },
+    {
+      "id": 8,
+      "title": "Ticker: Savannah Guthrie to Remain on Today After Contract Extension",
+      "url": "https://www.adweek.com/tvnewser/ticker-savannah-guthrie-to-remain-on-today-after-contract-extension/",
+      "source": "Adweek"
+    },
+    {
+      "id": 9,
+      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "source": "The Verge"
+    },
+    {
+      "id": 10,
+      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+      "source": "The Verge"
+    },
+    {
+      "id": 11,
+      "title": "A gadget to make your dumb house smarter",
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "source": "The Verge"
+    },
+    {
+      "id": 12,
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "source": "Wired"
+    },
+    {
+      "id": 13,
+      "title": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
+      "url": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
+      "source": "Wired"
+    },
+    {
+      "id": 14,
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge"
+    },
+    {
+      "id": 15,
+      "title": "How to Run SteamOS on Your Mac",
+      "url": "https://www.wired.com/story/get-steamos-easily-running-on-your-mac/",
+      "source": "Wired"
+    },
+    {
+      "id": 16,
+      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
+      "url": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
+      "source": "Wired"
+    },
+    {
+      "id": 17,
+      "title": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
+      "url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
+      "source": "Wired"
+    },
+    {
+      "id": 18,
+      "title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
+      "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 19,
+      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "source": "Wired"
+    },
+    {
+      "id": 20,
+      "title": "My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026)",
+      "url": "https://www.wired.com/story/best-pickleball-paddles/",
+      "source": "Wired"
+    },
+    {
+      "id": 21,
+      "title": "Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage",
+      "url": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/",
+      "source": "Wired"
+    },
+    {
+      "id": 22,
+      "title": "We Asked Vogue, GQ, and a Pro Stylist to Kill Jensen Huang’s Leather Jacket",
+      "url": "https://www.wired.com/story/with-the-help-of-vogue-gq-and-a-pro-stylist-wired-revamps-jensen-huang/",
+      "source": "Wired"
+    },
+    {
+      "id": 23,
+      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
+      "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 24,
+      "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
+      "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
+      "source": "Wired"
+    },
+    {
+      "id": 25,
+      "title": "Outlook Went Down? Microsoft May Owe You Money",
+      "url": "https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/",
+      "source": "Wired"
+    },
+    {
+      "id": 26,
+      "title": "Dell Coupon Codes: 20% Off for November 2026",
+      "url": "https://www.wired.com/story/dell-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 27,
+      "title": "Paramount+ Coupon Codes and Deals for 2026",
+      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 28,
+      "title": "Disney Plus Discount Codes: 52% Off November 2026",
+      "url": "https://www.wired.com/story/disney-plus-discounts/",
+      "source": "Wired"
+    },
+    {
+      "id": 29,
+      "title": "30% Off Canon Promo Codes | November 2026",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 30,
+      "title": "Wayfair Coupons: Up to 80% Off November 2026",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 31,
+      "title": "Klook Promo Code: 20% Off November 2026",
+      "url": "https://www.wired.com/story/klook-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 32,
+      "title": "LG Promo Codes and Coupons 20% Off for November 2026",
+      "url": "https://www.wired.com/story/lg-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 33,
+      "title": "Whoop Promo Codes: 20% Off This November 2026",
+      "url": "https://www.wired.com/story/whoop-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 34,
+      "title": "20% Off Samsung Promo Code | November 2026",
+      "url": "https://www.wired.com/story/samsung-promo-codes/",
+      "source": "Wired"
+    },
+    {
+      "id": 35,
+      "title": "Tuft & Needle Promo Codes: 20% Off | November 2026",
+      "url": "https://www.wired.com/story/tuft-and-needle-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 36,
+      "title": "Womanizer Coupons: Save 15% in November 2026",
+      "url": "https://www.wired.com/story/womanizer-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "ABT Promo Codes & Discounts for November 2026",
+      "url": "https://www.wired.com/story/abt-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 38,
+      "title": "PlayStation Discount Code: 15% Off | November 2026",
+      "url": "https://www.wired.com/story/playstation-discount-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 39,
+      "title": "Adidas Promo Code | 60% Off | November 2026",
+      "url": "https://www.wired.com/story/adidas-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 40,
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "source": "The Verge"
+    },
+    {
+      "id": 41,
+      "title": "The FAA Nationwide Ground Stop Is Over",
+      "url": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
+      "source": "Wired"
+    },
+    {
+      "id": 42,
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge"
+    },
+    {
+      "id": 43,
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Best Early Black Friday AirPods Deals (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 46,
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 47,
+      "title": "FAA Grounds All US Flights Until Further Notice",
+      "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/",
+      "source": "Wired"
+    },
+    {
+      "id": 48,
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 51,
+      "title": "Atlas Coffee Club’s Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/atlas-coffee-club-black-friday-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
+      "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 54,
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 56,
+      "title": "The Microsoft Outage Is a Warning for the World",
+      "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
+      "source": "Wired"
+    },
+    {
+      "id": 57,
+      "title": "Thunder",
+      "url": "https://www.producthunt.com/products/thunder-3",
+      "source": "Product Hunt"
+    }
+  ]
+}
