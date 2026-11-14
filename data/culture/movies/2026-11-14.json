@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T16:44:50.557858+00:00",
+  "tonight": {
+    "title": "The Odyssey",
+    "meta": "2026 · Adventure · 2h 53m · ★ 8.0",
+    "why": "For a truly unsettling Friday night, 'Other Mommy' promises to crawl under your skin with its chilling premise of a doppelgänger entity. Prepare for a sleepless night as young Bela's world descends into a terrifying mimicry of familial horror.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+  },
+  "releases": [
+    {
+      "title": "Other Mommy",
+      "take": "If your mom suddenly starts looking like a horror movie villain, maybe it's time to call an exorcist, or at least move out.",
+      "score": 63,
+      "geo": "world"
+    },
+    {
+      "title": "Avengers: Doomsday",
+      "take": "Three universes, one problem: too many capes, not enough common sense, but definitely enough explosions to go around.",
+      "score": 0,
+      "geo": "world"
+    },
+    {
+      "title": "The Beast",
+      "take": "When the Secret Service budget runs dry, apparently the President just drives his armored limo into battle himself.",
+      "score": 56,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "The Odyssey",
+    "blurb": "For those craving a narrative with epic scope and timeless themes, 'The Odyssey' offers a journey of mythic proportions. It's a foundational tale of human resilience, cunning, and the enduring quest for home, proving that some stories never age.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
