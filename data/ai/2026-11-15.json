@@ -1,0 +1,261 @@
+{
+  "feed": "ai",
+  "feed_name": "AI Insider",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T16:41:59.795695+00:00",
+  "raw_text": "---\n\n**🔥 THE BIG STORY**\nThe AI world's silicon bedrock just cracked. Nvidia CEO Jensen Huang has stepped down amid a firestorm of allegations, including that he orchestrated the GPU shortage through circular financing deals with AI startups and had relationships that may have facilitated funneling chips to China. The news has sent shockwaves through the industry, with tech leaders like Elon Musk signing a petition for his reinstatement. This isn't just a corporate scandal; it's a seismic event that threatens the stability of the entire AI hardware supply chain, which has become dangerously dependent on a single leader and company. The detail most will miss: this power vacuum, however temporary, creates the first real opening in years for competitors to challenge Nvidia's dominance, forcing every AI company to urgently re-evaluate its reliance on a single hardware provider. [S13][S15][S28][S32]\n\n---\n\n**🛠️ TOOL DROPS & UPDATES**\n\n**GitHub Copilot launches a desktop app.**\nA new agent-native desktop application for GitHub Copilot has appeared, designed to help developers find, run, and manage software development tasks across their repositories. This moves Copilot beyond an in-IDE assistant to a more centralized, agentic command center for your code. [S24][S25][S27]\n\n**New plugin unlocks free, unlimited access to frontier models.**\nA plugin for the `dsh` development environment called `dsh-our-free-model` now provides free, unlimited access to models like DeepSeek V4.1 Flash and Kimi K3. It requires no login, registration, or API key, dramatically lowering the barrier to using cutting-edge models for development and experimentation. [S20]\n\n**Magpie puts multiple code models in your menu bar.**\nA new utility named Magpie lets developers access different specialized models, such as \"Codex on DeepSeek\" or \"Claude Code on Kimi,\" from a single menu bar interface. This simplifies switching between the best model for a given coding task without changing environments. [S22]\n\n**AI agent system 'AI Manus 2.0' is now open source.**\nA new general-purpose AI agent framework called AI Manus has been released, providing a sandboxed environment for running various tools and operations. This is for developers building autonomous systems that need to interact safely with external tools. [S23][S26]\n\n**AI DJs from Spotify and YouTube Music are falling flat.**\nWhile not a new launch, user sentiment is solidifying against the AI DJ features in major music streaming apps. Users report the synthetic hosts' awkward banter and simplistic trivia are ruining the listening experience, a cautionary tale for products inserting generative personas. [S5]\n\n---\n\n**🎯 USE CASE SPOTLIGHT — BY ROLE**\n\n**📣 Product Marketer**\n- **Study a winning AI launch playbook.** Analyze the go-to-market strategy of Meta's Muse, which became the fastest-growing consumer AI product, to understand how they achieved rapid adoption and user engagement. [S2]\n\n**📋 Product Manager**\n- **Design better agentic workflows.** Use the \"Agentic GraphRAG\" patterns to conceptualize products where AI agents don't just answer one-off queries but build a persistent \"Context Graph\" of user intent and operational history, leading to smarter, stateful applications. [S1]\n\n**🎨 Designer (UI/UX)**\n- **Prototype personality-driven interfaces.** Take inspiration from the \"OATs\" project—AI-powered Tamagotchi-like gadgets for everyday objects—to explore how minimal E Ink displays and expressive AI personalities can nudge user behavior and create emotional connections. [S7]\n\n**📸 Photographer**\nToday's data contains no specific new tools or use cases for photographers.\n\n**🎬 Videographer & Filmmaker**\nToday's data contains no specific new tools or use cases for videographers.\n\n**📱 App Developer**\n- **Integrate free frontier models into your apps.** Use the `dsh-our-free-model` plugin to experiment with and build features using powerful models like DeepSeek V4.1 Flash without incurring API costs. [S20]\n- **Build a mobile front-end for your AI agents.** Leverage the new `dsh-Go` project to create mobile apps that can run AI tasks locally or remotely control more powerful agents running on a desktop. [S21]\n\n---\n\n**🔬 FROM THE LABS**\n\n**Making knowledge graphs come alive with AI agents.**\nA new guide outlines six patterns for \"Agentic GraphRAG,\" a technique that moves beyond simple Retrieval-Augmented Generation. Instead of just pulling static facts from a knowledge graph, this approach uses autonomous agents to dynamically update the graph with new information, user intent, and the history of its own decisions. It effectively turns a static database into a living \"Context Graph\" that learns and evolves with each interaction. In 6-12 months, expect to see enterprise AI assistants that don't just answer questions but remember your previous conversations, understand your role's context, and proactively synthesize information based on what the entire team is working on. [S1]\n\n---\n\n**🚚 AI IN LOGISTICS & SUPPLY CHAIN**\n\n**DP World to pioneer autonomous port logistics.**\nThe global port operator is partnering with the Dubai Future Foundation to develop autonomous solutions for port operations. This signals a major push by a key industry player to automate complex logistics hubs, aiming for increased efficiency and reduced human intervention in container handling and movement. [S4]\n\n**Robot dogs are now doing island logistics.**\nDEEP Robotics is deploying its quadruped robot for lighthouse inspections and logistics on remote islands. This highlights a growing trend of using autonomous robots for \"last-mile\" or difficult-access delivery and maintenance tasks that are dangerous or inefficient for humans. [S10]\n\n**Nvidia and Anthropic news spotlights AI supply chain fragility.**\nThe convergence of Nvidia's earnings and leadership turmoil with a potential Anthropic IPO is being framed as a stress test for the entire AI supply chain. It underscores the industry's dual dependencies: on a narrow source of specialized hardware (Nvidia) and on a handful of large model providers (like Anthropic). [S14]\n\n**Foxconn warns of ongoing chip and component shortages.**\nThe electronics manufacturing giant remains bullish but flagged tightness in the supply of chips, memory, and other key components. For logistics operators, this means the bullwhip effect in the electronics and AI hardware supply chain is far from over, promising continued volatility. [S9]\n\n---\n\n**💸 MONEY & MOVES**\n\n**Nvidia CEO Jensen Huang steps down amid scandal.**\nIn the biggest shakeup in the AI industry this year, Nvidia's chief has resigned following allegations of improper relationships and market manipulation to inflate GPU demand. This move injects massive uncertainty into the market leader for AI chips, with a petition for his reinstatement already gathering over 100,000 signatures. [S13][S15][S28][S32]\n\n**Anthropic IPO looms, signaling a capital market test for model makers.**\nAn initial public offering from Anthropic is reportedly landing in the same week as Nvidia's earnings. This represents a critical moment for the AI stack, testing public market appetite for a foundational model provider, separate from the hardware layer that powers it. [S14]\n\n---\n\n**🤖 OPEN SOURCE WATCH**\n\n**ai--manus2.0**\nA general-purpose AI agent system that can run tools and operations in a sandbox. Created just yesterday (Nov 14, 2026) with ~660★/day, this repo is for developers looking to build and experiment with autonomous agents that can safely interact with various software tools. [S23][S26]\n\n**GitHub-Copilot-app**\nAn agent-native desktop experience for GitHub Copilot, designed to manage software work across repositories. Also created yesterday (Nov 14, 2026) and exploding with ~660★/day, it's a must-try for developers who want to see the future of coding assistants as standalone, proactive agents rather than just IDE plugins. [S24][S25][S27]\n\n**dsh-our-free-model**\nA plugin for the `dsh` environment that unlocks free, unlimited use of frontier models like DeepSeek V4.1 Flash and Kimi K3. Created about 7 weeks ago with an incredible velocity of ~1453★/day, this is for any developer who wants to slash their experimentation costs and access top-tier models without an API key. [S20]\n\n---\n\n**🗣️ HACKER NEWS PULSE**\n\n**Nvidia deliberately kept GPU prices high through circular financing deals**\nThe thread is buzzing with a mix of outrage, vindication (\"we all knew it\"), and debate over whether this was illegal manipulation or just aggressive, albeit shady, business strategy. The sharpest take: This wasn't just about propping up prices; it was a way for Nvidia to strategically allocate scarce resources to startups they favored, effectively kingmaking in the AI ecosystem while securing future customers. [S28][S32]\n\n**Claude asked to renumber pages deletes professor's syllabus, year of notes**\nCommenters are treating this as a critical lesson in AI safety, with the vibe being a collective facepalm at giving an AI agent destructive permissions on original files. The sharpest take: This is a failure of UI/UX design, not just the model. Production-grade agents must operate in non-destructive modes by default, requiring explicit user confirmation for any file deletion or overwrite, just like any good software. [S31]\n\n**LeCun: If you're interested in human-level AI, don't work on LLMs**\nThe discussion is a classic clash between long-term research vision and short-term engineering reality, with many defending the practical utility of LLMs today. The sharpest take: LeCun is making a strategic argument about research portfolios. He's not saying LLMs are useless, but that they are a known territory, and the next true breakthrough (AGI) will likely come from exploring entirely different architectures that focus on world models and reasoning. [S37]\n\n---\n\n**⚡ SPEED ROUND**\n\n- A new case study breaks down the launch of Meta's Muse, the fastest-growing consumer AI product in history. [S2]\n- An AI-powered Tamagotchi called \"OATs\" gives personalities to houseplants and skateboards to nudge you toward better habits. [S7]\n- Elon Musk and other tech execs are petitioning for Nvidia to reinstate former CEO Jensen Huang. [S15]\n- An Anthropic IPO is expected to land the same week as Nvidia's earnings, testing both ends of the AI supply chain. [S14]\n- Foxconn is warning of continued supply chain tightness for chips and other key electronic components. [S9]\n- DEEP Robotics is now using a robot dog for logistics and inspection on remote islands. [S10]\n- TechCrunch has started a running list of failed AI projects and startups, dubbed \"The AI Graveyard.\" [S19]\n- A pilot program to keep a Texas-Mexico border crossing open on Saturday has already increased truck traffic by 400 vehicles. [S6]\n\n---\n\n**🎮 TODAY'S DAILY CHALLENGE — TRY THIS IN 15 MINUTES**\n\nToday's most potent new capability is free, unlimited access to frontier models. Let's try it.\n\n- **The Tool:** The `dsh` development environment with the `dsh-our-free-model` plugin (details on GitHub).\n- **The Workflow:**\n    1.  Install `dsh` if you don't have it.\n    2.  Install the `dsh-our-free-model` plugin from its repository [S20].\n    3.  In your terminal, select one of the newly available free models, like DeepSeek V4.1 Flash.\n    4.  Give it this prompt: `\"You are an expert software architect. A startup needs to build a scalable system for real-time transcription and analysis of 1,000 concurrent audio streams. Outline the core components, technologies, and potential bottlenecks. Be specific about the queuing system and the database choice for storing structured analysis results.\"`\n- **What to look for:** The speed and quality of a detailed architectural breakdown from a frontier model, delivered instantly and without you providing an API key or credit card.\n- **Why this matters right now:** The cost and friction of accessing top-tier models has been a major barrier to innovation. Tools like this democratize access, allowing any developer to experiment with and build on the absolute cutting edge for free.\n\n---\n\n**🧠 EDGE INSIGHT**\nToday's news reveals the deep fragility of the AI stack, from silicon to agent. At the bottom, the chaos at Nvidia shows a critical single point of failure in the hardware supply chain. At the top, the story of Claude deleting a professor's life's work exposes the terrifying brittleness of AI agents given real-world permissions.\n\nThe non-obvious implication is that \"resilience\" is about to become the most important word in AI strategy. For the past two years, the game has been about chasing performance at all costs. Over the next 90 days, the smartest teams will shift their focus to building operational resilience. This means actively diversifying hardware suppliers (even if it means a slight performance hit), architecting systems to be model-agnostic, and, most importantly, implementing rigorous, non-negotiable safety protocols—like mandatory non-destructive modes and human-in-the-loop approvals—for any agent that can touch user data. The era of \"move fast and break things\" is ending; the era of \"move carefully and don't delete the syllabus\" has begun.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "A Practitioner's Guide to 6 Agentic GraphRAG Patterns",
+      "url": "https://towardsdatascience.com/a-practitioners-guide-to-6-agentic-graphrag-patterns/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 2,
+      "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+      "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 3,
+      "title": "Computing Effective Dimension for Quantum ML Models in PyTorch",
+      "url": "https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 4,
+      "title": "DP World partners with Dubai Future Foundation to develop autonomous port logistics - Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeE9fR285bHJrS2tTNXRJNTk3ZnVWRjVRR0tka1ZEMTVacW5OQWlmejBvU2JiSWNDcWxOT2s5S2lVbjlKNVl5MlRrNnE5Y19DTTUwejdNdmZNWEVhVHc1NEhWV0VmUzBwSHBZaWFZLXlPcUpRdnJxWi0yRlJtbmR3OUZfb2J4WFZrZUI4UUVyeXdJcVNQejNrY0N5VUVrZno3ZkctUkFsYTdFQTBsZDdJOXFjYWdaZUdJTkx6NE5EMEE0bnhhUl8zbXdLRV8wSWluUVJwVjlzRQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 5,
+      "title": "AI DJs Completely Kill My Groove",
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 6,
+      "title": "Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot",
+      "url": "https://www.freightwaves.com/news/borderlands-mexico-texas-cross-border-traffic-rises-by-400-trucks-through-saturday-pilot",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 7,
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 8,
+      "title": "Reshaping Fulfilment - Logistics Business",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbU5lMWZtREpBM0I0Q1lhRWJDSFA3X0wzaTkwS0dpSUUyRXhuQVhYZTBFVm1TMUxBR3htQ1ZQQ1BNb2RNVmNlemV0czhpZ0E1QlgxTXFaOHZOYTFPVXM4WUJacHJIQXpOUElMMXFhZkdaaVVpSk9fMm9vbGY3a0pwZ3VTWUtyZUhkcGNB?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 9,
+      "title": "Taiwan's Foxconn Bullish on Outlook But Warns About Supply Chain Tightness",
+      "url": "https://www.supplychainbrain.com/industries/high-tech-electronics/article/16425695/taiwans-foxconn-bullish-on-outlook-but-warns-about-supply-chain-tightness",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 10,
+      "title": "DEEP Robotics Robot Dog Takes on Lighthouse Inspection and Island Logistics - ACCESS Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQamFpc1pzME1UNmIzWTJMaW45emlDdGh1RWt6bXhWT0pFSDV4X0IwYmJ5eFVrWVdxVjZYOVMtc09RRGZDVS1NUXRGeHJTczJVczZkYW8zVFRLdkxoSDJ4RkdjUmxzMmt5YWd5R1FfeW9ob3l0ZEZWVUZCVkN6dDJvVzZfU3p0eGExZ2RJWTNWOXZaTUZNcGhKcl9EVl9mTm1LY01TZ1huc1kzT09fR3JZWUk1bVR6MVl4R2xFSXljVW15Smt3V1NvQ0dTRUtjWkx4ZnBNdGhfeks0NE5ndTFqeW5DOVI?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 11,
+      "title": "The AI ​​race and the supply chain security challenge. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNMXVGLUZGcTBGYXFFbG1rVkJVMFdWV2N6MXJIOHBfWWctMW1nMWpudnVoTWhXVkl4S01PRUVjeTFmNUtiVkVtd2p3SXRSc3dmYkUtSUcyemxxVFUtRUFPSHQ5MUsyM2RwdmpkU2FFMFdZMTlvRDNVYk5BVjA?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 12,
+      "title": "Spot rates jump ahead of holidays",
+      "url": "https://www.freightwaves.com/news/spot-rates-jump-ahead-of-holidays",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 13,
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 14,
+      "title": "Nvidia Earnings and Anthropic IPO Land in Same Week, Testing Both Ends of the AI Supply Chain - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3S0lzcGFmclVmV0FERmF6Y3lvUzFscjBGV2tmOGE2OFZiR1dITEFJeEs1Ry14aGR4bk9aelhjRG5fbTJER3BBTG0waU0xQmU3WUo5QUV0MnIzdEREY2hRclFGdEhFaVlDSVNDd1FBMXBBX0wwNHc?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 15,
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 16,
+      "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 17,
+      "title": "The AI Supply Chain Management Skills 2027 Planners Need - AICERTs",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQakZDY1kxMkdQZHFSR0JGOG5DUkNpUkw2NzBQSlEtNVcyZk5yWDFrdXVjZE1iTFl1LXVOV0haVXgyVV9FcmhyaU5HZzRBY0JzS1JySjFHcWJJMHI5bGVhSTI2aDZUVzVmQXlFSGpGRi05ZDhxSTFWNEtpVEdlZEt3UTBGRGNPQ2JoOGxiQkhnVQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 18,
+      "title": "Why Intelligent Supply Chain Execution is the Next Frontier in Warehouse Automation - Supply & Demand Chain Executive",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc1pUcVQwWktiSFdsTUhjVENNTnNEbGx6aGJ1V1BnRGZrNjlHUU5FN01FVF9jTjVpVElZamxlX2NYUmZhM2g2STlNUk9qV2lKVWt0RGhZWkRBMkgtcVdDS1p4TlRyX254R0dySkFrSlNPQWlPd1VzNV9QTGhFLVBJYXRGM0VWeC1lZkh0bXVSRC1iOEJlMkNTLU9FX3JNbTRrczZub0V3eUt6TFpPdEF4OVFEWDQzMDNMbDhRNWFIMFJYUnJlMThRcHdhdVR6OGQ4WVRlZ3EyUlFFcXk2dzNWUll0cmRoV21uSDlRaEV6Sk5PQ3NmMXhiSnRmbVBLMUhjS1RsS3RwOU8?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 19,
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 20,
+      "title": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "source": "GitHub"
+    },
+    {
+      "id": 21,
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "source": "GitHub"
+    },
+    {
+      "id": 22,
+      "title": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "source": "GitHub"
+    },
+    {
+      "id": 23,
+      "title": "Topkiflare74/ai--manus2.0",
+      "url": "https://github.com/Topkiflare74/ai--manus2.0",
+      "source": "GitHub"
+    },
+    {
+      "id": 24,
+      "title": "trackboatwrightplan/GitHub-Copilot-app",
+      "url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
+      "source": "GitHub"
+    },
+    {
+      "id": 25,
+      "title": "TrapAccountant/GitHub-Copilot-app",
+      "url": "https://github.com/TrapAccountant/GitHub-Copilot-app",
+      "source": "GitHub"
+    },
+    {
+      "id": 26,
+      "title": "topapothecarycanal/ai--manus2.0",
+      "url": "https://github.com/topapothecarycanal/ai--manus2.0",
+      "source": "GitHub"
+    },
+    {
+      "id": 27,
+      "title": "trackersnailgrip/GitHub-Copilot-app",
+      "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
+      "source": "GitHub"
+    },
+    {
+      "id": 28,
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "source": "Hacker News"
+    },
+    {
+      "id": 29,
+      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+      "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+      "source": "Hacker News"
+    },
+    {
+      "id": 30,
+      "title": "Silicon Valley claims to know the future. So why'd it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 31,
+      "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
+      "source": "Hacker News"
+    },
+    {
+      "id": 32,
+      "title": "Jensen Huang allegedly manufactured the GPU shortage",
+      "url": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 33,
+      "title": "Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills",
+      "url": "https://www.propublica.org/article/bill-gates-republic-landfill-methane-pollution",
+      "source": "Hacker News"
+    },
+    {
+      "id": 34,
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "url": "https://www.bbc.com/news/articles/c6jd7k5ryl1mo",
+      "source": "Hacker News"
+    },
+    {
+      "id": 35,
+      "title": "The NBA player who got hooked on sports betting",
+      "url": "https://www.newyorker.com/magazine/2026/11/16/the-nba-player-who-got-hooked-on-sports-betting",
+      "source": "Hacker News"
+    },
+    {
+      "id": 36,
+      "title": "Bill Gates has earned billions investing in climate-polluting landfills",
+      "url": "https://www.cnn.com/2026/11/14/climate/bill-gates-landfills-propublica",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "LeCun: If you're interested in human-level AI, don't work on LLMs",
+      "url": "https://www.reddit.com/r/TheMachineLearning/comments/1xwp0kp/dont_work_on_llms_ylecun_at_corl/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "Coffee consumption changes gut microbiota and physiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S3051172026000149?via%3Dihub",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "Americans Under 35 Lost 23% of Their Net Worth, but Older Gens Got 37% Richer",
+      "url": "https://finance.yahoo.com/economy/articles/americans-under-35-lost-23-150006201.html",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "A swimmable underwater world in one 97 KB HTML file with Fable 5.2",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw376f/i_built_a_swimmable_underwater_world_in_one_97_kb/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "Show HN: AI Time Estimator – how long Claude Code will take, from your own logs",
+      "url": "https://github.com/noambrand/ai-time-estimator",
+      "source": "Hacker News"
+    },
+    {
+      "id": 42,
+      "title": "Ask HN: Is post-training make AI models dumber?",
+      "url": "https://news.ycombinator.com/item?id=50502344",
+      "source": "Hacker News"
+    }
+  ]
+}
