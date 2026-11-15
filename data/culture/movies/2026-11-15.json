@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T17:26:32.298169+00:00",
+  "tonight": {
+    "title": "The Odyssey",
+    "meta": "2026 · Adventure · 2h 53m · ★ 8.0",
+    "why": "Tonight, witness the breathtaking spectacle of \"Godzilla Minus Zero,\" a film that doesn't just pit humanity against a monster, but against the crushing weight of post-war despair, making every atomic breath resonate with profound human cost.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+  },
+  "releases": [
+    {
+      "title": "Avengers: Doomsday",
+      "take": "Three universes collide, which means three times the spandex, three times the explosions, and probably three times the plot holes, but who's counting when the fate of everything is at stake?",
+      "score": 0,
+      "geo": "world"
+    },
+    {
+      "title": "Other Mommy",
+      "take": "Sleep with one eye open after this chilling tale where the greatest terror isn't a monster under the bed, but the one wearing your mother's face.",
+      "score": 63,
+      "geo": "world"
+    },
+    {
+      "title": "Resident Evil",
+      "take": "If your medical courier job ever involves fighting hordes of the undead, perhaps it's time to update your resume, or at least invest in some better running shoes.",
+      "score": 75,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "The Odyssey",
+    "blurb": "For those who crave psychological dread over jump scares, \"Other Mommy\" delivers a masterclass in unsettling horror, twisting the sacred bond of motherhood into a terrifying, uncanny nightmare that lingers long after the credits roll.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
