@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T20:41:57.544871+00:00",
+  "tonight": {
+    "title": "The Odyssey",
+    "meta": "2026 · Adventure · 2h 53m · ★ 8.0",
+    "why": "Craving a spine-tingling ride that will make you double-check every shadow? \"Other Mommy\" delivers psychological terror with a chilling doppelganger premise that will haunt your dreams long after the credits roll.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+  },
+  "releases": [
+    {
+      "title": "Avengers: Doomsday",
+      "take": "Our heroes are once again staring down the barrel of annihilation, proving that even universe-hoppers can't catch a break.",
+      "score": 0,
+      "geo": "world"
+    },
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "take": "Panem's favorite deadly reality show gets a prequel, reminding us that even 24 years earlier, the odds were never in anyone's favor.",
+      "score": 95,
+      "geo": "world"
+    },
+    {
+      "title": "Other Mommy",
+      "take": "Your mom always told you not to talk to strangers, but what if the stranger looks exactly like your mom and is pure evil?",
+      "score": 63,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "blurb": "Forget your small-screen dramas; \"The Odyssey\" is the ultimate epic, a sweeping saga of human resilience against divine wrath and monstrous odds that proves some stories are truly timeless. Its grand scale and enduring themes make it an essential watch for anyone seeking a truly profound cinematic experience.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
