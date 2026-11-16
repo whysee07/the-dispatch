@@ -1,0 +1,525 @@
+{
+  "feed": "pmm",
+  "feed_name": "Marketing Brief",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T19:48:53.233960+00:00",
+  "raw_text": "☕ THE LEAD\n\nAI is everywhere in marketing, but CMOs are quietly stressing about whether it's actually moving the needle beyond just making things a little faster. Deloitte Digital just dropped new \"agentic tools\" aimed at fixing messy marketing workflows, which is their answer to the fact that all this AI advancement is bumping up against organizational brick walls. The big takeaway here? We're past the \"AI for efficiency\" stage and squarely into the \"AI for growth\" challenge. Brands like Clorox are already building AI systems that crank out highly optimized product content, encoding brand voice and getting real results. The CMOs who are winning aren't just running pilots; they're rethinking how data, processes, and people fit together to turn AI from a collection of tools into a core part of their enterprise operating model. If your AI strategy is still stuck in functional silos, it's time to elevate that conversation to the C-suite. [S3][S4][S75]\n\n📣 QUICK HITS\n\n**Instagram rolls out Amazon affiliate links for Reels and posts.**\nCreators can now embed up to 30 Amazon affiliate links directly into their Reels and feed posts, making it way easier to monetize content beyond stories or bio links. Get ready for even more \"shop my look\" content. [S56][S57]\n\n**Meow Mix reimagines iconic cat memes for a multichannel campaign.**\nThe cat food brand is fictionalizing the \"behind-the-scenes\" of internet-famous felines like Keyboard Cat and Huh Cat. It's a clever move to tap into existing cultural touchstones and give them a fresh, branded spin. [S11]\n\n**CeraVe partners with 'Dune' as the \"Official Moisturizer of Arrakis.\"**\nL'Oréal's CeraVe is taking its social-first playbook global with its first film partnership, tying into the blockbuster ahead of its December 18 release. It's absurd, it's memorable, and it's peak brand marketing. [S14]\n\n**TikTok UK reports on live shopping's growing influence.**\nAlmost one-third of live viewers have gone on to buy a product displayed during a livestream, either in-store or online. If you're not factoring live shopping into your holiday strategy, you're missing out on a huge engagement and conversion channel. [S29][S34]\n\n🎯 THE PMM DESK\n\n**Driving adoption when the buyer isn't the user is a B2B PMM's core challenge.**\nThe Product Marketing Alliance highlights a common gap: a signed contract doesn't guarantee end-user adoption. For enterprise B2B, PMMs need to craft strategies that engage not just the buyer (who signs the check) but also the user (who actually needs to use it daily) and the champion (who advocates for it internally). [S8]\n\n**Shaping consistent narrative through a rapid launch schedule.**\nPMMs are grappling with how to tell \"one story, many chapters\" when product teams are shipping at breakneck speed. This means having a strong, overarching narrative framework that can flex and extend across multiple, fast-paced launches without losing cohesion. [S19]\n\n🧠 PMM 101\n\n**The concept:** Buyer vs. User\n**What it is:** In product marketing, the \"buyer\" is the person or entity who makes the purchasing decision and holds the budget (e.g., a CTO buying a new software platform). The \"user\" is the person who actually interacts with and uses the product day-to-day (e.g., the engineers who use that software). They often have different needs, motivations, and pain points.\n**Why it matters:** Understanding this distinction is critical for everything from positioning and messaging to feature prioritization and achieving product adoption.\n**See it today:** The Product Marketing Alliance points out that a signed contract proves someone *wanted* the product (the buyer), but doesn't guarantee the end-users will actually *use* it. [S8]\n**Try it:** For your next product or feature, create separate persona profiles for the buyer and the user. List their top 3 goals, top 3 pain points, and how your product addresses each. Then, draft distinct messaging for each persona.\n\n🧩 PRODUCT CORNER\n\n**A solo founder shares the dark side of AI trials: token fraud.**\nLenny's Newsletter dives into how one founder lost tens of thousands of dollars and huge engineering effort fighting fraudsters who were farming free trials, reselling promo codes, and wrapping products in relays. It's a stark reminder that as AI products scale, securing your platform against sophisticated abuse becomes a critical (and costly) product challenge. [S5][S17]\n\n🔧 TOOL DROP\n\n**LexiCAD** — Describe a part in plain language to get a CAD design.\nBest for: Engineers, designers, product developers looking to rapidly prototype or generate CAD models from text. · Free tier: No · Honest take: Genuinely useful. If it works as promised, this could be a huge time-saver for anyone in product design or manufacturing, cutting down on manual design time. [S39][S86]\n\n⚡ SPEED ROUND\n\n📉 One in five marketers is looking to quit, double the average for other white-collar jobs. Burnout is real, folks. [S18]\n🔒 Apple's iPhone Duo is getting a limited face unlock feature in iOS 27.3, but it's not the full Face ID experience. [S1][S45][S49]\n🔮 Meta is internally testing a prediction markets app, which sounds like a very Meta thing to do. [S36]\n🚫 LinkedIn is cracking down on AI-generated comments, trying to fight the \"AI slop\" in your feed. Thank goodness. [S37]\n🎬 Hearst Magazines launched a Creator Studio built like a talent agency, complete with original series and big brand deals. [S26]\n🎮 Your brand needs a gaming strategy beyond just jumping on the GTA VI bandwagon. Adweek said it, so it must be true. [S13]\n🤵 Robert Pattinson has been cast as Amazon's first James Bond. The marketing writes itself. [S68]",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+      "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 2,
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "source": "The Verge"
+    },
+    {
+      "id": 3,
+      "title": "Deloitte Digital’s new agentic tools aim to fix messy marketing workflows",
+      "url": "https://www.marketingdive.com/news/deloitte-digitals-new-agentic-tools-aim-to-fix-messy-marketing-workflows/874779/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 4,
+      "title": "What it will take for CMOs to reach the next frontier of AI-driven growth",
+      "url": "https://digiday.com/sponsored/what-it-will-take-for-cmos-to-reach-the-next-frontier-of-ai-driven-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 5,
+      "title": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 6,
+      "title": "Ch. 11: Measuring Impact",
+      "url": "https://www.producttalk.org/ch-11-measuring-impact/",
+      "source": "Teresa Torres"
+    },
+    {
+      "id": 7,
+      "title": "Claude AI for marketing: How teams use it with HubSpot",
+      "url": "https://blog.hubspot.com/marketing/claude-for-marketing",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 8,
+      "title": "Driving product adoption when  the buyer isn't necessarily the user",
+      "url": "https://www.productmarketingalliance.com/driving-product-adoption/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 9,
+      "title": "LingoMic",
+      "url": "https://www.producthunt.com/products/lingomic",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 10,
+      "title": "ByteVoice",
+      "url": "https://www.producthunt.com/products/bytevoice",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 11,
+      "title": "Meow Mix reimagines iconic cat memes for multichannel campaign",
+      "url": "https://www.marketingdive.com/news/meow-mix-reimagines-iconic-cat-memes-for-multichannel-campaign/874724/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 12,
+      "title": "Amazon puts Arnold Schwarzenegger in Santa suit to extend holiday push",
+      "url": "https://www.marketingdive.com/news/amazon-puts-arnold-schwarzenegger-in-santa-suit-to-extend-holiday-push/874675/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 13,
+      "title": "Why Your Brand Needs a Gaming Strategy",
+      "url": "https://www.adweek.com/brand-marketing/why-your-brand-needs-a-gaming-strategy/",
+      "source": "Adweek"
+    },
+    {
+      "id": 14,
+      "title": "How CeraVe’s ‘Dune’ deal takes the brand’s social-first playbook global",
+      "url": "https://www.marketingdive.com/news/how-ceraves-dune-deal-takes-the-brands-social-first-playbook-global/874654/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 15,
+      "title": "Harlem Globetrotters Team With Sprite in Rivalry Tour Sponsorship",
+      "url": "https://www.adweek.com/brand-marketing/harlem-globetrotters-team-with-sprite-in-rivalry-tour-sponsorship/",
+      "source": "Adweek"
+    },
+    {
+      "id": 16,
+      "title": "Today Plaza Becomes a Key Integration Point for Audiences and Brands",
+      "url": "https://www.adweek.com/brand-marketing/today-plaza-becomes-a-key-integration-point-for-audiences-and-brands/",
+      "source": "Adweek"
+    },
+    {
+      "id": 17,
+      "title": "How I fight token fraud as a solo founder",
+      "url": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 18,
+      "title": "1 in 5 Marketers Is Looking to Quit—Double the Average in Other Fields",
+      "url": "https://www.adweek.com/brand-marketing/1-in-5-marketers-is-looking-to-quitdouble-the-average-in-other-fields/",
+      "source": "Adweek"
+    },
+    {
+      "id": 19,
+      "title": "One story, many chapters: Shaping consistent narrative through a rapid launch schedule",
+      "url": "https://www.productmarketingalliance.com/one-story-many-chapters-shaping-consistent-narrative-through-a-rapid-launch-schedule-2/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 20,
+      "title": "Commerce media networks: 6 questions agencies should ask before investing",
+      "url": "https://www.marketingdive.com/spons/commerce-media-networks-6-questions-agencies-should-ask-before-investing/874217/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 21,
+      "title": "AI Is transforming marketing. Can marketers prove it’s working?",
+      "url": "https://www.marketingdive.com/spons/ai-is-transforming-marketing-can-marketers-prove-its-working/874404/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 22,
+      "title": "Holiday Ads Arrive Earlier, With Retailers Getting a Head Start",
+      "url": "https://www.adweek.com/convergent-tv/holiday-ads-arrive-earlier-with-retailers-getting-a-head-start/",
+      "source": "Adweek"
+    },
+    {
+      "id": 23,
+      "title": "How AI and social media are changing the media mix",
+      "url": "https://www.socialmediatoday.com/spons/how-ai-and-social-media-are-changing-the-media-mix/873109/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 24,
+      "title": "A Bravo Star Decks the Bathroom Halls in Goodwipes&#8217; First Holiday Ad",
+      "url": "https://www.adweek.com/brand-marketing/a-bravo-star-decks-the-bathroom-halls-in-goodwipes-first-holiday-ad/",
+      "source": "Adweek"
+    },
+    {
+      "id": 25,
+      "title": "Arnold Schwarzenegger Finally Lands the Role of Santa in Amazon&#8217;s Holiday Ad",
+      "url": "https://www.adweek.com/commerce/arnold-schwarzenegger-finally-lands-the-role-of-santa-in-amazons-holiday-ad/",
+      "source": "Adweek"
+    },
+    {
+      "id": 26,
+      "title": "Hearst Magazines Launches a Creator Studio Built Like a Talent Agency",
+      "url": "https://www.adweek.com/media/hearst-creator-studios-talent-agency-magazines/",
+      "source": "Adweek"
+    },
+    {
+      "id": 27,
+      "title": "Newsletter Perfectly Imperfect, on Track for $5 Million Next Year, Launches an Agency",
+      "url": "https://www.adweek.com/media/perfectly-imperfect-agency-dating-app-newsletters/",
+      "source": "Adweek"
+    },
+    {
+      "id": 28,
+      "title": "Media Buying Briefing: Buyers grapple with incoming Amazon reporting changes",
+      "url": "https://digiday.com/media-buying/media-buying-briefing-buyers-grapple-with-incoming-amazon-reporting-changes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 29,
+      "title": "How brands are banking on live shopping this holiday season",
+      "url": "https://digiday.com/media/how-brands-are-banking-on-live-shopping-this-holiday-season/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 30,
+      "title": "Substack job listing hints at a bigger advertising push in 2027",
+      "url": "https://digiday.com/marketing/substack-job-listing-hints-at-a-bigger-advertising-push-in-2027/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 31,
+      "title": "How Bustle Digital Group is helping Pampers and Innisfree show up in AI recommendations",
+      "url": "https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 32,
+      "title": "Deloitte Digital takes the holdco operating system pitch straight to the CEO",
+      "url": "https://digiday.com/marketing/deloitte-digital-takes-the-holdco-operating-system-pitch-straight-to-the-ceo/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 33,
+      "title": "LinkedIn says influential voices are critical for AI chatbot citations",
+      "url": "https://www.socialmediatoday.com/news/linkedin-says-influential-voices-are-critical-for-ai-chatbot-citations/874712/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 34,
+      "title": "TikTok UK publishes live shopping report",
+      "url": "https://www.socialmediatoday.com/news/tiktok-uk-publishes-live-shopping-report/874711/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 35,
+      "title": "Facebook shelves additional profile option",
+      "url": "https://www.socialmediatoday.com/news/facebook-shelves-additional-profile-option/874710/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 36,
+      "title": "Meta begins internal tests of prediction markets app",
+      "url": "https://www.socialmediatoday.com/news/meta-begins-internal-tests-of-prediction-markets-app/874709/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 37,
+      "title": "LinkedIn cracks down on AI-generated comments",
+      "url": "https://www.socialmediatoday.com/news/linkedin-cracks-down-on-ai-generated-comments/874707/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 38,
+      "title": "Notebook to Notes",
+      "url": "https://www.producthunt.com/products/notebook-to-notes",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 39,
+      "title": "LexiCAD",
+      "url": "https://www.producthunt.com/products/lexicad",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 40,
+      "title": "StateWeave",
+      "url": "https://www.producthunt.com/products/stateweave",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 41,
+      "title": "Puffin",
+      "url": "https://www.producthunt.com/products/puffin-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 42,
+      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+      "source": "The Verge"
+    },
+    {
+      "id": 43,
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Island is a new screen-time app that turns staying off your phone into a game",
+      "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
+      "url": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta",
+      "source": "The Verge"
+    },
+    {
+      "id": 46,
+      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 48,
+      "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
+      "url": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "The iPhone Duo Is Getting a Limited Version of Face ID",
+      "url": "https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/",
+      "source": "Wired"
+    },
+    {
+      "id": 50,
+      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+      "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 51,
+      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 52,
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 53,
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 54,
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 55,
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 56,
+      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+      "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 57,
+      "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
+      "url": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
+      "source": "Wired"
+    },
+    {
+      "id": 58,
+      "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 59,
+      "title": "AO3 Is Back. This Is Not a Drill",
+      "url": "https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/",
+      "source": "Wired"
+    },
+    {
+      "id": 60,
+      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
+      "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+      "source": "The Verge"
+    },
+    {
+      "id": 61,
+      "title": "Jensen Huang Is Gone. Now What?",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+      "source": "Wired"
+    },
+    {
+      "id": 62,
+      "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 63,
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 64,
+      "title": "The Verge’s guide to the best gifts under $100",
+      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 65,
+      "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
+      "url": "https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai",
+      "source": "The Verge"
+    },
+    {
+      "id": 66,
+      "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+      "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+      "source": "Wired"
+    },
+    {
+      "id": 67,
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 68,
+      "title": "Robert Pattinson is Amazon’s first James Bond",
+      "url": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond",
+      "source": "The Verge"
+    },
+    {
+      "id": 69,
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 70,
+      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 71,
+      "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
+      "url": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 72,
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 73,
+      "title": "After dodging death, battery startup Our Next Energy is now going public",
+      "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 74,
+      "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+      "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 75,
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 76,
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 77,
+      "title": "Best Digital Photo Frames (2026): Aura, Skylight, Amazon",
+      "url": "https://www.wired.com/story/best-digital-photo-frames/",
+      "source": "Wired"
+    },
+    {
+      "id": 78,
+      "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 79,
+      "title": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
+      "url": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
+      "source": "Wired"
+    },
+    {
+      "id": 80,
+      "title": "The Best Smart Bird Feeders for Backyard Birding (2026)",
+      "url": "https://www.wired.com/story/best-smart-bird-feeders/",
+      "source": "Wired"
+    },
+    {
+      "id": 81,
+      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "source": "Wired"
+    },
+    {
+      "id": 82,
+      "title": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
+      "url": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
+      "source": "Wired"
+    },
+    {
+      "id": 83,
+      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 84,
+      "title": "StateWeave",
+      "url": "https://www.producthunt.com/products/stateweave",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 85,
+      "title": "Puffin",
+      "url": "https://www.producthunt.com/products/puffin-2",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 86,
+      "title": "LexiCAD",
+      "url": "https://www.producthunt.com/products/lexicad",
+      "source": "Product Hunt"
+    }
+  ]
+}
