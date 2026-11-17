@@ -1,0 +1,555 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T19:12:59.909986+00:00",
+  "raw_text": "Alright, team, it's Tuesday, Nov 17, 2026, and the news cycle isn't taking a breath. Your daily briefing, fresh off the digital presses:\n\n### Money Talk\n\n- **Jensen Huang open to Nvidia return, faces Congress.**\n  Nvidia's former CEO Jensen Huang, who resigned last week amidst a scandal involving an alleged Chinese spy and multiple employee affairs, is now signaling he'd be \"honored\" to return if the board asked. Meanwhile, Congress wants answers on whether Nvidia's AI chips were compromised. Talk about a dramatic comeback bid. [S5][S6][S14][S17][S18][S52]\n- **Anthropic IPO eyed to validate AI valuations.**\n  With hundreds of billions sloshing into AI startups, all eyes are on Anthropic's potential IPO. It's the litmus test venture investors need to prove their paper gains are real, and to set the stage for other smaller AI players looking for an exit. No pressure. [S2]\n- **FAA router pause hits airline recovery, Home Depot dips.**\n  The FAA has paused installation of new routers after a tech-induced nationwide ground stop caused chaos for travelers. Meanwhile, Home Depot shares are down despite beating earnings, showing even best-in-class can't escape a tough housing market. Infrastructure and housing, always a vibe check for the economy. [S1][S3][S16]\n- **Kalshi pulls Trump markets after CFTC warning.**\n  Prediction market platform Kalshi has yanked some Trump-related \"mention\" contracts at the CFTC's request. Apparently, betting on who mentions whom carries a \"heightened manipulation risk.\" Sounds about right for anything involving that particular brand. [S4]\n- **UK eyes 'polluter pays' levies for climate action.**\n  The UK is backing a statement for new taxes on polluting sectors, including potential \"frequent flyer\" and crypto levies, to fund climate action costs. Brace for impact on your jet-set lifestyle and digital gold portfolios. [S12]\n\n### World Lore\n\n- **Iran ramps up strikes on US targets in Bahrain.**\n  Iran just hit a U.S. radar facility in Bahrain with drones, marking its third attack in recent days. This comes after a two-month lull, and coincides with a gas tanker getting torched in the Strait of Hormuz. The Gulf is heating up again, watch your oil prices. [S11][S21]\n- **Trump's Asia tour includes Xi-Putin summit on Ukraine.**\n  President Trump is in Asia, kicking off in Manila before a planned three-way nuclear summit with Chinese President Xi Jinping and Russian President Vladimir Putin. He's apparently set to discuss Ukraine, which, conveniently, contradicts the White House's earlier agenda. Classic. [S22][S23][S25]\n- **Ukraine hits key Russian bridge in Crimea.**\n  Ukrainian forces struck a vital Russian rail and road bridge to the occupied Crimean Peninsula with drones and missiles. This wasn't some spur-of-the-moment thing, but a carefully prepared attack over weeks. Escalation, meet critical infrastructure. [S24]\n- **US chip restrictions aim to curb China's AI ambitions.**\n  New US rules are tightening chip exports to Southeast Asia, specifically designed to hit China's access to both advanced chips and their computing power. This is less about supply chains and more about a full-on tech-war chokehold. [S10][S51]\n- **Russia wants NATO rollback to 1997 borders.**\n  In a move that feels straight out of a history textbook, Russia is reportedly demanding NATO withdraw from large parts of Eastern Europe, essentially rolling back its expansion to 1997. Moscow's trying to rewrite geopolitical history, good luck with that. [S35]\n\n### Tech Tea\n\n- **OpenAI drops GPT-6.2 Astra and Sol, Microsoft counters with MAI Code 2.**\n  Not to be outdone by Microsoft's new MAI Code 2, OpenAI just unveiled GPT-6.2 Astra and Sol. The AI arms race is moving at warp speed, and if you're not keeping up, you're already behind. Which models will get traction with developers is the real battle. [S36][S39]\n- **Apple services hit by major outage.**\n  iCloud, App Store, Apple Music, you name it – Apple's key services are down today. The status page confirms it, but no word on the cause. Hope you didn't need to download anything important or, you know, use your phone. [S37][S38][S42]\n- **Google's Gemini \"Tasks\" now free, keeps chats for two months.**\n  Google's AI agent, formerly Spark, is now \"Tasks\" and it's free, powered by their new Gemini 4 Hydrogen model. It can handle calls, make purchases, organize your calendar. Oh, and it'll keep your chats for two months now, even if history is off. Convenient, or slightly creepy? You decide. [S41][S43][S46]\n- **FAA grounds its own tech upgrade after nationwide stop.**\n  After a software glitch caused a nationwide ground stop on Friday, the FAA has hit the brakes on installing new routers. It's a humbling moment for anyone banking on seamless tech rollout. Maybe test it before it takes down an entire country's air travel? Just a thought. [S1][S16]\n- **Meta tests standalone Instagram messaging app \"Direct.\"**\n  Meta's trying a new messaging app called \"Direct\" in Turkey and Thailand, essentially stripping Instagram's DMs out into their own app. Feels a bit like deja vu, but hey, if it means less scrolling through Reels to answer a message, I'm not complaining. [S47]\n\n### Creator Szn\n\n- **YouTube inflates view counts with \"co-views.\"**\n  YouTube's now counting estimated \"co-views\" — people watching together on TV — into public view counts. So, your favorite creator's numbers just got a boost, but is it organic? Feels like a participation trophy for engagement metrics. [S49]\n- **Creator vs. Influencer: The industry can't agree.**\n  Marketers are still grappling with what actually constitutes a \"creator\" versus an \"influencer\" or \"tastemaker.\" It's a semantic debate that probably only matters to agencies and LinkedIn gurus, but it highlights the Wild West nature of digital branding. [S57]\n- **Dentsu doubles down on entertainment and sport.**\n  With media revenues slipping, Japanese holding company Dentsu is making entertainment and sport a C-suite priority, appointing Mike Nakamura as chief. A clear signal they're chasing where the eyeballs (and wallets) are migrating in a fragmented landscape. [S59]\n\n### Supply Lines\n\n- **Pedestal AI raises $4.7M to \"agentify\" supply chains.**\n  Logistics startup Pedestal AI just bagged $4.7 million to deploy \"agentic AI\" in supply chains, aiming to make them faster and more reliable. Sounds like the industry is finally ready to let the machines handle the unexpected, or at least help predict it. [S45]\n- **SmartKargo launches AI apps for cargo industry.**\n  SmartKargo is rolling out its first four AI applications designed to sit on top of any cargo system. They promise quick deployment and targeted P&L improvements, showcasing a practical application of AI that moves beyond just hype. [S61]\n- **Amazon expands fuel surcharge to more services.**\n  Starting in February, Amazon is extending its 3.5% fuel and logistics surcharge to bulk storage and replenishment services. Expect that to trickle down the chain as companies grapple with fuel costs and Amazon passes the buck. [S69][S90]\n- **DHL Supply Chain's global revenue grows, new Texas hub opens.**\n  DHL Supply Chain is reporting 12% year-on-year sustainable revenue growth, driven by demand for more resilient supply chains. They also just completed their largest warehouse at a new North Texas campus. Seems like their strategy of handling everyone else's logistical headaches is paying off. [S76][S78][S80]\n- **Maersk and Hapag-Lloyd restore Suez routes.**\n  After bypassing it for a while, Gemini Cooperation partners Maersk and Hapag-Lloyd are restoring their Asia-Europe services to the Suez Canal in a phased rollout through mid-January. This *should* ease some congestion, but with Red Sea overcapacity still looming, rates might stay elevated for a bit. [S62][S64][S71]\n\n### Speed Round\n\n- Jensen Huang wants his old job back, and Congress wants a chat.\n- The FAA's new routers failed, so now they're just... not installing them.\n- Trump's in Asia, and his itinerary seems to be a moving target.\n- Apple's services are down, proving even the big guys aren't immune to \"have you tried turning it off and on again?\"\n- Ukraine just took out a major Russian bridge, another win for drone warfare.\n- Google's Gemini \"Tasks\" will organize your life, and remember all your chats doing it.\n- Your favorite YouTube creator's view count just got a little fuzzy with \"co-views.\"",
+  "sources": [
+    {
+      "id": 1,
+      "title": "FAA pauses installation of new routers after ground stop",
+      "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "Anthropic IPO: For hundreds of billions of dollars flowing into AI startups, a big debut is a must",
+      "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-ai-venture-capital.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "Why Home Depot shares are falling despite an earnings beat — and how to proceed",
+      "url": "https://www.cnbc.com/investingclub/2026/11/17/why-home-depot-shares-are-falling-despite-an-earnings-beat-and-how-to-proceed.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
+      "url": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "Speed camera fault may have allowed drivers to escape fines",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "US bank services returning to normal after major outage",
+      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "Inferno engulfs gas tanker in strait of Hormuz after reported strike – video",
+      "url": "https://www.theguardian.com/world/video/2026/nov/17/inferno-engulfs-gas-tanker-in-strait-of-hormuz-after-reported-strike-video",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "UK backs idea of new levies on polluting sectors to pay for climate action costs",
+      "url": "https://www.theguardian.com/environment/2026/nov/17/cop31-uk-backs-new-levies-polluting-sectors",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "Andy Burnham delays taking stock  of UK’s relationship with EU",
+      "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
+      "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "‘They learn the job doing the job’: the project helping UK’s Neets into work",
+      "url": "https://www.theguardian.com/society/2026/nov/17/helping-neets-into-work-project",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "FAA pauses tech upgrade linked to nationwide ground stop",
+      "url": "https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Jensen Huang agrees to face Congress over Nvidia scandal",
+      "url": "https://www.axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Jensen Huang says he'd be \"honored\" to return as Nvidia CEO",
+      "url": "https://www.axios.com/2026/11/17/jensen-huang-nvidia-ceo-return-earnings",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+      "url": "https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "Hakeem Jeffries shifts tactics ahead of House Democrats' internal speaker vote",
+      "url": "https://www.axios.com/2026/11/17/hakeem-jeffries-speaker-vote-house-democrats",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+      "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "Trump arrives in Philippines to kick off Asia trip",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+      "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "Ecuador’s Fraught Mining Boom",
+      "url": "https://foreignpolicy.com/2026/11/17/ecuador-mining-boom-noboa-agenda-economics-environment-democracy/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "European Rearmament Risks Political Peril",
+      "url": "https://foreignpolicy.com/2026/11/17/europe-rearmament-russia-ukraine-defense-social-spending-protest/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "The AI Safety Debate Has a Human Rights Blind Spot",
+      "url": "https://foreignpolicy.com/2026/11/17/ai-human-rights-safety-debate/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "The National Security Case for Permitting Reform",
+      "url": "https://foreignpolicy.com/2026/11/17/baaja-national-security-trump-permitting-reform/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "America Can’t Racially Profile Its Way to AI Supremacy",
+      "url": "https://foreignpolicy.com/2026/11/17/nvidia-scandal-jensen-huang-racial-profiling-usa-intelligence-ai/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "EU, ASEAN pursue deeper trade ties, but hurdles remain as businesses struggle with informal barriers",
+      "url": "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "Deutsche Bank under fire after internal documents made public",
+      "url": "https://www.dw.com/en/deutsche-bank-under-fire-after-internal-documents-made-public/a-79974543?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "Saudi Arabia: Rights groups raise alarm over rising number of executions",
+      "url": "https://www.dw.com/en/saudi-arabia-rights-groups-raise-alarm-over-rising-number-of-executions/a-79970773?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "US and Mexico lose measles-free status",
+      "url": "https://www.dw.com/en/us-and-mexico-lose-measles-free-status/a-79973966?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
+      "url": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
+      "url": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "Apple Services Down",
+      "url": "https://downdetector.com/status/apple-support/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "Who Builds the Machines That Build the Machines?",
+      "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "Apple services, including iCloud, App Store, and Apple Music, hit by outage",
+      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "Meta is testing a new standalone messaging app called Direct",
+      "url": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Amflow’s new urban e-bike series is deliciously overpowered for flat city streets",
+      "url": "https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "YouTube found a new way to inflate view counts",
+      "url": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
+      "url": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
+      "url": "https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Jensen Huang Says He’s Open to Coming Back to Nvidia",
+      "url": "https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App",
+      "url": "https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "Xreal Aura Review: Stunning Screens, Frustrating Controls",
+      "url": "https://www.wired.com/review/xreal-aura/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+      "url": "https://www.wired.com/story/best-laptops/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "KERV.ai, Macmillan Publishers and Chomps are among this year’s Work/Life Awards finalists",
+      "url": "https://digiday.com/announcement/awards/kerv-ai-macmillan-publishers-and-chomps-are-among-this-years-work-life-awards-finalists/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "What exactly counts as a creator? The industry still can’t agree",
+      "url": "https://digiday.com/marketing/what-exactly-counts-as-a-creator-the-industry-still-cant-agree/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "Ad Tech Briefing: Google’s antitrust troubles aren’t over",
+      "url": "https://digiday.com/media-buying/ad-tech-briefing-googles-antitrust-troubles-arent-over/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "Dentsu makes entertainment and sport a C-suite priority amid earnings stumble",
+      "url": "https://digiday.com/media-buying/dentsu-makes-entertainment-and-sport-a-c-suite-priority-amid-earnings-stumble/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "Anatomy of an influencer marketing deal",
+      "url": "https://digiday.com/future-of-tv/anatomy-of-an-influencer-marketing-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 61,
+      "title": "SmartKargo’s AI Apps Put the Industry’s AI Case to the Test",
+      "url": "https://www.freightwaves.com/news/smartkargos-ai-apps-put-the-industrys-ai-case-to-the-test",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 62,
+      "title": "Maersk and Hapag-Lloyd restore Asia-Europe Suez routes as U.S. shippers watch capacity and costs",
+      "url": "https://www.freightwaves.com/news/maersk-and-hapag-lloyd-restore-asia-europe-suez-routes-as-u-s-shippers-watch-capacity-and-costs",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "Broker RXO says TL spot rates not entering deflationary phase",
+      "url": "https://www.freightwaves.com/news/broker-rxo-says-tl-spot-rates-not-entering-deflationary-phase",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 64,
+      "title": "Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago",
+      "url": "https://www.freightwaves.com/news/red-sea-overcapacity-looms-as-ocean-container-spot-rates-still-50-above-year-ago",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 65,
+      "title": "SONAR Pricing Power Index Falls to 68 as Truckload Demand Weakens",
+      "url": "https://www.freightwaves.com/news/sonar-pricing-power-index-falls-to-68-as-truckload-demand-weakens",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 66,
+      "title": "How to prepare for the most severe El Niño on record",
+      "url": "https://www.supplychaindive.com/news/how-to-prepare-for-the-most-severe-el-nino-on-record/874732/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 67,
+      "title": "Fashion brand nixes dedicated fulfillment model to boost transit times",
+      "url": "https://www.supplychaindive.com/news/fashion-brand-nixes-dedicated-fulfillment-model-to-boost-transit-times/874630/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 68,
+      "title": "Wrangler parent company plans to beef up inventory spending",
+      "url": "https://www.supplychaindive.com/news/wrangler-parent-company-plans-to-beef-up-inventory-spending/874783/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 69,
+      "title": "Amazon to expand fuel and logistics surcharge to more services",
+      "url": "https://www.supplychaindive.com/news/amazon-to-expand-fuel-and-logistics-surcharge-to-more-services/874693/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 70,
+      "title": "AI-backed tools power Reformation’s inventory management",
+      "url": "https://www.supplychaindive.com/news/ai-backed-tools-power-reformations-inventory-management/874645/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 71,
+      "title": "Gemini carriers target complete return to Suez transits by mid-January",
+      "url": "https://theloadstar.com/gemini-carriers-target-complete-return-to-suez-transits-by-mid-january/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 72,
+      "title": "Korean Air maximises Americas capacity as AI cargo adds to peak pressure",
+      "url": "https://theloadstar.com/korean-air-maximises-americas-capacity-as-ai-cargo-adds-to-peak-pressure/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 73,
+      "title": "The $5.8bn data moat CH Robinson is really buying",
+      "url": "https://theloadstar.com/the-5-8bn-data-moat-ch-robinson-is-really-buying/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 74,
+      "title": "Spending on warehouse automation rises – but does it pay?",
+      "url": "https://theloadstar.com/spending-on-warehouse-automation-rises-but-does-it-pay/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 75,
+      "title": "GXO’s Investor Day – mind the self-help playbook and the DHL gap",
+      "url": "https://theloadstar.com/gxos-investor-day-mind-the-self-help-playbook-and-the-dhl-gap/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 76,
+      "title": "DHL Supply Chain sees global revenue grow amid rising demand for resilient supply chains - Motor Transport",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTnQyblJDb0NyYjRkQm4xdTJIdW9XVEM3ZVJzWFg2MlZpbUcxbXBncTEtSmkwLXJ5bWtwLVh6R2N2NUo5YkpRcXViZ0ZfVUgxVTFTaUpXMC00aWR3VUlDV09QMDVxWWxlZFg5Tmc2YW9xRld2ZHFCMkFYNjdZeU9tYXFNdkNnQWxrdHFhWWZvcGtDbTNwc3Vaci13U0V1eWV3VHFsWGE2RFJZSjVmT2l1TVpCZ2hJWlVxVnRVQkxvTllRZzVLc0NPRk54cjFGa3pwR190WjJaU1NUVXdMWUE?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 77,
+      "title": "Premium Comment GXO's Investor Day – mind the self-help playbook and the DHL gap - The Loadstar",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQUNtNVVJcWVIeWw3ZjkxTkcwU1lsU0FJVjNtb1JIMlhGMWd2UjBlclZpY1RKdC15anc0cnZyU2R2YW5rQVd2WHFudkRLOGQyUndwbS1RdDY5WVFxY2ZMXzFObFRWeGdVTFhVakVzS1pwTHVlcVdhWXdWdkhDV3lhclktNmhNQVhvdVV5Z2k1Zw?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 78,
+      "title": "DHL Supply Chain sees 12% year-on-year sustainable revenue growth as companies transform their global supply chains - Data Portuaria",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQc1VkYjRWNTBCUkprVUFyMVhValpBdDh0ZHlEaUZGU2prV3lCeVFWaG50cXF1YVdTR1dxcVBjcW14U0Zjb2xTY2g4VF8ySXk2eG9FZ09UQVRZejFSaHdTNTN3cV9TM3VaeUlicGpmd09JN3U1VHB0NkVTZWRfdFZGNG9EWTVveXJybTVzRE54ZDVwWDJQQkJBb2l5clFPNVY4bW5BMEZVWFlFa29GMW5tS3JLYTN5QXllQlZhQlU3ektDeTM1TXNIcHIzRER2UzBRMFhYanpyRXdNY1g5RHlCYTRmbHAyQmdtcmV6SG1lblN6MklSU2dGODRvUlZiMVJfbmlfZA?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 79,
+      "title": "DHL Supply Chain sees 12% year-on-year sustainable revenue growth as companies transform their global supply chains - MultiModal UK",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSk9nQnVaeWpoSWxLS01OLWFWb3dDQUhKUUNqeWVyQlVhVlpsNUNnOHlGVmFqS0V0b05SVmFVLU9uVlNfa1NhRE1YTndZb3VDU2hnR0phT1I1RTVZTGRYZGR1amdHUnpZQ1RRMUcwNmJJLXZ6czlrbHN1TnBNNHc1cC1RMzJZOE4zVnFKNTRrMi1VNGtUdGRadXg1ejBkZXB1eVBQejRjTTg0ajhXZmEzMjl0M3ZOWWFRTUtuU3dzazY4VF9ZbWU3MFhsSjZTZ0psVzhTOGQ3b0VrY3RXRGpqcWVoUTV2NWc?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 80,
+      "title": "News | Global logistics provider completes largest warehouse at its new North Texas campus - CoStar",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNnEwV3h3LWU5alpBZ0JmZkVHdERNZXQ1dWJRbDFubE5jY01TbEhlTE50YW5tYkNjQVNzWXh1Vm5XY0VUWktLbzIwU0VCOEV1UFJQVnJjbUExX01KY20wZmpsYXFscGVWWjR3TXYwYlVsQkdoMndLWmxUenVLd2ZtaWVCTG4tQjhvdTBrVmtIUXE4UXRqSlN2d04zSmVOSFVuNk1YTE41X0EzRVdLUThpdHlwRzlLV0M3cTdoODY0SHRpdw?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 81,
+      "title": "FedEx urges customers not to miss first holiday deadline to save money on shipping - The Sun",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMlB0Y1ZnVVlJQzUySXJoTFlldHdIU0VIcDhJbHZaemNxWWxZcXltWHBQZ3hDQl9QZVVFamlFVVdaU3BuMUhGTU1rNF9ITTY3RTh3eWtGVG5JcmNzSkJEcEpXMTJlZmhtSEdZNVBRY0VLRXRDLWthMjRWbG5NUG1EMjhRbV9MTENsOXprd3ZNdnFnOTQ?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 82,
+      "title": "Shipping time: UPS, USPS, FedEx set holiday shipping schedule - WPXI",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2RucVJMeVFGQ0RTenNPeXZFMUlxeDVxNmJyc0FyeGJtaXgyNE1Yd3kxMk4wYXZ1RFUwTEhfOGRSb1FYVVFmRjYxLTRwOFc2UVVKU1ZqS3dEWlo5d1ZvbWVaVDdTbWZWOHdrVnNjZlcyczZSZXdRNURIYTlXOTluSll4Ml9QVU9pQVdTbnMzb0V1RFlfZHlESms0em10d1ZrZHlxWExWZnBIUElaam5SdkJybkdtaVY4NW45cXFR?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 83,
+      "title": "USPS, UPS, FedEx 2026 holiday shipping deadlines for Christmas - The Providence Journal",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZWF3dFJhRWJBSlp6SVUxcFl0YU5oa0hqSVBLSExiWmxWSFZxTmpCLS1rRFI4ejRRcVVseWxuUTJVOEZpR3RhbVlPdml0a1VWblhMLXRCRXZZbE5KSUZscmN6cnlnSFZkMjVFbkItODJvS1J4d1RkQndRRTRxbUpPeWtSWGpBTExqUWJFcmd5ZDRfbXNGNVZKbGkzRjhaWGxpVERkeTBBWUI2dFhDZmVEZEtYWk84V040SkNSRWNTd2o4WGNGbnl6YmllUmp3OFczaDJBaDY3MVRqYlpGLTlYZnBhcEpmU1N5N2UwWmtDdE1XbHZYR1h3Q2oxRUxLazEwZzF3Z25sWkNScTNnN3BDOWNxTVRsMVdzUXc?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 84,
+      "title": "FedEx expands capacity at southern China air hub - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaFdZUjBUc2hVNFZ0NWJsUEZoaDE0TDFiNkJjSGFFVTE2ODQ1UUdOcktIMUE1TkxJZ3hxVFZZMk9nRk1qTThURFVLT2pDbXlpY1U2YXprR01YRGwyZlJpaW40aTBOUnhCNkdocmZEaDlfM2VJdDFrOXpvX0JPZE81c0U2X3ZTeEU2dVE?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 85,
+      "title": "FedEx triples capacity in southern China amid regional cargo growth - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTJuV1pJZTBzZl9TelViTDdmLWVHeFUzSzQ0MVZtSE15eTVPT2hBQWFfaHZobnB1S0lTWHNZS0RCOVhpU2hwNDM1ekVMb05ocFZ6dUd1RFBQRm9hSFlNNGZfdzJqN2o1UEZHMFBld1J3Qnl3T0V1YnV3Zk95LVhKeXRNNGwzdVQ3X1ZmT25FaFFRX3hLSHB6bUc4OVZSSDQ5UXFIck9xVGdOQ1p4UmfSAa4BQVVfeXFMUFJsb2MySnRla0NvbEM5QTMydWl4WGtWUllxVDZQWktMaXR3LWpkT0J6NzdqNktxYUFRaHJTdTdydjNjOUhrcDdZSC1SeXF4bjhLWEFhdmpjYXIyakQ1aV9EcEZURFdoRGdjdDJoS0FzbXlyZTVXZGVMeW9tSUY5a2JxVVBhcG45akNwVnlGdGRHYVlRUk1VODR2MHhHUDc2MkFYMTRwdmJhZnpKMHNR?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 86,
+      "title": "Amazon launches ready-made meal delivery with breakfast, lunch and dinner options - MyNorthwest.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lMWNTSEhiLWdYS0Y4V1lhY1EzdXMzTHYzVXlBSnVvemFCeXJydms5RXJid2g0QW5oYzJpUXVSa2JJMklCaGE3bHJ2OWI0UldzY2JEa1N4SnRRNkk5aktJMUx6czNudGI5RWc?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 87,
+      "title": "Amazon offers prepared foods through same-day delivery and 30-minute delivery - Supermarket News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM282cHBjY0dGUWE5cnY1QUhYYWhielZYZXZKazl4dzd5UVpSWGJuSU15d1Zkb0taa3NPWVNOTHN1YjNyazg1QlhnZVRjM0lMLW5ieGZUWWR2RzQxWGV2WFdmcHZzNHZBUFA2ZUdWRjh5WklrcGpGcFdrRS1qSFh3aVpMUUgyalY5clZLcVJfQnhBVFhUbk5sTWJQZEdmMGx3bDBKNUMxSFhrN2twNmYtcVRnNkVBMUNJRGxqZDZwSUFIc0dIZTdr?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 88,
+      "title": "Amazon drone delivery begins in metro Atlanta - WALB.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWUk5YjUxMUF5Q1RZTXBpZkVOU0JrNTJpM1daZzh6bF9PMEo3TGN5TmI0WXNRcXRvMkQtSTVGRk0xT0h1Vjh4NVZVdlRKRFVyTFdZdllHU2xaRU92Y1pQc09FdXZ1dXVjaGFKcGZiR3ZzYWEzYkVMZGJsOTZyRGJuMw?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 89,
+      "title": "Amazon Prime Members Can Get $40 Off Uber Eats Orders, Plus Free Delivery - Living On The Cheap",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPak9HMWV3Wk16LVRCZ3NXaEMzR3hTTVJXNHl1OGRvLVpaeDhNSkU5Z2xBWThTRzZfSmVnVkNSQ1g5RHVfOF9zUzN0aFlCQ3pPeWlKQkVfc3J2TnlWOW1rcFRQOVBsR1ZxZmVFTFl2cUExUGJiRmFUb0stWkhmc1dYQnl1WHN5eHc5X0pvLTJnTkhheDZLaXB6ZzhENHRteEVlTEow?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 90,
+      "title": "Amazon Expands 3.5% Fuel Surcharge to MCF and Warehousing Services in 2027 - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2VsY3RmYjY2Q0w5T1owcHhMSmFuZlRNWDBlVVFlNEsxVTh6NFFfTEtKNHVXQkR2enJtMTgyUmpaV0VrenRMMFItc1RHVF85WU5WbnNSd1RCRGY4RnBrc0VqNG1NU2NyOG1VdVo5VURLNjFoTmlBMm1PYVM5a3dlVlBHcE9JN1VPYndXM1hidmd0eVd5Qnk4UXJDOGxtcGM0WHY2RnBmWFlJWXFESG9sdV9DckROQkpGY2liQV9n?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 91,
+      "title": "AI, Healthcare & B2B Fintech Emerge As Key Startup Investment Opportunities In India - BW Disrupt",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGxIR0pTUFNiM2lKaTNhRWxQem12QWxuZkdnZXBGeVBsOVF5X2FySzl4WWlBaXdmRU9DZHN5UzV3ZGoyekdWeVpnM3MteXZlSEZiUkJDQnpaYkp1SGhKOHc2cjFoeXNsU1FCb1FvbmZidS1HM0VmN2puVzY0VkpVTkNWTVFNN2p3NzNGQnlZNHAwWGdRU0lTWVgzVTF4empkdURRZEU0UV8yQ1R1cjhjMjh2blUtc0JsRnRpUThuMA?oc=5",
+      "source": "Logistics Startups"
+    }
+  ]
+}
