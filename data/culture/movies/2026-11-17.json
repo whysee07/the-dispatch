@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T19:26:08.006713+00:00",
+  "tonight": {
+    "title": "The Odyssey",
+    "meta": "2026 · Adventure · 2h 53m · ★ 8.0",
+    "why": "If you're craving a truly unsettling Friday night, \"Other Mommy\" promises to crawl under your skin with its chilling premise of maternal terror, guaranteeing you'll double-check who's tucking you in. This isn't your average family drama.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+  },
+  "releases": [
+    {
+      "title": "Avengers: Doomsday",
+      "take": "Three universes walk into a bar... and then proceed to punch each other until the multiverse collapses.",
+      "score": 0,
+      "geo": "world"
+    },
+    {
+      "title": "Other Mommy",
+      "take": "If your mom starts looking *too* perfect, it's probably time to call child protective services, or an exorcist.",
+      "score": 64,
+      "geo": "world"
+    },
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "take": "Before Katniss, there was another Quarter Quell, proving Panem's penchant for child-on-child violence is timeless.",
+      "score": 87,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "blurb": "A sprawling epic that defines the hero's journey, \"The Odyssey\" remains an unparalleled saga of wit, endurance, and divine meddling, proving some stories are truly timeless. Its grand scale and mythological richness offer a profound escape.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
