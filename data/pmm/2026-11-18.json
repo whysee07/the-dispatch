@@ -1,0 +1,657 @@
+{
+  "feed": "pmm",
+  "feed_name": "Marketing Brief",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T18:21:42.901189+00:00",
+  "raw_text": "☕ THE LEAD\n\nThe creator economy just solidified its place squarely in your paid media budget, not just the \"influencer marketing\" line item. A new report this week found that paid media backing creator content now makes up nearly half of the entire creator marketing category. We're talking $52 billion of the estimated $116 billion global influencer market this year, and it’s projected to grow twice as fast as overall ad spending over the next five years. This isn't just brands dipping their toes; it's a fundamental shift where creator-generated content is being treated as a scalable, performance-driven ad format. If your team is still silo-ing \"influencer marketing\" from \"paid media,\" you're missing out on a massive, proven channel that's delivering real ROI. The takeaway: stop thinking of creators as just \"influencers\" and start integrating their content directly into your paid strategy. [S5][S14]\n\n📣 QUICK HITS\n\n**Maker's Mark gets a modern refresh, keeps the red wax.**\nThe bourbon brand is updating its visual identity, putting its iconic hand-dipped red wax top front and center. It's a smart move to modernize while leaning into a distinctive brand asset, especially as the bourbon market faces slowing growth. [S6]\n\n**Meta tries (again) to launch a messaging app for teens.**\nThe company rolled out 'Direct,' designed to expand Instagram DMs to a separate platform. Sound familiar? It's almost identical to a Direct app Meta launched (and shuttered) in 2017. Maybe they're hoping the second time's the charm with a new generation of users. [S27]\n\n**Google gives its AI Search feature an incognito mode.**\nYou can now have conversations in AI Mode without them cluttering your search history or influencing future recommendations. A nod to privacy, or an admission that sometimes you just want to ask AI weird stuff without judgment? Probably both. [S2]\n\n**GTA VI launch is a full-blown real-world takeover.**\nWith Grand Theft Auto VI launching tomorrow, Rockstar Games is going all out, taking over iconic spots in Miami and beyond. This isn't just a game launch; it's an immersive brand experience, showing how to build anticipation beyond digital hype. [S1][S12][S69]\n\n🎯 THE PMM DESK\n\n**2027 Business Trends Report highlights shifting priorities.**\nA new report from Product Marketing Alliance, based on millions of surveys from over 260,000 organizations, pinpoints what businesses were asking about most in 2026 and where their focus is headed for 2027. For PMMs, this is gold for validating market needs, identifying emerging pain points, and ensuring your product strategy and messaging align with what buyers actually care about. [S3]\n\n**PMMs need to elevate content beyond AI's baseline.**\nAn article from PMA argues that while AI has raised the *floor* on content creation, PMMs now need to focus on raising the *ceiling*. This means moving past generic, AI-generated drafts to create truly strategic, differentiated, and insightful content that cuts through the noise and delivers unique value. [S11]\n\n🧠 PMM 101\n\n**The concept:** Raising the Content Ceiling\n**What it is:** With AI making basic content creation (drafts, summaries, boilerplate copy) accessible to everyone, \"raising the content ceiling\" means focusing on creating truly strategic, differentiated, and impactful content that AI can't replicate. It's about adding unique insights, deep market understanding, a distinct brand voice, and a compelling narrative that resonates specifically with your target audience.\n**Why it matters:** In a world flooded with AI-generated mediocrity, your product's story needs to stand out.\n**See it today:** The Product Marketing Alliance article explicitly calls out this challenge, noting that PMMs are uniquely positioned to infuse AI-generated content with strategic value. [S11]\n**Try it:** Take a recent piece of content (like a product brief or a blog post draft) that you might have used AI to start, and brainstorm three specific, unique points of view or insights *only your team* could add to elevate it beyond a generic output.\n\n🧩 PRODUCT CORNER\n\n**Google is forcing Android apps to support foldables.**\nStarting April 2027, Android developers will be required to meet a \"Tier 3 - Adaptive ready\" standard for foldables, meaning apps must fill the available display area without letterboxing or compatibility modes. This is a big move to ensure a consistent, high-quality user experience across a growing device category, pushing developers to prioritize design for flexible form factors or risk reduced visibility on Google Play. [S40]\n\n🔧 TOOL DROP\n\n**Microsoft IQ** — Give AI agents a shared understanding of your business. [S39][S106]\nBest for: Enterprises looking to deploy multiple AI agents that need to work together and access consistent, up-to-date business knowledge.\nFree tier: No (likely enterprise pricing)\nHonest take: This could be genuinely useful for large organizations struggling with siloed AI tools. The \"shared understanding\" angle is key to making AI agents truly productive, moving beyond individual task automation to coordinated intelligence. If it works as advertised, it's a big step for enterprise AI adoption.\n\n⚡ SPEED ROUND\n\n✨ Target's holiday momentum: toys, games, and electronics are up almost 27%, while home and apparel are falling short. [S20]\n🛒 Instacart is back for its third consecutive Super Bowl ad, showing continued big-brand commitment to the event. [S21]\n💅 Snapchat found 84% of its users feel connected to the luxury universe through social media. [S26]\n🤖 Over a third of Gen Z reports relying on AI for friendship, but this group also faces higher odds of loneliness. [S87]\n💸 Nvidia's interim CEO Colette Kress confirmed the company is abandoning China after Jensen Huang's ouster, a potentially massive financial hit. [S92]\n🗣️ Sam Altman warned against a future where AI, not humans, makes the decisions, acknowledging the challenge of keeping advanced models under human control. [S48]",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Our favorite accessories to level up your gaming setup ahead of GTA VI",
+      "url": "https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 3,
+      "title": "Business Trends 2027 Report",
+      "url": "https://www.productmarketingalliance.com/business-trends-2027-report/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 4,
+      "title": "Product Marketing Summit | Sydney, 2026",
+      "url": "https://www.productmarketingalliance.com/product-marketing-summit-sydney-2026/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 5,
+      "title": "Paid media now plays largest role in brand-funded creator growth: report",
+      "url": "https://www.marketingdive.com/news/paid-media-now-plays-largest-role-in-brand-funded-creator-growth-report/875032/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 6,
+      "title": "Maker’s Mark spotlights signature red wax top in visual refresh",
+      "url": "https://www.marketingdive.com/news/makers-mark-sees-red-with-visual-refresh-spotlighting-signature-wax-top/874975/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 7,
+      "title": "Grab My Personal Annual Review Claude Code Plugin",
+      "url": "https://www.producttalk.org/personal-annual-review-claude-code-plugin/",
+      "source": "Teresa Torres"
+    },
+    {
+      "id": 8,
+      "title": "My Personal Annual Review Process (Now a Claude Code Plugin)",
+      "url": "https://www.producttalk.org/personal-annual-review/",
+      "source": "Teresa Torres"
+    },
+    {
+      "id": 9,
+      "title": "AssemblyAI-STT-3.7",
+      "url": "https://www.producthunt.com/products/assemblyai",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 10,
+      "title": "worldinmotion",
+      "url": "https://www.producthunt.com/products/worldinmotion",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 11,
+      "title": "AI is raising the floor on content.  PMMs need to raise the ceiling.",
+      "url": "https://www.productmarketingalliance.com/ai-is-raising-the-floor-on-content/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 12,
+      "title": "7 Ways Rockstar Is Bringing GTA 6’s Vice City to Life in the Real World",
+      "url": "https://www.adweek.com/creativity/7-ways-rockstar-is-bringing-gta-6s-vice-city-to-life-in-the-real-world/",
+      "source": "Adweek"
+    },
+    {
+      "id": 13,
+      "title": "Sam Altman on Whether Anthropic Is Building Safe AI: ‘I Don’t Know’",
+      "url": "https://www.adweek.com/media/sam-altman-on-whether-anthropic-is-building-safe-ai-i-dont-know/",
+      "source": "Adweek"
+    },
+    {
+      "id": 14,
+      "title": "Brands booking creators to make their ads are pushing up $116B global influencer market",
+      "url": "https://digiday.com/media-buying/brands-booking-creators-to-make-their-ads-are-pushing-up-116b-global-influencer-market/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 15,
+      "title": "The New Competitive Edge in AI-Powered Advertising",
+      "url": "https://www.adweek.com/commerce/the-new-competitive-edge-in-ai-powered-advertising/",
+      "source": "Adweek"
+    },
+    {
+      "id": 16,
+      "title": "Why Brands Need to Rethink the Business of Creator Commerce",
+      "url": "https://www.adweek.com/commerce/why-brands-need-to-rethink-the-business-of-creator-commerce/",
+      "source": "Adweek"
+    },
+    {
+      "id": 17,
+      "title": "What Verified Purchase Data Unlocks for Streaming Advertisers",
+      "url": "https://www.adweek.com/commerce/what-verified-purchase-data-unlocks-for-streaming-advertisers/",
+      "source": "Adweek"
+    },
+    {
+      "id": 18,
+      "title": "A Playbook for Marketers on Agentic Commerce",
+      "url": "https://www.adweek.com/commerce/a-playbook-for-marketers-on-agentic-commerce/",
+      "source": "Adweek"
+    },
+    {
+      "id": 19,
+      "title": "Can Media Budgets Go Big on Brand Building and Still Drive Sales?",
+      "url": "https://www.adweek.com/commerce/can-media-budgets-go-big-on-brand-building-and-still-drive-sales/",
+      "source": "Adweek"
+    },
+    {
+      "id": 20,
+      "title": "Target Enters Holiday Season With Pop Culture Momentum",
+      "url": "https://www.adweek.com/commerce/target-enters-holiday-season-with-pop-culture-momentum/",
+      "source": "Adweek"
+    },
+    {
+      "id": 21,
+      "title": "Instacart Returns to the Super Bowl for Its Third Straight Year",
+      "url": "https://www.adweek.com/brand-marketing/instacart-returns-to-the-super-bowl-for-its-third-straight-year/",
+      "source": "Adweek"
+    },
+    {
+      "id": 22,
+      "title": "GTA VI Shouldn&#8217;t Be Your Brand&#8217;s Only Gaming Strategy",
+      "url": "https://www.adweek.com/brand-marketing/why-your-brand-needs-a-gaming-strategy/",
+      "source": "Adweek"
+    },
+    {
+      "id": 23,
+      "title": "WTF is a unified media platform?",
+      "url": "https://digiday.com/media-buying/wtf-is-a-unified-media-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 24,
+      "title": "Future of TV Briefing: Everyone wants a clearer CTV bidstream, but who’s required to provide it?",
+      "url": "https://digiday.com/future-of-tv/future-of-tv-briefing-everyone-wants-a-clearer-ctv-bidstream-but-whos-required-to-provide-it/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 25,
+      "title": "Some creators are turning YouTube back catalogs into sizable paychecks",
+      "url": "https://digiday.com/media/some-creators-are-turning-youtube-back-catalogs-into-sizable-paychecks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 26,
+      "title": "Snapchat shares insight into luxury shopping trends",
+      "url": "https://www.socialmediatoday.com/news/snapchat-shares-insight-into-luxury-shopping-trends/874984/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 27,
+      "title": "Meta launches messaging app for teens",
+      "url": "https://www.socialmediatoday.com/news/meta-launches-messaging-app-for-teens/874980/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 28,
+      "title": "Pinterest shares its first Creators to Watch list",
+      "url": "https://www.socialmediatoday.com/news/pinterest-shares-its-first-creators-to-watch-list/874969/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 29,
+      "title": "Snapchat will show more info on mutual friends",
+      "url": "https://www.socialmediatoday.com/news/snapchat-will-show-more-info-on-mutual-friends/874967/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 30,
+      "title": "Why Qualcomm teamed with F1’s new star in race for sports marketing ROI",
+      "url": "https://www.marketingdive.com/news/why-qualcomm-teamed-with-f1s-new-star-in-race-for-sports-marketing-roi/874895/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 31,
+      "title": "Meta expands content protection to Instagram",
+      "url": "https://www.socialmediatoday.com/news/meta-expands-content-protection-to-instagram/874965/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 32,
+      "title": "KERV.ai, Macmillan Publishers and Chomps are among this year’s Work/Life Awards finalists",
+      "url": "https://digiday.com/announcement/awards/kerv-ai-macmillan-publishers-and-chomps-are-among-this-years-work-life-awards-finalists/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 33,
+      "title": "SoreQen Code",
+      "url": "https://www.producthunt.com/products/soreqen-code",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 34,
+      "title": "Confidential Cloud",
+      "url": "https://www.producthunt.com/products/confidential-cloud",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 35,
+      "title": "Diagramly 2.0",
+      "url": "https://www.producthunt.com/products/diagramly-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 36,
+      "title": "UI Verify",
+      "url": "https://www.producthunt.com/products/ui-verify",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 37,
+      "title": "Incredible Agents",
+      "url": "https://www.producthunt.com/products/incredible",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 38,
+      "title": "Introzy",
+      "url": "https://www.producthunt.com/products/introzy",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 39,
+      "title": "Microsoft IQ",
+      "url": "https://www.producthunt.com/products/microsoft-365",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 40,
+      "title": "Google is forcing Android app developers to properly support foldables",
+      "url": "https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support",
+      "source": "The Verge"
+    },
+    {
+      "id": 41,
+      "title": "The US Lost Its Measles Elimination Status. It’ll Take Years to Get It Back",
+      "url": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/",
+      "source": "Wired"
+    },
+    {
+      "id": 42,
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "source": "The Verge"
+    },
+    {
+      "id": 43,
+      "title": "The MacBook Neo Just Got Its Largest Discount Ever Ahead of Black Friday",
+      "url": "https://www.wired.com/story/macbook-neo-deal-november-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 44,
+      "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
+      "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+      "source": "Wired"
+    },
+    {
+      "id": 45,
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
+      "url": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 47,
+      "title": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab",
+      "url": "https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/",
+      "source": "Wired"
+    },
+    {
+      "id": 48,
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 49,
+      "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+      "url": "https://www.wired.com/story/artex-ai-hacking-tools/",
+      "source": "Wired"
+    },
+    {
+      "id": 50,
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 51,
+      "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
+      "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 52,
+      "title": "Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood",
+      "url": "https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off",
+      "source": "The Verge"
+    },
+    {
+      "id": 53,
+      "title": "8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird",
+      "url": "https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird",
+      "source": "The Verge"
+    },
+    {
+      "id": 54,
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "source": "The Verge"
+    },
+    {
+      "id": 55,
+      "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
+      "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "The Verge’s 2026 holiday gift guide for travelers",
+      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 57,
+      "title": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
+      "url": "https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor",
+      "source": "The Verge"
+    },
+    {
+      "id": 58,
+      "title": "Rivian spinoff Also pauses e-bike deliveries over battery and software bugs",
+      "url": "https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues",
+      "source": "The Verge"
+    },
+    {
+      "id": 59,
+      "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
+      "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 60,
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 61,
+      "title": "How The Verge is picking which Black Friday deals to share",
+      "url": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals",
+      "source": "The Verge"
+    },
+    {
+      "id": 62,
+      "title": "14 Elite Coffee Gifts for Caffeinated Connoisseurs",
+      "url": "https://www.wired.com/story/14-coffee-gifts-for-caffeine-connoisseurs/",
+      "source": "Wired"
+    },
+    {
+      "id": 63,
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 64,
+      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 65,
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 66,
+      "title": "The Best Gifts Under $25 for Everyone on Your List (2026)",
+      "url": "https://www.wired.com/story/best-gifts-under-25-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 67,
+      "title": "Nubia Redmagic 12 Pro Review: Furiously Fast but Flawed",
+      "url": "https://www.wired.com/review/nubia-redmagic-12-pro/",
+      "source": "Wired"
+    },
+    {
+      "id": 68,
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 69,
+      "title": "I Will Never Stop Playing ‘Grand Theft Auto’",
+      "url": "https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto/",
+      "source": "Wired"
+    },
+    {
+      "id": 70,
+      "title": "Early Black Friday Deals Under $100 (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-deals-under-100-11-18-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 71,
+      "title": "Voyager 1 Beat the Odds and Is Still Working a Light-Day Away From Earth",
+      "url": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/",
+      "source": "Wired"
+    },
+    {
+      "id": 72,
+      "title": "China dominates battery graphite, but this startup could break the monopoly",
+      "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 73,
+      "title": "Exclusive: Germ DM Is a Signal Alternative That’s Now on Android",
+      "url": "https://www.wired.com/story/germ-dm-is-now-available-on-android/",
+      "source": "Wired"
+    },
+    {
+      "id": 74,
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 75,
+      "title": "Apple HomeView Review (2026): Should’ve Been Better",
+      "url": "https://www.wired.com/review/apple-homeview-review/",
+      "source": "Wired"
+    },
+    {
+      "id": 76,
+      "title": "Best Smart Bed of 2026: Bryte and Tempur-Pedic",
+      "url": "https://www.wired.com/gallery/best-smart-bed/",
+      "source": "Wired"
+    },
+    {
+      "id": 77,
+      "title": "House Democrats Are Officially Coming for Trump’s Orbit",
+      "url": "https://www.wired.com/story/house-democrats-are-officially-coming-for-trumps-orbit/",
+      "source": "Wired"
+    },
+    {
+      "id": 78,
+      "title": "Lovable Wants You to Vibe Code Your Dream Job",
+      "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
+      "source": "Wired"
+    },
+    {
+      "id": 79,
+      "title": "Columbia Promo Codes: 15% Off | November 2026",
+      "url": "https://www.wired.com/story/columbia-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 80,
+      "title": "Walmart Promo Codes: 20% Off for November 2026",
+      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+      "source": "Wired"
+    },
+    {
+      "id": 81,
+      "title": "Priceline Promo Codes & Coupons: 10% Off November 2026",
+      "url": "https://www.wired.com/story/priceline-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 82,
+      "title": "Birdfy Discount Codes: 15% Off Sitewide",
+      "url": "https://www.wired.com/story/birdfy-discount-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 83,
+      "title": "Loop Earplugs Discount Codes: 25% Off",
+      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 84,
+      "title": "Squarespace Promo Codes: 55% Off in November 2026",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 85,
+      "title": "Maytag Promo Codes: 15% Off Appliances",
+      "url": "https://www.wired.com/story/maytag-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 86,
+      "title": "Verizon Promo Codes: $200 Verizon Gift Cards | November 2026",
+      "url": "https://www.wired.com/story/verizon-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 87,
+      "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+      "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+      "source": "Wired"
+    },
+    {
+      "id": 88,
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 89,
+      "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
+      "url": "https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/",
+      "source": "Wired"
+    },
+    {
+      "id": 90,
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 91,
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 92,
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 93,
+      "title": "Review: Nubia Redmagic 12 Pro | Camera",
+      "url": "https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/",
+      "source": "Wired"
+    },
+    {
+      "id": 94,
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 95,
+      "title": "Best Early Amazon Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+      "source": "Wired"
+    },
+    {
+      "id": 96,
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 97,
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 98,
+      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+      "source": "Wired"
+    },
+    {
+      "id": 99,
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 100,
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 101,
+      "title": "How to Tell If It’s a Cyberattack or Just an Outage",
+      "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/",
+      "source": "Wired"
+    },
+    {
+      "id": 102,
+      "title": "Waymo Pauses All Highway Rides After California Safety Ban",
+      "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/",
+      "source": "Wired"
+    },
+    {
+      "id": 103,
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 104,
+      "title": "AssemblyAI-STT-3.7",
+      "url": "https://www.producthunt.com/products/assemblyai",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 105,
+      "title": "Incredible Agents",
+      "url": "https://www.producthunt.com/products/incredible",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 106,
+      "title": "Microsoft IQ",
+      "url": "https://www.producthunt.com/products/microsoft-365",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 107,
+      "title": "worldinmotion",
+      "url": "https://www.producthunt.com/products/worldinmotion",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 108,
+      "title": "Confidential Cloud",
+      "url": "https://www.producthunt.com/products/confidential-cloud",
+      "source": "Product Hunt"
+    }
+  ]
+}
