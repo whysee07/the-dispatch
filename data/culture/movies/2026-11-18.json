@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T19:07:34.914394+00:00",
+  "tonight": {
+    "title": "The Odyssey",
+    "meta": "2026 · Adventure · 2h 53m · ★ 8.0",
+    "why": "Tonight, lose yourself in the monumental epic of \"The Odyssey.\" It's not just a journey home; it's a brutal, god-defying test of cunning and endurance that promises a spectacle for the ages.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+  },
+  "releases": [
+    {
+      "title": "Avengers: Doomsday",
+      "take": "Three universes, one apocalypse – finally, a superhero crossover that truly earns its 'doomsday' title with maximum collateral damage.",
+      "score": 0,
+      "geo": "world"
+    },
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "take": "Panem's prequel just dropped, proving that even a dystopian past has its own grim charms and deadly games.",
+      "score": 75,
+      "geo": "world"
+    },
+    {
+      "title": "Other Mommy",
+      "take": "This isn't your average 'mother knows best' tale, unless 'best' involves existential dread and a remarkably unsettling doppelgänger.",
+      "score": 64,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "The Odyssey",
+    "blurb": "For those craving a truly unsettling experience, \"Other Mommy\" delivers a masterclass in psychological dread. It cleverly twists the familiar into something deeply sinister, leaving you questioning what's real long after the credits roll.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
