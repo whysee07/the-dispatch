@@ -1,0 +1,669 @@
+{
+  "feed": "pmm",
+  "feed_name": "Marketing Brief",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T18:37:32.096152+00:00",
+  "raw_text": "☕ THE LEAD\n\nThis holiday season, marketers aren't just battling for eyeballs; they're battling for agent-eyeballs. Agentic commerce is officially here, and it's set to reshuffle the entire economics of the web, especially for advertising. OpenAI's ChatGPT Wallet and Google's AI Mode are pushing agent-led purchases, while Amazon is already blocking Meta's Muse AI agent from its site, showing how quickly the retail landscape is changing. Walmart's even letting customers cap agent spending, acknowledging that these AI shopping assistants are producing \"notably different consumer behaviors.\" [S23][S4][S94]\n\nThis isn't some distant sci-fi future; it's Q4 2026, and brands *have* to figure out how their storytelling translates when an AI is doing the shopping. If your brand isn't thinking about how its value proposition, reviews, and product data will look when an AI is comparing options for a consumer (who might not even see your ad directly), you're already behind. The stakes are high: Meta's own Muse agent has reportedly been mixing up conversations and exposing private data, highlighting the privacy and trust challenges that come with letting AI agents handle our shopping. [S20][S23][S50] Marketers need to focus on clear, agent-optimized product data and trusted brand signals, because your next customer might be an algorithm.\n\n📣 QUICK HITS\n\n**Coca-Cola pivots away from AI-generated holiday ads after backlash.**\nRemember the AI-generated ads that got mixed reviews? Coke heard the feedback and is now running \"Enjoy Joy\" spots featuring actual families and friends enjoying the holidays. Sometimes, human connection still beats generative AI, especially when it comes to brand perception. [S3]\n\n**Instagram rolls out Amazon affiliate links for creators.**\nCreators can now add up to 30 shoppable Amazon products per Reel, deepening the platform's play in social commerce. This is a massive win for creators looking to monetize and a clear signal for brands to lean into affiliate strategies with their content creators. [S9]\n\n**Burger King's new campaign embraces its own flaws.**\nFollowing earlier efforts to collect customer complaints, Burger King is now running a 60-second spot asking for feedback, directly addressing the need to improve the dining-room experience. It's a bold, transparent move that tries to turn customer complaints into a brand-building opportunity. [S8]\n\n**Advertisers pause TikTok spend over CSAM investigation in Spain.**\nSeveral major advertisers, including Santander and Moeve, have suspended activity on TikTok after reports of child sexual abuse material (CSAM) circulating on the platform. This highlights the ongoing brand safety challenges for platforms and the quick trigger advertisers have when trust is compromised. [S26]\n\n🎯 THE PMM DESK\n\n**Sonos kicks off Black Friday with up to 30% off speakers and soundbars.**\nThe audio giant is offering significant discounts, including $250 off the Arc Ultra soundbar and $60 off the Sonos Play, available through November 30th. For PMMs, this is a masterclass in seasonal pricing strategy, using anchor products to drive traffic and clear inventory during a peak shopping period. [S1]\n\n**Google Gemini on Mac gains \"computer use\" capabilities.**\nGemini can now access local files and desktop apps on macOS to help users with multi-step tasks like filling forms or making presentations. This is a crucial product expansion that positions Gemini as a true productivity agent, requiring PMMs to clearly articulate the new workflow benefits and privacy controls to drive adoption. [S2][S48]\n\n🧠 PMM 101\n\n**The concept:** Go-to-Market (GTM) Strategy\n**What it is:** A GTM strategy is a comprehensive plan outlining how a company will bring a new product or feature to market. It covers everything from identifying the target audience and crafting core messaging to defining sales channels, pricing, and the marketing activities needed to drive awareness and adoption.\n**Why it matters:** A strong GTM ensures your product launches successfully, reaches the right customers, and achieves its business goals.\n**See it today:** Google's launch of Gemini's \"computer use\" on Mac is a perfect example. Their GTM needs to clearly communicate *what* it does (multi-step tasks across apps), *who* it's for (Mac users seeking productivity boosts), and *how* it works (user-controlled access). [S2][S48]\n**Try it:** Pick a new feature from an app you use daily. Outline what you think its GTM strategy would look like: Who is it for? What's the main benefit? How would you tell people about it?\n\n🧩 PRODUCT CORNER\n\n**Microsoft is sunsetting To Do in favor of Planner.**\nMicrosoft is consolidating its task management tools, effectively killing off the popular Wunderlist-turned-To Do app to unify tasks under Planner. This move highlights the tough product management decision-making involved in streamlining overlapping tools, even if it means alienating some loyal users. [S56]\n\n🔧 TOOL DROP\n\n**Adside** — A team of specialized AI agents that manage paid ads for you. [S107][S38]\nBest for: Small to medium businesses or agencies looking to automate ad campaign optimization.\nFree tier: No (Product Hunt page doesn't mention, implying paid).\nHonest take: Potentially genuinely useful if it delivers on its promise of specialized agents, but AI ad management tools vary wildly in effectiveness. Definitely worth a trial to see if it beats a human.\n\n⚡ SPEED ROUND\n\n✨ Anthropic IPO'd at $111, valuing the company at $1.5 trillion despite an $80.7 billion net loss in H1 2026. Wild. [S54][S55][S66][S96]\n🎮 GTA 6's official launch day has sparked a \"work blackout\" with 40 billion YouTube views pre-launch. [S25][S104]\n📉 Walmart's global ad business saw its weakest growth in two years, up 25% YoY. [S18]\n🔗 LinkedIn added \"Sumbreak,\" its ninth in-stream game, as part of a push for user retention. [S32]\n🍎 Apple's long-time VP of camera software engineering, Jon McCormack, retired last month. [S47]\n🗣️ Elon Musk spent a record $445 million on midterm elections and now feels \"pretty foolish.\" [S35][S90]",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+      "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "Gemini on Mac can now use your computer",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "source": "The Verge"
+    },
+    {
+      "id": 3,
+      "title": "Coca-Cola pivots from divisive AI-generated ads for holiday campaign",
+      "url": "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 4,
+      "title": "Walmart mulls role advertising will play in an agentic shopping world",
+      "url": "https://www.marketingdive.com/news/walmart-mulls-role-advertising-will-play-in-an-agentic-shopping-world/875185/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 5,
+      "title": "Claude Cowork skills: How they work and what to build",
+      "url": "https://blog.hubspot.com/marketing/claude-cowork-skills",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 6,
+      "title": "Nuko",
+      "url": "https://www.producthunt.com/products/nuko",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 7,
+      "title": "ToolJet",
+      "url": "https://www.producthunt.com/products/tooljet",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "Amid a major renovation project, Burger King is using its flaws as marketing",
+      "url": "https://www.marketingbrew.com/stories/burger-king-consumer-complaints-ad-campaign-renovations?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "source": "Marketing Brew"
+    },
+    {
+      "id": 9,
+      "title": "Sociable: Instagram adds Amazon affiliate links",
+      "url": "https://www.marketingdive.com/news/sociable-instagram-adds-amazon-affiliate-links/875206/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 10,
+      "title": "Last of the old school buyers, Publicis Media vet John Muszynski prepares to retire",
+      "url": "https://digiday.com/media-buying/last-of-the-old-school-buyers-publicis-media-vet-john-muszynski-prepares-to-retire/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 11,
+      "title": "Bumble cozies up to Alix Earle in attempt to convert Gen Zers",
+      "url": "https://www.marketingdive.com/news/bumble-cozies-up-to-alix-earle-in-attempt-to-convert-gen-zers/875123/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 12,
+      "title": "How ‘maxxing’ and ‘mogging’ took over marketing, according to a linguist",
+      "url": "https://www.marketingbrew.com/stories/maxxing-and-mogging-in-marketing?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "source": "Marketing Brew"
+    },
+    {
+      "id": 13,
+      "title": "How SharkNinja is doubling down on its creator strategy",
+      "url": "https://www.marketingdive.com/news/sharkninja-is-doubling-down-on-its-creator-strategy/874691/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 14,
+      "title": "How Disney helps brands interact and transact with holiday audiences",
+      "url": "https://www.marketingdive.com/news/how-disney-helps-brands-interact-and-transact-with-holiday-audiences/875042/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 15,
+      "title": "The Ultimate DealBook Summit TL;DR",
+      "url": "https://www.adweek.com/media/the-ultimate-dealbook-summit-tldr/",
+      "source": "Adweek"
+    },
+    {
+      "id": 16,
+      "title": "LinkedIn Taps Former Trade Desk Exec to Lead Global Ad Sales",
+      "url": "https://www.adweek.com/programmatic/linkedin-taps-former-trade-desk-exec-to-lead-global-ad-sales/",
+      "source": "Adweek"
+    },
+    {
+      "id": 17,
+      "title": "ChatGPT Is Going From Healthcare Advice to Prescriptions Platform",
+      "url": "https://www.adweek.com/commerce/chatgpt-is-going-from-healthcare-advice-to-prescriptions-platform/",
+      "source": "Adweek"
+    },
+    {
+      "id": 18,
+      "title": "Walmart Sees Weakest Global Ad Sales Growth in 2 Years",
+      "url": "https://www.adweek.com/commerce/walmart-sees-weakest-global-ad-sales-growth-in-2-years/",
+      "source": "Adweek"
+    },
+    {
+      "id": 19,
+      "title": "Inside beauty brand Stila’s behind-the-scenes collab with ‘The Hunger Games: Sunrise on the Reaping’",
+      "url": "https://www.marketingbrew.com/stories/stila-cosmetics-hunger-games-collaboration?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "source": "Marketing Brew"
+    },
+    {
+      "id": 20,
+      "title": "Brands Must Sharpen Their Storytelling For Agentic Commerce",
+      "url": "https://www.adweek.com/commerce/brands-must-sharpen-their-storytelling-for-agentic-commerce/",
+      "source": "Adweek"
+    },
+    {
+      "id": 21,
+      "title": "Mail Metro Media’s next creator play is representing them",
+      "url": "https://digiday.com/marketing/mail-metro-medias-next-creator-play-is-representing-them/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 22,
+      "title": "How Celsius doubled down on sports marketing campaigns in 2026",
+      "url": "https://digiday.com/marketing/how-celsius-doubled-down-on-sports-marketing-campaigns-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 23,
+      "title": "In Graphic Detail: Welcome to the agentic commerce quarter",
+      "url": "https://digiday.com/marketing/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 24,
+      "title": "Inside Nike’s plan to turn creators into brand builders",
+      "url": "https://digiday.com/marketing/inside-nikes-plan-to-turn-creators-into-brand-builders/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 25,
+      "title": "GTA 6 could be a windfall for creators, but standing out will be tough",
+      "url": "https://digiday.com/media/gta-6-could-be-a-windfall-for-creators-but-standing-out-will-be-tough/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 26,
+      "title": "Advertisers suspend TikTok activity in response to Spanish CSAM investigation",
+      "url": "https://digiday.com/media-buying/advertisers-suspend-tiktok-activity-in-response-to-spanish-csam-investigation/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 27,
+      "title": "Media Briefing: ChatGPT’s new business hub is an early ‘search console moment’ for publishers",
+      "url": "https://digiday.com/media/media-briefing-chatgpts-new-business-hub-is-an-early-search-console-moment-for-publishers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 28,
+      "title": "TikTok releases its 2026 Music Impact Report",
+      "url": "https://www.socialmediatoday.com/news/tiktok-releases-its-2026-music-impact-report/875144/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 29,
+      "title": "Meta brings its updated Creator Dashboard to the web",
+      "url": "https://www.socialmediatoday.com/news/meta-brings-its-updated-creator-dashboard-to-the-web/875143/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 30,
+      "title": "Snapchat adds more creator partnership opportunities",
+      "url": "https://www.socialmediatoday.com/news/snapchat-adds-more-creator-partnership-opportunities/875141/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 31,
+      "title": "Snapchat enables Lens creation via third-party AI tools",
+      "url": "https://www.socialmediatoday.com/news/snapchat-enables-lens-creation-via-third-party-ai-tools/875139/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 32,
+      "title": "LinkedIn adds ninth in-stream game",
+      "url": "https://www.socialmediatoday.com/news/linkedin-adds-ninth-in-stream-game/875119/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 33,
+      "title": "Raiders give fans all access with new TikTok Live show",
+      "url": "https://www.marketingbrew.com/stories/raiders-all-access-tiktok-live-show?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "source": "Marketing Brew"
+    },
+    {
+      "id": 34,
+      "title": "MoviePass Explores a Sale, Pitching Streamers on a Theatrical Bundle",
+      "url": "https://www.adweek.com/convergent-tv/moviepass-explores-sale-pitching-streamers-theatrical-bundle/",
+      "source": "Adweek"
+    },
+    {
+      "id": 35,
+      "title": "Elon Musk: &#8216;I Feel Pretty Foolish&#8217; Spending Record $445 Million on Midterm Elections",
+      "url": "https://www.adweek.com/media/elon-musk-i-feel-pretty-foolish-spending-record-445-million-on-midterm-elections/",
+      "source": "Adweek"
+    },
+    {
+      "id": 36,
+      "title": "Tecla",
+      "url": "https://www.producthunt.com/products/tecla-3",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 37,
+      "title": "Gemini 4 Neon",
+      "url": "https://www.producthunt.com/products/gemini-6",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 38,
+      "title": "Adside",
+      "url": "https://www.producthunt.com/products/adside",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 39,
+      "title": "mio click",
+      "url": "https://www.producthunt.com/products/mio-click",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 40,
+      "title": "Play That Back",
+      "url": "https://www.producthunt.com/products/play-that-back",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 41,
+      "title": "Rezora IO",
+      "url": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 42,
+      "title": "Alfred 6",
+      "url": "https://www.producthunt.com/products/alfred",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 43,
+      "title": "Upsolve MCP Connections",
+      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 44,
+      "title": "Polylane for Azure",
+      "url": "https://www.producthunt.com/products/polylane",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 45,
+      "title": "Leaked images reveal Motorola’s wide foldable",
+      "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
+      "source": "The Verge"
+    },
+    {
+      "id": 46,
+      "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
+      "url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "Apple’s iPhone camera leader has reportedly left the company",
+      "url": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 49,
+      "title": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act",
+      "url": "https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 51,
+      "title": "Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June",
+      "url": "https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 52,
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 53,
+      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 55,
+      "title": "Anthropic starts trading on Wall Street",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "source": "The Verge"
+    },
+    {
+      "id": 56,
+      "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
+      "url": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
+      "source": "The Verge"
+    },
+    {
+      "id": 57,
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 58,
+      "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 59,
+      "title": "UK government forced to disclose secret Apple backdoor order",
+      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 60,
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 61,
+      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+      "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 62,
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 63,
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 64,
+      "title": "21 Best Home Entertainment Gifts (2026): TVs, Lights, and More",
+      "url": "https://www.wired.com/story/best-home-entertainment-gifts-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 65,
+      "title": "Voyager Is a Light-Day Away. Here’s How Far That Really Is",
+      "url": "https://www.wired.com/story/voyager-light-day-away-how-far-that-really-is/",
+      "source": "Wired"
+    },
+    {
+      "id": 66,
+      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "source": "Wired"
+    },
+    {
+      "id": 67,
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 68,
+      "title": "The Best Early Black Friday Deals on Laptops I’ve Tested (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
+      "source": "Wired"
+    },
+    {
+      "id": 69,
+      "title": "Best Early Dyson Black Friday Vacuum Deals (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-dyson-vacuum-deals-11-19-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 70,
+      "title": "Leaked: How Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine",
+      "url": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/",
+      "source": "Wired"
+    },
+    {
+      "id": 71,
+      "title": "What a billion-dollar deal says about the US battery market",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 72,
+      "title": "10 Best Therabody Gadgets & Theraguns to Gift This Year (2026)",
+      "url": "https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/",
+      "source": "Wired"
+    },
+    {
+      "id": 73,
+      "title": "‘The Hairiest 90 Minutes of My Career’: How the FAA Ground Stop Went Down",
+      "url": "https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/",
+      "source": "Wired"
+    },
+    {
+      "id": 74,
+      "title": "14 Best Gifts for Travelers Who Have Everything (2026)",
+      "url": "https://www.wired.com/story/best-gifts-for-travelers/",
+      "source": "Wired"
+    },
+    {
+      "id": 75,
+      "title": "Gig Work Is Invading Nursing Homes. The Risks Can Be Deadly",
+      "url": "https://www.wired.com/story/shiftkey-gig-nursing/",
+      "source": "Wired"
+    },
+    {
+      "id": 76,
+      "title": "Lego Promo Code | 20% Off November 2026",
+      "url": "https://www.wired.com/story/lego-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 77,
+      "title": "Reebok Discount Code: 15% Off: November 2026",
+      "url": "https://www.wired.com/story/reebok-discount-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 78,
+      "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+      "url": "https://www.wired.com/story/we-vibe-discount-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 79,
+      "title": "TurboTax Full Service Coupons This November 2026",
+      "url": "https://www.wired.com/story/turbotax-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 80,
+      "title": "Sportsman's Warehouse Promo Code: Save in November 2026",
+      "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 81,
+      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "url": "https://www.wired.com/story/lowes-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 82,
+      "title": "Home Chef Promo Codes for November 2026",
+      "url": "https://www.wired.com/story/home-chef-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 83,
+      "title": "Fanatics Promo Code: 10% Off",
+      "url": "https://www.wired.com/story/fanatics-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 84,
+      "title": "50% Off Blue Apron Promo Codes | November 2026",
+      "url": "https://www.wired.com/story/blue-apron-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 85,
+      "title": "Litter-Robot Promo Codes: Up to $150 Off",
+      "url": "https://www.wired.com/story/litter-robot-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 86,
+      "title": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras November 2026",
+      "url": "https://www.wired.com/story/sony-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 87,
+      "title": "ExpressVPN Coupons: 80% Off",
+      "url": "https://www.wired.com/story/expressvpn-coupons/",
+      "source": "Wired"
+    },
+    {
+      "id": 88,
+      "title": "Target Promo Code: $50 Off | November 2026",
+      "url": "https://www.wired.com/story/target-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 89,
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 90,
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 91,
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 92,
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 93,
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 94,
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 95,
+      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+      "url": "https://www.wired.com/story/guys-really-we-got-this/",
+      "source": "Wired"
+    },
+    {
+      "id": 96,
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 97,
+      "title": "Palmer Luckey doesn’t deny that he’s a prepper",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 98,
+      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+      "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+      "source": "Wired"
+    },
+    {
+      "id": 99,
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 100,
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 101,
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 102,
+      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+      "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+      "source": "Wired"
+    },
+    {
+      "id": 103,
+      "title": "Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’",
+      "url": "https://www.wired.com/story/australia-neil-the-seal-management-plan/",
+      "source": "Wired"
+    },
+    {
+      "id": 104,
+      "title": "The ‘GTA 6’ Work Blackout Is Here",
+      "url": "https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/",
+      "source": "Wired"
+    },
+    {
+      "id": 105,
+      "title": "Best Early Black Friday Phone Deals (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-phone-deals-11-18-26/",
+      "source": "Wired"
+    },
+    {
+      "id": 106,
+      "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
+      "url": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
+      "source": "Wired"
+    },
+    {
+      "id": 107,
+      "title": "Adside",
+      "url": "https://www.producthunt.com/products/adside",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 108,
+      "title": "Tecla",
+      "url": "https://www.producthunt.com/products/tecla-3",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 109,
+      "title": "Rezora IO",
+      "url": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 110,
+      "title": "Polylane for Azure",
+      "url": "https://www.producthunt.com/products/polylane",
+      "source": "Product Hunt"
+    }
+  ]
+}
