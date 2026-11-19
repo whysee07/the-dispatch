@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T19:11:02.836314+00:00",
+  "tonight": {
+    "title": "The Odyssey",
+    "meta": "2026 · Adventure · 2h 53m · ★ 8.0",
+    "why": "Forget your streaming queues, tonight we're sailing into an epic. The Odyssey isn't just a story; it's a brutal masterclass in survival, where every monster and god is just another obstacle between a king and his couch.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+  },
+  "releases": [
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "take": "Panem's back for more teen-on-teen violence, proving that some dystopias never learn, they just prequel.",
+      "score": 75,
+      "geo": "world"
+    },
+    {
+      "title": "Avengers: Doomsday",
+      "take": "When three universes collide, you know the only thing bigger than the stakes is the inevitable toy line.",
+      "score": 0,
+      "geo": "world"
+    },
+    {
+      "title": "The Beast",
+      "take": "Turns out the President's limo has more gadgets than James Bond's Aston Martin and a far more direct approach to national defense.",
+      "score": 52,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "Spider-Man: Brand New Day",
+    "blurb": "If you thought your mother-in-law was scary, wait until you meet 'Other Mommy'; this film delves into childhood fears with a chilling precision that will haunt your dreams for weeks.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
