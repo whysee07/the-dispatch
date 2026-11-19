@@ -1,0 +1,579 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T19:01:15.399085+00:00",
+  "raw_text": "Alright, deep breaths, it's Thursday, November 19, 2026, and the AI overlords are getting richer by the second. Let's get into what's cooking.\n\n### Money Talk\n\n- **Anthropic IPO: AI bubble or bonanza?**\n  AI darling Anthropic just dropped the biggest IPO ever, raking in $81B and hitting a $2T valuation. Investors are high on AI, but some are getting 90s dot-com vibes, especially after CEO Dario Amodei warned about \"existential risks.\" Meanwhile, 12 other portfolio stocks are riding the coattails. [S2][S6][S11][S12][S13][S22][S35]\n- **AMD gets cooked by short-seller on China ties.**\n  AMD shares took a dive today after a short-seller report alleged its firmware showed up in a blacklisted Chinese company. AMD claims full compliance with US law, but the market's clearly nervous about that kind of exposure. [S5]\n- **Nvidia's Jensen Huang stares down legal storm.**\n  It's not looking good for Nvidia's CEO, Jensen Huang. A securities litigator says his legal exposure is \"going to get far worse.\" Details are thin, but it smells like more regulatory or investor heat brewing. [S3]\n- **Netflix, Amazon gun for 2030 World Cup rights.**\n  The battle for eyeballs is heating up, with Netflix, Amazon, and Fox all bidding on the 2030 men's World Cup media rights. Disney's apparently sitting this one out, probably doing the math on those streaming subscriber churn rates. [S4]\n- **IMF: AI boom means higher interest rates.**\n  The head of the IMF, Kristalina Georgieva, just dropped a bombshell: the booming demand for AI will force central banks globally to hike interest rates. Her advice? \"You snooze, you lose\" – better get ready for the tech rollout. [S15]\n\n### World Lore\n\n- **UN court rules Myanmar committed genocide.**\n  In a landmark decision, the International Court of Justice found Myanmar guilty of committing genocide against the Rohingya in 2017. This sets a major precedent for future genocide cases globally – including, potentially, Israel's. [S19][S21]\n- **Trump, Xi, Putin meet in Shenzhen.**\n  The leaders of the US, China, and Russia held an unprecedented trilateral summit in Shenzhen. Ukraine, Iran, and nuclear disarmament were on the agenda, with Trump calling it \"making history\" and Putin describing talks as \"open and candid.\" [S24][S33]\n- **Iran's \"boiling frog\" strategy heats up.**\n  Iran is taking the offensive, escalating attacks on ships in the Strait of Hormuz and launching airstrikes around the Persian Gulf. Tehran believes its \"boiling frog\" strategy to hurt the West is working, which frankly, sounds like a terrible way to cook a frog. [S23][S26]\n- **Europe pushes for Ukraine peace talks.**\n  European leaders gathered in Berlin, reaffirming support for Kyiv and pushing for European representation in future peace talks to end Russia's invasion of Ukraine. A united front, apparently, which is always nice to see from Europe. [S31]\n- **Trump delays Iran war decision.**\n  President Trump told Axios he won't make a decision on the Iran war until the new year, opting not to rush into it. The region, meanwhile, probably isn't holding its breath. [S16]\n\n### Tech Tea\n\n- **Anthropic's $2T IPO raises AI safety questions.**\n  Anthropic hit Nasdaq at a staggering $2 trillion valuation, a record-breaking IPO that puts its AI safety strategy under intense scrutiny. CEO Dario Amodei still preached pacing AI development at the opening bell, but investors are clearly betting on speed over caution. [S38][S44][S45][S54]\n- **Google Gemini now taking over your Mac.**\n  Google just updated Gemini, giving its AI agent the power to control your Mac. It can now organize local files, fill forms, and tackle multi-step workflows across your desktop and web apps. Hope it doesn't accidentally delete your memoirs. [S41][S47]\n- **Meta's AI emissions derail climate goals.**\n  Meta's greenhouse gas emissions spiked 45% last year, thanks to its AI infrastructure boom, forcing a rethink of its net-zero emissions by 2030 goal. Turns out powering a digital future is pretty energy-intensive, who knew? [S18]\n- **Google builds \"mirror dimension\" for Chrome AI.**\n  Google created a giant \"mirror dimension\" internet to safely train its Chrome AI browsing agents. It's a massive sandbox to prevent AI from going rogue in the real world – smart, or just a prelude to The Matrix? [S51]\n- **Meta's Muse AI caught spilling private data.**\n  Reports are surfacing that Meta's AI agent, Muse, is mixing up conversations and exposing private data. Employees cited instances of Muse surfacing childcare requests, career advice, and even bank balances that weren't theirs. Yikes. [S42]\n\n### Creator Szn\n\n- **Welcome to the age of AI-led shopping.**\n  OpenAI, Google, Amazon, and Walmart are all betting big on agent-led holiday shopping this quarter. The \"agentic commerce\" era is here, but whether consumers are ready to let AI do their gift-buying remains to be seen. [S59]\n- **Nike wants creators to build culture, not just sell.**\n  Nike is shifting its creator strategy, aiming for athletes and creators to do more than just push products. They want them to actively build Nike's brand culture, which is a smart play on authenticity in an increasingly crowded market. [S60]\n- **Daily Mail to become creator talent agent.**\n  Mail Metro Media, the Daily Mail's ad sales team, is making a surprising pivot: they're turning into talent agents for creators. Publishers jumping into talent representation? That's a bold move, blurring lines between content and talent. [S57]\n- **Celsius doubles down on sports marketing.**\n  Energy drink brand Celsius is going all-in on sports marketing this year, leveraging major league partnerships, college athletics, and high-profile events. Smart move to tap into that active lifestyle audience that's always chasing a buzz. [S58]\n- **Publicis Media vet John Muszynski retires.**\n  After 45 years in the game, Publicis Media Exchange U.S. Chairman John Muszynski is stepping down from his full-time role. A true old-school media buyer hangs up his hat, but will still consult – because old habits die hard. [S56]\n\n### Supply Lines\n\n- **UPS snags Smartways Logistics for APAC healthcare.**\n  UPS is beefing up its healthcare logistics presence in the Asia-Pacific region, specifically Australia and New Zealand, with the acquisition of Smartways Logistics. This move signals a focus on specialized, high-margin freight, expanding their footprint in a critical sector. [S76][S77][S78][S79][S80]\n- **DHL rolls out dedicated India freighter service.**\n  DHL Forwarding just launched its first-ever dedicated freighter service for India, with new flights planned for Navi Mumbai and Bengaluru. This dramatically speeds up shipping times and increases air freight capacity for the rapidly growing Indian market. [S83][S85]\n- **Amazon battles NYC over delivery bill, warns of $5 fee.**\n  Amazon is going directly to shoppers to fight a proposed NYC delivery protection act, warning it could add up to $5 per order and put 5,000 delivery jobs at risk. Clearly, last-mile regulation is a major headache for big tech. [S91][S92][S93]\n- **Expeditors abandons organic-only, eyes M&A.**\n  After decades of strictly organic growth, freight forwarder Expeditors is making a huge strategic shift, now openly evaluating M&A opportunities, especially in technology. This could shake up the industry as a major player goes hunting. [S73]\n- **Logistics AI moves past hype, buyers want speed.**\n  According to Sparq, carriers and brokers are past asking if AI works in logistics; they want measurable results and speed. The focus has shifted from *if* to *how fast* AI can deliver efficiency and cost savings in a tight market. [S62]\n- **Contract logistics M&A heats up with two big sales.**\n  Mergers and acquisitions are back in vogue for contract logistics. US-based Neovia Logistics was acquired by Logisteed, and Turkey's Ekol Logistics went to Arvato, signaling renewed market activity and consolidation in the 3PL space. [S72]\n\n### Speed Round\n\n- Banking outages got advisors recommending you diversify your dough, or maybe just carry some cash.\n- UK watchdog provisionally finds Viagogo guilty of hidden fees. No surprises there.\n- Royal Mail is on track to miss delivery targets for the fourth year running. \"Pot luck service,\" indeed.\n- Meta's AI agent Muse is reportedly mixing up private data. Probably just trying to be a helpful, albeit nosy, friend.\n- COP31's latest draft deal mysteriously dropped all mention of fossil fuels. Convenient.\n- Trump thinks Elon Musk is still an ally, despite Musk saying he's \"not MAGA.\" Awkward.\n- An Indian truck driver just won $1.3M in a Diwali lottery. Instant upgrade from diesel to supercar.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
+      "url": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "Anthropic's historic IPO is a boon to these 12 portfolio stocks. Here's how they benefit",
+      "url": "https://www.cnbc.com/investingclub/2026/11/19/anthropics-historic-ipo-is-a-boon-to-these-12-portfolio-stocks-heres-how-they-benefit.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
+      "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "AMD dives on short-seller report of alleged China exposure",
+      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "More support for households reliant on heating oil",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "Indian driver wins $1.3m in life-changing lottery prize",
+      "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "Increase in direct cremations since pandemic",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic valued at $2tn as shares begin trading after record-breaking IPO – business live",
+      "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
+      "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
+      "url": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "‘Pot luck service’: Royal Mail on course to miss delivery targets for fourth year in a row",
+      "url": "https://www.theguardian.com/business/2026/nov/19/royal-mail-to-miss-delivery-targets-fourth-year-in-row",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "AI demand will push up interest rates around the world, IMF head warns",
+      "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "Trump to Axios: I'm \"not rushing into a decision\" on Iran",
+      "url": "https://www.axios.com/2026/11/19/trump-iran-attacks-israel-new-year",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Trump backs Elon Musk in latest MAGA breakup",
+      "url": "https://www.axios.com/2026/11/19/trump-elon-musk-not-maga-friend",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Meta rethinks climate goal as AI emissions soar 45%",
+      "url": "https://www.axios.com/2026/11/19/meta-ai-emissions-rise",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Myanmar becomes first state found responsible for genocide by UN court",
+      "url": "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "Why the Senate energy permitting bill might become law",
+      "url": "https://www.axios.com/2026/11/19/energy-permitting-bill-senate-politics",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
+      "url": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "Iran’s ‘Boiling Frog’ Strategy",
+      "url": "https://foreignpolicy.com/2026/11/19/iran-war-us-strikes-dirty-bomb-trump-congress-democrats-vali-nasr/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "Is This the Beginning of the End for Modi?",
+      "url": "https://foreignpolicy.com/2026/11/19/beginning-end-modi-protests/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "The Gulf Is America’s Next AI Security Test",
+      "url": "https://foreignpolicy.com/2026/11/19/nvidia-huang-scandal-ai-security-chips-export-controls-gulf-saudi-uae/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "Why Did Trump Attend ASEAN?",
+      "url": "https://foreignpolicy.com/2026/11/19/trump-asia-trip-asean-manila-summit/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "What India Makes of Trump’s Asia Trip",
+      "url": "https://foreignpolicy.com/2026/11/18/india-trump-asia-trip-quad-asean-apec-xi-putin/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "European leaders present united front in push for peace in Ukraine",
+      "url": "https://www.dw.com/en/european-leaders-present-united-front-in-push-for-peace-in-ukraine/live-79986520?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "Germany news: Pistorius to visit Auschwitz memorial in Poland trip",
+      "url": "https://www.dw.com/en/germany-news-pistorius-to-visit-auschwitz-memorial-in-poland-trip/live-79987991?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "Xi-Trump-Putin summit: What did it achieve?",
+      "url": "https://www.dw.com/en/xi-trump-putin-summit-what-did-it-achieve/a-79996668?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "No mention of fossil fuels in latest COP31 draft deal",
+      "url": "https://www.dw.com/en/no-mention-of-fossil-fuels-in-latest-cop31-draft-deal/a-79992394?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "Anthropic trading tests investors' appetite for AI",
+      "url": "https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "Chile: UFO Sightings by 18th Century Jesuits",
+      "url": "https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "Chrome AI features wasting much bandwidth",
+      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+      "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "Gemini on Mac can now use your computer",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Leaked images reveal Motorola’s wide foldable",
+      "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
+      "url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Apple’s iPhone camera leader has reportedly left the company",
+      "url": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "21 Best Home Entertainment Gifts (2026): TVs, Lights, and More",
+      "url": "https://www.wired.com/story/best-home-entertainment-gifts-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "Voyager Is a Light-Day Away. Here’s How Far That Really Is",
+      "url": "https://www.wired.com/story/voyager-light-day-away-how-far-that-really-is/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "The Best Early Black Friday Deals on Laptops I’ve Tested (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Last of the old school buyers, Publicis Media vet John Muszynski prepares to retire",
+      "url": "https://digiday.com/media-buying/last-of-the-old-school-buyers-publicis-media-vet-john-muszynski-prepares-to-retire/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "Mail Metro Media’s next creator play is representing them",
+      "url": "https://digiday.com/marketing/mail-metro-medias-next-creator-play-is-representing-them/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "How Celsius doubled down on sports marketing campaigns in 2026",
+      "url": "https://digiday.com/marketing/how-celsius-doubled-down-on-sports-marketing-campaigns-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "In Graphic Detail: Welcome to the agentic commerce quarter",
+      "url": "https://digiday.com/marketing/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "Inside Nike’s plan to turn creators into brand builders",
+      "url": "https://digiday.com/marketing/inside-nikes-plan-to-turn-creators-into-brand-builders/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 61,
+      "title": "NYC push against delivery bill brings in legal and racial arguments",
+      "url": "https://www.freightwaves.com/news/nyc-push-against-delivery-bill-brings-in-legal-and-racial-arguments",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 62,
+      "title": "Sparq: Logistics AI is paying off, but buyers want speed",
+      "url": "https://www.freightwaves.com/news/sparq-logistics-ai-roi-survey",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "EV Realty breaks ground on Torrance truck charging hub",
+      "url": "https://www.freightwaves.com/news/ev-realty-torrance-truck-charging-hub",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 64,
+      "title": "Supply chain software has an 18-month go-live problem",
+      "url": "https://www.freightwaves.com/news/vantage-9-supply-chain-software-go-live",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 65,
+      "title": "Ship pilot indicted after fatal Houston collision linked to cellphone distraction",
+      "url": "https://www.freightwaves.com/news/ship-pilot-indicted-after-fatal-houston-collision-linked-to-cellphone-distraction",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 66,
+      "title": "Honda invests $462M in Alabama plant to boost production",
+      "url": "https://www.supplychaindive.com/news/honda-invests-462m-in-alabama-plant-to-boost-production/875189/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 67,
+      "title": "How Home Depot built the missing logistics piece for its Pro business",
+      "url": "https://www.supplychaindive.com/news/how-home-depot-built-the-missing-logistics-piece-for-its-pro-business/874331/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 68,
+      "title": "How Brooks Running is using supplier data to address human rights risks",
+      "url": "https://www.supplychaindive.com/news/how-brooks-running-is-using-supplier-data-to-address-human-rights-risks/875090/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 69,
+      "title": "Amazon’s first Puerto Rico delivery station speeds up shipping",
+      "url": "https://www.supplychaindive.com/news/amazons-first-puerto-rico-delivery-station-speeds-up-shipping/874996/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 70,
+      "title": "Starbucks inventory availability at ‘all-time high’ with daily deliveries, CEO says",
+      "url": "https://www.supplychaindive.com/news/starbucks-inventory-availability-at-all-time-high-with-daily-deliveries/874923/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 71,
+      "title": "JFK holiday-pay complaints heat up AGI dispute with union",
+      "url": "https://theloadstar.com/jfk-holiday-pay-complaints-heat-up-agi-dispute-with-union/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 72,
+      "title": "Sale of Neovia in the US and Turkey’s Ekol marks return of M&A to logistics",
+      "url": "https://theloadstar.com/sale-of-neovia-in-the-us-and-turkeys-ekol-marks-return-of-ma-to-logistics/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 73,
+      "title": "Expeditors opens door to M&A after decades of organic growth",
+      "url": "https://theloadstar.com/expeditors-opens-door-to-ma-after-decades-of-organic-growth/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 74,
+      "title": "US truckers feel the squeeze as fuel price outpaces freight rates",
+      "url": "https://theloadstar.com/us-truckers-feel-the-squeeze-as-fuel-price-outpaces-freight-rates/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 75,
+      "title": "Gemini’s twin hub terminal strategy has a double purpose",
+      "url": "https://theloadstar.com/geminis-twin-hub-terminal-strategy-has-a-double-purpose/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 76,
+      "title": "UPS announces agreement to acquire Smartways Logistics for serving APAC region - BioSpectrum Asia",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHl4QWFiTWxfNU5IdWQzSHprQk1hZndTV3MxSUZMaUJ1U3JvRURGM0JIbTVXaEVUUzFJQ3F1dGFwT3Q1dTM2NWFiZldGbHJpLTVCUnZGaXlYRzg4RmUxQUh3cU5LakJWck9KWW5KRDFsMmg3OGVBekVkXy1yZHNxUFJMaHlScVhBSjNaYWEzYWV0emZuWXVERW53eXpXaEVqZXVDTFZvTTlWZDdFYldrLTAwUWxQTVhQUjV1UFUtaTNsWjJ5d0s1RA?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 77,
+      "title": "UPS Acquires Smartways Logistics to Expand Health Care Operations in Australia and New Zealand - GeneOnline",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWlvOWxRcGxHOTVfWXJ3MkFKaGFMUHdJcTBmMDVnVWR0dHJDd3otdTlGd0IzbEc0bnFsWUxrbTllc2pOZ0FPZXFVdVhEdkZ4RVV3X09ER2Fuc0hDNmRnb2J3TTNFblhBMUc4OHdNVEdocTkycDVSSXJxNE9SVXk5eEdCWDNwdkNJTXBJMWV4ZE5tTU4yaUF0QU9acUxLYnU1S0tYMW9yU2JMZXp1Nm56RlJDejRleHFUbVdRNFdUWQ?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 78,
+      "title": "United Parcel Service (UPS) Agrees Smartways Logistics Deal For Asia Pacific Healthcare Expansion - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdlBfazBaaGo2Y2NKVDNtRXd5Ull1ZUpTWHhCVVJvTUk1eTNNb2NMRkpvUFh0U0NKYWctaF9qdWxqTkNZU21hUVM4UkkxdUtHRHI5U0g1bHpMSGRlaG1ZZTdFcGVCZTI4S1BlTE8yVUI2Ukw2d3VjSERzR3BxbDJMOTJvSlJ0bU12RG1V?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 79,
+      "title": "UPS is set to expand Asia Pacific healthcare operations with planned acquisition of Smartways Logistics - Logistics Management",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUURDQ09WaWlVR2dUay1UeDVkY19NUHczYVNVYlA1QW1iN2U4QXl2MmxJWFNoaTdja0dmU21kZnRpM3FmMkF5WGd6NTFaV0ZscV9xMHJXTHk4MThwd2hUc1RiMldldVNDUlgtWTJkVjFNdnMwMGRxOEtMWHdBenl6bmpoU3NscjNXQUlvS3B6VWZzYkhlYzFCc21Ta1Q2ZTAxLU5GWC1VcXV5N1hUeVA4Vlo1SVdWc3hNSmxXMVpsVGVpd09aQXk0cWNJenBQY0gtMm4tRk1LQXE?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 80,
+      "title": "UPS to acquire Australian healthcare logistics company - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGZDRUlvdGZVZ1hGb3JmQ1ZjQk1kcFdNTGJsdU1PYXl2OTdoVTA2OVQtejRYTUxQMlZ1QkZCS0l1UTFtcGZYb1UzWXlIT2pETFJIUmkwc0F2M2ZocWFCc3Q3dS10V1BETDhIaE9rUHVfejF4MFg1OUtsYkp1R0xQQ090ZThUellhUWJNMlZvelFvS1h6cXlMVUtPTVNZd1JqbWNQT0JqNVdnUQ?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 81,
+      "title": "DHL Group : Warburg Research sticks Neutral - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUm1hbHlVMUw5cTlIZllHNUhERVpnZWtQZ1FuM243cXN6LXJnOW9RNWdIS045T1FVSEFTcjNPOEFPbDNMZnRQbURpSmVHeXU4UjRGT2lWZ2p2RDJhNXBfcGcxSEVwSWFLSmQ4LWUyNndkZkZVaVpZQW81ZUUySzJZckFJQW1FMDF6TXFQWjlMZnFfeDVhdlU1QUJB?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 82,
+      "title": "MPCM leaves DHL Group at 'Hold' - target €53 - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaTF5SXk2MG5UMWRFMzBSdnoyV3ZYSU5JcFFPdXZFLXIwLThZaFlTT0RsTHBWRkNpWU13dlF0blVTR2tINnVpeUVnNjI2YWZMdWlPNUQyZ3BEMVJMWTdXVk16b1J0Rkw2eEpuZURtcFVUOWREQllUSGVKdFc3SE5FX2lUZm1CS2ZvYkEtMk5zc0RzYkgydmJyQ01rY0o?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 83,
+      "title": "DHL Forwarding launches first-ever dedicated freighter service for India - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRmFqNzh0RE5PTEFKU25nTkVrT2M3SVphVGZnR0s5MTA3WFFxZDUxWlVPUk1uaGQwLTgyZVFsakJjd2N2V3FjbWY1YlFpcHhOTElaN2VjUENXTlVqdDhINWlRLWhQaTlVdlZNblpXUE15VlI3cThVaGdsTFZuOHpRSGkzeWJZQ2RRSmpmeVNyR0lPdnUxV3BiLWdXd2xhbll4RkplRG1ELXBjdw?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 84,
+      "title": "DHL Supply Chain sees 12% year-on-year sustainable revenue growth as companies transform their global supply chains - Zawya",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOY1h2dHRyTGdqcWdhQjk1UkNoSXJPNWVRVzdrNVplcWVPVWNVZjNsZy1Ob0MxTjJsZjV5aURubEI1dE1kdUlPNlFmR19aWjNSaHpEZUp2WWllbFMtczBnOGZveHlNOWlqQ19aWHpnWUVqRWREbnVtNmtMMHNDcm5BRUVzcWNTYkRpR0NaaXZ1cUZPakRacndnbjR0QUhaeFRqT21MMlVheEIzR2tLOHZIR0syTnRfUldKdjF3MzFvOXFwM1BfYk1tZTRwdmJnUVNXdFE4VVFZakdIcmU1RHBCcHJjOEZRbkJCSXo2aHM3YVNqYXVreTduZ2xCNUJTVEJEX01JWGNOcw?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 85,
+      "title": "dhl adds freighter service to navi mumbai plans new flights to bengaluru - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdHhxbmlRUkNIdTNqTXVhMTNWUlJCOUhRdnRNYnNVZkt5MDU5MUFEYlBpSlZKWnA5WGdWbWVlR1JmamRIdmhOZ3laRjh5dk53OHNwMHNPVjktQWJrc0pEcWkxajM1a01LS3pCckUxNHZGWlhHbEdGQ2ZfSzdlSC1sVENycWRTTHRaTEdGMDV4Ylc4U2JOckxmQmdhX2JWRFVsQVZVUmFUcnpvbFNneDJqWVJ0b0hZS0NFeUhhaWJWckIxUFZQN096QjluVWZ6dTZFUlI4bFhBVGdiRnZodzh3ctIB5wFBVV95cUxOQjkzb0ZlSkdfVWtDTmhFeEJrUVBFajRqYnZ1ZzZqWTlWTEJuNVRTNnMwNi1ZamhfQ0Y3d0Qyamo3VV9zRmNUWDJ4eGJ4elNTN3dkd2JaMk4yY1p0V3hYYk1mb25XQVMzbjVFdXdQVTNuVmFKdFRfY1JRbU8xc0wtOW5ZbmI3Z1hlRHJWM1ZwR0d6SmQ3U1lrZ3FBQ2FsRmF2ZDA4bHZYUm1xMkpnazg1TWxlTHBjZkdSQ1JkYUxiTXdXOUdxYkFZWlhHSTFYdV9hc0hyNFE1TTZ0aW9RcHhwN2MyaTZ0c0k?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 86,
+      "title": "Post Office, FedEx, UPS Christmas Shipping Deadlines 2026: When To Send Gifts From Illinois - Patch",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemxxMkxMUnVLZEFwVG5jY1hfbEFLUV96Yk1WcFk0WjhFRmQ1em1mS0ZmZ0xpbTBGWjE2WjJlMnZ5UXBtcllxWlg3T01IMDlQTFdYV0QxYk1zSWdodWpiNzVMbWotaGpQZ1Bfd0lpWnFOUHVZUm5iM1hkLTBHb013VGV5d3lZeGVBRmhCM2RoRTJSWDFSYl83TUFNZDjSAdYBQVVfeXFMTzFOWTF5SVo1SjFabk82ay1yVlZWOHYtdXZ3OEFnaHFhM0d5NWlnVmxIZ2RNOUpkc0FIbERWLWhYUy1IY2d6ZDdaUm03bWt4YzJDUThKZzlmVXJ0dkd3azJnSzBNd3dsMnJHYU1SM21wUkVsZWRSNW9iLTkzalRZMjZ1V2VrNzFUQjhWczdQWlBGSjFIRDVhSGNLUnBKOFZOY0puR2hKZHl6T0tUTFBPRVhaRng4eTAzZ2tjM0ZQZk5YRkJRN2xXQW1nNTcybEVDRlkzUlAzdw?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 87,
+      "title": "2026 APEC in China: FedEx CEO on AI-powered logistics, 'Panda Express' - Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83SXppTHAyaEFieHg4TWZ4VlNKajJjeWd6TTR4V2RMa1kzZFlsMnVtNDR0cGI1aVZqb0JCX2tuMW1OLXVJbnZrT3NDSGt2Q05LTFRjZ1BvLTRWZnNrRDY4Tw?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 88,
+      "title": "FedEx Partners with Korea AEO Promotion Association to Strengthen SMEs' Export-Import Capabilities - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WUmVaTnhiM2RxaDJOaEJXUnFxYmNWU3dEMjgxanp5TGs5X3BMX29xQW13VzVobU5KRllwUGdmRVRoUmNzWHBrbnh4QURYWXJDZ2N1VWR4SE5Jb09KdU5lb1FEaHAtVV9lbHQ3WkJpMS03U1RvRFE?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 89,
+      "title": "When to ship gifts in 2026: USPS, UPS, and FedEx holiday shipping deadlines - News Channel 3-12",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNC1vRVRhR0lIemtzemxaUlhjd2RUQ0tibklSME5UTVhJUVlaMGR6T3VzUGkwLWNjYWZJVk5mM0xuQzNSOFVpazhSeGdzdkFXRUc5TXY4U3FGQ2NidzJfVENwVlNxd0stRndQLWdaQ0dUMDVmTnZnVlNnT2FXSUNJVTdydEtIQkVJX3hVdE9hWXpqOS1QUDU2M1g4WlZvWVJiZGJXblZ4MXhVQjlpdDM1Z1hNM0VlS01HQnc?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 90,
+      "title": "When to ship gifts in 2026: USPS, UPS, and FedEx holiday shipping deadlines - STLtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZmgyWTBRNVhub0Exb3hCc0NzV0xXaTVONmNyQ3N2YzAwOTZwWk15ZWRoak9fcWZ4aF9XakxNMHFTeENSSW84Mk00dDIwd3lCak5DeVNjMS1EcTZQSzFEb2FxSWlaMDd0ZEh3ODExSHhVQzdZOE9rd0x1cnRDMGJaWUNoVEtQcnlxbmYxZEhkUl9IVHBNNWlhNFFvWjFPcldLd0hrOF9IekJXUQ?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 91,
+      "title": "Amazon brings fight against Mamdani-backed NYC proposal directly to shoppers - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVFqZGNxMjNSSk5JaGZCTWxKeWtyY3JBaEdaWHlnek5FTUpGbUItV1cyTjdza0JRN3k1dHhQeE5sdERWOU9Lc29PMU1nZGJzeGZUNFNnWVVSa1VaeVoxRzlRMzRyd0Z2OHdoeTNaZEJraWV6SlNjSEdNOExwaEc5YzFNVG5kRjQtS3BNcENwZ0pwR2hmVTJwdmRWOA?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 92,
+      "title": "Amazon warns NYC delivery bill could add up to $5 per order By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOckVFNFRNaEVONXI4dUNETTQteU9hMUZuMGxWU2VHelhGUUJsQzJ1ZTRzMGVhME1VUEdfZS1WQXhsZEh4VmtIQkJMQWFhRFV1MEY1ZXN4ekMtdTBqbVpZcGRSRVBKZ2ZaUXpUT1Ntc2hqVUxlbmRUdkRxYXBOYi05MkRHSWlIUkpDcU0yMXdBemktOHNjRnA0WDlucjUyY0VEYkVCdmY5YnhCUzFrdlVWak5YY2FKUQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 93,
+      "title": "Amazon Faces Pressure Over 5,000 Delivery Jobs as New York Weighs Labor Bill - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNmNLczFDUGNFSG1rNFdGQlI2eTFHem9aNEZCaVpDZGNzUncxZFRXbEtkbkl6bnh2VTl3emh5aUJJdm5Mc3B0SkVIQWcxYnNHODh0a2p3ak0zME9sUnpzUlBjVzR6V1hieFlvTVppem1vczJXTHdveVFiNk1LRHNWdTVrMGVDSUdHWGNod01zVlBkT29RdEQ2Ym11dkQxczhlSUpaVUs4eXBMaHQ5dmh4cWxpS0p0Y0tqb05iRFoxQ0RMT0sxbDhhU3J6SmZrSXd5bkE?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 94,
+      "title": "Amazon Prime Uber Eats deal: Get $20 off first two orders - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVjI5RHYwOERuMWVXcGU5UDN3Q08waV9NaGxtbjY5NERSd19fRl9FQjh6NUJWVGlBWC1manUzbnVPSFBpaDRyYTlWR3VkTlBPaUU3b1U5VUdGMXhqeDE1aTNIVFN0eVJQbU9ZaWxJenlQSWx1NWttbHZFTWw2TnkwM3NhWDJHdw?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 95,
+      "title": "Unordered packages carry QR codes that lead to a fake refund scam, California police say - The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3lWWUZWTF80MXEwSVZuODRhVWhxbEZpTHFfQXZxRTdiWU1YV2RSMzdwWVE1bGZCSlUxeG8wZlRqVUk4X2g5SHBNUXFVLXp6TUF0aDBtVnppb01uY1cxa2J4OV9LOE83LVMxM0VFRUJJS2J6eEFISlB6U0pXalBGN3QwWlVMcUxU?oc=5",
+      "source": "Amazon Logistics"
+    }
+  ]
+}
