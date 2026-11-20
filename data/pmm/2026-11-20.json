@@ -1,0 +1,627 @@
+{
+  "feed": "pmm",
+  "feed_name": "Marketing Brief",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T17:58:55.184576+00:00",
+  "raw_text": "☕ THE LEAD\nAnthropic, fresh off a massive IPO where its founders cashed out nearly $2 billion, is publicly doubling down on its \"no ads\" stance. The company even spent Super Bowl money mocking OpenAI for bringing ads to ChatGPT, and its IPO prospectus completely ignores advertisers. It's a noble position, especially for a public benefit corporation aiming to send $156 billion to charity. But let's be real: Wall Street is a different beast. Public companies have a habit of making those \"no ads\" promises look naive once quarterly earnings pressure hits. Netflix did it, and Anthropic's new public status means investors will be itching for every possible revenue stream. Marketers should watch this space *very* closely. If Anthropic does eventually cave, it'll open up a huge, new high-value ad inventory that could reshape where big budgets go. [S15][S84][S97]\n\n📣 QUICK HITS\n**Coca-Cola Pivots from Divisive AI Ads**\nAfter facing backlash for its generative AI holiday spots last year, Coca-Cola is going back to human-centric ads this season, featuring friends and family in seasonal activities. Sometimes, the \"human touch\" still beats the AI-generated novelty. [S24]\n\n**Meta Launches Shopping Platform Achados in Brazil**\nMeta is rolling out a new marketplace, Achados, in Brazil, which unifies product listings from across its apps into a single display. This is a big play for social commerce in a key market, showing Meta's continued push to own the shopping journey. [S18]\n\n**Brands Find Loyalty in \"Delightful\" Software Updates**\nFrom Rivian's Ghostbusters-themed software to Slack's Halloween status updates, brands are using playful, unexpected features to build loyalty and awareness. It's a smart move to go beyond transactional marketing and create memorable customer experiences. [S11]\n\n**OpenAI Rewrites ChatGPT Business Hub Terms**\nJust days after launch, OpenAI revised the terms for its ChatGPT Business Hub due to legal concerns over language that lawyers felt limited businesses' ability to bring claims. Always read the fine print, especially when dealing with your data and a rapidly evolving platform. [S17]\n\n🎯 THE PMM DESK\n**PMM Hiring Canyon: Bridging the Gap**\n3AM Recruiting co-founders Yi Lin Pei and Jonathan Pipek are tackling the paradox of thousands of open PMM roles and thousands of job-seeking PMMs. They're offering resources like a personal positioning framework to help candidates articulate their value. The sharp takeaway: In a tough market, a clear, compelling personal positioning framework isn't just nice-to-have, it's essential to cut through the noise and show hiring managers your unique fit. [S3]\n\n**AI Search Volatility Demands New AEO Strategies**\nHubSpot’s latest report warns marketers about \"AI search volatility,\" where AI answers don't come with stable ranking positions, making traditional SEO tracking less effective. A sharp takeaway for PMMs: Your content strategy needs to adapt beyond old-school keyword ranking. Focus on being the definitive, trusted source that AI *wants* to pull from, and prepare for rapid shifts in how your product's information is surfaced. [S4]\n\n🧠 PMM 101\n**The concept:** Personal Positioning Framework\nWhat it is: This is how you define and communicate your unique value, skills, and experience to a specific audience (like potential employers) in a way that differentiates you from competitors. It's essentially your professional elevator pitch, but with strategic depth.\nWhy it matters: It helps you articulate your strengths clearly, target the right opportunities, and stand out in a crowded job market.\nSee it today: 3AM Recruiting highlights this framework as a key tool for PMMs looking to close the hiring gap. [S3]\nTry it: This week, outline your own personal positioning framework. Identify your unique skills, the problems you solve, your ideal \"customer\" (target role/company), and what makes you different from other candidates.\n\n🧩 PRODUCT CORNER\n**Signal Blocks AI Agents from Screen Reading**\nSignal is rolling out a feature to restrict screenshots and prevent AI agents like Gemini and Siri AI from scanning on-screen content on Android and iOS. This move highlights Signal's core product value of privacy, directly challenging the growing trend of OS-level AI agents that analyze user data. It forces a clear stance on privacy versus utility in product design. [S57]\n\n🔧 TOOL DROP\n**Nova by Vybe** — Audits your website free, then fixes what it finds. [S36]\nBest for: Marketers and small businesses who need quick, actionable insights into website performance and want to automate fixes. [S36]\nFree tier: Yes (free audit). [S36]\nHonest take: Genuinely useful. Getting a comprehensive website audit for free, with specific recommendations and the option for automated fixes, is a smart way to identify and address common site issues without heavy investment. [S36]\n\n⚡ SPEED ROUND\n🛍️ Black Friday deals are already everywhere, with Apple Watch Series 12 and touchscreen MacBook Pro seeing new lows. [S2][S45]\n💰 Anthropic's IPO was a massive payday: $2B for founders, $105B for the company, and potentially $156B for charity. [S84][S97]\n🤖 Google Gemini can now take control of your Mac, organizing files and tackling multi-step workflows. [S98]\n🚕 Uber is testing rides for kids as young as 10 in three US cities, with extra pay for drivers. [S93]\n🎮 Grand Theft Auto VI is out, and players are reportedly \"mad\" it makes them respect women and be a \"thoughtful boyfriend.\" [S48][S66][S87]\n📉 Bending Spoons snagged Mailchimp for $3.68B, a steal compared to Intuit's $12B purchase in 2021. [S42]",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Chips can survive the space environment. Can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 2,
+      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 3,
+      "title": "How Yi Lin Pei and Jonathan Pipek, co-founders of 3AM Recruiting, are closing the  PMM hiring canyon",
+      "url": "https://www.productmarketingalliance.com/get-hired-and-hire-better-practical-pmm-playbook/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 4,
+      "title": "AI search volatility: What it means for your traffic",
+      "url": "https://blog.hubspot.com/marketing/ai-search-volatility",
+      "source": "HubSpot Marketing"
+    },
+    {
+      "id": 5,
+      "title": "Verizon renews LaLiga sponsorship amid World Cup years",
+      "url": "https://www.marketingbrew.com/stories/verizon-laliga-sponsorship?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "source": "Marketing Brew"
+    },
+    {
+      "id": 6,
+      "title": "Campaign Trail: Tiffany tells human holiday story with Hollywood talent",
+      "url": "https://www.marketingdive.com/news/campaign-trail-tiffany-tells-human-holiday-story-with-hollywood-talent/874914/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 7,
+      "title": "greatai Review",
+      "url": "https://www.producthunt.com/products/greatai-review",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "Lumyna Community Challenge",
+      "url": "https://www.producthunt.com/products/lumyna-community-challenge",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 9,
+      "title": "Tuesday, Nov. 17 Daily Cable News Ratings: Jesse Watters Primetime No.1 in the Demo",
+      "url": "https://www.adweek.com/tvnewser/tuesday-nov-17-2026-daily-cable-news-ratings/",
+      "source": "Adweek"
+    },
+    {
+      "id": 10,
+      "title": "Meta&#8217;s Holiday Ad Pitches Its Smart Glasses as the Secret to Present Parenting",
+      "url": "https://www.adweek.com/brand-marketing/metas-holiday-ad-pitches-its-smart-glasses-as-the-secret-to-present-parenting/",
+      "source": "Adweek"
+    },
+    {
+      "id": 11,
+      "title": "To build loyalty and awareness, some brands are turning to delight",
+      "url": "https://www.marketingbrew.com/stories/rivian-slack-matic-delightful-software?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "source": "Marketing Brew"
+    },
+    {
+      "id": 12,
+      "title": "Hearts United Wins $110M Pinterest Media AOR in First Pitch Since Launch",
+      "url": "https://www.adweek.com/agencies/hearts-united-wins-110m-pinterest-media-aor-in-first-pitch-since-launch/",
+      "source": "Adweek"
+    },
+    {
+      "id": 13,
+      "title": "Ads of the Week: 11 Campaigns That Caught Our Eye, From McDonald’s to Bumble",
+      "url": "https://www.adweek.com/creativity/ads-of-the-week-11-campaigns-that-caught-our-eye-from-mcdonalds-to-bumble/",
+      "source": "Adweek"
+    },
+    {
+      "id": 14,
+      "title": "Future of Marketing Briefing: Consulting firms revive their marketing ambitions in the C-suite the holdcos covet",
+      "url": "https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 15,
+      "title": "Anthropic says no to ads but Wall Street may have other ideas",
+      "url": "https://digiday.com/marketing/anthropic-says-no-to-ads-but-wall-street-may-have-other-ideas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 16,
+      "title": "Why more brands are paying creators to make their ads",
+      "url": "https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 17,
+      "title": "OpenAI rewrites ChatGPT Business Hub terms after legal language raises concerns",
+      "url": "https://digiday.com/media/openai-rewrites-chatgpt-business-hub-terms-after-legal-language-raises-concerns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 18,
+      "title": "Meta launches shopping platform Achados in Brazil",
+      "url": "https://www.socialmediatoday.com/news/meta-launches-shopping-platform-achados-in-brazil/875290/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 19,
+      "title": "Threads tests new Q&A option in live chats",
+      "url": "https://www.socialmediatoday.com/news/threads-tests-new-qa-option-in-live-chats/875287/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 20,
+      "title": "Reddit publishes guide to Super Bowl engagement trends",
+      "url": "https://www.socialmediatoday.com/news/reddit-publishes-guide-to-super-bowl-engagement-trends/875284/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 21,
+      "title": "LinkedIn study explores B2B buying decisions",
+      "url": "https://www.socialmediatoday.com/news/linkedin-study-explores-b2b-buying-decisions/875281/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 22,
+      "title": "Correcting the TV ad market’s imperfect shift to streaming",
+      "url": "https://digiday.com/sponsored/correcting-the-tv-ad-markets-imperfect-shift-to-streaming/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 23,
+      "title": "Instagram adds Stories editing",
+      "url": "https://www.socialmediatoday.com/news/instagram-adds-stories-editing/875261/",
+      "source": "Social Media Today"
+    },
+    {
+      "id": 24,
+      "title": "Coca-Cola pivots from divisive AI-generated ads for holiday campaign",
+      "url": "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 25,
+      "title": "Walmart mulls role advertising will play in an agentic shopping world",
+      "url": "https://www.marketingdive.com/news/walmart-mulls-role-advertising-will-play-in-an-agentic-shopping-world/875185/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 26,
+      "title": "Week of Nov 9 Cable News Ratings: Fox News and CNN Share the Spoils",
+      "url": "https://www.adweek.com/tvnewser/week-of-nov-9-2026-cable-news-ratings/",
+      "source": "Adweek"
+    },
+    {
+      "id": 27,
+      "title": "Samiksa",
+      "url": "https://www.producthunt.com/products/samiksa",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 28,
+      "title": "Mailpipe",
+      "url": "https://www.producthunt.com/products/mailpipe-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 29,
+      "title": "Interview Coach",
+      "url": "https://www.producthunt.com/products/interview-coach-3",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 30,
+      "title": "Fack’d",
+      "url": "https://www.producthunt.com/products/fack-d",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 31,
+      "title": "ThreadLore",
+      "url": "https://www.producthunt.com/products/threadlore",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 32,
+      "title": "Docker",
+      "url": "https://www.producthunt.com/products/docker",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 33,
+      "title": "Veryfi Thinking Mode",
+      "url": "https://www.producthunt.com/products/veryfi",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 34,
+      "title": "Dozy",
+      "url": "https://www.producthunt.com/products/dozy",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 35,
+      "title": "DMARC Pulse",
+      "url": "https://www.producthunt.com/products/dmarc-pulse",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 36,
+      "title": "Nova by Vybe",
+      "url": "https://www.producthunt.com/products/vybe-4",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 37,
+      "title": "UndoGuard",
+      "url": "https://www.producthunt.com/products/undoguard",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 38,
+      "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
+      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
+      "source": "The Verge"
+    },
+    {
+      "id": 39,
+      "title": "The 23 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-20-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 40,
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge"
+    },
+    {
+      "id": 41,
+      "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
+      "url": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
+      "source": "The Verge"
+    },
+    {
+      "id": 42,
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
+      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
+      "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
+      "source": "The Verge"
+    },
+    {
+      "id": 44,
+      "title": "Don’t Bring Jensen Back",
+      "url": "https://www.wired.com/story/dont-bring-jensen-back/",
+      "source": "Wired"
+    },
+    {
+      "id": 45,
+      "title": "The best early Black Friday deals you can already shop",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 46,
+      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 47,
+      "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
+      "url": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Let’s talk about GTA VI",
+      "url": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "The week everything fell apart",
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 51,
+      "title": "The Best Pura Deals for Cyber Week (2026)",
+      "url": "https://www.wired.com/story/pura-black-friday-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 53,
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 54,
+      "title": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 55,
+      "title": "The Birdfy Gifts I’d Buy for Backyard Birders",
+      "url": "https://www.wired.com/story/best-birdfy-gifts-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
+      "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-20-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 57,
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "source": "The Verge"
+    },
+    {
+      "id": 58,
+      "title": "Best Robot Vacuum Early Black Friday Deals from Roborock (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 59,
+      "title": "Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You",
+      "url": "https://www.wired.com/story/which-macbook-should-you-buy/",
+      "source": "Wired"
+    },
+    {
+      "id": 60,
+      "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "source": "Wired"
+    },
+    {
+      "id": 61,
+      "title": "The 36 Best REI Holiday Sale Outdoor Deals (2026)",
+      "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 62,
+      "title": "The Smart Ring Goes to Church",
+      "url": "https://www.wired.com/story/smart-ring-goes-to-church/",
+      "source": "Wired"
+    },
+    {
+      "id": 63,
+      "title": "Regular Tech Bros Are Worried About Honeypots",
+      "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+      "source": "Wired"
+    },
+    {
+      "id": 64,
+      "title": "The Best Gifts for the Techie in Your Life (2026)",
+      "url": "https://www.wired.com/story/best-tech-gifts-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 65,
+      "title": "El Niño Is Driving a Record Marine Heat Wave Off the California Coast",
+      "url": "https://www.wired.com/story/el-nino-record-california-marine-heat-wave/",
+      "source": "Wired"
+    },
+    {
+      "id": 66,
+      "title": "‘Grand Theft Auto 6’ Is a Perfect Game. Rushing Through It Would Be a Mistake",
+      "url": "https://www.wired.com/story/gta-vi-is-finally-out-dont-rush-it/",
+      "source": "Wired"
+    },
+    {
+      "id": 67,
+      "title": "Best Gifts for Gym Bros: Fitness Tech and Workout Gear (2026)",
+      "url": "https://www.wired.com/gallery/gifts-for-gym-bros/",
+      "source": "Wired"
+    },
+    {
+      "id": 68,
+      "title": "The U.S. national cyber director is stepping down",
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 69,
+      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "source": "Wired"
+    },
+    {
+      "id": 70,
+      "title": "Vimeo Promo Codes: 40% Off This November 2026",
+      "url": "https://www.wired.com/story/vimeo-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 71,
+      "title": "Expedia Coupons: 50% Off",
+      "url": "https://www.wired.com/story/expedia-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 72,
+      "title": "Skechers Coupon Codes 20% Off",
+      "url": "https://www.wired.com/story/skechers-coupon-codes/",
+      "source": "Wired"
+    },
+    {
+      "id": 73,
+      "title": "HBO Max Promo Code: 50% Off | November 2026",
+      "url": "https://www.wired.com/story/max-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 74,
+      "title": "Adorama Camera Coupon Codes & Promo Codes: November 2026",
+      "url": "https://www.wired.com/story/adorama-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 75,
+      "title": "Ancestry Coupons│50% Off│November 2026",
+      "url": "https://www.wired.com/story/ancestry-coupon-codes/",
+      "source": "Wired"
+    },
+    {
+      "id": 76,
+      "title": "Walgreens Photo Coupons: Up to 70% Off This November 2026",
+      "url": "https://www.wired.com/story/walgreens-photo-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 77,
+      "title": "Castlery Promo Codes: $600 Off for November 2026",
+      "url": "https://www.wired.com/story/castlery-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 78,
+      "title": "eBay Coupons: 20% Off in November 2026",
+      "url": "https://www.wired.com/story/ebay-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 79,
+      "title": "Groupon Promo Codes: 60% Off in November 2026",
+      "url": "https://www.wired.com/story/groupon-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 80,
+      "title": "iRobot Promo Code: 15% Off",
+      "url": "https://www.wired.com/story/irobot-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 81,
+      "title": "Dyson Promo Codes: 25% Off in November 2026",
+      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 82,
+      "title": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
+      "url": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
+      "source": "Wired"
+    },
+    {
+      "id": 83,
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 84,
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 85,
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 86,
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 87,
+      "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
+      "url": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
+      "source": "Wired"
+    },
+    {
+      "id": 88,
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 89,
+      "title": "Best Amazon Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+      "source": "Wired"
+    },
+    {
+      "id": 90,
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 91,
+      "title": "What’s With All These Outages?",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+      "source": "Wired"
+    },
+    {
+      "id": 92,
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 93,
+      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 94,
+      "title": "The Best Hatch Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/hatch-black-friday-deals-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 95,
+      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+      "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+      "source": "Wired"
+    },
+    {
+      "id": 96,
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 97,
+      "title": "Anthropic’s IPO could deliver $156B to charity",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 98,
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 99,
+      "title": "UndoGuard",
+      "url": "https://www.producthunt.com/products/undoguard",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 100,
+      "title": "Lumyna Community Challenge",
+      "url": "https://www.producthunt.com/products/lumyna-community-challenge",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 101,
+      "title": "Samiksa",
+      "url": "https://www.producthunt.com/products/samiksa",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 102,
+      "title": "Mailpipe",
+      "url": "https://www.producthunt.com/products/mailpipe-2",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 103,
+      "title": "greatai Review",
+      "url": "https://www.producthunt.com/products/greatai-review",
+      "source": "Product Hunt"
+    }
+  ]
+}
