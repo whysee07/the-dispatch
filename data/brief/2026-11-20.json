@@ -1,0 +1,567 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T18:39:18.130543+00:00",
+  "raw_text": "Alright, strap in, buttercups. It's Friday, November 20, 2026, and the news cycle is doing its usual dance between global chaos and tech implosions. Let's get into it.\n\nMoney Talk\n\n- **Trump threatens massive tax on overseas data centers.**\n  Fresh off a highly symbolic, low-substance trilateral summit with Xi and Putin, Trump announced he's gunning to keep AI infrastructure onshore, threatening \"tremendous tax\" if companies build data centers abroad. Apparently, the global tech race is now a game of high-stakes protectionism. [S1][S17]\n- **Anthropic's IPO goes from trillion-dollar debut to tank town.**\n  The AI darling hit a mind-blowing $1.3 trillion valuation on its first day, then promptly saw its shares slump on day two as the wider tech market continued its 2026 AI sell-off. Hype is a hell of a drug, but gravity always wins. [S6][S11][S14][S19][S36]\n- **AI sell-off dims S&P 500's 8,000 dream.**\n  Prediction markets like Kalshi are showing \"extremely low\" odds for the S&P 500 hitting 8,000, a number once deemed a near certainty. Seems like the AI gold rush is hitting a rocky patch, taking the broader market enthusiasm with it. [S5]\n- **Bending Spoons snags Mailchimp for a steal.**\n  In a move that's gotta sting Intuit, Bending Spoons picked up Mailchimp for $3.68 billion. Remember when Intuit bought it for $12 billion in 2021? That's what you call a fire sale, or maybe just really bad timing on Intuit's part. [S43]\n- **UK-EU deal promises cost cuts, not lower prices.**\n  Faisal Islam says the new UK-EU trade agreement, a decade after Brexit, is unlikely to translate to cheaper food for shoppers, though it might give the broader economy a boost. So, business as usual for your grocery bill, then. [S8]\n\nWorld Lore\n\n- **Trump-Xi-Putin summit: More symbolism, less substance.**\n  The historic trilateral meeting in China concluded with few tangible wins, mostly delivering \"symbolism without substance.\" Trump skipped the usual Q&A, reinforcing the vibe that this was more a photo op than actual diplomacy. [S21][S26][S30]\n- **US and Iran resume trading blows.**\n  After a two-month lull, the US and Iran are back to exchanging strikes, reigniting concerns about regional instability. Meanwhile, Democrats are trying to block Iran war funding, but Senator Ron Johnson and other Republicans are shutting that down. Classic. [S22][S23][S29]\n- **Myanmar found guilty of genocide against Rohingya.**\n  The International Court of Justice delivered a landmark ruling, finding that Myanmar's security forces acted with \"genocidal intent\" against the Rohingya in 2017. What comes next, though, is the real question. [S25][S27]\n- **Ukraine under \"one of largest\" Russian aerial attacks.**\n  President Zelenskyy reports Russia launched a massive aerial assault, with two missiles even landing in NATO-member Poland, prompting accusations of \"provocation.\" The war is clearly far from over, and the ripple effects are still hitting NATO's borders. [S33]\n- **UK and EU try to mend fences a decade after Brexit.**\n  Top EU officials met with PM Andy Burnham, signaling a push for the \"closest possible relationship\" post-Brexit. Though, apparently, the EU wants to tie future deals to UK tuition fees for its citizens. Nothing like a good old academic-industrial complex to reset relations. [S13][S24]\n\nTech Tea\n\n- **Anthropic shares tank after IPO frenzy.**\n  After a wild opening day, Anthropic's stock plummeted as part of a broader tech sell-off, with the Nasdaq erasing 2026 gains. The AI bubble isn't popping, but it's definitely letting out some air. [S36]\n- **Google workers push back on AI in schools.**\n  A petition from Google workers is urging their employer not to penalize schools that choose *not* to adopt AI. It's a rare internal pushback, highlighting growing ethical concerns about AI integration in education. [S40]\n- **Anthropic mathematician claims to solve Riemann Hypothesis with Claude.**\n  In a potentially earth-shattering development, an Anthropic mathematician says he proved the notoriously difficult Riemann Hypothesis using their AI, Claude. If true, that's not just a tech breakthrough, it's a fundamental shift in how we approach mathematics. [S50]\n- **Google Assistant and Nest app are on the chopping block.**\n  Google is making some significant smart home changes, including phasing out Google Assistant on its smart speakers and shutting down the Nest app next year. Looks like you'll need to learn a new voice command for your smart lights. [S47]\n- **Transcription firm exposed sensitive customer data online.**\n  A simple security lapse left transcriptions of police interviews and bodycam footage exposed on a cloud server without a password. Another day, another reminder that \"secure\" usually means \"until someone makes a rookie mistake.\" [S44]\n\nCreator Szn\n\n- **Brands are paying creators to make their ads, and it's booming.**\n  \"Creator-led production\" is now the fastest-growing segment of the influencer economy, with brands directly funding creators to produce advertising content. It's like ad agencies, but with better memes. [S58]\n- **Anthropic's no-ads pledge might not last.**\n  Despite their stated commitment to an ad-free model, Wall Street and Anthropic's massive compute bill (and costly free tier) might force their hand. \"No ads\" is a nice sentiment, but \"$895 billion compute bill\" is a louder reality. [S57]\n- **OpenAI reworks ChatGPT Business Hub terms after legal flap.**\n  OpenAI had to revise its ChatGPT Business Hub terms after businesses raised concerns about original language that could restrict their legal claims. Turns out \"just trust the AI\" doesn't fly with corporate lawyers. [S59]\n- **Consulting giants muscle into marketing's C-suite.**\n  Deloitte Digital and Accenture Song are aggressively reviving their marketing ambitions, targeting the C-suite with a fresh push. The consultants are coming for the ad agencies' lunch, again. [S56]\n\nSupply Lines\n\n- **UPS acquires Smartways Logistics to boost APAC healthcare delivery.**\n  UPS is expanding its specialized healthcare logistics footprint by agreeing to buy Smartways Logistics, aiming to grow its delivery capabilities in Australia and New Zealand. Big Pharma knows no bounds, apparently. [S76][S78][S79][S80]\n- **Groundtruth launches AI platform for automated freight billing, partners with J.B. Hunt.**\n  New startup Groundtruth is rolling out an AI platform to automate freight invoice reconciliation, already nearly fully deployed across J.B. Hunt. This could shave serious time off back-office ops, meaning fewer spreadsheets and more coffee breaks for someone. [S61]\n- **BJC DHL Logistics debuts its first fully electric fleet.**\n  DHL's joint venture, BJC DHL Logistics Solution, has launched its initial fully electric fleet. Another step towards greening up those last-mile operations, which is good for PR and, eventually, the planet. [S82]\n- **Amazon threatens NYC delivery cost hike over new \"protection act.\"**\n  Amazon is signaling it might hike delivery costs by $5 in NYC, citing a new \"delivery protection act.\" Another regulatory spat, another potential hit to your Prime membership. [S89][S91]\n- **Holiday shipping getting \"spicy\" with trucking rejection rates set to spike.**\n  FreightWaves SONAR data shows signals of a tightening market ahead of Thanksgiving, with low inventory levels driving last-minute demands that could push rejection rates over 14%. Prepare for package delays and stressed-out logistics managers. [S62]\n- **Industrial real estate tightens as competition for space heats up.**\n  The market for industrial real estate is getting competitive, driven by demand from data centers needing power access and a need for faster leasing decisions. If you're building a warehouse, good luck finding affordable land. [S64]\n\nSpeed Round\n\n- Trump is dropping hints about taxing US companies that build data centers abroad.\n- Anthropic's IPO went from stratospheric to stomach-churning in 48 hours.\n- Myanmar's officially been called out for genocide by the UN's top court.\n- Google is ditching Assistant on smart speakers and nuking the Nest app.\n- Brands are now just paying creators directly to make their ads – skipping the middleman entirely.\n- A UK vineyard just uncorked its 2026 Beaujolais Nouveau rival.\n- Turns out, your Switch 2's microSD Express storage is still pricy, despite some \"deals.\"",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "Home Depot vs. Lowe's: Which stock has the edge after earnings and our support?",
+      "url": "https://www.cnbc.com/2026/11/20/home-depot-vs-lowes-which-stock-has-the-edge-after-earnings-and-our-support.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
+      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
+      "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+      "url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "Airbnb's divisive new house rules come into force",
+      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "Could you spot a fake banknote?",
+      "url": "https://www.bbc.co.uk/news/videos/c6808y974d13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic hits over $1 trillion: is it worth the hype? - The Latest",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/20/anthropic-1-trillion-valuation-the-latest",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "‘Gloucestershire nouveau’: UK vineyard uncorks its 2026 answer to beaujolais",
+      "url": "https://www.theguardian.com/business/2026/nov/20/three-choirs-vineyard-2026-first-release-wine-record-early-harvest-beaujolais-nouveau",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "Johnson urges Republicans to show up to work",
+      "url": "https://www.axios.com/2026/11/20/house-republicans-mike-johnson-attendance-midterms",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Trump floats major tax on U.S. companies constructing data centers overseas",
+      "url": "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Trump secretary's Christian messages to staff went \"too far,\" judge rules",
+      "url": "https://www.axios.com/2026/11/20/brooke-rollins-christian-messages-judge",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Anthropic is public, now comes the hard part",
+      "url": "https://www.axios.com/2026/11/20/anthropic-public-shareholders",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "GTA VI hijacks America",
+      "url": "https://www.axios.com/2026/11/20/gta-6-viral-moments-monoculture",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Trump holds press conference after meeting with Xi and Putin",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "The U.K. and EU hold a rare summit to strengthen ties",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "What the Yalta Comparison Really Reveals About Shenzhen",
+      "url": "https://foreignpolicy.com/2026/11/20/summit-trump-xi-putin-shenzhen-yalta-history-china/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "ICJ Finds Myanmar Committed Genocide. What Comes Next?",
+      "url": "https://foreignpolicy.com/2026/11/20/myanmar-genocide-icj-ruling-rohingya-muslims-ukraine-gaza-tom-andrews-un/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "The Other Summitry in Shenzhen",
+      "url": "https://foreignpolicy.com/2026/11/20/apec-summit-chile-mexico-peru-china-xi/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "The U.S. and Iran Are Back to Trading Strikes",
+      "url": "https://foreignpolicy.com/2026/11/19/us-iran-strikes-bahrain-kuwait-trump/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "Trump, Xi, Putin Hold Historic Trilateral Talks",
+      "url": "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-talks-nuclear-disarmament-un-icc-oil/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "At COP31, conflict over climate science slows action on global warming",
+      "url": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "Germany news: Kids take to streets over school, climate and costs",
+      "url": "https://www.dw.com/en/germany-news-kids-take-to-streets-over-school-climate-and-costs/live-79998529?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
+      "url": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "Better educated than ever – yet Germany's Gen Z is being shut out of its own future",
+      "url": "https://www.dw.com/en/better-educated-than-ever-yet-germany-s-gen-z-is-being-shut-out-of-its-own-future/a-80005823?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "Can German auto manufacturing recover after Mercedes and VW cuts?",
+      "url": "https://www.dw.com/en/can-german-auto-manufacturing-recover-after-mercedes-and-vw-cuts/a-79946928?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+      "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
+      "url": "https://certuvia.com/blog/postgres-19",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "Chips can survive the space environment. Can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
+      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
+      "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
+      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "Internet Archive Staffers Are Unionizing",
+      "url": "https://www.wired.com/story/internet-archive-staffers-are-unionizing/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "The 23 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-20-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "Don’t Bring Jensen Back",
+      "url": "https://www.wired.com/story/dont-bring-jensen-back/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "The Best Pura Deals for Cyber Week (2026)",
+      "url": "https://www.wired.com/story/pura-black-friday-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "The Birdfy Gifts I’d Buy for Backyard Birders",
+      "url": "https://www.wired.com/story/best-birdfy-gifts-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Future of Marketing Briefing: Consulting firms revive their marketing ambitions in the C-suite the holdcos covet",
+      "url": "https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "Anthropic says no to ads but Wall Street may have other ideas",
+      "url": "https://digiday.com/marketing/anthropic-says-no-to-ads-but-wall-street-may-have-other-ideas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "Why more brands are paying creators to make their ads",
+      "url": "https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "OpenAI rewrites ChatGPT Business Hub terms after legal language raises concerns",
+      "url": "https://digiday.com/media/openai-rewrites-chatgpt-business-hub-terms-after-legal-language-raises-concerns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "Correcting the TV ad market’s imperfect shift to streaming",
+      "url": "https://digiday.com/sponsored/correcting-the-tv-ad-markets-imperfect-shift-to-streaming/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 61,
+      "title": "Groundtruth launches AI platform to automate freight billing with J.B. Hunt partnership",
+      "url": "https://www.freightwaves.com/news/groundtruth-launches-ai-platform-to-automate-freight-billing-with-j-b-hunt-partnership",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 62,
+      "title": "Trucking Rejection Rates: Why Holiday Shipping Gets SPICY",
+      "url": "https://www.freightwaves.com/news/trucking-rejection-rates-why-holiday-shipping-gets-spicy",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "Q3 Shipping Costs Down 3.3% – Where Did The Savings Go?",
+      "url": "https://www.freightwaves.com/news/q3-shipping-costs-down-3-3-where-did-the-savings-go",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 64,
+      "title": "Industrial Demand Is Broadening. So Is Competition for Space",
+      "url": "https://www.freightwaves.com/news/industrial-demand-is-broadening-so-is-competition-for-space",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 65,
+      "title": "Mexico tightens trucking oversight with new digital compliance rules",
+      "url": "https://www.freightwaves.com/news/mexico-tightens-trucking-oversight-with-new-digital-compliance-rules",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 66,
+      "title": "Nvidia gets more supplier capacity to meet AI demand",
+      "url": "https://www.supplychaindive.com/news/nvidia-gets-more-supplier-capacity-to-meet-ai-demand/875238/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 67,
+      "title": "Cal-Maine halts egg production at Florida plant after bird flu outbreak",
+      "url": "https://www.supplychaindive.com/news/cal-maine-halts-egg-production-at-florida-plant-after-bird-flu-outbreak/875316/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 68,
+      "title": "Target boosts on-shelf availability, aided by stronger tech",
+      "url": "https://www.supplychaindive.com/news/target-boosts-on-shelf-availability-aided-by-stronger-tech/875117/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 69,
+      "title": "Meta strikes deals to boost low-carbon materials production",
+      "url": "https://www.supplychaindive.com/news/meta-strikes-deals-to-boost-low-carbon-materials-production/875095/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 70,
+      "title": "Honda invests $462M in Alabama plant to boost production",
+      "url": "https://www.supplychaindive.com/news/honda-invests-462m-in-alabama-plant-to-boost-production/875189/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 71,
+      "title": "Bloomberg Exclusive: Trump officials met privately with hedge funds on mega rail deal",
+      "url": "https://theloadstar.com/bloomberg-exclusive-trump-officials-met-privately-with-hedge-funds-on-mega-rail-deal/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 72,
+      "title": "The $1bn parking question – STB says railroads can charge even when cars and land are private",
+      "url": "https://theloadstar.com/the-1bn-parking-question-stb-says-railroads-can-charge-even-when-cars-and-land-are-private/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 73,
+      "title": "Transpac spots finally on the slide, but Asia-Med spike a surprise",
+      "url": "https://theloadstar.com/transpac-spots-finally-on-the-slide-but-asia-med-spike-a-surprise/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 74,
+      "title": "Analysis: IMO Net-Zero: now-or-never time draws near",
+      "url": "https://theloadstar.com/analysis-imo-net-zero-now-or-never-time-draws-near/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 75,
+      "title": "DSV – braced for another restructuring round",
+      "url": "https://theloadstar.com/dsv-braced-for-another-restructuring-round/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 76,
+      "title": "UPS agrees to buy Smartways Logistics to grow healthcare delivery in Australia and New Zealand - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObjRnY3FZVVVfN0xDMGkyQ1JPNmp5V0ItbnhfTktKdHB5UTFyX0NTT2t1ZmxhenhzbjJnZzZ1U2lQc3VGb2p5ZlNIUzNLTXY1WjJjNkpxTWhBaWpYbGMwVXRTOFZFT0NMNFhsMDE5SW44N3V0N0lSY0kzVTRfdW9wZGVnNzBzc092amYwek44TjJrM3VNZmNTaXN6U2RWUGZpX1ExNjloUHdiMTBpb05rd2RqaGhoUms5YURBcmxTQjlKd3pTdHpHRUVhQ0FGbDJXMzNHalB3TUt4cDk2MS00?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 77,
+      "title": "A prescription for growth: Medvantx and UPS partner on patient delivery - UPS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeGYwY0RvYURMazRENTVISmhlQmhFVW5ncEZaLWJnZmoxeGQwSmtPeVA5TTYyOXdkcE1zQW94WVJQMFRsQl81bXBodm1rQ0NidjM3LUIwdURfN3ZQZmdfOG91emtfMno3clQ3TUdmaGg2TzNDOS1ydmZQRl8zZ2tpTTRBa05fejdNcWRrX0I0MkFpd2lvNzJPOW9NVWtBbDB4X3pEX3drdEVTckZ0cGY1VHRmV1Fzc3EzTVZmV2VPNzUzeF9QY1E?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 78,
+      "title": "UPS announces agreement to acquire Smartways Logistics for serving APAC region - BioSpectrum Asia",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHl4QWFiTWxfNU5IdWQzSHprQk1hZndTV3MxSUZMaUJ1U3JvRURGM0JIbTVXaEVUUzFJQ3F1dGFwT3Q1dTM2NWFiZldGbHJpLTVCUnZGaXlYRzg4RmUxQUh3cU5LakJWck9KWW5KRDFsMmg3OGVBekVkXy1yZHNxUFJMaHlScVhBSjNaYWEzYWV0emZuWXVERW53eXpXaEVqZXVDTFZvTTlWZDdFYldrLTAwUWxQTVhQUjV1UFUtaTNsWjJ5d0s1RA?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 79,
+      "title": "UPS Acquires Smartways Logistics to Expand Health Care Operations in Australia and New Zealand - GeneOnline",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWlvOWxRcGxHOTVfWXJ3MkFKaGFMUHdJcTBmMDVnVWR0dHJDd3otdTlGd0IzbEc0bnFsWUxrbTllc2pOZ0FPZXFVdVhEdkZ4RVV3X09ER2Fuc0hDNmRnb2J3TTNFblhBMUc4OHdNVEdocTkycDVSSXJxNE9SVXk5eEdCWDNwdkNJTXBJMWV4ZE5tTU4yaUF0QU9acUxLYnU1S0tYMW9yU2JMZXp1Nm56RlJDejRleHFUbVdRNFdUWQ?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 80,
+      "title": "United Parcel Service (UPS) Agrees Smartways Logistics Deal For Asia Pacific Healthcare Expansion - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdlBfazBaaGo2Y2NKVDNtRXd5Ull1ZUpTWHhCVVJvTUk1eTNNb2NMRkpvUFh0U0NKYWctaF9qdWxqTkNZU21hUVM4UkkxdUtHRHI5U0g1bHpMSGRlaG1ZZTdFcGVCZTI4S1BlTE8yVUI2Ukw2d3VjSERzR3BxbDJMOTJvSlJ0bU12RG1V?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 81,
+      "title": "Barbara Eleota Appointed New CEO of Hillebrand Gori – A Company of DHL - Wine Industry Advisor",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0t5cUV4a0lDNzZWVDYwXzN6T0ZNRjdJcHRYMXh4SWlpWVpULUVWUGllRGVBNzVkT3l4aVpMWlB0Mi1JTF9KeUcxaUU4R3V6Uk9vWW1yNmVsV1JJdE5oOF9manlocXhqemNUTkJKZlZzclc4VHl4Vll2bHBvN1dNNmc5Zk5MTENQcXdyY3JuamlLTkJrSW8xblkyVlpkQVYxM3pkX2V1SU5FczIwOVhnNlZB?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 82,
+      "title": "BJC DHL Logistics Solution Launches Its First Fully Electric Fleet - Bangkok Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSk9WUG5LTjNwVUVaQi05TlcyUHJnak13ZjJ3MnJkR1hMOTdNaFhud2RBZnpJcGxLYWZGYzhTRUduVDRqaVFLRHpYYWlkYkQ1eERWN3dkMlZkVGtlZ1d1VG43b0hTbEtDblR0Rm5oX0hNS1UtYmFyWUdIWjI3bVNTU0pLSVlaUTdlX0gtdTdRMEs3STN4aEpEZF9sZEl2UVowU3BTMlFWaTNiXzNLR2VGeGlEbFc?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 83,
+      "title": "DHL Group : Warburg Research sticks Neutral - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUm1hbHlVMUw5cTlIZllHNUhERVpnZWtQZ1FuM243cXN6LXJnOW9RNWdIS045T1FVSEFTcjNPOEFPbDNMZnRQbURpSmVHeXU4UjRGT2lWZ2p2RDJhNXBfcGcxSEVwSWFLSmQ4LWUyNndkZkZVaVpZQW81ZUUySzJZckFJQW1FMDF6TXFQWjlMZnFfeDVhdlU1QUJB?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 84,
+      "title": "MPCM leaves DHL Group at 'Hold' - target €53 - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaTF5SXk2MG5UMWRFMzBSdnoyV3ZYSU5JcFFPdXZFLXIwLThZaFlTT0RsTHBWRkNpWU13dlF0blVTR2tINnVpeUVnNjI2YWZMdWlPNUQyZ3BEMVJMWTdXVk16b1J0Rkw2eEpuZURtcFVUOWREQllUSGVKdFc3SE5FX2lUZm1CS2ZvYkEtMk5zc0RzYkgydmJyQ01rY0o?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 85,
+      "title": "Nov 19, 2026: From Shopping to ShoppAIng: Nearly nine in ten shoppers use or plan to use AI to find the best price - DHL Group",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUjIxQzhKczFHb1RldjBCalE1NFhNVHNCVS1TYnNuM1RpdHdSZ1NzSUFWdjRXUHo0cmlHa3dqU3BCVWdUUGF6TU1FY0swLUlfU05zNE5CcHpBN045SGxHRHlXVnNLbTdtNHRmUEIzN1FyZGRqQnZlUmpzYnpkbGRFU3Eybjh4bHpVV2dQdkI0X2YxYVEwcWVVaUF0a1RldFR2WXBqTDhmcGZ4R01IVnk3eXlKY0ZzOEkxSWM5S0JSbFZIY2U4OWVFWl9BRjFTNUNVdElCOA?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 86,
+      "title": "When Every Second Counts - National Geographic",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYjZTQ0NrVGpMS2RJOU1vbEpFZ2g0ZC15T1lKcTRoYlZwRFk1Y1hoTEF6SVJvcXc2R1BVcUEtV3dwRzFLcW5taEZvVk1pZWNWWGxmMkZ4dTdWamttREpqRS1UY3kwWkF5ZWJqOTNCVGphYjhoSzBiaENUNEZBWUp0RkNCazRGcXRlU0lyV29MWTQ?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 87,
+      "title": "Post Office, FedEx, UPS Christmas Shipping Deadlines 2026: When To Send Gifts From Illinois - Patch",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemxxMkxMUnVLZEFwVG5jY1hfbEFLUV96Yk1WcFk0WjhFRmQ1em1mS0ZmZ0xpbTBGWjE2WjJlMnZ5UXBtcllxWlg3T01IMDlQTFdYV0QxYk1zSWdodWpiNzVMbWotaGpQZ1Bfd0lpWnFOUHVZUm5iM1hkLTBHb013VGV5d3lZeGVBRmhCM2RoRTJSWDFSYl83TUFNZDjSAdYBQVVfeXFMTzFOWTF5SVo1SjFabk82ay1yVlZWOHYtdXZ3OEFnaHFhM0d5NWlnVmxIZ2RNOUpkc0FIbERWLWhYUy1IY2d6ZDdaUm03bWt4YzJDUThKZzlmVXJ0dkd3azJnSzBNd3dsMnJHYU1SM21wUkVsZWRSNW9iLTkzalRZMjZ1V2VrNzFUQjhWczdQWlBGSjFIRDVhSGNLUnBKOFZOY0puR2hKZHl6T0tUTFBPRVhaRng4eTAzZ2tjM0ZQZk5YRkJRN2xXQW1nNTcybEVDRlkzUlAzdw?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 88,
+      "title": "2026 APEC in China: FedEx CEO on AI-powered logistics, 'Panda Express' - Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83SXppTHAyaEFieHg4TWZ4VlNKajJjeWd6TTR4V2RMa1kzZFlsMnVtNDR0cGI1aVZqb0JCX2tuMW1OLXVJbnZrT3NDSGt2Q05LTFRjZ1BvLTRWZnNrRDY4Tw?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 89,
+      "title": "Here's what our readers are saying about Amazon's threat to raise NYC delivery costs - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNenAtYTBtVm81MktORGMzdkd0Ynh1WFZ3a1drS0dnQWUxU0xqQzhhUDhVZ0RMeHVFV1VpVUdfVnJoXzY0cVJJdUs0OE9oNHQycUluTUtBUF9EVTEtQlo3UTRPLVlKYkRESHJRZF9GbnBlY1lHSG1jdEhYdi00OEwzTmJkcDZvVnhEdU43LVFOUVBFS1VTZHVpdWdxUjdWbWxnZnF3?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 90,
+      "title": "Man attempts to rob Amazon delivery driver with machete, Lincoln police say - KLKN-TV",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ3U2Zjh6Y0FYd1BZQVBjMHZoS0RNa0FOUURCVnFPdWRvMDVla21SV2x5UEJzS1hWRmREZENVcFNZSy1GckJrNmdwMFBFVmxkNzVPRWtKb2sxU1U4bVRHa0xrMmlobmx6TER5TnYycU85RUVPNEI3TTFmSlRBWmd3b3MtbXdxbndCSHNUZ2o2b0EyUEctZlRWUzJLSi1FbWM?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 91,
+      "title": "Will Amazon deliveries cost $5 more in NYC? New delivery protection act explained - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SdUhUR3UzRjdtQ3h3WVd2RVVQNUluclB6NFluek16U1kzc3hLV1UzMzFzTWY4T3JOMU1mSVlRbllIUlBya042SmY3OFh0OHMxWm1JU0xvYjdTazc1aU12ZGdKNlZ3dzZTdnFZbFgtZzhRSWVYUkoyTlNOei1IUQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 92,
+      "title": "Amazon Stock: What Wall Street’s Latest Forecasts Say About Its Next Move - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUUhHcnYxYnZRV1NJQUNEWkxLOWJHZGEyY3l4TmdaYnRnQUR3NlFLSDhuazZzc2ZtdWQ1bUZybWdBMDlIREhULVJoVzRSejJsY1pnVG5Jamd2Y2VzNUlYc3NjUWVaOHVxU2ZWd0VSYVdxYXAtb1JRV29CM3ItaWhTWDFLNE1ZOWlIUVNSWHd0MlVCWUFBVXpvZC1CLURBcHBPaGh4V1JzdVAxUkk3TUV1YW0xeHBJUQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 93,
+      "title": "The Drama Over Drone Delivery - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORXVnbXo3U2dNU0c5ZUp1QVlyUXVYREFabHRZb01LWHh3YVNIaGpBM0VRbkltSXBoSGJDbUVHRzdVWUhiVUJKYVdnYWdkZUlieXM5bGZjQjJ4T2FNaVZyRWVvN2ZDQ2NGblRjaXdXSWZoOEYyZEtKY0pVQ2h4ZC1GZlhqZw?oc=5",
+      "source": "Amazon Logistics"
+    }
+  ]
+}
