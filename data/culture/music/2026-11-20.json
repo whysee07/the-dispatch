@@ -1,0 +1,124 @@
+{
+  "section": "music",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T20:51:05.078972+00:00",
+  "genres": [
+    "Rock",
+    "Indie",
+    "Pop",
+    "House",
+    "Indie Indian",
+    "Bollywood",
+    "Desi hip-hop"
+  ],
+  "news": [
+    {
+      "title": "GTA VI Unveils Soundtrack Album, Game Includes Surprise Songs And Cameos",
+      "source": "Stereogum",
+      "url": "https://stereogum.com/2518780/gta-vi-unveils-soundtrack-album-game-includes-surprise-songs-and-cameos/news/",
+      "age": "1d"
+    },
+    {
+      "title": "Atlas Sound Surprise Releases First Album in 15 Years",
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/story/atlas-sound-surprise-releases-first-album-in-15-years/",
+      "age": "1d"
+    },
+    {
+      "title": "Charlie Puth and Ellie Goulding Will Make Their India Debut in February 2027",
+      "source": "Rolling Stone India",
+      "url": "https://rollingstoneindia.com/charlie-puth-ellie-goulding-india-debut-mumbai/",
+      "age": "2d"
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Come Back Home",
+      "artist": "Blondie",
+      "why": "The iconic band returns with a wistful new single that showcases their enduring appeal.",
+      "genre": "Rock",
+      "geo": "world"
+    },
+    {
+      "title": "Sun Showers",
+      "artist": "JISOO",
+      "why": "BLACKPINK's Jisoo delivers a bubbly, feel-good pop track perfect for brightening your day.",
+      "genre": "Pop",
+      "geo": "world"
+    },
+    {
+      "title": "Day One",
+      "artist": "Panchiko (Feat. billy woods & Cotillon)",
+      "why": "This collaboration delivers a unique blend of lo-fi indie and sharp lyrical flow, a truly unexpected gem.",
+      "genre": "Indie",
+      "geo": "world"
+    },
+    {
+      "title": "African Love Story",
+      "artist": "Tems",
+      "why": "The Nigerian superstar weaves a soulful narrative with her distinctive voice, a true global gem.",
+      "genre": "Pop",
+      "geo": "world"
+    },
+    {
+      "title": "Joy of Little Things",
+      "artist": "When Chai Met Toast",
+      "why": "Their signature folk-pop sound shines through in this uplifting and heartwarming tune.",
+      "genre": "Indie Indian",
+      "geo": "india"
+    },
+    {
+      "title": "Gunehgar",
+      "artist": "Divine",
+      "why": "The Gully Gang king delivers raw lyrical prowess over a hard-hitting beat, a true streets anthem.",
+      "genre": "Desi hip-hop",
+      "geo": "india"
+    }
+  ],
+  "charts": {
+    "global": [
+      {
+        "title": "Stupid Song",
+        "artist": "Olivia Rodrigo"
+      },
+      {
+        "title": "Jolene",
+        "artist": "Dolly Parton"
+      },
+      {
+        "title": "Flowers",
+        "artist": "Miley Cyrus"
+      },
+      {
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift"
+      },
+      {
+        "title": "Heat Waves",
+        "artist": "Glass Animals"
+      }
+    ],
+    "india": [
+      {
+        "title": "Kahani Suno 2.0",
+        "artist": "Kaifi Khalil"
+      },
+      {
+        "title": "Pasoori",
+        "artist": "Ali Sethi, Shae Gill"
+      },
+      {
+        "title": "GOAT",
+        "artist": "Diljit Dosanjh"
+      },
+      {
+        "title": "Tu Aake Dekhle",
+        "artist": "King"
+      },
+      {
+        "title": "Kesariya",
+        "artist": "Pritam, Arijit Singh, Amitabh Bhattacharya"
+      }
+    ]
+  }
+}
