@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T18:51:54.961072+00:00",
+  "tonight": {
+    "title": "The Odyssey",
+    "meta": "2026 · Adventure · 2h 53m · ★ 8.0",
+    "why": "Tonight, cast aside your mundane reality and plunge into the ultimate epic with 'The Odyssey,' where Odysseus's harrowing journey home from Troy is a masterclass in mythological mayhem and enduring human spirit. It's a timeless tale of gods, monsters, and a hero's unbreakable will, perfect for a grand escape.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+  },
+  "releases": [
+    {
+      "title": "Avengers: Doomsday",
+      "take": "Three universes collide, proving that even beloved heroes can't avoid the ultimate interdimensional traffic jam.",
+      "score": 0,
+      "geo": "world"
+    },
+    {
+      "title": "Steps",
+      "take": "This stepsister's magical mishap confirms that even a royal ball can't escape a good old-fashioned froggy disaster.",
+      "score": 90,
+      "geo": "world"
+    },
+    {
+      "title": "The Beast",
+      "take": "When the President's limo becomes a weaponized tank, you know D.C. traffic is about to get a whole lot more explosive.",
+      "score": 51,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "Steps",
+    "blurb": "'The Beast' is a glorious, unapologetic ride into high-octane absurdity, where presidential security means turning a limousine into a mobile fortress of pure destruction. It's not just a thrill ride; it's a wonderfully over-the-top power fantasy that dares to ask: what if the Secret Service had a rocket launcher?",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
