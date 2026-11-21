@@ -1,0 +1,321 @@
+{
+  "feed": "pmm",
+  "feed_name": "Marketing Brief",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T16:56:07.346285+00:00",
+  "raw_text": "☕ THE LEAD\nYouTube is reportedly settling social media addiction claims for a staggering $3 billion with thousands of school districts, and honestly, this is a moment for every marketer to sit up and pay attention. While the legal battle is about \"addictive design\" harming kids, the implications for brand safety and platform responsibility are massive for all of us playing in the social space. This isn't just about YouTube; it's a loud, expensive siren for every platform and every brand that relies on them to reach audiences, particularly younger ones. The era of \"move fast and break things\" with user well-being, especially for minors, is officially over, and the price tag is now clear. Marketers need to be asking tougher questions about the platforms they partner with and whether their content inadvertently contributes to these issues, because the next settlement could hit closer to home if the industry doesn't proactively shift towards more ethical engagement. [S41]\n\n📣 QUICK HITS\n**Actors are licensing their AI faces to microdrama startups.**\nForget deepfakes, now actors are directly selling AI versions of their likenesses to companies producing short, high-volume content, a trend already popular in China. This opens a whole new can of worms for talent rights, brand endorsements, and the future of creative content creation. [S2]\n\n**NWSL sponsors are putting athletes first this championship season.**\nBrands are moving beyond generic logo placements, focusing on elevating individual players like Trinity Rodman and Croix Bethune as the new stars of women's soccer. This is smart marketing: authentic athlete-first campaigns build deeper connections and leverage rising star power. [S6]\n\n**The media RFP is quietly becoming obsolete.**\nAdweek reports a significant shift away from the traditional Request for Proposal process in media buying, signaling a move towards more agile, collaborative, and data-driven approaches. If your agency is still clinging to the old ways, you might be missing out on more effective and efficient media partnerships. [S7]\n\n**Chess.com expands into a hub for classic games.**\nAfter launching a poker site earlier this year, the platform is now adding 10 more games like Mahjong, Sudoku, and Backgammon to its new Classic Games platform. It's a savvy move to broaden their audience and leverage existing user trust beyond just chess. [S14]\n\n🎯 THE PMM DESK\n**Xiaomi’s dual-screen phone proves two screens aren’t better than one.**\nXiaomi’s new 18 Pro and Pro Max phones feature rear displays for selfies and notifications, but early reviews suggest the novelty doesn't translate into genuine user value. The sharp takeaway for a PMM is that innovative features need to solve a clear user problem, not just add complexity; a \"cool\" feature without a strong use case is a quick path to product fatigue. [S15]\n\n**Harbinger EVs skip the consumer hype, focusing on unglamorous commercial vehicles.**\nThis electric truck maker just raised $240 million and landed a $300 million order from FedEx by focusing on Class 4-6 delivery vans and box trucks instead of consumer SUVs. A PMM should note this brilliant GTM strategy: identify an underserved, high-value segment with clear pain points (like fleet operating costs) and build a product explicitly for them, rather than fighting for attention in a saturated consumer market. [S19]\n\n🧠 PMM 101\n**The concept:** Market Segmentation\nWhat it is: Market segmentation is essentially dividing a big, diverse market into smaller, more manageable groups of customers who share similar needs, characteristics, or behaviors. Think of it like sorting your candy bowl into separate piles: chocolates, gummies, hard candies.\nWhy it matters: It helps you focus your product development, messaging, and sales efforts so you're not trying to be everything to everyone, which usually means being nothing to anyone.\nSee it today: Harbinger, the EV truck company, is a perfect example. Instead of chasing the flashy consumer EV market, they segmented and targeted the commercial delivery truck industry, building a product specifically for that segment's needs. [S19]\nTry it: Pick a product you use daily. How could you segment its current user base? What are 2-3 distinct groups within that base, and what makes their needs different?\n\n🧩 PRODUCT CORNER\n**Google’s Stitch Loop AI agent aims to automate fixes and metric monitoring.**\nThis new AI agent is designed to automatically ship code fixes and keep an eye on key performance metrics, acting like an autonomous incident response system. For marketers, this means potentially faster product iterations and more stable platforms, leading to better user experiences without human developers needing to babysit every minor issue. [S5][S51]\n\n🔧 TOOL DROP\n**Stitch Loop** — Google’s AI agent that ships fixes and watches the metrics. [S5][S51]\nBest for: Development teams, DevOps, and product managers looking to automate routine maintenance, incident response, and performance monitoring. · Free tier: No info available, likely enterprise pricing. · Honest take: If this delivers on its promise, it's genuinely useful for reducing operational load and accelerating product stability, freeing up engineers for more strategic work.\n\n⚡ SPEED ROUND\n💸 **GTA VI** made an insane $3.79 billion on its first day, setting a new record for entertainment across any medium. [S44]\n👮‍♂️ Cops are using corny **GTA VI** memes for recruitment, completely missing the game's anti-law enforcement satire. [S39]\n💡 AI capabilities are still improving exponentially in areas like coding, but less so for tasks requiring human-like judgment, per a new METR report. [S47]\n🖼️ Amazon's new **Alexa Photo Frame** is already 50% off for Black Friday, just weeks after its launch. [S10]\n🍎 A U.S. startup is suing **Apple** in India for $162 million, alleging infringement on its tap-to-share contacts feature. [S38]\n🎧 Anker's **Soundcore Liberty 5 Pro** earbuds, a go-to for calls, are at their lowest price ever for Black Friday. [S13]",
+  "sources": [
+    {
+      "id": 1,
+      "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t sh",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 2,
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 3,
+      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+      "source": "The Verge"
+    },
+    {
+      "id": 4,
+      "title": "WaitFeed",
+      "url": "https://www.producthunt.com/products/waitfeed-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 5,
+      "title": "Stitch Loop",
+      "url": "https://www.producthunt.com/products/stitch-loop",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 6,
+      "title": "At this year’s NWSL championship, sponsors are putting athletes first",
+      "url": "https://www.marketingbrew.com/stories/nwsl-championship-sponsors-athletes?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "source": "Marketing Brew"
+    },
+    {
+      "id": 7,
+      "title": "The Media RFP Is Quietly Becoming Obsolete ft. Bruce Williams",
+      "url": "https://www.adweek.com/brand-marketing/the-media-rfp-is-quietly-becoming-obsolete-ft-bruce-williams/",
+      "source": "Adweek"
+    },
+    {
+      "id": 8,
+      "title": "The Art, Science and Theater of Modern Marketing ft. Thomas Ranese",
+      "url": "https://www.adweek.com/brand-marketing/the-art-science-and-theater-of-modern-marketing-ft-thomas-ranese/",
+      "source": "Adweek"
+    },
+    {
+      "id": 9,
+      "title": "Smorza",
+      "url": "https://www.producthunt.com/products/smorza",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 10,
+      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 11,
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 12,
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge"
+    },
+    {
+      "id": 13,
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 14,
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge"
+    },
+    {
+      "id": 15,
+      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+      "source": "The Verge"
+    },
+    {
+      "id": 16,
+      "title": "The game of the year is finally here",
+      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+      "source": "The Verge"
+    },
+    {
+      "id": 17,
+      "title": "The Outages Are Just Getting Started",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "source": "Wired"
+    },
+    {
+      "id": 18,
+      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "source": "Wired"
+    },
+    {
+      "id": 19,
+      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+      "source": "The Verge"
+    },
+    {
+      "id": 20,
+      "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
+      "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
+      "source": "Wired"
+    },
+    {
+      "id": 21,
+      "title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
+      "url": "https://www.wired.com/review/sony-bravia-9-ii/",
+      "source": "Wired"
+    },
+    {
+      "id": 22,
+      "title": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
+      "url": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 23,
+      "title": "Best Laptops for Travel (2026): Which to Take on the Road",
+      "url": "https://www.wired.com/story/best-laptops-for-travel/",
+      "source": "Wired"
+    },
+    {
+      "id": 24,
+      "title": "17 Best Gifts for Women in the Enshittocene (2026)",
+      "url": "https://www.wired.com/story/best-gifts-for-women/",
+      "source": "Wired"
+    },
+    {
+      "id": 25,
+      "title": "The Manosphere Isn’t Ready for Brothercore",
+      "url": "https://www.wired.com/story/hey-brother-house-manosphere-content/",
+      "source": "Wired"
+    },
+    {
+      "id": 26,
+      "title": "Therabody Promo Codes: 15% Off November 2026",
+      "url": "https://www.wired.com/story/therabody-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 27,
+      "title": "Mountain Hardwear Coupon Code 15% Off November",
+      "url": "https://www.wired.com/story/mountain-hardwear-promo-codes/",
+      "source": "Wired"
+    },
+    {
+      "id": 28,
+      "title": "Google Workspace Promo Codes: 14% Off for November 2026",
+      "url": "https://www.wired.com/story/google-workspace-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 29,
+      "title": "Motorola Coupon Code for November 2026",
+      "url": "https://www.wired.com/story/motorola-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 30,
+      "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
+      "url": "https://www.wired.com/story/total-wireless-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 31,
+      "title": "Nike Promo Codes and Discounts: 30% for November 2026",
+      "url": "https://www.wired.com/story/nike-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 32,
+      "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
+      "url": "https://www.wired.com/story/ulta-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 33,
+      "title": "Mint Mobile Discounts for November 2026",
+      "url": "https://www.wired.com/story/mint-mobile-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 34,
+      "title": "20% Off Brooks Promo Code | November 2026",
+      "url": "https://www.wired.com/story/brooks-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 35,
+      "title": "Uplift Promo Codes: $300 Off",
+      "url": "https://www.wired.com/story/uplift-desk-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 36,
+      "title": "Hostinger Promo Code: 85% Off for November 2026",
+      "url": "https://www.wired.com/story/hostinger-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "HostGator Coupon Codes: 76% Off Hosting in November 2026",
+      "url": "https://www.wired.com/story/hostgator-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 38,
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 39,
+      "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+      "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+      "source": "Wired"
+    },
+    {
+      "id": 40,
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 41,
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "source": "The Verge"
+    },
+    {
+      "id": 42,
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "source": "Wired"
+    },
+    {
+      "id": 44,
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+      "source": "The Verge"
+    },
+    {
+      "id": 45,
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 47,
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 48,
+      "title": "Internet Archive Staffers Are Unionizing",
+      "url": "https://www.wired.com/story/internet-archive-staffers-are-unionizing/",
+      "source": "Wired"
+    },
+    {
+      "id": 49,
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 50,
+      "title": "The 23 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-20-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 51,
+      "title": "Stitch Loop",
+      "url": "https://www.producthunt.com/products/stitch-loop",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 52,
+      "title": "WaitFeed",
+      "url": "https://www.producthunt.com/products/waitfeed-2",
+      "source": "Product Hunt"
+    }
+  ]
+}
