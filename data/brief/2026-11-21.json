@@ -1,0 +1,543 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T17:36:15.917530+00:00",
+  "raw_text": "Alright, let's cut through the noise. Saturday, November 21, 2026. Here's what's actually going on.\n\n---\n\n**Money Talk**\n\n- **Anthropic IPO tanks, taking tech with it.**\n  Anthropic's \"historic\" Nasdaq debut turned into a bloodbath, colliding with tech's worst week since 2020. Nvidia just closed its longest losing streak since '08, and the whole AI bubble is looking less like a boom and more like a bust as the S&P 500 and Dow hit correction territory. Turns out, gravity still works. [S2][S8][S70]\n- **CoreWeave signals AI boom's shaky foundation.**\n  The cloud computing company CoreWeave is being called the \"poster child of the AI bubble,\" laden with debt, symbolizing the increasingly risky business model of building massive data centers. All that AI hype needs physical infrastructure, and right now, it looks like a house of cards. [S11]\n- **GTA 6 drops, breaks all records.**\n  Rockstar just casually dropped GTA 6, and it raked in an insane $3.8 billion in a *single day*. That's the biggest entertainment launch ever, surpassing every video game and film box office record. Forget crypto, just build a virtual world where you can steal cars. [S7]\n- **Trump eyes credit card caps, claims FBI hack could expose \"hoax.\"**\n  President Trump is looking to cap credit card interest and fees, saying companies \"simply make too much money.\" Also, he’s spinning the recent FBI database hack as a potential \"positive,\" claiming it might expose details of the \"Russia Russia Russia hoax.\" Always focused on the real issues, and his old grievances. [S1][S16][S17]\n- **Doomsday economy heats up amidst tech outages.**\n  Frequent tech outages are sparking fears of AI cyberattacks and vulnerabilities in the U.S. electricity grid, leading to a surge in the \"doomsday economy.\" Apparently, prepping for the apocalypse is a growth industry now. [S3][S51]\n\n**World Lore**\n\n- **UN talks on killer robots punted, again.**\n  Efforts to establish legally binding rules for autonomous weapons have, predictably, gone nowhere. UN talks in Geneva ended with an agreement to just keep talking for another two years, while military AI advances at warp speed. Good to know our leaders are on top of it. [S21][S24]\n- **Ukraine left out of Trump's talks with Russia, China.**\n  As President Trump chats it up with his Russian and Chinese counterparts, Ukraine and its European allies are noticeably absent from the table. Meanwhile, a family outside Kyiv is bracing for their fifth winter of war, and Russia just struck Zelenskyy's hometown. Some things never change. [S22][S25][S34]\n- **EU and UK agree to \"Brexit Reset.\"**\n  A deal covering British food exports, emissions trading, and a youth scheme has been struck, with UK politicians now saying rejoining the EU is \"on the table\" for informal discussions. Apparently, after years of self-inflicted wounds, they're finally remembering what \"cooperation\" means. [S10][S14][S26]\n- **EU inks trade deal with Indonesia, eyes tech giant tax.**\n  The EU just signed a massive trade deal with Indonesia, covering 730 million people, aimed at diversifying trade ties. Simultaneously, there's a new EU budget proposal floating around that includes a 3% tax on major digital firms. They want the benefits of trade but also a slice of the tech pie. [S32][S33]\n- **Russian helicopter violates Finnish airspace.**\n  Finland's Defense Ministry is investigating a suspected Russian helicopter incursion, believed to be linked to a drone strike on a US-sanctioned Russian cargo ship. Old habits die hard, especially for neighbors. [S31]\n\n**Tech Tea**\n\n- **Anthropic's safety-first stance challenged by Wall Street.**\n  While Anthropic touts its commitment to AI safety, the reality of an $895 billion compute bill, a costly free tier, and demanding shareholders might make that \"no-ads\" pledge hard to keep. Money talks, even in AI ethics. [S48][S57]\n- **AI agents infiltrating your text messages.**\n  A new wave of AI agents are now designed to live directly in your text messages, offering everything from general assistance to specialized help for families, travel, and work. Your phone is about to get even smarter, or at least, a lot more conversational. [S41]\n- **Selling your face to AI microdrama? The new Hollywood.**\n  Actors are licensing their faces to microdrama startups, a trend already booming in China. Experts are questioning the long-term implications for Hollywood – apparently, not everyone wants to be deepfaked into perpetuity. [S42]\n- **Startup sues Apple over tap-to-share.**\n  A U.S. startup is going after Apple in India, seeking $162 million in damages and an injunction against iPhone and Apple Watch imports, claiming Apple ripped off their tap-to-share contacts feature. Always a fun legal battle when the little guy takes on Cupertino. [S44]\n- **AI experts susceptible to \"honey-trap\" schemes.**\n  Turns out, the brilliant minds building our AI future are just as vulnerable to old-school \"honey-trap\" schemes. They can protect the world's data, but apparently not their hearts. Classic human vulnerability, never changes. [S45]\n\n**Creator Szn**\n\n- **Consulting firms muscle into marketing's C-suite.**\n  Deloitte Digital and Accenture Song are making a fresh push to sell marketing services directly to the C-suite, trying to snag the high-value accounts that traditional holdcos covet. The suits are coming for the creatives, again. [S56]\n- **Brands lean into creator-led ad production.**\n  Paying creators to make ads for brands is now the fastest-growing segment of the influencer economy. It's cheaper, often more authentic, and clearly more effective than traditional ad agencies. RIP, Mad Men. [S58]\n- **OpenAI tweaks ChatGPT Business Hub terms after legal kerfuffle.**\n  OpenAI had to rewrite its ChatGPT Business Hub terms because the original legal language raised concerns about restricting businesses' legal claims. Good to know they’re listening, even if it took a minor uproar. [S59]\n- **The imperfect shift of TV ads to streaming.**\n  While ad budgets are definitely moving from linear TV to streaming, the financial reality behind the shift might not be as smooth or as profitable as some perceive. The streaming gold rush still has some rough edges. [S60]\n\n**Supply Lines**\n\n- **DHL Express streamlines customs with AI product identifier.**\n  DHL Express rolled out a new AI-generated product identifier, making customs clearance easier and cutting down on guesswork for small cross-border shippers. This is big for trade friction, reducing delays and headaches at borders. [S62]\n- **Groundtruth launches AI platform for freight billing, partners with J.B. Hunt.**\n  Startup Groundtruth is tackling the nightmare of freight billing with an AI platform that automates invoice reconciliation. They're nearly fully deployed across J.B. Hunt, and now offering the tech to other carriers, brokers, and forwarders – a serious step towards digitizing antiquated paperwork. [S64]\n- **UPS expands healthcare logistics with acquisitions and partnerships.**\n  UPS is on a spree, acquiring Smartways Logistics to boost healthcare delivery in Australia and New Zealand, and making another deal in the Asia Pacific. They also partnered with Medvantx for patient delivery. Healthcare is a goldmine for specialized logistics, and UPS is doubling down. [S75][S76][S77][S78]\n- **Amazon threatens NYC exit over delivery regulations.**\n  Amazon is warning it might pull out of New York City deliveries, escalating a fight with Mayor Zohran Mamdani over regulations and what he calls \"Jeff Bezos' greed.\" This could seriously disrupt last-mile for millions, though some customers are already getting Amazon deliveries from eBay orders, so who knows what's real anymore. [S85][S86][S87][S89]\n- **Tentative deal averts strike at Port of LA-Long Beach.**\n  A year of bargaining and federal mediation finally paid off, with a tentative union accord easing the immediate threat of a strike at the nation’s busiest container port complex. Dodged a bullet there; a strike would have sent shockwaves through global supply chains. [S61]\n- **Holiday shipping getting \"spicy\" as trucking rejection rates rise.**\n  FreightWaves SONAR data shows early signs of a tightening market ahead of Thanksgiving, with trucking tender rejection rates expected to jump over 14%. Low inventory levels are fueling last-minute demands, making capacity scarcer and prices higher. Better order your holiday gifts now, or pay surge pricing. [S65]\n- **Railroads maintain right to charge for private car parking.**\n  A federal ruling has reinforced railroads' authority to charge for private railcars held at industrial parks, with CSX and Norfolk Southern having collected nearly $1 billion in annual demurrage in 2021. This decision ensures carriers can keep revenue flowing from these fees, even when cars and land are private, which means higher costs for shippers using rail. [S72]\n\n**Speed Round**\n\n- Alaska's governor-elect is a Wikipedia editing fanatic, with over 13,000 edits.\n- Chess.com is expanding beyond chess, launching a hub for classic games like mahjong and sudoku.\n- Mark Carney's popularity is being questioned as the \"Trump spell\" might be breaking in Canada.\n- Germany's new religious freedom report is uncharacteristically direct in criticizing China.\n- Amazon's first digital photo frame is already 50% off for Black Friday, barely a month after launch.\n- Researchers are warning about internet outage hell as AI forces faster system patching to combat exploit races.\n- A space probe is returning to asteroids where NASA previously tested planetary defense systems.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+      "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+      "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "Tech outages are fueling a new doomsday economy",
+      "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "I never wanted the American Dream and I felt like something was wrong with me—until I moved abroad",
+      "url": "https://www.cnbc.com/make-it/2026/11/21/never-wanted-american-dream-moving-abroad-redefine-success.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "Retirees face a looming deadline for required withdrawals — missing it could trigger a tax penalty",
+      "url": "https://www.cnbc.com/2026/11/21/rmd-deadline-penalty-2026.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "Sessions offer advice on rising energy costs",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+      "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
+      "url": "https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
+      "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "Trump says he'd work with Dems to cap credit card interest, fees",
+      "url": "https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Trump says FBI hack might expose Russia \"hoax\"",
+      "url": "https://www.axios.com/2026/11/21/trump-russia-fbi-hack",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "After historic Southern wins, Black organizers prepare a push for governing power",
+      "url": "https://www.axios.com/2026/11/21/black-organizers-southern-political-bench",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Second judge to block Trump's contested D.C. arch",
+      "url": "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "Congress gets a historic overhaul from every direction",
+      "url": "https://www.axios.com/2026/11/20/house-senate-freshmen-class-largest-decades",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+      "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+      "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "Another day of survival for a family in Ukraine",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "EU, U.K. Agree to a Brexit Reset",
+      "url": "https://foreignpolicy.com/2026/11/20/brexit-reset-deal-eu-uk-summit-burnham-trade-economy/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "States Are Playing Serious Games on Virtual Battlefields",
+      "url": "https://foreignpolicy.com/2026/11/20/grand-theft-auto-power-play-osborn-review-geopolitics-video-games/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "Bob Woodward Is Scared as Hell",
+      "url": "https://foreignpolicy.com/2026/11/20/bob-woodward-memoir-secrets-review/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "Pop Culture Still Can’t Figure Out Drone Warfare",
+      "url": "https://foreignpolicy.com/2026/11/20/drone-warfare-movies-tv-culture-video-games-ukraine-war/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "What in the World?",
+      "url": "https://foreignpolicy.com/2026/11/20/foreign-policy-news-quiz-summits-pope-leo-ukraine-icj-trilateral-somalia/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "Russian helicopter suspected of violating Finnish airspace",
+      "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "EU and Indonesia sign trade deal",
+      "url": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "New EU budget proposal aims at tax gobal tech giants",
+      "url": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "Russia strikes Zelenskyy's hometown, killing 2",
+      "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "Germany's religious freedom report: Authoritarian regimes, holy wars, and spies abroad",
+      "url": "https://www.dw.com/en/germany-s-religious-freedom-report-authoritarian-regimes-holy-wars-and-spies-abroad/a-79995216?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "PostgreSQL Extensions in Go",
+      "url": "https://jespino.github.io/gopgext/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "Show HN: Zero C#, Power of C# without any GC",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+      "url": "https://simple-bench.com/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "The Outages Are Just Getting Started",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
+      "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
+      "url": "https://www.wired.com/review/sony-bravia-9-ii/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
+      "url": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Future of Marketing Briefing: Consulting firms revive their marketing ambitions in the C-suite the holdcos covet",
+      "url": "https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "Anthropic says no to ads but Wall Street may have other ideas",
+      "url": "https://digiday.com/marketing/anthropic-says-no-to-ads-but-wall-street-may-have-other-ideas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "Why more brands are paying creators to make their ads",
+      "url": "https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "OpenAI rewrites ChatGPT Business Hub terms after legal language raises concerns",
+      "url": "https://digiday.com/media/openai-rewrites-chatgpt-business-hub-terms-after-legal-language-raises-concerns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "Correcting the TV ad market’s imperfect shift to streaming",
+      "url": "https://digiday.com/sponsored/correcting-the-tv-ad-markets-imperfect-shift-to-streaming/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 61,
+      "title": "Tentative union deal averts strike at Port of LA-Long Beach",
+      "url": "https://www.freightwaves.com/news/tentative-union-deal-averts-strike-at-port-of-la-long-beach",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 62,
+      "title": "DHL Express makes customs clearance easier for small cross-border shippers",
+      "url": "https://www.freightwaves.com/news/dhl-express-makes-customs-clearance-easier-for-small-cross-border-shippers",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "J.B. Hunt broker liability case proceeding after split decision",
+      "url": "https://www.freightwaves.com/news/j-b-hunt-broker-liability-case-proceeding-after-split-decision",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 64,
+      "title": "Groundtruth launches AI platform to automate freight billing with J.B. Hunt partnership",
+      "url": "https://www.freightwaves.com/news/groundtruth-launches-ai-platform-to-automate-freight-billing-with-j-b-hunt-partnership",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 65,
+      "title": "Trucking Rejection Rates: Why Holiday Shipping Gets SPICY",
+      "url": "https://www.freightwaves.com/news/trucking-rejection-rates-why-holiday-shipping-gets-spicy",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 66,
+      "title": "Walmart’s sub-30-minute delivery volume surges in Q3",
+      "url": "https://www.supplychaindive.com/news/walmarts-sub-30-minute-delivery-volume-surges-in-q3/875339/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 67,
+      "title": "Nvidia gets more supplier capacity to meet AI demand",
+      "url": "https://www.supplychaindive.com/news/nvidia-gets-more-supplier-capacity-to-meet-ai-demand/875238/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 68,
+      "title": "Cal-Maine halts egg production at Florida plant after bird flu outbreak",
+      "url": "https://www.supplychaindive.com/news/cal-maine-halts-egg-production-at-florida-plant-after-bird-flu-outbreak/875316/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 69,
+      "title": "Target boosts on-shelf availability, aided by stronger tech",
+      "url": "https://www.supplychaindive.com/news/target-boosts-on-shelf-availability-aided-by-stronger-tech/875117/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 70,
+      "title": "CNBC: S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+      "url": "https://theloadstar.com/cnbc-s-nasdaq-erases-2026-gain-as-ai-rout-picks-up-steam/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 71,
+      "title": "Bloomberg Exclusive: Trump officials met privately with hedge funds on mega rail deal",
+      "url": "https://theloadstar.com/bloomberg-exclusive-trump-officials-met-privately-with-hedge-funds-on-mega-rail-deal/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 72,
+      "title": "The $1bn parking question – STB says railroads can charge even when cars and land are private",
+      "url": "https://theloadstar.com/the-1bn-parking-question-stb-says-railroads-can-charge-even-when-cars-and-land-are-private/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 73,
+      "title": "Transpac spots finally on the slide, but Asia-Med spike a surprise",
+      "url": "https://theloadstar.com/transpac-spots-finally-on-the-slide-but-asia-med-spike-a-surprise/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 74,
+      "title": "Analysis: IMO Net-Zero: now-or-never time draws near",
+      "url": "https://theloadstar.com/analysis-imo-net-zero-now-or-never-time-draws-near/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 75,
+      "title": "Another UPS health care logistics deal, Nodal Networks' seed, Union Pacific filings - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFZTNklzS0M2bDd1MDRsc0RidWxhWUxoVE82Mk1iSHJ0dDVZM213blZXYU53MWZ3SjJ2V1F1a2k3aWlHUFdaeS1WdE9HRlNKME16eHVyQjZNdHM4aUFlVVk0UThaby1wMUx3cnY0UWZZTjZGS2otMUdvdFRqUklYRi1OSWQwcURTdU5Hc2V4QlZrYVZTb2hnTUZkLWFtSkJCMERxdno0c1ZPdw?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 76,
+      "title": "UPS stock: Healthcare logistics deal targets Asia Pacific - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFNMWEZqNUhNNUswdWZic1pOelpaREVZVDh3UjczUDE2elJGY1p2S0lBbTRqMFI2TE5jZk9paWF6NjVKcnEtQ0N6S1FBUV9HV0F0MWFxc3E2cDMxNHphZ3BKNk44N2s4U0lvZlVwVjY3eGNfZFhodGlrdTRFVFlUNUQtYnVaeDc0VXhsRlZHM1dQNUJQSnktNWpoTUVrVTliU1UxN0NJekY4dmwxTUpxdGQzZHBsQTBNeFZZ?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 77,
+      "title": "UPS agrees to buy Smartways Logistics to grow healthcare delivery in Australia and New Zealand - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObjRnY3FZVVVfN0xDMGkyQ1JPNmp5V0ItbnhfTktKdHB5UTFyX0NTT2t1ZmxhenhzbjJnZzZ1U2lQc3VGb2p5ZlNIUzNLTXY1WjJjNkpxTWhBaWpYbGMwVXRTOFZFT0NMNFhsMDE5SW44N3V0N0lSY0kzVTRfdW9wZGVnNzBzc092amYwek44TjJrM3VNZmNTaXN6U2RWUGZpX1ExNjloUHdiMTBpb05rd2RqaGhoUms5YURBcmxTQjlKd3pTdHpHRUVhQ0FGbDJXMzNHalB3TUt4cDk2MS00?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 78,
+      "title": "A prescription for growth: Medvantx and UPS partner on patient delivery - UPS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeGYwY0RvYURMazRENTVISmhlQmhFVW5ncEZaLWJnZmoxeGQwSmtPeVA5TTYyOXdkcE1zQW94WVJQMFRsQl81bXBodm1rQ0NidjM3LUIwdURfN3ZQZmdfOG91emtfMno3clQ3TUdmaGg2TzNDOS1ydmZQRl8zZ2tpTTRBa05fejdNcWRrX0I0MkFpd2lvNzJPOW9NVWtBbDB4X3pEX3drdEVTckZ0cGY1VHRmV1Fzc3EzTVZmV2VPNzUzeF9QY1E?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 79,
+      "title": "DHL Supply Chain and the End of Peak Season: Can Warehouse Robotics Flex Fast Enough? - Logistics Viewpoints",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ3RHQTdEWGhjOVh1WjFQRmwxMW9VbUV3X1FaWndsQkhnWUlVUzZUMUdsVUNiYjUta1FEVl91Y3JuNEFVbV9KeXJENUJDZUdIVTJQNW11cG0zc21MM0Z5eU1ncW5pT041cWtRS3NCVmpTNnpWQTVjSUJRRU9LR25QbEphLWVoOTFpOS1xbk5RZWI1aTU2djNubmphLU9wRmlKc29CazdqNlN4aTZabnhNQk1COHdBVU9zZmFRZktIOVJKNnFCQ2c?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 80,
+      "title": "Your November Shipping Plan: Singles’ Day to Cyber Monday - DHL",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNnhoQXRReFAxV3A2NUdZaHdSX0RrWFpvck82WVFrSGlGSzZrV0ZodUNDRk1WeFdKMVBiVzVsZnNMcHZuWXdfeVgxdUZxMWhFWDZEa01XVXRhbHduLURrNHpKbFk0czliTjFETnhPTmdiNnFEZkxudXdXWTlBM3YzczBBUm43WWd1Y2RJWW85aWVSdVI2Y25zZUFzVVJ6Q3IwYkJRVF9xNkNMeEd3a3RDMTR3SWVoS09mVVpLTmk5QUtBa3ZZTzhN?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 81,
+      "title": "Nov 20, 2026: Barbara Eleota appointed new CEO of Hillebrand Gori – a company of DHL - DHL Group",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWFidDZFcEhuN0c1NVVYVnBkR3FBbnN0bUFVdjk1TzBFQUJvYlJJOEdjV0gtdjFUVlpwTWM3MDhoQnFoZnVHTHByNXdGN3BoeDhubnlxaDB0c3dtajRqNDB2bVlPS0Vwc2ZVcXV2cDJ4WDJrdHZfTWh5aER2b3hhVlVrOEpyc2dsVHZlal9ieFFyNjF2akZQcWdIZmMwQ3VzTDZyX3h6b3dnakwxaXVtUHplWEwzZkxF?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 82,
+      "title": "BJC DHL Logistics Solution Launches Its First Fully Electric Fleet - Bangkok Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSk9WUG5LTjNwVUVaQi05TlcyUHJnak13ZjJ3MnJkR1hMOTdNaFhud2RBZnpJcGxLYWZGYzhTRUduVDRqaVFLRHpYYWlkYkQ1eERWN3dkMlZkVGtlZ1d1VG43b0hTbEtDblR0Rm5oX0hNS1UtYmFyWUdIWjI3bVNTU0pLSVlaUTdlX0gtdTdRMEs3STN4aEpEZF9sZEl2UVowU3BTMlFWaTNiXzNLR2VGeGlEbFc?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 83,
+      "title": "Christmas Shipping Deadlines 2026: When To Mail Gifts From FL - Patch",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcjBGTjhZX1VFQ1c5a3Y3am1lMU5fZlVjVktxRjNIOC1iTWl4NFpFNjJuU3h3aEs0cGI5YUZ5dUxhSkFJV3JWaEUzN2RLM3VJdEZBWE9jTjdaTFNLcHY3WDdnTHRlOFVia2pCYU45dm96TTVOcmdsMFBDV3B0dkZqc1hQSDZFa0dGMVMtZlc2c1NKd9IBrgFBVV95cUxNXzhCLVlXSHdoUFYtdmNpVFRLRWVaazBqYzZSZ0x1VkpkWGJDeVc1SWc2UEJKeUdFbFBFdDRsaG5WMGUwMTJBMHlHX051UVJxN2pCZ1duelFQVE4ta2N2WkQybTdYS19BV3pHT1pySzBPRXJLakJDUV8zMVRBelBUYTM2c0tvb2xHQWkzWnRJa0pQajNFcmhleUN2WmZrMVFJY25aRDZwOUZSd2MxRHc?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 84,
+      "title": "When Every Second Counts - National Geographic",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYjZTQ0NrVGpMS2RJOU1vbEpFZ2g0ZC15T1lKcTRoYlZwRFk1Y1hoTEF6SVJvcXc2R1BVcUEtV3dwRzFLcW5taEZvVk1pZWNWWGxmMkZ4dTdWamttREpqRS1UY3kwWkF5ZWJqOTNCVGphYjhoSzBiaENUNEZBWUp0RkNCazRGcXRlU0lyV29MWTQ?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 85,
+      "title": "Amazon.com (AMZN) Warns It Could Exit New York City Deliveries - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM2s2RkFfZ1N2UTl0a1NLdE5lQXhaeXZTUDFDR25PRXo3aUhpVk5ycjBzd2xJd0R1YjVkUVFnOFk3bXF5Qm4zUDY3TWIxdXBmY3ZrYmRlYzJDWFVaeTZQR3VoTXZjWXVVWUloa1RYLUhIa1Z5QzV3WWJuMlcwS0xHRnN3eDJXM25CTjg0NkZCV2NtaHZndndn?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 86,
+      "title": "Buyer chooses eBay to avoid Amazon, but the order arrives in an Amazon van anyway - The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORVVST3F3V28wRi1LSEtmMFR2eDZ4T0ttckFaYW1XLUNLYmFHSWRGUWoxNXlBRGVmQTQyMHo0d1JWMGMyU3RyaGNHMUhNbXlNV0R5RFFvYnJDWG5rTGJRNzByUGc5T05QbjRqaTdhdG9KaVM1eXJkNHlseDZ5V0doUW9Ia1VBamNOQkNtZkhB?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 87,
+      "title": "New York mayor Zohran Mamdani and Amazon are fighting again; says: It is Jeff Bezos' greed that is making - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPTTJ0RXV5OEt3RnJvQTJLdVZfeGpfRGdFRjBKazlXNG5NOXJxQmtXQWtXWElCRWt2QWxtRUt5LWpNemtpMGE3U0ZrdVBtUlhEc1Qxd1E5V2cwci16YXF3RUd3LWRsdmxDbFZoNWhGeFJNZG5xa1B5c2hPRjVpT0Y3ZVdOcV83WExWVVJkMHdlZFp3QjQxbDBZSG5IQUFEU0oyZWtCWU5uaTZVR21yaVVGM3lYQ0VBSWFrMXJsbnlObFl3WmF3R19HZXJOdjdUdXhnQTN1bEdraFk3MDlPbVFDWXp2SElqYUdvYkgwZUVEVEdvVFBWWjhSQUpIUG1IbEw2T3NOSUV2c3pzU1Q4R1N3cjdRc0k4QmJkdExRYWJsM3hCYWZUVlREanpFbVNOZ9IBswJBVV95cUxOei1rMFl4cXRFaWFCZ0hIU0FBNVZpY3NuVVVGS2FQTE9GX0s5R0ZILWI3QkRhajFuOHR4Sk1CbTZRTVZYWld1dGI0WEhIOVEwVnBOcUNSdTFxNUtXQVMwRWgwallMa0poWXA5UGdqd19pZ2pJMUVCblVHNlJpbXhVUVpCLU0wMkRIWmNuc2htR2h0enJzUFZZeFZkZkU5YmxDM0IxVHd5cjJJX2NTZ2NEXy1Zdk1sZTFHTjZhS0hqNzFDd3FzTVFCNDNQVEtBZGRJcUNFWUJTUk0zNVpncDcxQW5LODFISEEtTlZNdmNRSnZfR0pzTmFVbXlWa1JhQll5WEQ3ZlBHSXplUVJXSGZXRERseHY5aU5GZFdEcC1rZFFtdGRyM09jMV9OaUFaaGdiWXpn?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 88,
+      "title": "Peru Targets Air Logistics Sustaining Drug Trafficking In The Amazon – Analysis - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR296S2FFU253TjFEZFkwSEhLWnowSEc5Sm5zb3hvV3E1YmpMc2R3VTlPSlRDTWx2cHBSX1FRMTk5SXk5VTFlVU5tUXFTRW5xLTFTX2lRRjVCWUNIQW5MYkVJQ1pLRDMyT0ZNRE95QlV3MGpoRmlFRWZnZjQ2dVpPV3NzcmVpRWZDdGpBMjRRb1dMVzRIUVNzT2hpYnFJZ1c0Y1FVdzg2bFp0VDVfczNXZm9BOGxoTmhR?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 89,
+      "title": "New York politicians’ pathetic panic over Amazon’s price-hike warning is mind-boggling - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0Vwc2RaOWRleXljLWl4aVRTeEpiRzA5MmstX0J5UG9uTVlDejV3UENYc01OTnFSck9LdXNVQlhyMjNweV9NdkdZcVZ0cFRVRmFzenlEcWJ0OVE4c3dsUDdsWGN5bTJzMXRnUTNUWnd2M1FaRUJBa0JiTHF2THp3NE5EZWxUeXlUalZUa2VESjBwZkFTbmgyVTdQU2xvNktBTjMwdWtNVXJzQXFQaS15ZXBENDF4OHZDRkNSbnRYbkQ?oc=5",
+      "source": "Amazon Logistics"
+    }
+  ]
+}
