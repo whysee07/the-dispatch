@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T17:46:53.659219+00:00",
+  "tonight": {
+    "title": "The Odyssey",
+    "meta": "2026 · Adventure · 2h 53m · ★ 8.0",
+    "why": "Tonight, escape the mundane with \"The Odyssey,\" a timeless epic that proves even ancient kings had terrible travel agents and an insatiable knack for pissing off deities. It's a grand spectacle of monsters, gods, and a hero just trying to get home, offering a perfect blend of adventure and classical drama.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+  },
+  "releases": [
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "take": "Before Katniss, there was another Quarter Quell, proving Panem's favorite pastime is still child-on-child gladiatorial combat with extra steps.",
+      "score": 76,
+      "geo": "world"
+    },
+    {
+      "title": "Avengers: Doomsday",
+      "take": "Three universes collide, because apparently, one apocalypse wasn't enough to keep these heroes busy.",
+      "score": 0,
+      "geo": "world"
+    },
+    {
+      "title": "Steps",
+      "take": "This isn't your grandma's Cinderella story; it's a magical mishap where the stepsister finally gets to be the hero, albeit an amphibian-cursing one.",
+      "score": 64,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "The Odyssey",
+    "blurb": "Forget Air Force One; \"The Beast\" delivers a no-holds-barred action thrill ride where the President's limousine is the last line of defense against a full-blown coup. It's high-octane escapism with a presidential twist, perfect for those who like their Oval Office dramas with a side of explosive vehicular combat.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
