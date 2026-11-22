@@ -1,0 +1,153 @@
+{
+  "feed": "pmm",
+  "feed_name": "Marketing Brief",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T17:21:59.288210+00:00",
+  "raw_text": "☕ THE LEAD\n\nThis Black Friday, Nintendo is playing a classic, high-stakes game with its Switch 2 console and games, pulling back the curtain on how brands strategically leverage seasonal sales. They’ve slashed $50 off one of their Switch 2 console bundles, rolling back a September price hike, and knocked $20 off some of the hottest Switch 2 titles like *Donkey Kong Bananza* and *Super Mario Party Jamboree Plus Jamboree TV* [S2][S8][S14]. This isn't just a discount; it's a calculated move to capture holiday market share, drive ecosystem adoption, and move units by hitting a price point that clearly resonates with consumers ahead of the biggest shopping weekend of the year. For marketers, it’s a masterclass in how a well-timed, aggressive pricing strategy, especially on bundles, can create urgency and perceived value, turning a product into a must-have gift rather than just another gadget. The takeaway? Black Friday isn't just about cutting prices; it's about crafting a value story that converts.\n\n📣 QUICK HITS\n\n**Amazon Uses Shipping Labels to Fight NYC Council**\nAmazon is taking its fight against New York City’s Delivery Protection Act directly to consumers, slapping labels on shipments that claim the new council rules could add up to $5 to orders. This is a bold, public lobbying tactic using its own logistics as a billboard to influence public opinion against legislation that would ban its current third-party delivery arrangements [S19].\n\n**Meta Faces Protests Over Alleged Censorship in India**\nMembers of India's opposition Congress party stormed Meta's offices in Delhi, protesting what they claim is censorship of their leaders' accounts and accusing Mark Zuckerberg of favoring the ruling BJP party. This is a serious reputational blow for Meta, highlighting the tightrope social platforms walk in politically charged environments [S6].\n\n**The \"Vibe-Coding\" Revolution Is Here for Your Gadgets**\nForget passive consumption: AI is making it easier than ever for users to \"hack, mod, and jailbreak\" their gadgets, creating a \"vibe-coding\" revolution. This trend means products are becoming canvases for user creativity, and brands need to consider how their offerings enable or restrict this growing desire for personalization [S12].\n\n**Banks Clamp Down on Your Personal AI Agents**\nMajor US financial institutions are banning third-party AI bots from logging into your accounts, warning that any costly bot-made mistakes are strictly on you. This move signals a growing friction point between consumer convenience and institutional security, forcing a re-think on how AI-powered personal finance tools are marketed and integrated [S16].\n\n🎯 THE PMM DESK\n\n**Nintendo's Black Friday Playbook: Console Bundles and Strategic Discounts**\nNintendo is rolling out a $50 discount on one of its Switch 2 console bundles, alongside $20 off popular games like *Donkey Kong Bananza* and *Super Mario Party Jamboree Plus Jamboree TV* at major retailers. A PMM would note this as a classic holiday GTM move: leveraging a key sales period with aggressive pricing and bundling to boost unit sales and drive adoption of the broader game ecosystem [S2][S8][S14].\n\n**Signal Restricts Screenshots to Combat AI Surveillance**\nSignal has implemented a new feature that limits users' ability to take screenshots within its Android and iOS apps, directly addressing what it calls the \"existential threat\" of AI surveillance. For a PMM, this is a clear example of product development driven by a core value proposition (privacy and security), which will undoubtedly become a key messaging pillar in future campaigns [S20].\n\n🧠 PMM 101\n\n**The concept:** Promotional Pricing\nWhat it is: Setting a temporary, reduced price for a product or service to stimulate demand, clear inventory, or attract new customers during specific periods. It's distinct from your standard pricing strategy, focusing on short-term goals.\nWhy it matters: It can significantly impact sales velocity, market penetration, and customer acquisition, especially during competitive seasons.\nSee it today: Nintendo's Black Friday deals on the Switch 2 console and games are a prime example of promotional pricing, strategically timed for the holiday shopping rush [S2][S8][S14].\nTry it: This week, pick a product you use and research its pricing history. Did it have promotional pricing? What was the goal?\n\n🧩 PRODUCT CORNER\n\n**The Product Manager's \"Shared Brain\"**\nSherif Mansour, Head of AI and Product Craft at Atlassian, highlights that a PM's #1 job is to build a \"shared brain\" across the team. This means fostering a collective understanding of the product, its users, and its vision, which is crucial for aligned decision-making and efficient execution in the AI era and beyond [S3].\n\n🔧 TOOL DROP\n\n**oovi** — Your own team of AI on your desktop\nBest for: Individuals or small teams looking to experiment with desktop-based AI agents for various tasks.\nFree tier: No info\nHonest take: Hard to say, very early, with zero votes on Product Hunt. The claim of \"your own team of AI\" is ambitious, so we'll be watching to see if it delivers. [S4][S24]\n\n⚡ SPEED ROUND\n\n🎮 Nintendo Switch 2 games also got $20 off for Black Friday at Amazon, Target, Walmart, and Best Buy [S2].\n🎧 A new Off-Broadway show, *Love Me*, is using Auracast headphones for both accessibility and immersive sound design [S9].\n🏡 Apple HomeView's audio capabilities and third-party app support are still generating user questions post-review [S11].\n🤖 The UN failed to agree on rules regulating \"killer robots\" this week, only agreeing to \"start discussing options\" [S22].\n📺 Is a 65-inch OLED TV too big? One writer’s investigation suggests the upgrade came with \"unexpected challenges\" [S7].\n💾 Signal restricted mobile screenshots to combat the \"existential threat\" of AI surveillance, a bold privacy move [S20].\n🧳 Wired published its \"8 Best Travel Adapters (2026)\" list, just in time for holiday travel planning [S13].",
+  "sources": [
+    {
+      "id": 1,
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 2,
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 3,
+      "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
+      "url": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 4,
+      "title": "oovi",
+      "url": "https://www.producthunt.com/products/oovi",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 5,
+      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+      "source": "The Verge"
+    },
+    {
+      "id": 6,
+      "title": "Protesters storm Meta offices in India",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "source": "The Verge"
+    },
+    {
+      "id": 7,
+      "title": "Can a TV be too large? An investigation",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 8,
+      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 9,
+      "title": "‘The show is starting soon. Please turn on your headphones.’",
+      "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+      "source": "The Verge"
+    },
+    {
+      "id": 10,
+      "title": "How Tamagotchis got us hooked on digital pets",
+      "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+      "source": "The Verge"
+    },
+    {
+      "id": 11,
+      "title": "Your questions about Apple HomeView’s audio, answered",
+      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+      "source": "The Verge"
+    },
+    {
+      "id": 12,
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "source": "The Verge"
+    },
+    {
+      "id": 13,
+      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
+      "url": "https://www.wired.com/gallery/best-travel-adapters/",
+      "source": "Wired"
+    },
+    {
+      "id": 14,
+      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
+      "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
+      "source": "Wired"
+    },
+    {
+      "id": 15,
+      "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
+      "url": "https://www.wired.com/story/best-gifts-for-moms-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 16,
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "source": "Wired"
+    },
+    {
+      "id": 17,
+      "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+      "url": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+      "source": "Wired"
+    },
+    {
+      "id": 18,
+      "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
+      "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+      "source": "Wired"
+    },
+    {
+      "id": 19,
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+      "source": "The Verge"
+    },
+    {
+      "id": 20,
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 21,
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 22,
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge"
+    },
+    {
+      "id": 23,
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 24,
+      "title": "oovi",
+      "url": "https://www.producthunt.com/products/oovi",
+      "source": "Product Hunt"
+    }
+  ]
+}
