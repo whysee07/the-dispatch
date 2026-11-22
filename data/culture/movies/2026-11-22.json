@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T18:04:30.748069+00:00",
+  "tonight": {
+    "title": "The Odyssey",
+    "meta": "2026 · Adventure · 2h 53m · ★ 8.0",
+    "why": "Kick off your weekend with pure, unadulterated presidential mayhem as \"The Beast\" unleashes its armored fury against a coup; it's the kind of high-octane absurdity that makes you glad you're just watching.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
+  },
+  "releases": [
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "take": "Panem's prequel serves up another round of dystopian child combat, proving some traditions are just *never* a good idea.",
+      "score": 77,
+      "geo": "world"
+    },
+    {
+      "title": "Avengers: Doomsday",
+      "take": "When three universes collide, you know the CGI budget went supernova, but let's hope the plot does too.",
+      "score": 0,
+      "geo": "world"
+    },
+    {
+      "title": "Guarding Stars",
+      "take": "It's *The Bodyguard* meets *Hallmark Christmas*, proving even action heroes need a little holiday romance (and maybe a new security detail).",
+      "score": 70,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "Spider-Man: Brand New Day",
+    "blurb": "For those craving an epic journey that truly tests the human spirit and the limits of divine patience, \"The Odyssey\" delivers a timeless tale of perseverance against impossible odds. It's a reminder that some stories are legendary for a reason.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
