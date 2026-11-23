@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T22:16:22.595015+00:00",
+  "tonight": {
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "meta": "2026 · Science Fiction · 2h 39m · ★ 7.8",
+    "why": "Dive back into the brutal world of Panem with 'Sunrise on the Reaping,' a prequel that promises to deliver the same high-stakes survival drama and political intrigue that made the original series a phenomenon. Get ready to witness the 50th Hunger Games, where the odds are even less in anyone's favor.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg"
+  },
+  "releases": [
+    {
+      "title": "The Odyssey",
+      "take": "Homer's epic gets a screen treatment, reminding us that even legendary kings can't catch a break, especially with meddling gods and monsters.",
+      "score": 80,
+      "geo": "world"
+    },
+    {
+      "title": "Avengers: Doomsday",
+      "take": "Three universes collide, promising more spandex-clad heroes punching existential threats, because what's a Tuesday without multiversal doom?",
+      "score": 0,
+      "geo": "world"
+    },
+    {
+      "title": "Steps",
+      "take": "A misunderstood stepsister, a frog transformation, and Cinderella as an ally? This ain't your grandma's fairy tale, unless grandma was into chaos.",
+      "score": 67,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "The Odyssey",
+    "blurb": "For a truly epic cinematic experience, look no further than 'The Odyssey.' This adaptation promises a grand, sweeping adventure that tackles timeless themes of perseverance, temptation, and the human desire for home, all while battling mythological beasts and divine wrath.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
