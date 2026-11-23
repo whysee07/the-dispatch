@@ -1,0 +1,537 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T22:05:02.662266+00:00",
+  "raw_text": "Alright, buckle up, buttercup. Monday, November 23, 2026, and the news cycle is absolutely wild. Here's your intel for the day, no bullshit.\n\n**Money Talk**\n\n- **Huang is back, Nvidia's ripping, Nasdaq's up.**\n  Jensen Huang has officially returned as Nvidia's CEO, sending the stock soaring 31% and adding nearly a trillion dollars to its market cap. The tech-heavy Nasdaq jumped 6.5%, reversing last week's meltdown. Clearly, some people are more \"too big to fail\" than others, especially when the White House gets involved. [S2][S3][S7][S10][S11][S19]\n- **CrowdStrike drops $44B for Zscaler on AI cyber threat.**\n  In a move that screams \"AI isn't just for chatbots, it's for breaking stuff,\" CrowdStrike is acquiring Zscaler for a cool $44 billion. The cybersecurity market is consolidating fast as AI-powered attacks become the new normal, forcing companies to shell out big for defense. [S4]\n- **Fed hints at higher rates, targets 2027 for 2% inflation.**\n  Fed Governor John Williams is out there signaling that interest rates are likely to tick up \"over time.\" He's confident inflation will hit the Fed's 2% target – in 2027. So, don't hold your breath for cheap money, but maybe plan your celebratory party for a couple of years from now. [S5]\n- **Disney to stream Super Bowl 61 in IMAX.**\n  Disney is taking Super Bowl 61 to the big screen, literally, by showing it in IMAX theaters in addition to ESPN, ABC, and Disney+. It's a bold play to capture eyeballs and premium experiences, or maybe just an excuse for you to spend $30 on popcorn. [S1]\n- **Next issues cyber-attack warning after supplier breach.**\n  UK retailer Next got hit with a cyber-attack via a third-party supplier, although they're claiming no personal data leading to fraud was accessed. It's another reminder that your supply chain is only as strong as its weakest link, and often that link isn't even yours. [S15]\n\n**World Lore**\n\n- **Huang's return ignites national security firestorm.**\n  Jensen Huang’s reinstatement as Nvidia CEO isn't just about stock prices; it's being slammed as a \"national security scandal\" by many, with both Democrats and Republicans criticizing President Trump's intervention. Maryland Gov. Wes Moore called it \"troubling and problematic.\" Apparently, even alleged Chinese spy connections can be overlooked when the chips are down (pun intended). [S17][S18][S19][S26][S28]\n- **Ukraine war spills onto NATO doorstep.**\n  The conflict between Russia and Ukraine is getting uncomfortably close to NATO territory. Recent reports include attacks on Russian warships in Libya, missiles landing in Poland, and fresh allegations of Russian ops within Denmark. The line between proxy war and direct conflict keeps getting blurrier. [S23][S24]\n- **COP31 ends with zero climate deal, record extension.**\n  COP31, the latest UN climate conference, dragged on for two extra days before collapsing without a deal, making it the longest in history. While delegates wrangled, the surging power demands of AI data centers further complicated the global energy picture. We're great at talking, less great at doing. [S22][S47]\n- **West Bank ambulance drivers face perilous checkpoints.**\n  Palestinian ambulance drivers in the occupied West Bank are navigating dangerous Israeli checkpoints and road closures, with rights groups reporting increased wait times and attacks on medics. Access to hospitals shouldn't be a gauntlet; it's a basic humanitarian right. [S21]\n- **Denmark upholds \"ghetto law\" evictions.**\n  Denmark's Supreme Court has backed the controversial \"ghetto law,\" allowing the eviction of \"non-Western\" residents, arguing it encourages integration. This is a tough look for human rights, as many see it as state-sanctioned discrimination, not community building. [S31]\n\n**Tech Tea**\n\n- **Nvidia employees give Huang a hero's welcome.**\n  Despite the geopolitical firestorm, Jensen Huang returned to Nvidia HQ to a crowd of applauding employees, telling them, \"I'm going to be a better CEO the second time around.\" Elon Musk even chimed in to say \"The mistake has been corrected.\" It seems loyalty (and perhaps the stock price) trumps a little controversy in Silicon Valley. [S42][S44][S50][S55]\n- **AI agents now building stock portfolios.**\n  A new startup, Supertake, just raised $20 million to let AI agents turn your market predictions into actual stock portfolios. So, if you think you're a market wizard, now you can put your money where your AI's mouth is, without having to do the actual stock picking yourself. [S41]\n- **Claude AI can now review and ship code on its own.**\n  Anthropic's Claude AI is leveling up for software engineers, launching \"Claude Ship\" which can review, fix, and even approve pull requests. Soon, your AI will be judging your code, then fixing it for you. We're getting closer to that self-aware software development team, folks. [S49]\n- **Apple boots open-source app from EU App Stores after 9 years.**\n  Apple removed an open-source app from EU App Stores after a nine-year run. The developer shared the news on GitHub, highlighting the ongoing tension between platform control and independent creators, especially with new EU regulations trying to open things up. [S39]\n- **Nvidia powers brain-computer interfaces.**\n  Nvidia's hardware and software are now being used by Paradromics to process brain data for brain-computer interfaces (BCIs). Forget just typing with your thoughts; soon, Nvidia might be processing them too. The future is both exciting and mildly terrifying. [S51]\n\n**Creator Szn**\n\n- **Gap Inc. dives deep into \"fashiontainment.\"**\n  Gap Inc. is betting big on \"fashiontainment,\" launching a multi-year partnership with boy band Just Your Type (JYT) and a scripted microseries for Banana Republic called \"The Agency.\" Looks like traditional brands are finally realizing that to capture Gen Z, you gotta make some noise beyond just clothes. [S60]\n- **Agencies sell AI efficiency, clients demand results.**\n  Advertising agencies have spent the last two years pitching AI as a cost-saver, but clients are tired of the talk and want real outcomes. The hot take here? AI strategies are becoming indistinguishable, and clients aren't seeing the promised invoice reductions. Time to pivot to value, not just speed. [S57]\n- **Massive CTV ad fraud scheme uncovered.**\n  HUMAN Security has exposed \"BADBOX 3.0,\" a CTV ad fraud scheme generating 40 billion bid requests a day. This means your holiday ad budget might be paying for bots watching shows, not actual humans. The wild west of connected TV is still very much wild. [S59]\n- **Holiday marketing shifts to streaming and TV.**\n  This holiday season, brands are shifting their marketing budgets towards CTV/streaming and traditional TV ads. With everyone glued to their devices, it's less about billboards and more about binge-watching. [S58]\n- **Advertisers embrace 'agentic media'.**\n  The advertising world is building sophisticated AI systems, or \"agentic media,\" with their own data and rules. This means AI isn't just a tool; it's becoming a quasi-autonomous entity in campaign execution, which is both powerful and potentially a Pandora's box for brand control. [S56]\n\n**Supply Lines**\n\n- **UPS acquires Smartways Logistics.**\n  UPS is snapping up Smartways Logistics, a strategic play to deepen its footprint and capabilities, likely eyeing expanded regional reach or specialized services. This acquisition shows major carriers aren't just reacting to market shifts, they're actively reshaping the logistics landscape. [S77]\n- **UPS & FedEx hit oversized packages with $117 holiday surcharge.**\n  Just in time for peak season, UPS and FedEx are slapping a hefty $117 surcharge on oversized Christmas packages. This isn't just about revenue; it's a clear signal they're managing capacity and trying to incentivize more efficient shipping, pushing the cost onto consumers for those massive gifts. [S81]\n- **DHL targets Philippines for growth, reports strong Q3.**\n  DHL is banking on the Philippines logistics market to fuel sustained revenue growth, following a solid 12% year-on-year increase in Q3 2026 for DHL Supply Chain. This strategic regional focus highlights the increasing importance of robust supply chains in Southeast Asia as global trade patterns evolve. [S78][S79][S80]\n- **Amazon drone crashes in Michigan, battles NYC delivery bill.**\n  Amazon's drone delivery ambitions hit a snag when a drone crashed in Michigan after hitting a fiber-optic line. Meanwhile, Amazon is fiercely fighting a proposed NYC delivery bill, even urging customers to oppose it. Between aerial mishaps and regulatory hurdles, the last mile for Amazon is looking like a high-stakes obstacle course. [S87][S84][S86][S88]\n- **Belgian air traffic strike snarls Black Friday cargo.**\n  A Belgian air traffic control strike has thrown a wrench into pre-Black Friday cargo operations at Liège and Brussels, forcing airlines to reschedule and reroute flights. This is a classic example of how quickly labor disputes can create ripple effects, impacting critical delivery windows just when demand is peaking. [S74]\n- **Savannah port sees massive volume jump, up 25% YOY.**\n  The Port of Savannah handled an impressive 565,366 TEUs in October, marking a 25% year-over-year increase. This surge is driven by strong import demand and Georgia Ports' ongoing investments in terminal and inland rail infrastructure, solidifying its position as a critical East Coast gateway. [S64]\n\n**Speed Round**\n\n- Jensen Huang's return is the biggest U-turn since the Fed tried to say inflation was \"transitory.\"\n- Looks like COP31 finished strong... by failing to agree on anything, making it the longest climate talk ever.\n- Disney's putting the Super Bowl in IMAX, because your couch isn't epic enough for Taylor Swift's inevitable halftime cameo.\n- A lion is on the loose in Istanbul, because apparently, even big cats are over the city life.\n- The Army paused plans to blow up tons of lead in Iowa after Trump intervened, because who needs expert advice when you have presidential tweets?\n- Ted Lasso scored another season, proving that kindness and shortbread still have pulling power.\n- Tajikistan just pulled out of the International Criminal Court, probably after a strongly-worded text from Putin.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
+      "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
+      "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+      "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+      "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "Pip assessments need 'fundamental overhaul', report to say",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+      "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "What tactics will Burnham use to sell his EU plans? – podcast",
+      "url": "https://www.theguardian.com/politics/audio/2026/nov/23/what-tactics-will-burnham-use-to-sell-his-eu-plans-podcast",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "Nvidia’s humiliated board should resign out of embarrassment | Nils Pratley",
+      "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
+      "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "Next issues cyber-attack warning after ‘benign’ data accessed by hackers",
+      "url": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "Mississippi's election fights didn't end with Scott Colom's historic Senate win",
+      "url": "https://www.axios.com/2026/11/23/scott-colom-mississippi-election-voting-rights-fallout",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "\"Troubling and problematic\": Gov. Moore rips Trump's Nvidia actions on \"The Axios Show\"",
+      "url": "https://www.axios.com/2026/11/23/axios-show-moore-trump-nvidia",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "Jensen Huang's return to Nvidia sparks bipartisan backlash on Capitol Hill",
+      "url": "https://www.axios.com/2026/11/23/jensen-huang-nvidia-congress-dc-reaction",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "\"Too big to fail\": The economic fear behind Jensen Huang's Nvidia comeback",
+      "url": "https://www.axios.com/2026/11/23/trump-vance-jensen-huang-nvidia-ceo-return",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "Trump presses pause on Army's Iowa lead detonation",
+      "url": "https://www.axios.com/2026/11/23/iowa-lead-detonation-delayed-trump",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "In West Bank, ambulance drivers say Israeli checkpoints are dangerous obstacles to work",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6043661/in-west-bank-ambulance-drivers-say-israeli-checkpoints-are-dangerous-obstacles-to-work",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "Ukraine war spilling into NATO territory",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "Jensen Huang Is Back",
+      "url": "https://foreignpolicy.com/2026/11/23/nvidia-reinstates-jensen-huang-ceo-trump-board/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "Democrats Want to Make Life More Affordable. They Could Begin With Permitting Reform.",
+      "url": "https://foreignpolicy.com/2026/11/23/democrats-affordability-permitting-reform-baaja-energy-policy/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "Huang’s Return Is the Biggest National Security Scandal in U.S. History",
+      "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "Ukraine’s Energy Plan Was Too Little, Too Late",
+      "url": "https://foreignpolicy.com/2026/11/23/ukraine-winter-energy-renewables-russian-strikes-infrastructure/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "Is It Time for Kyiv to Compromise?",
+      "url": "https://foreignpolicy.com/2026/11/23/oleksiy-goncharenko-interview-ukraine-russia-war-compromise-negotiations-trump-zelensky/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "Denmark: Top court backs hardline immigration \"ghetto law\"",
+      "url": "https://www.dw.com/en/denmark-top-court-backs-hardline-immigration-ghetto-law/a-80026478?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "Tajikistan follows US call, withdraws from ICC",
+      "url": "https://www.dw.com/en/tajikistan-follows-us-call-withdraws-from-icc/a-80023903?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "US and UK to host Women's World Cups in 2031 and 2035",
+      "url": "https://www.dw.com/en/us-and-uk-to-host-women-s-world-cups-in-2031-and-2035/a-80023786?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "Turkey: Authorities search for lioness on the loose in Istanbul",
+      "url": "https://www.dw.com/en/turkey-authorities-search-for-lioness-on-the-loose-in-istanbul/a-80020913?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "After Japan's APEC snub, what's next for its China ties?",
+      "url": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "url": "https://www.bored.com/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "The horse made the state",
+      "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "url": "https://arm.jonpalmisc.com/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "How should an LLM see a computer?",
+      "url": "https://www.greptile.com/blog/trex-computer-use",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Apple renews Ted Lasso for season 5",
+      "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return",
+      "url": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "B&H Photo Promo Codes and Deals This November 2026",
+      "url": "https://www.wired.com/story/bh-photo-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
+      "url": "https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
+      "url": "https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+      "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "The next test for agentic media",
+      "url": "https://digiday.com/sponsored/the-next-test-for-agentic-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "Agencies are selling AI efficiency — clients want outcomes",
+      "url": "https://digiday.com/sponsored/agencies-are-selling-ai-efficiency-clients-want-outcomes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "D+ Research: Brand’s holiday marketing tactics shift in 2026",
+      "url": "https://digiday.com/marketing/d-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "The Rundown: BADBOX 3.0, the CTV ad fraud scheme generating 40 billion bid requests a day",
+      "url": "https://digiday.com/media-buying/the-rundown-badbox-3-0-the-ctv-ad-fraud-scheme-generating-40-billion-bid-requests-a-day/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "Gap Inc. is betting on ‘fashiontainment’ to fuel growth",
+      "url": "https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 61,
+      "title": "Why AI Is Paramount to Optimizing Air Cargo",
+      "url": "https://www.freightwaves.com/news/why-ai-is-paramount-to-optimizing-air-cargo",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 62,
+      "title": "Bank challenges trucking CEO’s $8.5M Florida estate amid bankruptcy",
+      "url": "https://www.freightwaves.com/news/bank-challenges-trucking-ceos-8-5m-florida-estate-amid-bankruptcy",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "Lufthansa Cargo to buy out 2nd ground agent at Frankfurt airport",
+      "url": "https://www.freightwaves.com/news/lufthansa-cargo-to-buy-out-2nd-ground-agent-at-frankfurt-airport",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 64,
+      "title": "Savannah handles 565,366 TEUs in October, up 25% year-over-year on strong import demand",
+      "url": "https://www.freightwaves.com/news/savannah-handles-565366-teus-in-october-up-25-year-over-year-on-strong-import-demand",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 65,
+      "title": "AI Should Make Dispatchers Better, Not Replace Them, Says PCS Software’s Villegas",
+      "url": "https://www.freightwaves.com/news/ai-should-make-dispatchers-better-not-replace-them-says-pcs-softwares-villegas",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 66,
+      "title": "Best Buy taps AI platform for supplier insights",
+      "url": "https://www.supplychaindive.com/news/best-buy-taps-ai-platform-for-supplier-insights/875211/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 67,
+      "title": "Walgreens scales micro-fulfillment strategy with Pennsylvania site",
+      "url": "https://www.supplychaindive.com/news/walgreens-scales-micro-fulfillment-strategy-with-pennsylvania-site/875245/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 68,
+      "title": "Tractor Supply boosts same-day delivery options",
+      "url": "https://www.supplychaindive.com/news/tractor-supply-boosts-same-day-delivery-options/875304/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 69,
+      "title": "Taking the busywork out of business buying",
+      "url": "https://www.supplychaindive.com/spons/taking-the-busywork-out-of-business-buying/874853/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 70,
+      "title": "Peak season optimization is out, year-round optimization is in",
+      "url": "https://www.supplychaindive.com/spons/peak-season-optimization-is-out-year-round-optimization-is-in/875297/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 71,
+      "title": "Reuters: Nvidia reinstates Jensen Huang as CEO, igniting tech surge",
+      "url": "https://theloadstar.com/reuters-nvidia-reinstates-jensen-huang-as-ceo-igniting-tech-surge/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 72,
+      "title": "UP & NS CEOs: a year of listening reinforces the need for a simpler, more competitive rail network",
+      "url": "https://theloadstar.com/up-ns-ceos-a-year-of-listening-reinforces-the-need-for-a-simpler-more-competitive-rail-network/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 73,
+      "title": "New and expanding trade flows give African airfreight sector a boost",
+      "url": "https://theloadstar.com/new-and-expanding-trade-flows-give-african-airfreight-sector-a-boost/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 74,
+      "title": "Air traffic strike disrupts Liège and Brussels cargo ahead of Black Friday",
+      "url": "https://theloadstar.com/air-traffic-strike-disrupts-liege-and-brussels-cargo-ahead-of-black-friday/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 75,
+      "title": "Bangladesh garment makers turn to airfreight as buyers shop elsewhere",
+      "url": "https://theloadstar.com/bangladesh-garment-makers-turn-to-airfreight-as-buyers-shop-elsewhere/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 76,
+      "title": "United Parcel Service stock trades at EUR 97.63, up 0.77% - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFVIdHlCVGNBOG0xdWItTWg5NGg5RGNFOGhPV1Z5bjRuUk8zT2tlcy1FRjB5SmpCSkdMLUdBTUpXNnhyQ05CSVZSTWxrQklLSklWU1duM3VyQmw1Q0FsRkpMc2dyMTZEWDVFUFNmNFY3blNVSmNvd3RMeVV5R08wbXRPZmRCTXZ5S05nWUxyM3RvamxjdnRWR1FUdDNtVmNycUdLUjZmc1FKbWo1czNFbmtEZw?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 77,
+      "title": "UPS to acquire Smartways Logistics - Prime Mover",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sNjhRclhLb2x1UHo4VWphVDVYZzBTNFVqdGpUaGx1Y185TV96bEZwWHl6WUcwUW8wR1BhQVlkNHVndHhIaVZSZTJWWFFWSDdGTmcyaG4zSS14Vm55cTNVSXc2MDlSOEJPa0w4UjlsajV3Zw?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 78,
+      "title": "DHL banks on Philippines logistics for sustained revenue growth - Philstar.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONTIxQkh4d1UtYVNlVEJnNk90b0ZlNl90V2pWdjg5eHF6U3RjbmlxOFliblFObndMLUVkMUZpelRKNk5fWFRqRUlra0RWLS0xNkJfRWVWRVhUdklTdHkyUHJONy1jcFZkQ0RtS3JBVGZlSUl1cW5tVTRUdVpQWTNYdENVWFZYYXpObFJzRURmeDZvWDg4VzRMOWhDNEFNQ09CZlVLR01HNHg4TVNud2fSAbQBQVVfeXFMTTlOQ0EzS3JOcWIyNENHWnQ5V0hPTnVuaTVMYlVDUHJ5bFJlUFFVdEpPUWVFWExGNExJWl9nZjIyYW1TVTFSbkwwUlZwQ0dWT3RQYnJQR0RULTRnS2o3Vm9RRjlzSm9PY3BrUGRqMGJNOTlDWHlwdnoyaG96ZlhMVGVjaXI3cUxKb3B6Ukk1Y2NKaC1XX2U2TUVJUkQxSXdqSjV2X0t4TWtFd3RCUnZwWlY0WHYw?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 79,
+      "title": "DHL Supply Chain sees 12% year-on-year sustainable revenue growth as companies transform their global supply chains - Indovizka.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZDgyNWhfaVJfZVFpNjR5Y1d5TGZrbzBUWGFrXy1pNUtvLVJLeUdqYm5aaHhSRTVSMUU3R0RBYlJqV0pvZzJYaXVhMmdVRFl0US1Zd3lmTDE4SGJQWFROS3VYcUMzNHhmLVhhVDh4a2pfVVNqY3lTY3FZQWF2ZDk2VTM3MUVyYnpuQ1lYdEpQTlR2TGdiN3NWYTJlNVVfR045NHhLQzZ2SUEzYUh2bS1CdXoxWDNGZFFIZHQ0a0loVThBZ3JyVF9ub3BNQVN5cDBraWdzc3NobXd6eTk2Y0JLc21id19kLXM?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 80,
+      "title": "DHL Supply Chain reports 12% revenue growth in Q3 2026 - Logistics Middle East",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT041MlhwRUxDWDM3X3BUTkpRenVCWHQwOUl6VkJ6Y1huUFgtanNTNG1QTUtVdFU3WGc3MlhLcGJFUVc5c2E2c0JCUjJHdV9CTVBja0ZTUjBwVXUzZUdZQ2ZMXzRqck9KandtMWJueFJtcElkV1d4ZU9EVlVhejFaLTJsN0pESGtucl9fckpBMkx5MHROSGcwOEd3?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 81,
+      "title": "UPS, FedEx slap $117 holiday surcharge on oversized Christmas packages - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0U2bW1nZFFpYlg1NTdIMzlsLXFjZzE0b2hHQzZqaXJGWldTb1BRNmR6Z29IY3JnQjMwTEozcmh0THdPbEowbDRCNnpLOVZsMUVYT2dYcHNxMDRzUXlQU1hZd1ZuSm9fWkdmQ205aThHX2FwdTdZMXpGWU9XNTJCYUlKV1g1THRJcGRFQTR3dzNmVDNzSkxFR3VMVFdBWXo0cHZXaUNQUk1YSGRq?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 82,
+      "title": "Christmas Shipping Deadlines 2026: USPS, UPS And FedEx Dates For NYC - Patch",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVFubU1xbXlacVhyclBOME9aVzBqclpzX0t2YlMxZWFpODVqeV9JSUpFYmJnVnlXWEtrZlNFMFl4SEY5OXVvOUVqQWFPSUxlRWdXenA1RDBoc0xUY3pLR0JDendvMFBiX0RhNjhUa1ZYN0JiTXk1XzBsUDVSY2ZnYlIyaXVqZ0R6c3RZRXROV2VUeER1TDQ2WHdGdzA5Qi1J0gG8AUFVX3lxTE1jS3JrX1dMWlotaFk3R2NpbTdTOVRTN2FUeDNhT3RZZmswYnZKY3RKRkxfVVVRWlFSLUdsU0VoOWU1ZWtPeHdoWlA4VUVTX2gtZUlpS2xad3czUldGd2lJcl9abW00OWVuaUVDXzNXMnpQZmxtTEhLUFBCbGxZMm4yb2xhREJVYnNzd3NZcEtITFZZUlRfenIybndUVFMtSjZQbHN6Q0ZCVXRkRjlNNUZsb2V6UzRxZEx3bER1?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 83,
+      "title": "UPS sets FINAL holiday deadline for shipping ‘last-minute’ packages - The Sun",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSzRxSG9ZQXhodXJnUTN2SERUZDJJbXJIS0E0dGU1TnRlS24wU2UtcWZzOHV0QWZPQkU2V25FUFVIaE15VkxyVjBZaEV1N2p6a2lULWFETEgtUXNZUEJKMFcyalFxYjRfRy16ZVF6Y3JOMEw1alJkTkxycndoUmRDeGtGaW5Ub19pWlRXMVNNazQ?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 84,
+      "title": "Fight intensifies over Amazon delivery bill in Queens - Queens Daily Eagle",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZm9kLUxiRkwtMkFwYVVUZzYxR0tTOUdvdWN0dEZuRHkxM3JHRUN1WmNnaXYyS180SDN4NlEzZUlfSGlOX3h6VEJKOHUtVFhIdVhUeGJtYWZVZC1hUjNtYk5KeDZ0a1c0Yjd6YXBhd19mLXNSMHFpeUdXNmE0aUo0MFJlQkZUMjhuZ1NZaDc5T0FCQnVQR3ZR?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 85,
+      "title": "Lingering delivery trucks leave Maspeth, Middle Village, Ridgewood: Wong - QNS.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4aVFNeF9sWXVNcWgzeFRxZk1xU1pudDFBaWtvd2JnMWhrclhEV3hjVmNwbjl0aFFEZjlzbW9JRnlMdVVtU2FSRXBVTk9PRjlxbTl3Mmh2NUpBT0VOR0Y0ZFpkdUNsMzctU05IS1RWWFc?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 86,
+      "title": "Amazon’s $5 Warning Escalates the Fight Over NYC Delivery Workers - WWD",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlhtdzc5Z1JRZHMwNncxbHdtOThKdlRTV3dVNnZ0eC1Fa1A5a1dxWW9SMk1hT0NvM29hTHRrdUcxb3pwa0Z4c3hGT01HZWVYN3JCQkgyR0FZWTMxSnpFVkc5R3NnOGFGdFNqWXdZNmZrODBYSG1tZTM4UEx1TVBhZEtmblh1VzQzZGhUdm9YRTVyQjE5ak5icnFWTnRlOG1FOUZNTjk3cG8yMnNRTDBKNXlWc0Z5NHd2Wk9qNUNpNG9YbDgt?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 87,
+      "title": "Amazon delivery drone crashes onto Huntington Woods garage after hitting fiber-optic line, neighbor says - ClickOnDetroit | WDIV Local 4",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOODFoVnkzSVlFQ2wyV3FxSmdaaThZUGxvbUU2NGV5V3JOMTk1U2wwS1VFbjY2UFdHOXhDdXNiOVBnU0g4LXZNdDVzaldOZklNYzZLZG53aUh0ZHFoSWpGdUUwTTRQZWRBNmM5cDZTVTVFeHMyZjY0aTdGZTNKYUsxampjVnZvZThDVFBhYlVYNnRzbEJkWWdqMTA5WWN6d0JmZGxGQXZyaElNN3dIamFEMVM0WHhYckd6WjhqVkZwZHVUdFlqOHpxajhLQ2lXV0JCZXFGbC1IdDlleERlYmF5ekxjWm9XdVlfX2tHOHRB?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 88,
+      "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlhuRl9IVHpKbEE1aE5EQ3RBb1lScFkyaktKUHpueW1KSi1EWGFYMEx4TU9oRm5RbzVkSkZ2aWhtZ0hxSkFlcjNFNjJjNHhHME9FNkp2ckNuS1FMMkNBYUZSemt1UTFpYmd6MEtLOTdXdDJwellWMGxFd0lnLXVsMHdiU2tvOWw1Qk9FV1d3c21IejNyT3ZRX1NPdmFyekV0enlHNkszSWVIQVM0dGFRUnh2dw?oc=5",
+      "source": "Amazon Logistics"
+    }
+  ]
+}
