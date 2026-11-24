@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T00:47:54.367803+00:00",
+  "tonight": {
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "meta": "2026 · Science Fiction · 2h 39m · ★ 7.8",
+    "why": "For a dose of real-world drama that's far scarier than any fictional monster, tune into \"The Social Reckoning.\" It’s a chilling exposé that proves the most dangerous journeys often begin with a single click.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg"
+  },
+  "releases": [
+    {
+      "title": "Avengers: Doomsday",
+      "take": "Just when you thought the multiverse was safe, here come three universes to prove bigger explosions always make for better sequels.",
+      "score": 0,
+      "geo": "world"
+    },
+    {
+      "title": "The Odyssey",
+      "take": "Still waiting for Odysseus to get home; even Amazon Prime delivery is faster than this guy.",
+      "score": 80,
+      "geo": "world"
+    },
+    {
+      "title": "The Social Reckoning",
+      "take": "Finally, a whistleblower movie that reminds us the real monsters are often found in your feed, not under your bed.",
+      "score": 70,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "Spider-Man: Brand New Day",
+    "blurb": "Forget your weekend binge-watching; \"The Odyssey\" demands your full attention. It's an epic journey that reminds us true heroism isn't just about strength, but the sheer stubbornness to keep sailing home, no matter how many gods get in the way.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
