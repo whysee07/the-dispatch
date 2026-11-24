@@ -1,0 +1,477 @@
+{
+  "feed": "pmm",
+  "feed_name": "Marketing Brief",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T00:18:34.630743+00:00",
+  "raw_text": "☕ THE LEAD\n\nAgencies are finally getting real about AI, and it’s about damn time. For the last couple of years, the pitch was all about \"efficiency\" – faster work, leaner teams, cheaper fees. But clients, bless their hearts, aren't seeing those savings on the invoice, and they're calling BS. Turns out, nobody hires an agency to be *fast*; they hire them to *grow the business*. This week, the conversation is shifting: AI's real power for agencies isn't doing the same work cheaper, it's about delivering better outcomes and creating real value [S10]. Marketers need to stop talking about AI as a cost-cutter and start positioning it as a growth engine. If your agency's AI strategy still sounds like a glorified calculator, you're missing the point (and probably losing clients). The takeaway? If you’re not talking outcomes, you’re just talking. [S5][S10]\n\n📣 QUICK HITS\n\n**Intuit offloads Mailchimp for a fraction of its purchase price.**\nBending Spoons is acquiring the email marketing giant for less than a third of the $12 billion Intuit paid in 2021. This move lets Intuit double down on its AI bets, but wow, that's a tough exit for a brand that was once the darling of small business marketing. [S11]\n\n**A24 releases a \"scent score\" for its film ‘Backrooms’.**\nJoya Studio, known for its fragrance collabs with A24, created five bespoke smells (think: Static, Wet, Yellow) designed to be sprayed at specific timestamps while watching the movie. There's also a candle. Talk about immersive brand extensions! [S16]\n\n**Modelo becomes the first official beer of the NCAA.**\nGet ready to see Modelo everywhere from March Madness to over 90 other championships. This is a massive play for brand visibility, strategically aligning with a huge, passionate audience. Expect your sports viewing experience to be extra crisp. [S18]\n\n**Brands are boosting Black Friday digital ad spend by 10-30% this year.**\nRetail media (especially Amazon), search, CTV, and YouTube are soaking up most of the increase. While overall holiday marketing tactics are shifting, the big weekend is still a massive digital spend fest. [S26][S29]\n\n🎯 THE PMM DESK\n\n**Kagi Mail launches public beta as a privacy-first email alternative.**\nKagi, already known for its paid search engine and browser, is directly challenging Gmail with Kagi Mail, promising \"no surveillance, no ads, open standards, and no lock-in.\" It offers 50GB storage and a built-in calendar, with mobile apps slated for Q3 2027. This is a classic \"challenger brand\" play, leaning heavily into privacy and control as its core differentiator against a market incumbent. [S1]\n\n**Anthropic introduces Claude Ship for AI-powered code review and approval.**\nThis new offering lets AI agents handle routine approvals and fix code changes, aiming to eliminate bottlenecks in the software development lifecycle. For PMMs, this is a clear example of targeting a specific pain point (developer workflow) with an AI solution, emphasizing efficiency and speed for a technical audience. [S38]\n\n🧠 PMM 101\n\n**The concept:** Value Proposition\nWhat it is: A value proposition is a clear statement that explains what benefits your product or service provides, why it's better than alternatives, and who it's for. It's not just features; it's the *value* those features unlock for a specific customer.\nWhy it matters: A strong value prop is the foundation of all your marketing and sales efforts, telling customers why they should care.\nSee it today: Kagi Mail's launch hinges entirely on its value proposition of \"no surveillance, no ads, open standards, and no lock-in\" for users fed up with Google's model. They know their target customer and what they value. [S1]\nTry it: Pick a product you love. Can you articulate its core value proposition in one sentence? Now, try to do it for a product you *don't* love. What's missing in its message?\n\n🧩 PRODUCT CORNER\n\n**Innovaccer CTO Ankit Maheshwari uses OpenClaw as his personal AI chief of staff.**\nMaheshwari runs this system on a Mac Mini, automating everything from work approvals to ordering lunch, calling unresponsive coworkers, booking restaurants, and controlling his smart home. This isn't just a gadget; it's a peek into a future where custom AI agents handle \"every 1% annoyance,\" freeing up executive time for higher-level work. [S6][S7]\n\n🔧 TOOL DROP\n\nThe data is a bit thin on new martech/AI/marketing tools today.\n\n⚡ SPEED ROUND\n\n🐶 Pet brands are giving dogs a seat at the Thanksgiving table with new holiday-themed products and campaigns. [S15]\n🎥 Uber now offers \"Recorded Rides\" by default, using the driver's front camera for safety. [S63]\n📱 Google Pixel's holiday ad features Dr. Alex Cooper prescribing \"less screen time\" – a bold move for a phone brand. [S19]\n💸 A massive CTV ad fraud scheme, BADBOX 3.0, was uncovered, generating 40 billion fraudulent ad requests daily. Yikes. [S27]\n🍎 The Apple Watch Series 12 is hitting new low prices ahead of Black Friday, $100 off at Amazon and Walmart. [S41]\n🌳 Meta has quietly ditched its 2030 net-zero goal, drawing criticism from competitors. [S54]",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Google alternative Kagi launches an email service",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+      "source": "The Verge"
+    },
+    {
+      "id": 3,
+      "title": "Coworking with Sophie Ozoux",
+      "url": "https://www.marketingbrew.com/stories/coworking-with-sophie-ozoux?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "source": "Marketing Brew"
+    },
+    {
+      "id": 4,
+      "title": "The next test for agentic media",
+      "url": "https://digiday.com/sponsored/the-next-test-for-agentic-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 5,
+      "title": "AI agents in go-to-market: 6 panel takeaways",
+      "url": "https://www.crayon.co/blog/ai-agents-in-go-to-market",
+      "source": "Crayon Blog"
+    },
+    {
+      "id": 6,
+      "title": "🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 7,
+      "title": "OpenClaw for executives: Automate every 1% annoyance | Ankit Maheshwari (Innovaccer)",
+      "url": "https://www.lennysnewsletter.com/p/openclaw-for-executives-automate",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 8,
+      "title": "Analyst relations  plan",
+      "url": "https://www.productmarketingalliance.com/analyst-relations-plan-framework/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 9,
+      "title": "Inkling 2 Mini",
+      "url": "https://www.producthunt.com/products/tinker-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 10,
+      "title": "Agencies are selling AI efficiency — clients want outcomes",
+      "url": "https://digiday.com/sponsored/agencies-are-selling-ai-efficiency-clients-want-outcomes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 11,
+      "title": "Intuit offloads Mailchimp to Bending Spoons to deepen bets on AI",
+      "url": "https://www.marketingdive.com/news/intuit-offloads-mailchimp-to-bending-spoons-to-deepen-bets-on-ai/875423/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 12,
+      "title": "Carl’s Jr. taps David&Goliath as marketing focus turns to boldness",
+      "url": "https://www.marketingdive.com/news/carls-jr-taps-davidgoliath-as-marketing-focus-turns-to-boldness/875471/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 13,
+      "title": "5 Questions For…CNBC’s Eamon Javers on His Call With President Trump on Jensen Huang’s Nvidia Reinstatement",
+      "url": "https://www.adweek.com/tvnewser/5-questions-eamon-javers-call-with-trump-on-huangs-nvidia-reinstatement/",
+      "source": "Adweek"
+    },
+    {
+      "id": 14,
+      "title": "The Art of Using AI as ‘Power Steering,’ Not Autopilot ft. Kathy Collins",
+      "url": "https://www.adweek.com/brand-marketing/the-art-of-using-ai-as-power-steering-not-autopilot-ft-kathy-collins/",
+      "source": "Adweek"
+    },
+    {
+      "id": 15,
+      "title": "Pet Brands Find New Ways to Invite the Family Dog to Thanksgiving Dinner",
+      "url": "https://www.adweek.com/brand-marketing/pet-brands-find-new-ways-to-invite-the-family-dog-to-thanksgiving-dinner/",
+      "source": "Adweek"
+    },
+    {
+      "id": 16,
+      "title": "How Joya Studio brought the scents of A24's ‘Backrooms’ into consumers’ own rooms",
+      "url": "https://www.marketingbrew.com/stories/a24-backrooms-joya-studio-scent-score?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "source": "Marketing Brew"
+    },
+    {
+      "id": 17,
+      "title": "Wednesday, Nov. 18 Daily Cable News Ratings: Fox News Owns the Evening",
+      "url": "https://www.adweek.com/tvnewser/wednesday-nov-18-daily-cable-news-ratings-fox-news-owns-the-evening/",
+      "source": "Adweek"
+    },
+    {
+      "id": 18,
+      "title": "Modelo Becomes First Official Beer of the NCAA",
+      "url": "https://www.adweek.com/convergent-tv/modelo-becomes-first-official-beer-of-the-ncaa/",
+      "source": "Adweek"
+    },
+    {
+      "id": 19,
+      "title": "Dr. Alex Cooper Prescribes Less Screen Time in Google Pixel&#8217;s Holiday Ad",
+      "url": "https://www.adweek.com/brand-marketing/dr-alex-cooper-prescribes-less-screen-time-in-google-pixels-holiday-ad/",
+      "source": "Adweek"
+    },
+    {
+      "id": 20,
+      "title": "Philadelphia whips up bigger holiday marketing spend amid brand revamp",
+      "url": "https://www.marketingdive.com/news/philadelphia-whips-up-bigger-holiday-marketing-spend-amid-brand-revamp/875325/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 21,
+      "title": "How Jell-O’s new creative platform looks to shift consumer perceptions",
+      "url": "https://www.marketingdive.com/news/how-jell-o-new-creative-platform-looks-to-shift-consumer-perceptions/875220/",
+      "source": "Marketing Dive"
+    },
+    {
+      "id": 22,
+      "title": "Verizon&#8217;s Latest Heartthrob Is Jonathan Bailey as a Sexy Scrooge",
+      "url": "https://www.adweek.com/creativity/verizons-latest-heartthrob-is-jonathan-bailey-as-a-sexy-scrooge/",
+      "source": "Adweek"
+    },
+    {
+      "id": 23,
+      "title": "Geico&#8217;s First Holiday Film Reveals Its Entertainment Ambitions",
+      "url": "https://www.adweek.com/creativity/geicos-first-holiday-film-reveals-its-entertainment-ambitions/",
+      "source": "Adweek"
+    },
+    {
+      "id": 24,
+      "title": "BuzzFeed Taps Influential Co-founder Chris Poydenis As  Revenue Chief",
+      "url": "https://www.adweek.com/media/buzzfeed-hires-influential-chris-poydenis-chief-revenue-officer/",
+      "source": "Adweek"
+    },
+    {
+      "id": 25,
+      "title": "Amazon’s Alan Moss on How Black Friday Sports Lineup, Shoppable Ads Are Winning Advertisers",
+      "url": "https://www.adweek.com/performance-marketing/amazons-alan-moss-on-how-black-friday-sports-lineup-shoppable-ads-are-winning-advertisers/",
+      "source": "Adweek"
+    },
+    {
+      "id": 26,
+      "title": "D+ Research: Brand’s holiday marketing tactics shift in 2026",
+      "url": "https://digiday.com/marketing/d-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 27,
+      "title": "The Rundown: BADBOX 3.0, the CTV ad fraud scheme generating 40 billion bid requests a day",
+      "url": "https://digiday.com/media-buying/the-rundown-badbox-3-0-the-ctv-ad-fraud-scheme-generating-40-billion-bid-requests-a-day/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 28,
+      "title": "Gap Inc. is betting on ‘fashiontainment’ to fuel growth",
+      "url": "https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 29,
+      "title": "Brands boost Black Friday CTV, retail and search spending",
+      "url": "https://digiday.com/media-buying/brands-boost-black-friday-ctv-retail-and-search-spending/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 30,
+      "title": "Hybrid won the in-housing debate, at least among the largest advertisers",
+      "url": "https://digiday.com/media-buying/hybrid-won-the-in-housing-debate-at-least-among-the-largest-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 31,
+      "title": "Media Buying Briefing: The midterm elections offer a window into media buying for ’28",
+      "url": "https://digiday.com/media-buying/media-buying-briefing-the-midterm-elections-offer-a-window-into-media-buying-for-28/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 32,
+      "title": "The Verge’s 2026 holiday gift guide",
+      "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 33,
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 34,
+      "title": "Ladybird, the first new browser engine in years, is now available to test",
+      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+      "source": "The Verge"
+    },
+    {
+      "id": 35,
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "source": "The Verge"
+    },
+    {
+      "id": 36,
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge"
+    },
+    {
+      "id": 37,
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "source": "The Verge"
+    },
+    {
+      "id": 38,
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 39,
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 40,
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 41,
+      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 42,
+      "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
+      "url": "https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/",
+      "source": "Wired"
+    },
+    {
+      "id": 43,
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "source": "The Verge"
+    },
+    {
+      "id": 45,
+      "title": "Apple renews Ted Lasso for season 5",
+      "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+      "source": "The Verge"
+    },
+    {
+      "id": 46,
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 47,
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 48,
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 49,
+      "title": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
+      "url": "https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/",
+      "source": "Wired"
+    },
+    {
+      "id": 50,
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 51,
+      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+      "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 53,
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 54,
+      "title": "Meta throws out its net-zero goal — its competitors should be furious",
+      "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 55,
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 56,
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 57,
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 58,
+      "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+      "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 59,
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 60,
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 61,
+      "title": "Jensen Huang Is Back as Nvidia CEO",
+      "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+      "source": "Wired"
+    },
+    {
+      "id": 62,
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 63,
+      "title": "Uber now lets you book rides that record the drive by default",
+      "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 64,
+      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "source": "Wired"
+    },
+    {
+      "id": 65,
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 66,
+      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+      "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+      "source": "Wired"
+    },
+    {
+      "id": 67,
+      "title": "44 Best Gifts Under $100 That WIRED Loves (2026)",
+      "url": "https://www.wired.com/gallery/best-gifts-under-100/",
+      "source": "Wired"
+    },
+    {
+      "id": 68,
+      "title": "Best Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More",
+      "url": "https://www.wired.com/story/gifts-for-parents-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 69,
+      "title": "A Former DOGE Operative Won a Federal Contract. Then Things Got Messy",
+      "url": "https://www.wired.com/story/he-worked-with-doge-now-hes-bidding-for-government-contracts/",
+      "source": "Wired"
+    },
+    {
+      "id": 70,
+      "title": "‘Babylon on the Potomac’: Pete Hegseth’s Radical DC Church Attracts Government Elites",
+      "url": "https://www.wired.com/story/babylon-on-the-potomac-pete-hegseths-radical-dc-church-attracts-government-elites/",
+      "source": "Wired"
+    },
+    {
+      "id": 71,
+      "title": "Early Black Friday iPad Deals Already Worth Shopping (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-ipad-deals-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 72,
+      "title": "States Sue SpaceX Over Grok Deepfakes",
+      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+      "source": "Wired"
+    },
+    {
+      "id": 73,
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 74,
+      "title": "Inside Google’s Failure to Make Google Maps Work for Palestinians",
+      "url": "https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/",
+      "source": "Wired"
+    },
+    {
+      "id": 75,
+      "title": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
+      "url": "https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/",
+      "source": "Wired"
+    },
+    {
+      "id": 76,
+      "title": "Goodbye, World: The End of Programmers",
+      "url": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+      "source": "Wired"
+    },
+    {
+      "id": 77,
+      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
+      "url": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-23-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 78,
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch"
+    }
+  ]
+}
