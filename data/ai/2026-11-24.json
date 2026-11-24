@@ -1,0 +1,1239 @@
+{
+  "feed": "ai",
+  "feed_name": "AI Insider",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T00:26:58.038629+00:00",
+  "raw_text": "Here is your AI digest for Tuesday, November 24, 2026.\n\n---\n\n**🔥 THE BIG STORY**\n\nAmazon just dropped a cool $7.5 billion on an Israeli AI startup called Decart, and it's not just a talent grab — it's a declaration of war in the chip space. Decart specializes in AI optimization software that makes chips run more efficiently, a crucial layer between the silicon and the models. By acquiring this tech, Amazon is turbocharging its own custom Trainium chips, aiming to create a vertically integrated AI stack within AWS that rivals, and perhaps even undercuts, Nvidia's market dominance. The implication most will miss? This isn't just about making chips; it's about creating a hyper-optimized ecosystem where the hardware, software, and cloud services are a single, seamless product. This move pressures Google and Microsoft to go beyond just fabbing their own silicon and start owning the entire software optimization layer, or risk getting locked out. [S10][S12][S63][S129]\n\n---\n\n**🛠️ TOOL DROPS & UPDATES**\n\n- **Anthropic ships a code-reviewing AI agent.**\n  Claude Ship is a new tool for developers that lets AI agents review, fix, and even approve code changes. The goal is to automate the tedious parts of the software development lifecycle, letting engineers focus on building instead of managing pull requests. [S15]\n\n- **Google Search gets personal, tapping into your Drive and Wallet.**\n  Google's AI Mode in Search can now connect to your personal data in Google Drive and Wallet to provide more tailored responses. This blurs the line between public search and personal assistant, letting you ask questions like \"what was that restaurant I booked a flight to last month?\" and get an answer based on your own information. [S39][S70]\n\n---\n\n**🎯 USE CASE SPOTLIGHT — BY ROLE**\n\n- **📣 Product Marketer**\n  **Test personalized ad copy with Google's new AI search.** Use AI Mode to ask questions like, \"Based on my recent online purchases in Wallet, what kind of running shoes should I buy?\" to understand the new, hyper-personalized search journeys your customers are on. This insight can shape your campaign targeting and messaging. [S39][S70]\n\n- **📋 Product Manager**\n  **Accelerate your release cycle with automated code approvals.** Integrate Anthropic's new Claude Ship into your CI/CD pipeline to handle routine bug fixes and minor feature approvals. This frees up developer time, allowing you to ship faster and focus engineering resources on more strategic roadmap items. [S15]\n\n- **🎨 Designer (UI/UX)**\n  Today's data offers no new specific tools or use cases for this role.\n\n- **📸 Photographer**\n  Today's data offers no new specific tools or use cases for this role.\n\n- **🎬 Videographer & Filmmaker**\n  Today's data offers no new specific tools or use cases for this role.\n\n- **📱 App Developer**\n  **Automate your pull request workflow with Claude Ship.** Set up Anthropic's new agentic tool to automatically review incoming code, suggest fixes for common errors, and approve minor changes that pass all tests. This dramatically reduces the time spent on code review overhead. [S15]\n\n---\n\n**🔬 FROM THE LABS**\n\n**RoboTrack teaches robots to see and remember objects in motion.**\nResearchers have released RoboTrack, a new model for point tracking that helps robots follow specific points on objects even when they're moving, being handled, or partially obscured. Unlike previous methods that struggled with the chaos of real-world interaction, RoboTrack is designed specifically for robotic manipulation tasks. In 6-12 months, this will mean more reliable and dextrous robots in warehouses and manufacturing, capable of handling complex tasks like sorting jumbled items or assembling products with moving parts. [S60]\n\n---\n\n**🚚 AI IN LOGISTICS & SUPPLY CHAIN**\n\n- **Amazon spends $7.5B to vertically integrate its AI supply chain.**\n  The acquisition of Decart AI is a massive move by Amazon to control its own destiny in AI hardware. The deal brings in critical software to optimize Amazon's custom Trainium chips, which power everything from AWS to its own warehouse robotics, reducing its dependency on outside vendors and aiming for a significant cost and performance advantage. [S10][S63][S129]\n\n- **Amazon's drone delivery expansion hits turbulence.**\n  Even as Amazon launches new Prime Air drone delivery services in Memphis and the Nashville area, reports of crashes are piling up. One drone recently hit a fiber-optic cable and crashed into a garage in Michigan after a successful delivery, highlighting the operational and safety hurdles that remain before widespread autonomous last-mile delivery becomes a reality. [S1][S3][S5][S11]\n\n- **FedEx-led group buys European delivery giant for $9.2B.**\n  A consortium headed by FedEx has finalized its acquisition of InPost, a major Polish parcel courier. This move significantly expands FedEx's footprint and capabilities in the European market, signaling a major consolidation play to compete on last-mile and parcel locker services. [S140]\n\n- **AI hardware is the new target for cargo thieves.**\n  The intense demand for AI chips and data center components has created a new high-value target for sophisticated cargo theft rings. Security experts warn that thieves are actively targeting shipments of GPUs and other scarce hardware en route to data centers, forcing logistics operators to rethink their security protocols for AI-related freight. [S87][S88]\n\n---\n\n**💸 MONEY & MOVES**\n\n- **Amazon acquires Decart AI in a landmark $7.5B deal.**\n  Amazon is buying the Israeli AI optimization startup to bolster its in-house chip efforts. This signals that the biggest players see owning the full AI stack, from silicon to software, as the ultimate competitive advantage. [S10][S12][S14][S19][S63]\n\n- **AI customer experience startup Sierra's valuation doubles to $30B.**\n  Led by former Salesforce co-CEO Bret Taylor, Sierra raised $1.75 billion just six months after its last round. This explosive growth signals that investors are betting enormous sums on AI agents transforming enterprise customer service. [S116]\n\n- **Supertake raises $20M for an AI agent that builds stock portfolios.**\n  The startup allows users to state their market predictions in plain English, and an AI agent translates those ideas into a managed stock portfolio. This move signals that money is flowing toward agentic finance tools that abstract away the complexity of direct investing. [S16]\n\n---\n\n**🤖 OPEN SOURCE WATCH**\n\n- **Shirudo**\n  Released by OpenAI and Cisco, this is an open-source runtime for Linux designed to protect running systems while security patches are being rolled out. Created just yesterday, it's a security tool for DevOps and SecOps teams who need to maintain uptime without compromising on security in the fast-paced world of continuous deployment. [S22]\n\n- **RoboTrack**\n  While primarily a research paper, the release of RoboTrack for real-world robotic point tracking will be a must-watch for the robotics community. It provides a new benchmark and method for building more reliable manipulation systems. Robotics engineers and researchers should grab this to see how it performs on their own hardware. [S60]\n\n---\n\n**🗣️ HACKER NEWS PULSE**\n\nToday's data did not contain any posts from Hacker News.\n\n---\n\n**⚡ SPEED ROUND**\n\n- After a week of scandal and his resignation, Jensen Huang has been reinstated as CEO of Nvidia, with backing from the White House and even a call from Donald Trump. [S18][S83][S119][S122]\n- A new autonomous freight plane claims it can haul cargo for just $100 an hour, threatening to disrupt short-haul air logistics. [S17]\n- An Amazon drone successfully delivered shampoo in Michigan before promptly crashing into the customer's garage. [S9][S25]\n- A FedEx-led consortium has finalized a $9.2 billion deal to acquire Polish delivery giant InPost. [S140]\n- Nvidia's hardware is now being used by startup Paradromics to power brain-computer interfaces, processing massive amounts of brain data in real time. [S133]\n- Rockwell Automation acquired mobile robot maker Agilox, deepening its push into the AI-powered logistics and manufacturing space. [S54]\n- Best Buy is now using an AI platform from Circana to gain deeper insights into its supplier network for more effective planning. [S91][S92]\n- Over 150 child safety groups are calling on Amazon and eBay to halt sales of AI-powered toys until they can be proven safe. [S34][S52]\n\n---\n\n**🎮 TODAY'S DAILY CHALLENGE — TRY THIS IN 15 MINUTES**\n\nToday's challenge lets you experience the shift from a public search engine to a personal intelligence engine, using Google's latest feature.\n\n- **The tool to use:** Google Search (at Google.com) with AI Mode enabled.\n- **The exact prompt or workflow to try:** First, make sure you're logged into your Google account. Then, ask a question that requires personal context from another Google service. For example:\n  - *\"Based on my flight confirmation to Chicago in my Gmail, what are three restaurants I can walk to from the hotel address mentioned in the booking?\"*\n  - *\"Looking at my recent credit card statement in Google Wallet, what was the name of that coffee shop I visited three times last week?\"*\n- **What I'm testing for:** See if the AI can correctly access and synthesize information from your personal data (Drive, Wallet, Gmail) to give you a specific, contextual answer instead of a generic list of web results.\n- **Why this matters right now:** This is the AI assistant dream becoming a reality within the tool you use most. It's a fundamental change in how we access information, moving from querying the world's data to querying our own. [S39][S70]\n\n---\n\n**🧠 EDGE INSIGHT**\n\nAmazon's $7.5B acquisition of Decart isn't just a defensive move against Nvidia; it's an offensive play to redefine the cloud. For years, the cloud war was about offering access to the best chips. Now, it's about offering access to the best *system*. By owning the chip (Trainium), the optimization layer (Decart), and the cloud platform (AWS), Amazon can create a closed-loop feedback cycle. Usage data from AWS services can inform future chip design, which is then made more efficient by the custom-built software layer. This creates a performance and cost moat that is nearly impossible for competitors to cross by simply renting GPUs from Nvidia. 90 days from now, expect AWS's marketing to pivot from \"we have the latest chips\" to \"we have the most efficient, end-to-end AI stack,\" forcing Google and Microsoft to race to build or buy their own optimization layers to keep their custom silicon relevant. The battle for AI infrastructure just moved from the silicon to the system.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Amazon drone deliveries begin in Memphis - Daily Memphian",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdEloblNFdGk2aWpZVE9Ec0M1TU5tMW9YVjVBUnlCb2VTT2FwcGRLa3IwcVZteWhLS3BEYTdOc3FkTlFwZE1QYkt1azhzYTc1YzVjc3R1UGRPWFA4X3ctNHF5bVJXeFRfQ2ZhMGJqdDE0QU8xaGtLY1A2S1ZsRUJMV2tnUmtwa3NVMTYxbEZHVEQyXzZwWm85alRFMk5YTng2aFc0ZVp5MjRWYU1FLW4wQUI2STRqNlRmdzc1TWVqMmtCZw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 2,
+      "title": "Amazon drone deliveries could launch on Jacksonville’s Westside before Christmas if FAA approves - Action News Jax",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONjc0Q2hXRm9OMHlaeUMyT1R2YXdqUmw1d2VCSTVzMlI4NV9xZ05OcUpwRHg4OWF2eWQ3Nzl2Njl4Z3VTVDZvOHFXOGlGdmJvSzc5U0E2dVEyTzQ5emptWDVVZnhXeEdSRHh3VGs1OTAxS2NZUFZtMUNFUURueUdYWld6LUtnVHd5Xzc4ZTFCUWlFZGF4RlBiZXdRSDlsdllGeW9ibUt1VGNDejl3bkVpc3ZxZks3N2RpS1NxV212Y2lDVXRIeVRBd1hTSDVxSW5RcW9qQ0VTdXd6TDN5WW9HUThLRU5rUERGbjlVX0x1NlBoaGQtU0xZaDhzcUEtcHpM?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 3,
+      "title": "Amazon delivery drone crashes into home’s garage - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUEZONGlaSEFqeHFOUlJyNE8tcnZKVFY1Mm90YzRQYkpTQlh6T2w3RW03SkgyVDFJM2tHUEhka0ViandGNXdQeTVfNUhyUmw3bDY4cVc3T3VLcUVqRGlsSC1vOHBkMW5uQWRmWWdZYU9YdnlHTmNaeEtIM2xPSGZLRkNZUjRFRmNRLUotV0xIMGhlaDRUTWU0cllsbHBqRGdORFJueUs4MA?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 4,
+      "title": "See new video of an Amazon delivery drone crash into a garage Nov. 20 that was captured by a neighbor out for an afternoon walk in Huntington Woods. Check the link in our bio for more. 📹 provided by Claire Brennan #detroit #michigan #oaklandcounty #dro - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82YWN4aktyb3YtaEhBOE1XU05PNW96OS1PV21WeGctUngwRGcyRVRhb3B1U3Z3aE9oRFFIcE1KNzg1ZzZ4ZGRGamNKeXotWXJNU3FRZENR?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 5,
+      "title": "Amazon launches Prime Air delivery drones in Mount Juliet - WSMV",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdnpERVpNNUd4Wmh1VnhIRS05MFlFZmtCWUtfNEVhQWlSZUR1VVhyeS1nSXM2WkFSTFJ6NnFQeXg2cjllcHNSUkxHbVZpZl9hOE1TVHdnT2lxakNlUUliY2dXbUxVZkVBZ1NGaEhSYTRfQ2c1X1VrRHEwQ2xDZ1U0N3JmcmRYWks1ZzBDc3Y5bGU?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 6,
+      "title": "Amazon launches Prime Air delivery drones in Mt. Juliet - WSMV",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamNPekFVV0tEa1l0UE5KZTBCVnNfVHByVVpidDVfU29UdGprZjRYY2pSeldSb2REWmh5RG1UdXZ2MG9sWTJzUzREVmtBelc4Uk5EYVk3bDZJY1V0M3NfUEltUnFkcVZPTjdsUXVTNjlPZ25RMnoxRVNBem53clVMM0NqYXNkSHpTdHphVEhlY0ZMalZZ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 7,
+      "title": "After drone crash-lands on Metro Detroit rooftop, federal regulators are gathering information - Michigan Public",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVktqVHFaVkkxYWpRUkFZekQ5NnBiZTB5V1RMSlBkNU44OF9uckNrY2dpWGFoOXpvdXdDY0RQZEdyLVhzZ2w0QTYtVEpsLVVlZkJocVVSTUVzRTdnNEdJNUxtT2tqVGZnRjBoWDFxb185RVRwcF95Qm9GLTdWaU1JVkNRbnRKY0JmNG5mTVg0Zm9wTElXQjAwbnk0bzhGMTBqdURfZ2VZQmFsT201ZzlON2JvSlNqSmJtYTVZR3Q1aTBORU9peS1GTUl3c0twXzE0T013WnlwZ2FQUGdDWVlPOGZueHpEdW9ReHRtSjRjekM0WS1GeDVMMg?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 8,
+      "title": "See new video of an Amazon delivery drone crash into a garage Nov. 20 that was captured by a neighbor out for an afternoon walk in Huntington Woods. 📹 provided by Claire Brennan - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeFBzOV9lVXFsY3lrZHJVczZqTUxkREp5bkllZ1BiSmlXYlVuVkg2amRwdVNMazdXakEzb3cybExZanQycXJUdUNKZFRGN0QzTEdKWTlSNUs3d1FqUklOT1h2ZGRGVnFsbkhjUWJWdVNyek55OEtBMVIxdl9ta0xBNmJmOFJYQmV4WWZLMGxMNWV4eVVZeGJIckJQVXdyMzBGVl8tN0ZDRUZkeHU4UGVRaUVJQmJiZXVrcHBzV1lZYjdmRV9UaWJma2xFU0FVZkpUTmYxVGdPYmtaNW9HOXIw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 9,
+      "title": "Amazon drone crashes into garage after delivering shampoo - Yahoo News Singapore",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2d5LUhxZWthUmk0azJfZW1lXzZINWtTTmg4S1BuYU4xSURvNEhYdHFKT2R2X09oMllyVG9sY3NLM0luYWxYWWw3QWZUbzFwZ2IzN3VubUlLbXRxUDRfbzVyQ0hReU81WjFoRDJqWWFsRXBQaHZQT3dMdnZBQl9UektNSm1mQQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 10,
+      "title": "Israeli AI Startup Is Bought by Amazon for $7.5 Billion - freebeacon.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGlnS19LNHI1MVJKVWZHRmx5bWg2cl9SeC1mYXhLMGxjd0hOOVl4LVZIbXhndnRQdktia0tkMkt1LWp5QzhIV0s1NXhnOWFhZkJEN01Iajh1anVyOVVIbDV3eWoxS25FRXRxR081bllKeEo1ck9ZMFByeFNvS1pOWHVBNGp3amNkTUFnUDJ3?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 11,
+      "title": "Amazon delivery drone crashes into Huntington Woods neighborhood after hitting fiber-optic cable - WXYZ Channel 7",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcEVZdlQyRTN1TmhVX0FGc1N6R016enRLWlVrUGRXZWg1VXBQRFdiU0p4ZkdJaXlYYTZoV180UTQyQkdIa2dycDczLV94ZWZ5LVotNU1pVXhMYzEzN19KSVRlakdvckNUcTBiQTFobDN1WC1JZnRQNGlEdndJeUFRZVJ2ZlFpOTE2UlVUZnloemFxdEZ5a2ttNkloclU0RFFKU01xOUtFX3VNUmZVQ0FLZGFSUjJkUlhhempwSXd5MXJjdnlUVGtNdjNQSXRxNkxNa2dGR1FkT0tMTjVOUDhXUA?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 12,
+      "title": "Amazon signs deal reportedly worth $7.5 billion for Decart technology to improve AI chip performance - MyNorthwest.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FY0ltN3JubGR4cVlfR0pYWG1BdEhISkFrX2kyNnVRaGsyX3QyT0NiaERFSVlURXpycUlkUTFWUXp6ZThQcFl4VXd3bDRiVzZ3NzlDX041OUN1RmZQSjRuMXRORE94OW5mS29R?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 13,
+      "title": "Interlogic and ISAC NZ share AI best practice to build better supply chain software for ANZ - Logistics Magazine - Australia",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1VkaGlzNVhQVGY2X2h1dklLRi1veGtER0RGeVNkVzBkcWxHZ1Ntc3NHVzNSWmQ1NlNNOEdUem9NOGRqY1FQc09CaURrNzZudldfVzV6LTRXeVMza2x1c19GV1dZd09ydk9EYmR1X3FINHJXYTdmQjltVUlpWFNYMUUxeUZFcjN0QXVsWlJicmMzcjZiTWZIR3JwaTBjTWQ2ZHF4N0ZRU0hsdFRnMVBjdXF1d01yLTc1aklQVy1HT3M5eG82WExfcTV1NW4wdw?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 14,
+      "title": "Amazon buying AI tech from startup in reported $7.5 billion deal - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZDhYQ1Zsa1M0WjlwdTZ0UEF3cmpUZWhYNXJzM0oyN1N4eUt3M2tOZVIwRmVMTDM2a25mNlg4UmpRZ2ZFdXlDSHZxTU5VdVpqdlZvZmhBdGdHRUdybWtqZkJla0R1RDBGV0lMSmU0V3hqRmhQV0g4U3lzdkVkazhYUzJyc0xhOGhPd0ltRkVfSWkxLXEzR3BkSDVJakFGZC1wMG9BNmVrSHc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 15,
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 16,
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 17,
+      "title": "New Autonomous Freight Plane Hauls Cargo for $100 an Hour - Thomasnet",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XeXJLck00Q3Rra0ZRSVh2QnlZOUtjUTZOVnVSRFhaSnZIYmkwTWgtRC1jeUN6VHIwN0k0VUxTSS1PaUNESUEyeUxsMXhHMGZIMWljc2Z1VlBFWXlzSGk4dnBVZ2t4Z1RybFdJTnJiQW9waTg?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 18,
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 19,
+      "title": "Amazon.com, Inc. signed an agreement to acquire Decart AI Ltd for an estimated $7.5 billion. - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdmRnWlZ1aXBRSktnUjFid2Rkb1hTQjJmZ1BJb21Lbkxjbml0OUtBT0ZBeURtZnZ5UDlqQ2QtOFpaTElYU0FQSmJxRWI5eTBycThBV1Z3aXhpX1Z1QjZuQzYzTU5wS2cwWnpFMlFkY09MSWtwakw4VkZLZEJJR0lXendlaE1oVXl5MEVPb2xIWE56TFJVVUZ6cTVLU2k5M2VNbjYtcWFnNUZ1T0NHUGtIanhJdTQ1V0Z2b00tb1k3RE4xUDhxN3phNlpxODlnazEyZWYtVVRickc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 20,
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 21,
+      "title": "Skyrover V1 Drops to $607 on Amazon, $152 Under the DJI Mini 5 Pro - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0RDWGhwYU1aazFlSk1ZdGs0bXVmNVNoTWNVaGxkNy1qaUYtalZHdWxYajhabF9kUEJ0R3hMdGstdUlIS253NDR3bmZiS0JrRHJrcmJSa1dCYk5LOXJxVDJoVGlWVS1wM0RQUjloa3ZqelN0cE9yWWh2dzlrV2RlaFRtYW9wQmJPRTg0YnBBQ2U?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 22,
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI Blog"
+    },
+    {
+      "id": 23,
+      "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times - The Register",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOamM1eERYd1dVMXVUc1Y4eFZ2dGNGT3dWODg5U2NLZUkzN0FUZWs2WXRjWDJ3VE4xTWtfZjFBa1JEQm1PYUx6alJJcFVIQ0t6OUEzOG5qNHBLU1JwcmVXdUFleGY5VlY3aktVRzhWQmVxRTVLbUhmdW9BLUxWUDNOaGJBM3dhYUthd3drNjRRM0hlRVpXQTRveFVaWTM1elB6ZjAzMTF4d1FKREVZNV91aGRQTG9CbTVhNUJfRm9Cc3JqV2M?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 24,
+      "title": "Amazon delivery drone crashes onto Huntington Woods garage after hitting fiber-optic line, neighbor says - ClickOnDetroit | WDIV Local 4",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOODFoVnkzSVlFQ2wyV3FxSmdaaThZUGxvbUU2NGV5V3JOMTk1U2wwS1VFbjY2UFdHOXhDdXNiOVBnU0g4LXZNdDVzaldOZklNYzZLZG53aUh0ZHFoSWpGdUUwTTRQZWRBNmM5cDZTVTVFeHMyZjY0aTdGZTNKYUsxampjVnZvZThDVFBhYlVYNnRzbEJkWWdqMTA5WWN6d0JmZGxGQXZyaElNN3dIamFEMVM0WHhYckd6WjhqVkZwZHVUdFlqOHpxajhLQ2lXV0JCZXFGbC1IdDlleERlYmF5ekxjWm9XdVlfX2tHOHRB?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 25,
+      "title": "Amazon drone crashes into Huntington Woods home after delivery - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdTBqQUpNYzZUVENFRnZlclFiRlA2R05rUUdtMzBFQlZNNUdaSF96UDVTbkdJYm1oU0ZKNF9JaWJ2OEVSUnEwa3RrTXBmYmRTcG9IenZmaEtBVHdrZVdOLXpXbl9fQlBMb01vVHJsZzVwSnZ5TTNFS1h5THROb0xrUHZIV1ZlT0V6THV6Z1d5OGdRLUhOdjZxUnRqNEZOcnQyd1l4c3Z5anlOTF9XNmhkNm1wd2MxLXpPQzlkYlZDNko5U1FNR0FtQm9YTVVRcXZDaHZRUXFrVl9vYmR1Mnd6LXhMMzBfcnc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 26,
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 27,
+      "title": "Huntington Woods homeowner reacts to Amazon drone crash. Watch video - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWV82NUhsaklwYllhVVZTWVFGaHNONC0yS1drdXFFbl84WUk0N0pteF9MOVBxbEZGTnl6YWZua01ROTctYndDX0E2ZjYtN2F4MnQ0YWlabkNpMndmaXBIaTRwOWtvTlFfOVdVWExjNDg4clRSeDJxTUlibXdWOU9tUjBRQkZmWU52dDAyLVhZSXlCYUNYQlBFTU00YnJtRVEtd1J4X0ZfRGUwVFJ2UU9iOU9DZ2ctazFDa2JiR25Edzd3cVI5TFhxVGJlVW9nUzdHRFozcnNDVG9tUQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 28,
+      "title": "Amazon to buy Decart's AI optimization technology - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVlQWFFMa0dvMVRiUk1yNjQxZjRGT29zUkpwT3dSWUdGT21PRjlQTWFxeEpwSDlsRGt3bVlQWU1fNUFWd21pbDdfUlVNM1lVMDZnZGdkZkdzYS1Wamd5Mnhpb2pVTjIxTnpydF9mV0RyQTJwWGtDc01ScGJFclZHNXJaSjcyUy0zaXRqXzF3?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 29,
+      "title": "Amazon Drone Damages Michigan Resident’s Garage - FLYING Magazine",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wQjRSLXhUVVZzVC1ucVlYUnhFT3F4VHZ5bkVkZ3pNSDdTcmhhRDByaHZIVUVSX3JRenNaX3liQWFLTmNhNnk1OWtqTEI2U1BCaFNfYXdkUFhsWTB2LXhPdFVUMWZRMkpkWjVVY2VIT1dzUzJiNlRFT3l4aC0?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 30,
+      "title": "How does Orchard AI fit into John Deere’s technology portfolio?",
+      "url": "https://www.therobotreport.com/how-does-orchard-ai-fit-into-john-deeres-technology-portfolio/",
+      "source": "The Robot Report"
+    },
+    {
+      "id": 31,
+      "title": "AI Entrepreneur Behind $7.5 Billion Amazon Deal Keeps Shabbos and Daily Tefillin - COLlive",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWlabjk4dnhZR3llLWFSc3Y2U2xKMjNONlBiVlJmdVlkOXZxWGVJWVdlejFKSHB2MGc1U2ZPRk1ZaDB5WG9zcWl2YjFlN29lZFNNaW5GSFRJZktYUnJEd2xZSXlBbkRhcFA5dGFUNExHOXp2VTF1dHVvaXc2Q3djdXdTZU5lOXRaQzRhNFBsVm1aZUlqQWlHbnJjc3FBajlQeXc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 32,
+      "title": "Amazon to buy Israeli startup Decart for a reported $7.5 billion, tapping AI talent - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbThNX2JfVjNuZlBWU2lQQjhWajJyUlpZZlVTRE1xc1oxZ25jY3pCdGpGOFdmU1dMa1E2elJWY3NNNTdzSUZXY3JsbmUyS2tsbGxNX0VFaXJSZXRiaGl3a281WVBUUjhPQ0VsUlRrQ0xGLVJSS2R0dmk3ZmRwakxfeGZhLUFMcldEOFMxQWc1Ylh3MWgzZVdIRThILVZTOWJocVV1dE1WWVFaenJoSEI5Q0hn0gG3AUFVX3lxTE9fQnA2a2FjVmt3a3FiQ2w5UG1JOW1EaTZBMERZNXpSanZSaGxLSDN2WWxhYzJfcmFVaGpPWUJHeXVXNk9zWWZsaDhGNV9pay1QOE5qMVhNcXA0MGxaQzFmLVpzY3lHMFVudUJMR3Utc2d3VmVfNHJtZFBmZUxTbWs5VnoyUjhLNUo2Ql9BY252TW54SGctX3pxNkkzMXBNdG1lV0RnNHRtMC10bHRQOTk0cks5VkZDZw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 33,
+      "title": "Amazon announces acquisition of startup Decart AI - upi",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeEdTcFduU0wwU3hWUm9Pcng1d2hNWEVocnZFaVQwRjdkZk9wdl9nMUFuUmItNndnWndlUTF5N2ViS2dCQllKQUpwMmg3RFRUMjBDb05LcTgtM3J6Y0NSekpjTHdwSVdCdFpHb3l4Sm0ybzZGLTlKdkZQRTZIYlFoUWwxU3RBWXptUDRR0gGQAUFVX3lxTE9mMHg2aUxrZWtzNEZtVENYenV4VmFSRktEYmM4NkFjZW1IS0RKLUwxeTRKMWgwb2VwYmc2b3pqNC11UWxmOUtTT2JMVGhvX0M3SGI2MU5oaWhwalVSUk10TkdOZVJQVU9pRS0tTmZkZnQ4OTM0MzhRc21ZNEdfZGYzZ195TjE4WndINUpjcFRaNg?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 34,
+      "title": "Over 150 child safety groups urge Amazon, eBay to halt AI toy sales - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVU0Y1NUQVJjdWVvc242QTRPUTVJSHcyM1d6bjFTaTNodTVsb0lOT0FON1dWV2U4M21wdURlU2lSWWp4Z2tieDhINU5YUFdfRjhNTnJzMzY0RjJjS2V6dUoxZzl6TzB4OHhaXzBEN08wN1o2bWowZFBTRmNZdzZ0b0tPc0FjRkZ3M0dfcEhvTy1RZURCMDZLTDNHUzZhajhobTZScEVnTTI?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 35,
+      "title": "Amazon delivery drone crashes into roof after dropping off shampoo in Michigan - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGRfbWc5bWxIZ3E3V21uTHRjQnFhYU1ZaEg4bWVZWFdqV1ZGLTctbkhOVzZKM21VOUJ1OE1BNjhtSW9oWDE1Wk9KVzRBZ0wyT29kcG9fVHhoazNDdGNPRjFiYWt1QW5pM2o3OTloQ05JNFJPSTVteWpLbDBGVmZVWk4tcXdOdkNqUG1ISUh0ejZzMU5oUW9NOXBQWGg3VWltakNqLXJBb2NjV1J1TFdScmYyUW1KYWs?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 36,
+      "title": "Watchmen at LA, Long Beach Ports Agree to Tentative Labor Deal",
+      "url": "https://www.supplychainbrain.com/general-scm/hr-labor-management/article/16542504/watchmen-at-la-long-beach-ports-agree-to-tentative-labor-deal",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 37,
+      "title": "Why AI Is Paramount to Optimizing Air Cargo",
+      "url": "https://www.freightwaves.com/news/why-ai-is-paramount-to-optimizing-air-cargo",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 38,
+      "title": "Why AI Is Paramount to Optimizing Air Cargo - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQWY3RmRWZTVRbDNSdUNhZC1keVp5Z3N3UFFiODlyOE00aHZ3cEdDODhXcTdjNHNfX0pmcHFaT1ZYNE8yZU5JelNVUGZENlh0RnN4N05jSzNqbEhKRlJhV2d3TE5OQ190akNtR1I0Yk1SUTJ1TE05MHBUdnMxcEJHa3JqWQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 39,
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 40,
+      "title": "Amazon inks reported $7.5 billion deal for Israeli AI startup Decart's technology - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yQjhkSmxWY25aSk9TWVh1bU42UHZjeHZfVkFSVjk3Z1daRmgwU2hiLUp3dVZ2c0ZWbUpoajgxUDF6dWl1cGFJc0I3SXMwZExUZHZIeUcwQlN5bDgzWF9fQnFR?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 41,
+      "title": "Amazon delivery drone crashes into roof after completing shampoo delivery - National News Desk",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWdBV0Y1MFdlUmx2RTFGT21sdDdjWXZvVUF0SW9NUmY0cXdJQWFXN3hSZWNxb1BPaXBDcmt5cEhnLWc3eGFoWFJCYk1ibGZnRk1Fajl1aG9QSG9XdFhPdmh1LUdjTVZhRkMtNlVlaDFjUnYwUUVxcFJJaG5zdzZ4aGlOMDhvZFFkLW9RRExHOXZPa3NEYzhXRHNLSlJiVC1CNE9uVnZOcVFwc0V1akw0dnMyZ0xvNFVSVjBXYTZnNXpiU0RqZy04YVROQXI?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 42,
+      "title": "Amazon to buy Israeli startup Decart's AI tech in record $7.5 billion deal - Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPeXl6cUFSeDZqTDVwV3ZuVVRhYlM2UFRyZ1JCSHFGdDRBdUtjUDViOXJZbW9KMFRCbFBvS3ZfOWZhbEVvYlF6MmdjZ1I3N1UwTE43MDJVaXpQTDNqdnVUQWk4Wm50bHBPQ2dTZGRicDRwcnZ3NmM0UUdEZXRncmFVYnNmVlAwclNsSTFwYzhQMVQ0NGwwT2tpYXhRb0lVcm1MMW5FWHNDQVVFWUhOSWFySXUzMTJlclM1S3FXeGxzRHpzZHZ4MEhIU21DcVZOZ2c5enl2Qmw5em84OXNxMjJyUExYVndxcjZPY0t2NTRUWERqT1FZM04tRFJ6OXhQbVFNNzJld0V6MF84ejVFd1ZxeklFbnNFQTBIbGVBam4yTlpfMUNWMXc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 43,
+      "title": "Nike Sneakers, Milwaukee Tools Among $22.5M Haul in 'Staggering' Train Heist",
+      "url": "https://www.supplychainbrain.com/logistics/rail-intermodal/article/16542489/nike-sneakers-milwaukee-tools-among-225m-haul-in-staggering-train-heist",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 44,
+      "title": "Amazon Makes AI Chip Move; Stock Climbs Alongside Nvidia Relief Rally - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGNWcWFkazVXMUhqYkdVOXN3UUJFbVppRWw4RUZaVFA1ci1TLWlXUk5xOG1pUWJ0X1VKZEN4SVRpYUpzbVlsSnVhVW1fM3dDdGp3NHFiMXVraHVvUXZBOUExZy0yVWdscE5wZWNUd256d1U0bzh6b0Uwell0NXRqekVVOEo?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 45,
+      "title": "Amazon flies delivery drones in seven states. Where they fly in Michigan. See link below ⬇️ 📸 Rick Cinclair/Telegram & Gazette - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUlhDUEpnczI4c0lQYmZVWFRGYlpZeWdwekY2NmZkSGxUei1DUE9sbk1lNHc4dkg4UWFZYjlKRmNHOFpYLWJKSUpsR0Uxb24zY2ExOEhvSTdYNkpmV3lKOEtOU1ZrWS12cnVNTmtZRlB3Z0ZuMXNMX3E2QTJadXFOYUVHRkdoNlRSZ3hack9XaUdid19NaEpVZTJFQVZMV0RNUk9lMUhOeldwM19Ka01aZTdqLVZvYnE5b1BfNWlpTkMtUWZ5UnhuZkZ3V2Nlb0lBWDhHQVdqaDBSenhiMVNz?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 46,
+      "title": "Amazon to acquire AI startup Decart's chip software, hire founders - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hSmFaemUzUldRaWhTb3diNE4wU2dQb29ab2FXLS16UzcwdFU1a2tjUVh5Y2t0WEJweGREQ1JIMVczYXhmZGRQT3pXa0FUU0xFZWEzVGpnT2Q4MUdhWEVFMWhmRkNyZXVNbkdqa2xpdW03QWFT0gF6QVVfeXFMTjg2VVVOYlVHWHJaNUhWUHZMNjFQQ2Q5MmptU1JiektEbXNWMUN4SzR6OWxRSjVUTFZuakcwSEtHUjU4MUluQi1QUXQtc2xvWnhSY0NXNm9SUXZraElHZ290VTlUMlloSXhBSVRGbEhBcmVRYXZreFdjc2c?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 47,
+      "title": "Amazon Acquires Tech and Staff From AI Startup Decart - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1FBWENueTdKZ3BrbUlrWGQ3ZjNZMmlGaXdGNU9GaUpOdmtqX3N5V2JkTWJrRWhTMldnQ3N5d1RldkJsY1VONjdYRGh3ejJLSGwyOFZBU0lsaWlEQ3hIR1hVS1M3ZUZmakVZZHlBU1YwMnVqTE1uZnQ0dTh3WXJzb1NQWEtWOV9qUUZ3ZnpMdWpsNTRZWFpQS0VhWV9hQQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 48,
+      "title": "Bank challenges trucking CEO’s $8.5M Florida estate amid bankruptcy",
+      "url": "https://www.freightwaves.com/news/bank-challenges-trucking-ceos-8-5m-florida-estate-amid-bankruptcy",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 49,
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 50,
+      "title": "What Is Oracle (ORCL) Showing With Its AI Logistics And Cloud Integration Push? - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLTBIZmI0R25pSW9Jc0xYclBDaVBoM0tZcUNTRDVZdmoyU3FSc0dKWmktX211c1dFbkQxTVI3UjI2dkpDaWFDMEdNbzBMaGhXaDZMWjNkbnhTUVdjLXBvZF9kSkhMaDZRRjFDUG5BbUxkOTMyX0FGWlB3N1JkT1czRWxQYWR2cXhOc1ZaYkZmS3hValhOY09lZkNZMnVvNUh1SFpDeGl5YVBJQkh3d3lTdzJyRDAyZXpoTExaakpPd9IBxAFBVV95cUxONmU5bTk3MVd4Y2hUM3dJM2Eza3dpX1J0TFR1Rllhc2w2RDdrcjRxdlhfTHRKbGVuUU01SGRkeUJ0NC1GWEZBQjVGZkNpRmUyMm1RUU1KOFd5ZDh4bWJMdXJQSUFfU2FrZXpRM0tmMUtZeE8tV0NieENFWWtUdHdsNS1iOEhzbXZYZFZTWndfTnM2Z2RjUXpLV0lwYnF6X3V0YVlsN3VITWViSG5sVUN5cFhVTGRwZXpHQTRpbE9IUDA3eDI5?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 51,
+      "title": "Amazon delivery drone crashes into Huntington Woods home - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVc0dFBWYThVNjJUeldGa0dPU1NKRlMyNVpXQlQ5WnBsXzVjZmdYcGV1N1Mzd25sZGt2VVFQdi1EN3hiYk9kdVdRSDhqQUhDMnNXSlU0RmRZS2xETjN3aV8wUE9rMkN5dnNncUxKQm5CV1VjelJXdUxHT2xyZmp6NUd5Y0pOaDQyWXJMRUdEaDJOdlBRemdQSUxZaw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 52,
+      "title": "Over 150 child safety groups urge Amazon and eBay to drop AI toys - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PMUhxZWFzWWpxSU1oUWhzdEE2VmRaUllGdUdhblBsaW5jRzd5bGdKYi1pVDhqN0NVLWlaWHFhOXp1M3EtUDBGZ1NFeEo5dThXNXp1Y2gyYUJrb0ZHNERMaVd5M3Etek9ITTNLYkdTcHZjUF9kT3c?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 53,
+      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+      "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 54,
+      "title": "Rockwell Buys Agilox, Builds Physical AI Logistics Portfolio - Supply Chain Digital Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUkE4YzhBLXZaa3VHbHhFblFHNVl2U01CUXRiTnNub3paRUlQV0ZoTWljRmtvb1NxRTVabWZoNmt2ODMzUlprdldEN2F2eWVvaDhjN09qR3lrTGlQNFlBWFo2elZ2SktEV3U0eGNOTE5KaE1mdVAyNXU4QUY0V09lbUVYeWowQWJVVTNxMm05TzFMNXpp?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 55,
+      "title": "See new video of Amazon delivery drone crash caught by passerby - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX3FmNHJST3piY2RlUlhUQXlvUl94clNHWDlIV1Y0STNBZWk4RWktTDNQeVNvTFdTREdfQXdJMlU0ODRhX3BpS2FwVGVuMmVtMW5ES0VCTFllOEZ0b0phZ2pUZ0ViVzd2WkMwR3B5bmN2TG1DcnJVTkN4VGZmajVTdFMwaWExbUFvdThOMVIwYTd6N2F0MmVrSVdDTEtIUC1PTmlXV0wtLV96ZVZKdXJGcE9xOUwzVmVsWEpiM3VnLU05YjhSaE1NNWRSbjFDVUI0eFV5UDFhLXY?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 56,
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "id": 57,
+      "title": "Amazon buys Decart's AI chip tech for reported $7.5B after Anthropic walked - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVV9zeGlrN19UakctVGxESk83NGF6a3ZTTXJqLU5WcTl0WGpBUEZiZ0N1NnBDQTdZMmgza3dRWjltUm9FVTZjU2VqcGZ1OV9ydTNDVlQtdll1YXlrcW9tajR2bWNTay1UWTNVaVBOQjFZTkgtWnBxOU9mSnQ4aFdQY3h0MWpwWXlzY2YwdVJ3UTg1emswZ201N09rN3BMZ0xGZG5SaG90aWJWYWMy?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 58,
+      "title": "Amazon agrees to buy Decart’s AI chip software and bring its team aboard - Superpower Daily",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2tyNkZILTMtbmNVZ2N3dHFTZWpBSlJHV2I5NmZBVXRROEM4MnZCdHY3WTRLZHNXUktNNTJDTzZwNXoxMEVXdjJUYlU2UUxRV3FfWDBta21GTGhNckF6MVpBRnlwZThyQVFxSTlmcEhsMndyc0hXQkxBVUxxY3ZJZ2Rtb0c4aFJmdkFaR1ktbnRqX3E3QWYwbXhpLXBaSGQ3ZVlCZ3Jkbk94UQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 59,
+      "title": "Lufthansa Cargo to buy out 2nd ground agent at Frankfurt airport",
+      "url": "https://www.freightwaves.com/news/lufthansa-cargo-to-buy-out-2nd-ground-agent-at-frankfurt-airport",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 60,
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": 61,
+      "title": "RELEX Expands AI-Powered Planning Capabilities for Retailers - Supply Chain Digital Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMWpGX2dzY0FuRWZ6SGVidmV3b09rdFJlVXFZdUNwLUJBTEJiN1haRXhxWVhLMUhDaGQ1WXpGUklZYk9nZFQ3M3ZrQnVCLS1ESFRhZXktdUsxdVhLb3JqYVF4cmxFbFdpTEtxVDE3OXlRN0M2YnNsWldvTkoza3FrT05CVkdGYnM3N1NaVHVPR284T1FCWTBuOGRDLW0?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 62,
+      "title": "Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUUVjMFl6NEZwcFFyUDNCWEVEbWNVLUNkLXh3d01KV1h0MDZvTzgxcEpTVkYzUktlNmZ4bnF1VjY5SU1zVktsbm1OOUYzTkVIa00yamJLWm53RlBQSnFNTlBLUktjYS1RUDJ4dWV5MkpSS3FQbndlOTBEb0ZQU2E2Ulh6b0JXVEhmN1E3TElGM0xZSW1VcTVLN2NXNmhBTUZQWnRGZjMybFh3YmJwTGhlZ0JSem81Mlo4aXViaFptWXJBNmtw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 63,
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 64,
+      "title": "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZmpSdlZqOWZtYXc1cXNWSjlkMGNmT1lNLUctVlF6Z1pMWV96OTdyaGlXbFFSZlVESmFqMWFkUUk1eVR3T2FTQ3RjeWJHYTU5N3RLOGtWVWctYmJzQzRNQ2o2bXFjVVByeEtBSW9hNlhFNEFZcXpqREd0NkJ4ZDFNRTkzZjh4SG10SVg0TXRCYXF1Q0laRHV2d2JBdWxWVHR3Y1p0U0VndW9pbkVqSHZnUUk0OHoyQnNrTlVDV3EtRzRpb0Y1?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 65,
+      "title": "Savannah handles 565,366 TEUs in October, up 25% year-over-year on strong import demand",
+      "url": "https://www.freightwaves.com/news/savannah-handles-565366-teus-in-october-up-25-year-over-year-on-strong-import-demand",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 66,
+      "title": "Watch video of Amazon delivery drone crash into a Huntington Woods garage - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQUFwUmdjSHVnQXNSUHFCU0NGQVNxWFI3YVMyd1Byd1NOMXJVWEVZR284LVo0b0ViT21jdnFKRjZJZ2JqWG0wYjZXeUJDSExLM3MtSHRMWHJrVWVjRzBzdUtyRHJob1gwSXZ0czM5VUFRaDFzV2REZXAwU0V6OTZPNW43UkVYY1JwOUxTUEdFWDA5a3kwMzM5dVV5ZE12bUF3YkhYdzhEbGU3SzdReHZlczJSZW9TUkoxYW9UNlZfYmNtVHVzbm44NmlFVElqSmktSWJQbw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 67,
+      "title": "Aviation Growth, Predictive Logistics, And SME Scaling Take Center Stage At Future Growth Nexus Summit - Forbes Middle East",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb2xIS19IbGNjR3Q2WmVDM2QtTXNhbFltQzhUZHBtSS1Qb2tTeDdFQzJRVzR1Z3Q2NElUYWh0WjIwMUVncGdWM1B2Ql9yUlVhVkstSzBSdkc3aVlweE9KWmdXQ2gybm5QTDlSbjNOOGYtQWRwYVRIcTdXSXdLNXg1dHB4ZlFRVDdmT2gxMTEtbTN2enBBSXRJN291dUFCYUFxdjhwTlNsbUdtSFR6b1hrREVCLUZhY0RXeXFuX0NGZnJVR1pQckN4RHNBU0dWMTlyV1ZTZ2NoQ3dtOG1Qczcw?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 68,
+      "title": "Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1h2Mk12TldYZnlQcHE2RU5JcnBHYWExZUx1dFdXMFRfQS15Sk1aOGpUS3k1Y0JTOWNrdWxWTWE2QnU5TU15MGJyakZYQXFJTkNIdVcxbC14aHktNlNsWFA3aW9EVEE3TGFzUTJFZlExTHVmbTBYQnlKLVdLTlNieG41Unc0OEo4UDY4dFVWMERCZVVNLW9aOFk0bG9yZU9IdFZaanZDZ0JwX2I5SEtETDJ5YnltM2podWFHeEZn?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 69,
+      "title": "Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZUdTUTU0LTdOUHA3U2oyZUUwbm9ScHJYUHpQcjJLMzlYWUNfVXkyOG1WT3ZaZkNmVG8zMUMtNnJlYmFudzJNdG5lWFJxM3JjYmI3eWRleGkwRVZmNG9hMTZ3akR2dlBUVllHQ2pnZnlWUzh6bU5YWXlYc0ptTllwTlcyQnN3SUVLV3I3XzFmSER6NU5iVHhvSzdYV2pGemVqekhPWG1IUXAxUUljWUMxUVp1cy1WbHBhWjREV3ZjTVRfN01NQUF2NVRHSDRLWFR6STdELTdYc3BBa0dtMl85cHpYMFk2cjRsV0NKS1R3a2NNQU5VZTVNQm5ZQ2pwQ2FYN2c?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 70,
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI Blog"
+    },
+    {
+      "id": 71,
+      "title": "Amazon’s AWS CEO says engineering, not kill switches, is path to AI safety - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUxUZzlzZEp0TTJiZF92YXdLQXJRMlZTNkRWeUMyNEgxckx3Tzg2QV9BZlJqNXFOY3NfbTR4a2FhcXhJVzFXTUZ5TlI3U2Z1c3FDYWRMTXRwSEZIa0xyNXFjZG9hc2hpRzVxTWNNcE5maGhzbV90ZWlhSHhNMmN2TWFhVDJkdndVYzVXZzNUMzRMVFYyXzM1QUtiMTB3ZVRBY2Nnb3JSUENoandpd2p2YkhWMVk4bXFqdHNOME9YcTd3Sk9xSk85TnJBdnVwS0hmTTRobkU1cE5UQQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 72,
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "Google DeepMind"
+    },
+    {
+      "id": 73,
+      "title": "What is physical AI? How Trainium accelerates how robots learn. - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSXBDeEVsbGZxZkxIbG1fVG1UazRiN1BzdzJUNzN4VUxlaTJXUEVRYXlXTS1FZFhLZDQ5dU1DNzgzdlRFV21NYThNVmVISHp0MW41NDZncFQwVnMyZkVSQ1pSM0ZVZGVJNjQySUw3Q2J5cEwwTlVhVnFJVXQ2bUhlZg?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 74,
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 75,
+      "title": "Amazon to buy Decart's AI chip optimization tech in latest AI talent grab - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORW5Dd2o3Ty1RU2Rmbl9tMi1pcS1DUTlFY0x0c1d5czk4R2Z0YXZObUJyRkFTYk1yMlhyYk5YUGIwOFg0dUotVGR1cU15VjhOVVNzYmVxQlVQN1hPeDBPOHdGZ1FjS21BRVdWYkF5azRKdzBWLVh2WnV4YWp5dlFtRFpPSHdZNkx4V2syeHpOOXV0RHBSUnFjRkZEc3RHR2gtUFZuNVVPWm9YOW84VmM5dnpXMGt6OHpNalpiTlBpM1ZIcE1JSlE?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 76,
+      "title": "Amazon Drones Reach Toledo: 3 Ohio Hubs in 59 Days, None on FAA Index - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHpJVHBtLTVNTnFzLVB1RlI3SUNYZk9tRWxoQ3h3NDFxbFh0dDN2ZE1NU3JvMWZGcXZYN1VqZTN1eEZBUE83bW9TdV9zNWVCelE5N1BKeWFndXdFNlYxdGl6UEl3dnhWbmw2dU9UODJfSTE3N2pQWTBmWDh1d05PTXJUblJzY2g3RHhZc3JVYXJ0bTcy?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 77,
+      "title": "Amazon to buy Decart's AI chip optimization tech in latest AI talent grab - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTl9OTnBpUnkxTkJONHVMRG4wNlZVNjl5LU0yTFBjZGwyWm0tQmhJcnpOeVQ3S1MxbWlKSk1reTBvZWs1Z1R3bzh3YXVGTld2WVk0M1BOSDd5NTBIWXg2UXdfdUlTdUVhaGtWRmdNYmFVY2c1VldlblNOX3BMV2xjQ1RKZm1BQ2loMXp2dGdOLTRLUXlQS2NuSWhfRDhhdGRRNU9tb3FjUUpOM1I1VTBPOVJDY0xoVkxIeDlldzVQaE05aW0zeEN0clprWnQ3M3ZydVZDak04cHptUGZ2akJqdlJaYkZYTjdpR2NxMUNHVHRoLXd4NWdTTlRpN0M1QTBSeUE?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 78,
+      "title": "AI Should Make Dispatchers Better, Not Replace Them, Says PCS Software’s Villegas",
+      "url": "https://www.freightwaves.com/news/ai-should-make-dispatchers-better-not-replace-them-says-pcs-softwares-villegas",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 79,
+      "title": "AI Should Make Dispatchers Better, Not Replace Them, Says PCS Software’s Villegas - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNODA2RVVQb25sMmxUcnotSFVValo3MjdRSTlsYURubEFVZGlmdkQwNVc2T3dycHF4c1NudFZOTnpHb2VyaVUxVFI3WkFGT19EaFlqY21BWUlxcVhER0RFdENtY052Snk1NF9tRnBLbER6RjROMUU5UlFTa0hJSU1DRDhfR0NyS3FjY19jLUthdmotY2VjOE01V3BmYXp3ekhEV2JtbjlHUkIwMmxjTk1Iay1n?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 80,
+      "title": "Amazon launches drone delivery in Nashville area, with orders arriving in as little as 30 minutes - News Channel 5 Nashville",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVWVkRTdMbjVSZmRneEVlSHVYYmtsWXQxdmJUWjdCRVlmV2FqQ1ZXWXpoUzA3QUpxMDJmNzVTcFlvRk15SlZXMjRwSU1wWGpuUFBYRjRTeld0OU9jd2EtRWxhYUFWQUduaUowdEZFeWc1eklFY0Z0VUlqbG5mUlF6OEJfT1ZQMVRFWFF1OVhKS09UdUQ1QUZuRDd0WUY0R3cyblJTOE5qNW9PbGhJdW5tTnBOb2pEVG5aRmZJcjREalNiNDY2MV80VHJR?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 81,
+      "title": "AS Watson accelerates AI-powered supply chain transformation across 55+ distribution centers globally - American Journal of Transportation",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3llMjlpaGV5RDJJcm1BVWN3NGFtVUQ1aHNhYWQ3d1dWNHlhN1BweU5IU3pFSDQ1aWZsX3hOMm85RFNHRTZkdFhySm14NTJzV3JjVnp2endIWWQ2enhQQVJJaHNNRUlVSlhxN1ZlZWNnOUxXZlJIZkREZ0swM2VMcFA5Y2NzellQQkRhWWlXX29zWmt2QU5ubGs0cWlkYWFCTW54UENtYlYzazFUSWFwa2ZuRW1fYUFBM3ZvYWhvQzdQUUp5?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 82,
+      "title": "Amazon gains 4.2% on $7.5 billion AI startup acquisition, broad strength - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS1g5czBhd21QQkRXUHBoOUdfdHpNTzM5dWlsQkJuSzJOYklxb3NEZlRiOFEwNU5zLTdPVWUwSjdxUjNzSGVCRGpSR1otWkxpa200blRXUmN2Qm8zcWhtbzIwY1l6bldpVG55RkgxejFvbVNOYnhuSXRBLVRxcGp6YndlMmJZVXltYlVsQVdzS3lmVGpielJSUHNOQWxUalJTVm1UaWJEdC1NVndhX2dJcEtrQ1lKdzlKMnpGb3ZwUTR6bTFET1MyaF90MWo?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 83,
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 84,
+      "title": "Amazon Moves To Bring Decart’s AI Chip-Switching Tech In-House - Finimize",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcXhldGVTY2tEWlNYVHBDSGZlUkJwNkZ2Vl9FSzIyMUJnUDg5d0J2cUJSZ3h5T0F1Ylh4T1I0bUtlV3NrNklhWk14M1lhbUpqd3pMY1U3U3NrTnloQW9YMUhRcmhWREdlZ0RUQ2RJb1J0eWFhbVFjX2FoRHJmSzRaZTNaelRZbWhXeVpVYjJWV0RLYl9q?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 85,
+      "title": "Prediction: This AI Hardware Stock Could Surprise Investors Over the Next 3 Years - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR2Z6alg1MG5rTDRtX0g1RGNST1ItVVNDb0pYYW9ESTNpeDI0cElxMFFpemplMWVOMm5kam1NaHJPZWwzbE8yb3FRWFlFdzFnVVNKZHBlWHlYdWdWbWlmMUFLQmxHS29TY1d6ZUQyRDAtSmszRWJuM3ZWeGozYmFMVkRHTW9PQzFIZTB4WWNvZGlRbVFXNjhjOEQ4Y3pJZTU0dnBjNUN2ZmNyNVNYUnd6NnA0WGw0OVlVVEpJQmF0N1o3UQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 86,
+      "title": "Amazon to buy Decart's AI chip optimization tech in latest AI talent grab - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUUoxcVNNemVWanFTV1dqWEFJT0gzaWRtMFF2eEJ6NWZWbW1TU3VGVlJfZ1loemVSVkdtblNhcUdJMkhuY3FiWE05ZmpqdnZzY1dVOFpmNXo4MGNPT0QyZjlzOEYzb09IT1pJdXA3UmRhU01PVlIyTEh2N1BSckdiSTJWaWNlVW5rVG5rbmsyNDZ5bmhfazdSMWZVTlNWNW5YNzdOZ0NNeTczR25ybXYtd3YzLXlQcDRUQ2syVVJybjRmMEVqQl9FSlVxYWhReFlIeGktQmZNSWl3cWM?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 87,
+      "title": "Cargo Thieves Are Chasing AI Hardware Down the Dirt Road to the Data Center",
+      "url": "https://www.freightwaves.com/news/cargo-thieves-are-chasing-ai-hardware-down-the-dirt-road-to-the-data-center",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 88,
+      "title": "Cargo Thieves Are Chasing AI Hardware Down the Dirt Road to the Data Center - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDZfWHNjSmY4Q0NPN3pKSHhTZTFXY3hvOUJrUlFzbElWbUFDTTQ5cnNCUWlnWlJSWkdPc2ZpQlpNSF9rS1RKcENnVUVpTVh3MlRtLVJDU0d2ODgwYVVpY1VRZHZicFMzWW9xMHZ0X0o4MFVzUjg0QUdmNGotbTJwbHBCN1Y2SkR0VTlrNm1OSzhES1lGTndLa0VwS3Jac1N1a1BMc2pNRHVZazV4WGc?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 89,
+      "title": "Amazon is buying Decart’s AI chip software for a reported $7.5B and bringing its founders aboard - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONE00ejBsSjhZMGNrQ3M4TkRCQm5DZm84MEl1S0xmb0RteHZNV3BPVEZBSE40NVJ2M0lBYVFRTGRVWV9ETjRNcW1Ia0loWWVTN3hpeTA3XzBIZURiWU5RRThOcjBqZ1VDQmtHczBOXzFiS0wxMmNuY2F3ajhEWkJzRzQxTnJicjkxVkZWUzY4Qm43THotMFN0T2g3WFlOdGgwQmoyYkNRTXZXd3FNckFiQzV0Tnh1SW9mTEN2RmJZMFl4RTA?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 90,
+      "title": "Amazon Acquires Chip Software Business from AI Startup Decart - The Information",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZGxwb0piQjRYaXFvbEpVRE1CaDFMZWE0SVBGS1FLcXZJMlEtMnEwQnZoV0l1VGdEbS1NdXlUeW14VHlIT1JTc192czlZMTdXclhLOG11X3dKbzhKbEU2S1lURzd5b2lpblJuSUZvaTFveTVOQmFxYkNCV3Y0Zk9vd1I1b3drU0JCX3Rqb004SkRSVDVRVTRCczB6ZkU5UQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 91,
+      "title": "Best Buy taps AI platform for supplier insights - Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObGptdkp1UGJmSnJiblZOa2tLUGc3QWFxNWVqQkZ1bk1ITVY4cVRkeERtXzF2elJ4cVZoSGZoSHV6NDhtY2dTTHVmM3VNbTFPZWE3OGZXNVY1d1kwYXRGd0NoSUF6OGJUR0JrNTZRa2ZNT0p2eWliaEwzS21VTHpER1J5bDFJVUU0a296U2JpeHQ5N2RRb1d3?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 92,
+      "title": "Best Buy taps AI platform for supplier insights",
+      "url": "https://www.supplychaindive.com/news/best-buy-taps-ai-platform-for-supplier-insights/875211/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 93,
+      "title": "Amazon drone delivery now available in Memphis area - Action News 5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUU9oQ19KWTA1dG9LQWdaT3Z3RmRFWGVacWRZcmstNm10Q3hwZXRqQTZoeHJ6ekM4THdxaGd1cjNCb2p0UnVyN3U0bzVRSDk0dkJ5Q0lBT3hKT3pZdzM0MnhqcVkwR3RqdUIyVXRobEhKR1ZxZnBtYnB4TDNMUU9SQm1KT0kxNnRReHZsQUFzb2pudw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 94,
+      "title": "🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 95,
+      "title": "Jensen Huang Returns as Nvidia CEO: What Does It Mean for AI Chip Supply Chain and Rubin Profit Outlook? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWd1LVlaMzE4UUVZUGE0U3JQWEQyVllwSDFuUnpjbnJGNjk5OWhIOHFiSDhTWG44SC04ZU1KUVN5SXViSFFrQnZoVm0wVU9LTkRGaGktTmRYcDNhWFJqRUhHeGd2bzdkQTZjSWpHWW44OERuT3pJTU0zRGhQOVFxay1tRDc2bWhBQ3ZnQ3hFMlVqbnVrdFFLNW01bWVTS3JPZWk3SEU4X3JZNndJOHdQOG5ISXZFM2VoY3NoTU9ZSUtTcS1yMmloa2tEX0ZmZmh3RG9FVEFn?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 96,
+      "title": "Amazon signs reported $7.5 billion deal to acquire Israeli-owned Decart AI - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQalZrcXJDN2ZHcXNyU0tIRnN4S3dVa2MyTUFpaUtram1wSFVyN3J4UFN5YnNheThtXzJuSjVGQkptbjR6YlZQVVpKdEwyWkVFSXBPV0QzZUtOeVNUSGhfTE5EcW12eTVuaTY2NzBLUE1RTzJpU05odjhsTWNrZzV6N2xQNFlJRl9YaUpmX3lzdm94TXZFaE03OUg1cGVrcjJ0QThZRVR3ODRqaUd2M3ZNR3FzajFsTjRSaUlZ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 97,
+      "title": "Your Biggest Invisible Vulnerability Is Your Supply Chain, and AI Just Amplified It - Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamVWMm9oYVk3c0xKSGxJay1pLWhfLWZObUVUdUFEeHVjN1YydmR6MEJTTVRVd3lKS3NzaXQyRXgxUTRpdkgyRUIwbU00dlI0R3pyOWtBOUJiR3Bfa3FDbi1iU3hfRERzSkZiQkFUa3lkM1oxSlVDTW4wczBxQkxFNFpQVENXblppN3BEeGN1LWhkS09iYVFyVmpVWERLbG44LU40TlF1ZDd1bGNjRUhZdDhsNnBjT21wVHNZemN3?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 98,
+      "title": "Amazon's Drones Are Now in the NYT, WSJ and The Times. That's Good - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRHFvc1FLdGNuRF9hZmhiUnd0Vmg2Si1NNFRINVF5UFpXSUJMSnVvWFcyX3NQX1g0M2ctM196M0JISVVhTHNnamZjTnFWTm9QN0stMXFtS0VwME5IQTNjaDZhSEVvMXFRRFpfRDhjdVRhaUtScGJnaXNZQnlTaG92YXlHWjNjNUlUS0FKWWZR?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 99,
+      "title": "Prosecutors uncover trucking playbook in multimillion-dollar port smuggling scheme",
+      "url": "https://www.freightwaves.com/news/prosecutors-uncover-trucking-playbook-in-multimillion-dollar-port-smuggling-scheme",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 100,
+      "title": "Walgreens scales micro-fulfillment strategy with Pennsylvania site",
+      "url": "https://www.supplychaindive.com/news/walgreens-scales-micro-fulfillment-strategy-with-pennsylvania-site/875245/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 101,
+      "title": "Task by task: How physical AI will reshape supply chain jobs - Supply Chain Management Review",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WeXByeEthOTRnQ184VFJ3VklSek5jbC1XNnlNUXIyeXNnT1ViSnI4Rndya1dsTURaR2pMMmRtOEJKdHFVSjhtcDNzVDYwNEN4ODZpZlBUcTc0Q1ctZ1RtV0JrbHJlQWJlT3EtTjluWGZkT25qSFJSZFpMSQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 102,
+      "title": "Special Report: Engineering Focus on Motion Control",
+      "url": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
+      "source": "The Robot Report"
+    },
+    {
+      "id": 103,
+      "title": "Amazon Delivery Drone Strikes Wire, Lands on Michigan Garage Roof - Dronelife",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGgxSldUVGVZbDVfS3haZGQwZjNaQTBvZXBqbUJheW1rcng2cUxhSHA1WHNuX2c1QXRWbEFYdGNGRXl2V1lBUXVnc0xTTmRrZm1lRWtoV1ZHVnFHcmQ2NHJfTWZOYzNTcDZHMmlHZC1fU2lnVkJHeDNhNExxbW9NYXc0aw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 104,
+      "title": "Amazon Missed Mid-November in Tallahassee. Now It's 'Coming Months' - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeVdFM25ERWFyU1Y1TE1TcnpSQnBfN3d3M3F3SHJzWkU1RUd5YW01T2lrUFVNSy1jN01zWUJ6MzRCbkdweXg4ZkVHbkxwbng4WVg3UFIxLTkyN2I1d1B2OWstZ011RFFQMXVyV0hYZkN6RU5FT25GcDhXbW1GaE1rX2pVMnpESHlhaGtjSWFaZXNuelpPODJ5M01yUFE5SWR1?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 105,
+      "title": "Amazon Drones Fly Over Mt. Juliet With Nashville Still 'Coming Soon' - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUctQ05EbnFkOHE2cVZHSGJzRzA0REVRazU1UVJEaGlHUFNhSUh6ZEpzRUI1a19XMjctek1TWXZGZ3lRVUVDdG95NkE3X1hZSHNXaUxHeDFlN2lIelJyWjJ2dVFlN3ZkNk1tYTcteEVId2QwaEwzdXdQVTdtUnhuTFhDZERmZEFKZGpWNklhYl84RWRzLXBBM3hxN2c?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 106,
+      "title": "Tractor Supply boosts same-day delivery options",
+      "url": "https://www.supplychaindive.com/news/tractor-supply-boosts-same-day-delivery-options/875304/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 107,
+      "title": "Heads up! Amazon is now using drones to deliver packages ‘ultrafast’ in Metro Nashville. Here’s what to know - WSMV",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN18zeUdwSVdmNVA3ZlN3S2haS19mWjRwak82bTVVUkdMdC1ZZlgtbHZVZkpudTFlRmtQZlJ1ZFRTQm9vNzYxR055MTgxQ2x0WDlzRS1HY2wtX0xMcFFhQllxOGdVV2lwQzBhUWxUVnBUOWdFRmY2TmlXUmJyMW9GV0dDNFNma2hNQml5YTJ3dEk4Y2RpVWMwT2RITFlneVIzR2xNWExGbFlnSXNQdWw3Uk81M0R1Y1VBd1NaMnhKYzkxWWh1N3c?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 108,
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 109,
+      "title": "Amazon Reportedly Agrees $7.5 Billion Decart AI Deal to Strengthen Trainium Chip Technology - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjRhVXdJbGFZUFk0amtRN2tWNXVydS1xQm14MUUwODUxeVljaWFSWmtyOHVkejlxRGh3eUVrNGlrVWU3NHBIVkwwWUJtb1FROTNfUDdaT0h5TVhVTUcweDNRYUtiY3U0WUd4cGQtcjB4Q1duU245QXVTOTRKandWUkU0Uk1QZkUyN25fSGFkaGhqbWJVNHd3?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 110,
+      "title": "AI Math Proofs Aren't Knowledge Until Someone Explains Them",
+      "url": "https://towardsdatascience.com/ai-math-proofs-arent-knowledge-until-someone-explains-them/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 111,
+      "title": "Amazon agreed to buy AI startup Decart's technology for about $7.5 billion - Quartz",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05bmpjYWNhR0V6NFExREI4eHJ2UXlqZWRhb1dwUk9lUlR2RERZN1BxMFpwaEFndVdlaDhMX0hJeFRFWElyRVlBOXVneFNLLUkxb0hVTXRmc0F0dDA0WWxXQk5CQnZUNjd6VG5PMnhlbGRrNG8?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 112,
+      "title": "Amazon Drone Crashes Into Oakland County Garage After Making Delivery: Reports - Patch",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeTZfNmNubXRObzRuakdObmd4SDRub0JfMDV0cHYyZnhBSkpVTmpVWjlEaURYSDJwXzBDOTlDY2tVRk40ZVVhcE9HVmRXNFVTeTQ4REk1WEIydFNBUXBlX1dIbHBaNU1wZWJUb0J2X25vMWJSUWQzR2xKZDF4bXZVRmwyYWFmYjdQMWdxcFBINHFDcTdzQzU2RXNaV1h4NGVmWVpqbHRhTjBRaG_SAcMBQVVfeXFMUGdLcW1CbXlwZFJLWnVaNzE2QURVNDhNX1NmSXdkd2E2ZTBJa3JWekhyQnB0WWN4a2xsMVpkUFdLNDFldU1STWp6Um5iN1BTWnNWOTZaM0Z6UV9Va3FYWG5ZQzRxd29KZnJ2UGx2OWEyWmdfMnFITWhSWXBlMmtncS1wMUI3U2cxRzR6dzFWLW5MUXgyd2pkbzFnNDVqRTh6MWgzaFhjd0MyWWlJbEg0UG9ORWdGX0lKMFNiWkl3RXpjNTVF?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 113,
+      "title": "Amazon agrees to buy Decart AI technology and team in reported $7.5 billion deal - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeFIzZnZPdFRIN3VHYTNqeWJZc0IxNEJEdGQ0YjhocjFtWElIM1Bfc3VXTmY2aWFudWd3NTMwQmEwbjFycGFwRl9BcFUxNHJVeEh4V0V6RGdpcVcyQmVEanhtbDFqS1ZZVjZmOXdXNTBiNmpSSnJ2bUc0ejdiRUNBdFQ2MjlnXy14cHhndnVTMF8zbVBfNEdSWnJ2Vmp2Z1h2TS1UVjJrRUFjcVZocElrZ0NBWHFTbXdYRWh4U1JLX0tHYjdTdy16bzU2bTJJbnNr?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 114,
+      "title": "Amazon acquires Decart AI's optimization tech to improve chip performance - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNckM5Z1J0Z25OMF9kMjRuWHFoS1BfZ0dmRkl1RllKMHlFYWVjbDEyNVFxcGZzWTQ2TFZ5aUQ5eGhwRHdNeGY1YmhTcmZCNm1VbjJXOWsxUndBVlcyTXU0MmoxaWZ4VHFPdUhBV0Y5ZFNobWdBOW83TXdFUEFzQzJvajZHY3J5ZnZEOV9SaTd0aERDcG1sTU1rZjRHQzZYNXc1S0xiMndZOVZYYm40QTlj?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 115,
+      "title": "C.H. Robinson: no evidence of racketeering, wants RICO case moved",
+      "url": "https://www.freightwaves.com/news/c-h-robinson-no-evidence-of-racketeering-wants-rico-case-moved",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 116,
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 117,
+      "title": "Big Grocers Offer Loss-Leading Deals on Thanksgiving Dinner",
+      "url": "https://www.supplychainbrain.com/industries/food-beverage/article/16542469/big-grocers-offer-lossleading-deals-on-thanksgiving-dinner",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 118,
+      "title": "Asia–US East Coast ocean freight rates top $10,000, up 300% from a year ago",
+      "url": "https://www.freightwaves.com/news/asia-us-east-coast-ocean-freight-rates-top-10000-up-300-from-a-year-ago",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 119,
+      "title": "Jensen Huang Is Back as Nvidia CEO",
+      "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 120,
+      "title": "Investments in German tech start-ups surging: study - France 24",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSGJzRWRQaVotc1dYVzdreV84NTdMYV9ndmJGWHVaamlyVVJvTHdJNXo2OFIzZU9LQVZjSTlyN1ZVRURvaUE3NjJ4UVhyRW1pcUh4VWJLN1cxQTcxNWxOVllXMmM2a1FtVkxKU2xUMjFJSTJUMm0yaURDYmJreUJrVG5UZ1E2MUstLVFMaENxWUpRWFBRdDQxYlVzeUFmUQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 121,
+      "title": "First Shift: Garment unrest, port labor relief and AI capacity - Supply Chain Management Review",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXVmWi14N0xLd3RRZVN6QlBuUDVpN21XM0lQVDRDNjZzMlY5ZXJTTHgtcXI4N0E4bTB2bXZPTUZwU3VYd1E3VmIyTGplLXhSOUNZY0diYzNFemEwaGprYkNONkl1eDZtQ1FFMEVXNWtONXZpQXk1SDdyZlVjQ0xBT1hlVHlHS21pRktHZURpMVF4Q0k?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 122,
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 123,
+      "title": "Amazon signs $7.5 billion deal for Israeli AI startup Decart's technology and team - CTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZTGJWcUNFNXRnM0V0R2pheVhHNzJLYTBoZWVLdTdWUVBpMEtQTFMzUVFmMmQ1elAzQzRxUWxTX3Y1RWVQalFfM3RlblgxOG5YVlJ0eXV1TGZ4MDEzakRvNzZ6Nk9oRTQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 124,
+      "title": "NVIDIA reinstates Jensen Huang after 11-day absence",
+      "url": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
+      "source": "The Robot Report"
+    },
+    {
+      "id": 125,
+      "title": "Amazon drone crashes into Michigan home. Do they fly over your house? - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ3gxUDE5bmZPS1c3bUR0b3FJdmR3SDVIeHFNVFQzeE01MVNaV1BJak9tX3JOTFJ2azhvNi1hcWo3eFY1QlB2NndERTJxSWZLc1pZaUt5Y3dIM3dWX0x2alBqcFAySk5kZHAwUzZ3aE1qaTNNQVRNSzVhR0M1WGdzbVBUR01lcVY2eHF3c2hucHRMeFJQLXdSNVY5RDd6aElPYU1BMjlYbjA0dktCZUZEZjEzWjlJYjdvZTRiekE1VU9mTVFBU1h3bE5R?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 126,
+      "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
+      "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
+      "source": "Import AI"
+    },
+    {
+      "id": 127,
+      "title": "Amazon drone delivery begins in Mt. Juliet - WKRN News 2",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRmlsZXZmQ3RDX201aDhXdjNDdEpBcmw5TEQzVGpMTDJPbjNVVHdrRklGYVNBRmROempFYkE4X2ZLYzRUQnlIZ1hCUjV3ckNqc0JFc0tOUElkQV96cVZfTU16MVpzNUlqTmQwaUFEZm9xb3NLMDZnUkhtMHFMNkx2eldjaDA?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 128,
+      "title": "NTSB Weighs Amazon Drone Crash Probe After DTE Cut Power to Free It - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMFNoQ3ZZd0pQVVhxb0c0LXBTMDhuTU5od2NGS3R5MDVRYzBLYTR5aWhJNTRmclM4Zk85NVZGUGVIU2RRYzRxeUpuSTRyem13TXZsS3ZzRC1GLVhNLWRVd2ZyOEwybjRjeHNuWG1sMWNEZDdOaExQbzJHTGt5U21CS2UyTkJjQmEtemxsZ0FvVDVrZFBRRnc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 129,
+      "title": "Amazon Is Said to Pay $7.5 Billion For AI Startup Decart’s Tech - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEtGbThuSmc5SGd2SmJVQjZDSTFPNVVpMjJ5TG10OTA5dWlTNUFnRUtSbTBxOW1WYUtOdGZoWGxySDNHb1BYVjQ0SVhxQlBfYTB4aFhCWFRHSVBnS21XQ1FpS1dYb2p4cGxzb2k4VjJzU1JmVnB1MzktempwZXRyYWw0VFpyR3gtOFFVaVhPdWszS3A1THNRV2RPS3hFNXJ3ZXlkMEY4Um1CZjQ1VmxUNDN3RQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 130,
+      "title": "Child-safety coalition urges Amazon and eBay to halt AI toy sales - Superpower Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVl9YS3NyOUtNWDdvbndWMHU2VnVwT0dLbmdZcV9yTnAyM3J6SmFPbFhfTHFtbnQzdGFwd2hzZXRVdms2dW5wNG5aOTRKTGRLZ1RXYXdnZU1FVFNONkwzWHFLNGpERVhrMTdiS2NmRDJadGlJdWFlY0t0eEI1Y3FPRkI1VjUtbExzeDItZmd5ZFRMZEF4ckRlMTJJUkZXMFJU?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 131,
+      "title": "The Birthday Paradox Shows Small LLMs Pick From About 6 of 40 Words",
+      "url": "https://towardsdatascience.com/the-birthday-paradox-shows-small-llms-pick-from-about-6-of-40-words/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 132,
+      "title": "Trump Says U.S. to Penalize Firms Building Data Centers Abroad",
+      "url": "https://www.supplychainbrain.com/technology/artificial-intelligence/article/16542394/trump-says-us-to-penalize-firms-building-data-centers-abroad",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 133,
+      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 134,
+      "title": "OpenClaw for executives: Automate every 1% annoyance | Ankit Maheshwari (Innovaccer)",
+      "url": "https://www.lennysnewsletter.com/p/openclaw-for-executives-automate",
+      "source": "Lenny's Newsletter"
+    },
+    {
+      "id": 135,
+      "title": "Agentic AI takes centre stage at Amazon Business Reshape 2026 - OPI - Office Products International",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1lmSkN4RXdlQjFRQUJSelYxTFpJWkhNTDBUdkJiTlI0X09xM3FuNmJzRXpndGc3U2ZDektaRFVCRm1wdGdfbFNzUExPVDV0LXdDR3VpbEFrVGFJVXRLQ2FnTjdxZ0FPai1UR2hSTE9TbGhxeHlManVKVldXYW02dk9LMFNuSWFmM2ZCTGd5VXlRZlBZMFlsYzhsekhuSkVYcW9wX1BnaUY?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 136,
+      "title": "AS Watson expands AI and robotics across retail supply chain - TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUxfSW9TN19zQVF5MG1tNEc5YkVMZHRlRm9hTXFwQXBYWkpLMUFxQ1JsaGpmUURyaXl3SGcxaFBSQzlZckpGS0hVQi1YdDdiSGRmT2daYVd2MWlrTXZIdG92NTM2Ti1rR0xKTjVzaHVWVDkyUDY3RWxDNnNBTFRjNlJBVQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 137,
+      "title": "Bureau Veritas acquires Topo Solutions to expand AI supply chain services - Container News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRFRZWUVRUmdJcHgtRElGajNCbUtCRlZ1aVFNaDdzM1VSZkxqQmJwY0hwVzlPSXI4X0Z5Z2FiYXNxVzdRRTBFT2J1MUt6NUlXLXg1YVZMUm1PV3VGT3cyVXlWSFZhMzU5SG9iYUJmWjQ1bUhaVXFfQzBhejctY0Rac1dtMkE2S3JpM1NUWXpjTFJ6Z2oyMU9BRy1neDhEMlVndk5v?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 138,
+      "title": "Fresh food is growing and rearranging itself. Blue Book is betting 125 years of payment history is what holds it together",
+      "url": "https://www.freightwaves.com/news/blue-book-guinane-fresh-food-trading-partner-data",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 139,
+      "title": "Inside Amazon’s US$7.5bn Decart Deal to Rival NVIDIA - AI Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdXVRRkJ5Wm1MUVBfUW1yZDBPblktZVJhcUVZd2dZZlBqdmJwZmVkZEU3UTA2S1BWbTlkNGhvZElOcTJzSzd4V2NKUWZfZ1dpNktzTTh3Vjh6WVhERDVQSUFwSGo1bzYwbkxiTVNFYkNvdWxqaEVYVzUtWlBxR3lhS3VGN2liUQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 140,
+      "title": "FedEx-led consortium finalizes $9.2B deal for Polish delivery company",
+      "url": "https://www.freightwaves.com/news/fedex-led-consortium-finalizes-9-2b-deal-for-polish-delivery-company",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 141,
+      "title": "Final mile delivery prices climb 10.5% in Q3, GEODIS says",
+      "url": "https://www.freightwaves.com/news/geodis-final-mile-index-delivery-prices",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 142,
+      "title": "Warehouse market for AI-driven robotics to reach $11.86 billion in 2026 - Modern Materials Handling",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY2h3RVhtbG1oTXBOTF9SWjIwM1ZEVkFJek9LckRQcVREbjRrQlVsa3FBN2EyeldvYlZjYUVYenU2dlNBb29CZnI2YS1zZDkwNkFLY0U0M2ZJYnhtRVVaTjNhdkZPbC16RDV3NVhNWXd5dWFPY1NiX0p0ZTFPWUJhcHV0U2V6UVQ5U04zbnd3dVlNTlNCLUJNXzdsVFJ3X0k?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 143,
+      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+      "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 144,
+      "title": "What a 90% Prompt Cache Hit Rate Hides About Attention Work",
+      "url": "https://towardsdatascience.com/what-a-90-prompt-cache-hit-rate-hides-about-attention-work/",
+      "source": "Towards Data Science"
+    },
+    {
+      "id": 145,
+      "title": "AS Watson implements AI and robotics to accelerate global supply chain - Cosmetics Business",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTlZLQ3BrRVRvaF9FTldiMV93amxYVXFjS1JsODZTeFN4aWh1QnBudmF4a2VZN1pmNko0MU9XQl9NUkt3V3ViV193c3ozcllZUWVhM2lxNTEzMThsZURjYkZraGpfSkY2ZmZIcGRhWHIyU085ZmUwc2dZb2hlcThueG1fZGlxUkNOY3Ew?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 146,
+      "title": "Malaysia sees opportunities in Taiwan’s AI supply chain - Taiwan News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaSHQxV0V3OXRMWUx6TW1LdVdXbllsMDQwcDltUFVoUXpFTVZwSGI4Y0Ryd0Z3SVBkc0xlM1VwNjBnQXhBcXdwS2ZObk9mb0NGdnlxYUl3YkM?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 147,
+      "title": "Netflix Ups Pay for German Dubbing Actors, AI Dispute Remains - Slator",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FTnBEX2JDLWl2OE1tTktYMzNnQ2JIVW1SNTVXa1N2OC0zZXpobE5Ga1VVc0wwTFNwdFAtbEwyUnc5WlNQakhuRklYeWlpdFFrYVlGUHJxRW03TDZqQUJSOU9GNjlRWVdnMEVIdg?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 148,
+      "title": "NVIDIA expands supply chain commitments for AI infrastructure ... - eeNews Europe",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGdieU53QUJUQVltSVA0YmxYQjRlVFVLN0RuNGI3XzZFXzV0TXltRk13Y0dwMjdvMFZwa3ZEZkZtT3pfaEw0NGRYX0cxeFQzV2ZHR2ZLTUZBT05BWk14c2NLd3JCZjk3U0ViM25udFhUbnE4RXZ3ZlpPa3FuVkVZWm1GYkRNc01PVUpUeDlwelQ1c19MZzF4SGNn?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 149,
+      "title": "Child advocacy groups ask Amazon, eBay to stop selling AI toys - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01MUg2U3NPdlg4S1Q0YlFrdF9ja0F3cDhwUnFsQUx2LUV6a0FIRjByZWJudC1ENEZ5TDcyRXAwUnJnZS1RMlFUTGx0ZFZLSFFRLUxmMGNmZTQ5UUJnUTBOQzdzTnNQZWxE?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 150,
+      "title": "Amazon drone deliveries launch in Tampa. More Florida cities coming. - Daytona Beach News-Journal",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWVTT3E5WU9hRHlaTF8tSUZOWnRKeWZnOS1uVjdwc2QzVmk2NnFOOExMQnBsZWxBaU54d2lnSGpqU1ZkaHVDVGliVjVRS2F5ZmVkbTFmaGx3RFo1Z242ZGJmbGg2LWE2R0Y1Qk9ydDNzZDloQlVCSkd5YkdzNDVOUGM3Z1laYWhsa0Q5NDBhVklvZU4xWGw0WjYtM0J3QlRnS1U0SHgxSHVXeUdXNFE3NHVvYzk?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 151,
+      "title": "Amazon, eBay Should Stop AI Toy Sales, Kid Safety Advocates Urge - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVk1nNVA4RzVvQ0xzbWM1YlZzLXhRT3BCNXNlM3FhNXR3SlNCVThGZEdfNzJGbzhGank2YkpCS0NlWmtNX1RiWUxyLXIxanU0VHVTVlhPOGJzSkM0Q2x0ZV85V3hfSTBXb0Y0RTZIWWRyb3plcnNRRjFfRzdKRlBHRjh6Vld1d0hTb05VTWxYckFkbWllS1ZGTENUU3JnZXRIdFJuVmRZcw?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 152,
+      "title": "Amazon and eBay urged to stop selling AI toys as some are pulled from sale - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWM0JGdE5zaTliRDhBdUQ5NXF4RWFpYVVLX2FxSWdvZy1VYlJnS2NUc1JGMjh1Q0hZSEtnd3cya293WkhjN0wyek5SRnhBS2lhMHkxNTlpdDBjNlQ1XzA0eUQ1aEMzNnZMbTlfVlFyY0k2RDlObVBsZUZVeWc?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 153,
+      "title": "States Sue SpaceX Over Grok Deepfakes",
+      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 154,
+      "title": "Claude helps solve math's biggest open problem",
+      "url": "https://www.therundown.ai/articles/claude-helps-solve-math-s-biggest-open-problem",
+      "source": "The Rundown AI"
+    },
+    {
+      "id": 155,
+      "title": "Vertiv launches medium-voltage UPS for AI data center sector - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTTZvLTVQeXd2OGdIeVF5bEtxcjA2M0dhRUlPazZ2VFVjSlF2NXN3czgwWjM2WVBQSE00ejBTSzhBdF94S1JkOFdCaWI4aU1IWGUtSEpvbGZQVnNjM0M1UmVHNmxFVzNuYVdMLUhMSEc2dmJVeUVLRFlkcVE2WXBzVjBxM3V3ZjZVRHZjb1E0WWwwZ0hCdERCNW10UlNyVmtwQW9oYUwzVQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 156,
+      "title": "Amazon drone delivery now available in Memphis area - Action News 5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzh6b3dMTTg5S1cweHhpX2ZIOGFDUHE2LW0yNjJKU2VNbUpFd1psMDJBc2k2Q3hPNXNpY01pMHNBcmI3SjNhZWNSanhfWUVCUjRvVmxMOUtINExrRzMwY2stQV84UkRUTjYtM2xVcnRHUHJ6WjdLR2s5Q05NOHRJa1l3OVhqcVZ1aFdjdFg1aEJWc3YwdmphVTBR?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 157,
+      "title": "Amazon documents autonomous AI agents discovering and exploiting a zero-day - Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WTTVJbVdXWVFTTjdQRU0wNnRweFFvZk1CbkxJaXF4RkdqOUtZVUptZjlwM1dkbl83LUJJc1NLTWE1am5WSml3THh3emtySTdVS0hldktGUmlJOHpRUVZ0SW1oUlczLUFlNzc3b3F6T24?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 158,
+      "title": "Goodbye, World: The End of Programmers",
+      "url": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+      "source": "Wired AI"
+    },
+    {
+      "id": 159,
+      "title": "Taking the busywork out of business buying",
+      "url": "https://www.supplychaindive.com/spons/taking-the-busywork-out-of-business-buying/874853/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 160,
+      "title": "Peak season optimization is out, year-round optimization is in",
+      "url": "https://www.supplychaindive.com/spons/peak-season-optimization-is-out-year-round-optimization-is-in/875297/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 161,
+      "title": "The CFO at the center of Amazon’s AI spending blitz - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOWRHWFZwWEQtZE5jMnF5bGtkMUtKZUJnOHlYY2YxWlNUV291Y1htS09HZjVwTFBxb01GdkFCdl9JRWs1eElPYkREWVNxd0lzQkxJZkdGY0RrR3F5UlFLLWJNd3JrM0FKb1BBTzN0ck9HblFsN0NtQ1RpRGJqYU9SMUM2ekU1a1ZEQXFxclQ4MkNNYXNzWkE?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 162,
+      "title": "Plug and Pray: How AI Is Changing Software Supply Chain Attacks - OX Security",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdm9DMGdhQW5TR2N2OWRCMHgwUUppWW4zQ2VUT3JEckx3YWgzVzRNaTFVRnJ5YnBpcUM4WGYxSHBrWnFVdTcxQWNrWVZnWXlsZEtCWlQ1Sk1LWE83S0NpVG9hVDMteFZXZUU0M0ZIQzJnMTFiN3hNODV0akFqaGdvLUh1NVM3NERQbXFueHVHUnI4dWJIbEJtYzFYYw?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 163,
+      "title": "Hong Kong ICT Awards 2026: Smart Mobility Award Winners Unveiled AI and Automation Drive Efficiency Across Tourism, Transport and Logistics - The Malaysian Reserve",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZlpFQzk0UWhQVVB4S1dEXzkxbFRsZEtWdXFNci0weE9aMEkxSGpTUGxHREZlbUNDVDBnSkp3YXk2WkRCaVJQdDZRVUk2dVFOeEM5T01YcFJxdTdwZEV1MmgxZ3R0YVgzaG80aFAwaXE1OFZENm5lTG1wV2c4Ykw5YlVLaWhWR19LcEZOWm5QSi0ydGtKTkxOSDJDcGhwMlBJYmI3ckFRWmNxSGRVajd2MUMzLWFURjRxQTR5RDM4a0t2V1VkUW15VXpVcmI1UmpHd0VqYmg5ZXBLemRSUU04OFdEMlplQUN4THNtMjhBV3RpODc2ZDIta19kZGFIN0x3YTJrUG5qZVJuZTJVYlE?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 164,
+      "title": "CEVA Logistics and Singapore Institute of Technology Launch Robotics and AI Innovation Lab - LM - Logistics Manager",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSV90WTJmeUwyN0NqVXF0S2ladUNjTG01Z29NaXR5c0czV01fRW5MakwteFBEUVg2d3BtQXJ5S2xHRURfN2tPYTZuNjRvWnZwYUNXWFg0UE1QZnlLUjZtak90RlViTlFNYVRCREpSY2V1SEcyaEdsd3pWd2lLSHhIc3pkNWhYNkVSZnFRZy11UkFlZ0xuOFNHS3dIVXZKU1FrOVU5eWlZY1FsOGhZYU9OTV91WXR2UXhaMVEtVHZR?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 165,
+      "title": "NX Automotive Logistics (China) Launches First Autonomous Logistics Vehicle in Foshan - LM - Logistics Manager",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVF9TLXpvdkZfYWVUV1pxejducEtzN2hiMDZvMGQxX2pNR0MtVU5mUzlOREpLTFp0VTFBdUg0UnB2MzQxdk1XbTZYeC05Ym9DZUxPcHY4OVVmWUd0aHpRMy1tT1ZCUFhNT0NfcTdPamJkbU1SZlJoZkIxRC1PcUhwOHl1VXZPdmpwLXhVd0N2S1RsVjBLUC1vN1AtVlNpMlRMR3lWLVI1d3h6ZFJIdklGM1hBVjQ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 166,
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "source": "OpenAI Blog"
+    },
+    {
+      "id": 167,
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI Blog"
+    },
+    {
+      "id": 168,
+      "title": "Amazon Nears $7.5 Billion Acquisition of AI Startup Decart in Push to Challenge Nvidia - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2NoUk1DQTF6NXdBbW5fVDgyYXVZUEwxS2pwNWlCVEtpVTlHb3g5TXdBWkJyLU5TblpRbnd5R0tQVEVNR25DMjF2cEc0OWduRXFhT0RGQjlpanR1WGJMWklBbERlc3FKUENVc0tmMVU4LVVhcnpUeTczak96OVRXeThtb24wRzZIMmtub0RsUFo0N0xvN1lEUTA3Zk9GUkpmYjJWa2JzUHg0S240ZGNadzNFX001REE0dXl2cHNybU5sQQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 169,
+      "title": "How Old Material-Handling Equipment Is Exposing Warehouses to Cyber Risk",
+      "url": "https://www.supplychainbrain.com/scb-feature/article/16542153/how-old-materialhandling-equipment-is-exposing-warehouses-to-cyber-risk",
+      "source": "Supply Chain Brain"
+    },
+    {
+      "id": 170,
+      "title": "Bureau Veritas Buys Topo Solutions to Expand AI Supply Chain Services - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVhaMUFXQVZxam1uWWRsQkt0YmhnSFdScWVWZXoycWVBNXcwLVJjNGFzZTNmTEFGdGlKeTduS0YwV2V0R0UtU1NhTEd5ME9yOWVCczJFeUxrUU50emZkdTUwLXdNZHRCQWE1NmRpMW50OXFHaDhjdGV0X0ZYTF81UTJCNHpDTFdWUC0yMm1UNEJJa2JVM2c?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 171,
+      "title": "What Do Fr8Tech's AI Lab Studies Reveal About Freight Negotiation and Voice Agent Performance? - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdl9IUXNBa0UtNXhJcDBkVGtUQkFWWXFZWVM2TTJUbXRKMkxNMjVjZVVWZHM5N0gwYm1MUkxYQ1pTR2c4eXZvV3lTV2NTYkhTOGlNeklnekp3M0VxdlNxcnd0TmxZcFZqTVdTUjh1T1JXMFhMTmJfRHBMR2ZaV29MWVp4TnBISDdwWkZCbllTakpnNVdzSXQzZGROSWktMDFxdkdRTGU1OGY0dTNieE1YU2ZsT1ZkRUt2Xzl1ZEpmYnowWVU3bGZFZ2RuOA?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 172,
+      "title": "Bureau Veritas buys Topo Solutions to add AI supply-chain software to its services - Superpower Daily",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUN1OTJSRkpRTTFrYWI3alBaYk9FUl9Ba2JRWXZkT2xrVEhDTGpFQnI5ZzZabTBpWE1JSU16dGJhS05aWGVzZHVGdS10d1FKRi0tZDl6dDNmenlLTndWT1k2UUdRcWRWRWRVellzcy1JbFJOenNWeE5rSHNIYUtZZ2E3aXlUWXc1ZGZMUkdkbWVSOF8yRHBYRUF5UW5BMEJrVjFYd0plQkJlelNTWm8xLXo0R1lyQTA?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 173,
+      "title": "Bureau Veritas acquires Topo Solutions to enhance its AI-powered supply chain intelligence offering - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNREFoZkFsejJSYm1YbkZpb2pVVWEyS0xqdmgwcDZrS25sUll1T0dYVkNhZEZTUkg3a0ZYRThpVjlQTklqcW93S2VYMkhYdEFLYnE4UlpoVGQ0dVFhellHNFhnQnRIVUd4aTRtY2ZNZlB5OW9wSl9zT3ZiWUN2WTFoN0d4X1ZkVXhETHg3aWIzeWtRSEJxSzA3NFUyN0xqc0dMQkJHX0NyMlVLSllZUHRiMk83Uk53d2h2SncwWDF4Z21Lak42QWhzZXZDcjlxZHIyeXpsaVpDcE01NExpRDlwZWRnTTgxTFRfWExWOXh2MkNSUEFkVUtKMlhpS19DUDBn?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 174,
+      "title": "Mid-market firms to drive next wave of warehouse automation - ChannelLife Australia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOUdQbWhvM0ZnM1N6ajZWNDZXVjhtVDVYdlAzaWpIX3llbUVnOTJIczQ1VmtodXVvbTV3X3RMakMwTkduSEQza2czbkRWTGZwT21PREg2ZmFOb1BvbFhmdmxlLWZOSlc3THJRSDlybVk2Qnh6SlkxYU9vU3c5OFZST2VkVldCUUhrYXI0Z1hWVFM0eFJ3LXRZ?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 175,
+      "title": "Tradlinx AI-ETA Cuts Near-Arrival Vessel Logistics Costs by 15.5% on Average - World Business Outlook",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV3VOeUZzcFRpbGNHSHg0MXptQUhjcFZIamNtUnQ3S2RuMFRDSGx2NjlzV2x0MThpdDdrV3VTRUdkMC15bERyT2xTVGdMUlFWQmd4WEpiZ3J1ZmgxZV9ZZHlhVHU0Y2hoaWsxeWxMZXB6cFJ6ZzcxS0o0ekpvWEs5UUZpMGJRbDJNNG05SzhmUGlEcHhHdlZWZTR1RktCRnNaZ1BvU0NEQ0RyejJ3VEE?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 176,
+      "title": "AI stock rout puts Taiwan's tech supply chain on alert, prompting government scrutiny of capital flows - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlNIM0xHdjRWU1dzQ3ZYM1lpY052X1NiWng1STdrT1JZaXFtQ0RpV2xDWHV2N1dOMU9VdW95ZW9LU19oUkhqQ1ZHWktNNnVyVkdMX1QtT0RiM3loSVV2c0hQRkZIdVhzRTFRanpkNmZrRVRfNktxUTV5c2dOTUx0YmJPbWFGQktSTmprWmlWUTBVOHJpMjRZdE5BT1JWM05ZaTEzUnVvNUhCSnhNcjFr?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 177,
+      "title": "Drone delivery service takes flight in Rossford Amazon facility - wtol.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQmU2ek5xMmhoZmN6VWxHYnViS2xuZUxyV0REMjRTQjRQX1kxaEFJcThHMU1nZGp3UGpCWWhrYUw1SFVQdDFES1FXV0ZFQ1pQNnQyaHdiTGt5RDBseDhuX1pBZ0lDQVprcVhwMHp2TzZKT0JEbUVNWHYyeklMUmhkTTFSNk5VOU55STc1VFVGQmFKMEY5N0dCZ2NpVzd3ZE5wY05JdGtPRmVVWURiRk9hb3I4UDBMbVlDNUQ5alRiTjVzdFFSZXhNNXNyWWlKdGl5Q1ZqMFZxQlJBQQ?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 178,
+      "title": "Mid-market manufacturers expected to drive warehouse automation growth – Dematic - Australian Manufacturing",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSEJ4XzNmdy1LclI0cGJ3R240Q3NNQTdPVzg4RXFvR0w4b0NfRFFwWm1HbWFsTEtFMVNwd1FDekJ5aEh3SHpjOEx6S3BLbkpVc1dQXzJud2NWY2pscDBybU5DOTB4d01rLVYySzBaNDRJSHVhbnF4UlcxeXpUa0xpajFlMFR6c2xTYkZzQXZZNWxvVkhsbEdvMlVBSER3UTNCRm1XdTlFWFltZlRoeURQVUJ0S3ZENzhzYVJJQmlwNA?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 179,
+      "title": "Delivery drone crashes into Huntington Woods home. NTSB mulls probe - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY3RQdjRaNlQzX3VlZ0dlb3dSbmYwV0pvQkI3aFJaS2F2YmhKdkFQSFF4RTMwVWo1aHM3MVh2T0gzTE84T3JJYjNfakJyaUVNeXVhX05uS1hkQ1M5dWJrTlpxeklUVWN6QWt3ZFdkWGozT25mOW5GY2ptX2dWUl9Ma1R0S1VyM2dJV2ZIaHh2VC1ocFE5OEdQWTdBYkNYRko1M0gwY3NENG1mWGdVdUZWWnBuT01qUURBMl8zYm9tQjRJdzBfT3FzZGNYdmVOZVo1b1FhYjNlRlM?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 180,
+      "title": "\"If the Supply Chain Is Taken Away Amid the AI and Robotics Boom, It's Over\"... Will Samsung Electronics and SK hynix Pursue Direct Acquisitions of Key Materials, Parts and Equipment Firms? - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05Q3NOaEhraDczRFFKMGJTd29qdndGTUluMHVYZGtUMlBwczN0VDVUWEh3ZFM0cVJ0bGEzcV8wUnIya1pyU215NDF1SUxmVkY5b1U0bXdfbGw?oc=5",
+      "source": "Logistics AI News"
+    },
+    {
+      "id": 181,
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "id": 182,
+      "title": "Amazon launches drone delivery service from Rossford facility - WTOL",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORkxESl9SM3Q5SFJIQkN5ajJsTTZ1c0ZTVEp6bFEtSW42WDlINnFvUzI4cVVzemd3XzFELXBlaVY2SzZ5ZzRUUy1RQ2F0Tjd4N29zNG9xQW9GQ01nN1ZpVl8xem5RUkRLd0s5RWswVG9xTjdkcFlabVZyZVFjUEtSbjFkSnJmRy1xZFJBTW5uN3Frc1NtTXNBbWpSZFhJQmlMVkQ2YjRhTHhNVUl0cnBnS2xJaUtJX1VIakFzMFRiT0x1MUQwLTV0VjE4LXlpSHd0Wmx4RDRSR1FNQTRhZlEwQ0lHOHgzR3ZRQ2ZiYjRvUUVaU0U?oc=5",
+      "source": "Carrier Tech News"
+    },
+    {
+      "id": 183,
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "source": "GitHub"
+    },
+    {
+      "id": 184,
+      "title": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "source": "GitHub"
+    },
+    {
+      "id": 185,
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "source": "GitHub"
+    },
+    {
+      "id": 186,
+      "title": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "source": "GitHub"
+    },
+    {
+      "id": 187,
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "source": "GitHub"
+    },
+    {
+      "id": 188,
+      "title": "BaaRai/ARTEX",
+      "url": "https://github.com/BaaRai/ARTEX",
+      "source": "GitHub"
+    },
+    {
+      "id": 189,
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "source": "GitHub"
+    },
+    {
+      "id": 190,
+      "title": "google/elephant-goldfish-model",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "source": "GitHub"
+    },
+    {
+      "id": 191,
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "source": "Hacker News"
+    },
+    {
+      "id": 192,
+      "title": "Cyberleek posted the GTA 6 Xbox build executable",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 193,
+      "title": "GTA 6 building personal behavioral profile for every player",
+      "url": "https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve",
+      "source": "Hacker News"
+    },
+    {
+      "id": 194,
+      "title": "Six Spare MacBook Airs Ran a Private LLM Before Lunch",
+      "url": "https://quickchat.ai/post/six-macbook-airs-private-llm-before-lunch",
+      "source": "Hacker News"
+    },
+    {
+      "id": 195,
+      "title": "Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 196,
+      "title": "Show HN: An interactive album that changes with stuff like time and moon phase",
+      "url": "https://returntorepeat.gusbyheart.se",
+      "source": "Hacker News"
+    },
+    {
+      "id": 197,
+      "title": "Ask HN: How are tech recruiters assessed on their recruiting skills?",
+      "url": "https://news.ycombinator.com/item?id=50609394",
+      "source": "Hacker News"
+    },
+    {
+      "id": 198,
+      "title": "GPT-2 as Step Toward General Intelligence",
+      "url": "https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 199,
+      "title": "$1 of GPT-5.1 tokens finds new ways around China's Great Firewall",
+      "url": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
+      "source": "Hacker News"
+    },
+    {
+      "id": 200,
+      "title": "Show HN: Zhuan – one API key for Claude and GPT at ~25% of official prices",
+      "url": "https://zhuan.xyz/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 201,
+      "title": "$1 of GPT-5.1 tokens finds new ways around China's Great Firewall",
+      "url": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
+      "source": "Hacker News"
+    },
+    {
+      "id": 202,
+      "title": "Google Gemini decouples chat history from AI training",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 203,
+      "title": "Show HN: Make small local LLMs reliable agents by moving planning into code",
+      "url": "https://github.com/ikaushik817-art/local-ai-tool-engine",
+      "source": "Hacker News"
+    },
+    {
+      "id": 204,
+      "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+      "url": "https://www.kradle.ai?1",
+      "source": "Hacker News"
+    },
+    {
+      "id": 205,
+      "title": "Sigvard: A walkthrough of fine-tuning an open LLM",
+      "url": "https://tour.sigvard.ai/",
+      "source": "Hacker News"
+    }
+  ]
+}
