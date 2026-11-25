@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T20:14:34.204588+00:00",
+  "tonight": {
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "meta": "2026 · Science Fiction · 2h 39m · ★ 7.8",
+    "why": "Tonight, prepare for an earth-shattering event as beloved heroes from three universes collide in \"Avengers: Doomsday.\" This isn't just a superhero flick; it's an existential threat demanding your full attention.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/5ffVOGY3x3Sn3jovzvycJeizpks.jpg"
+  },
+  "releases": [
+    {
+      "title": "Avengers: Doomsday",
+      "take": "When three universes collide, expect more than just fireworks; expect an existential crisis wrapped in a CGI spectacle.",
+      "score": 0,
+      "geo": "world"
+    },
+    {
+      "title": "The Odyssey",
+      "take": "Forget your Netflix queue; this epic journey reminds us that true adventure involves gods, monsters, and a hero who really, *really* wants to go home.",
+      "score": 80,
+      "geo": "world"
+    },
+    {
+      "title": "Hexed",
+      "take": "Suburbia's got nothing on a vast witch realm, especially when an impulsive teen accidentally unlocks powers and a whole new world of trouble.",
+      "score": 63,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "You Can See Everything",
+    "blurb": "For the discerning viewer, \"The Odyssey\" offers a timeless narrative rich with mythological intrigue and human perseverance. It's a grand, sweeping epic that proves some stories are simply meant to endure.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
