@@ -1,0 +1,411 @@
+{
+  "feed": "pmm",
+  "feed_name": "Marketing Brief",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T19:15:43.265582+00:00",
+  "raw_text": "☕ THE LEAD\n\nThe AI agent gold rush is officially *on*, and it's getting crowded. Product Hunt is overflowing with new AI agent tools this week, from coding assistants you control on your phone to agents that remember context across devices. It’s clear everyone wants a piece of this pie, but this rapid proliferation means a massive headache for product marketers. When everyone's launching an \"AI agent\" that does *something*, how do you carve out a unique value proposition, differentiate your offering, and even just get noticed in the noise? The real challenge for PMMs isn't just launching an AI agent, it's making yours stand out as genuinely indispensable, especially as bigger players like OpenAI start consolidating their offerings and potentially limiting heavy users, signaling a maturing, and more competitive, market. [S5][S10][S16][S59][S63][S64][S65]\n\n📣 QUICK HITS\n\n**Brands are trying to put a number on creator content ROI.**\nGeneral Mills, home to brands like Cheerios, has developed a \"talkability score\" to measure how much organic social attention their brands get from creators versus paid ads. This is a smart move to systematize influencer marketing and prove real value. [S7]\n\n**Dick's Sporting Goods is turning youth sports into an ad empire.**\nThe retailer saw Q3 net income more than double, attributing much of it to Dick’s Media Network and its youth sports app, GameChange. It's a savvy play to monetize highly engaged, niche audiences beyond just selling gear. [S8]\n\n**Humor + niche targeting = Cannes Lions gold.**\nColumbia Sportswear's \"Expedition Impossible\" campaign won big this year by re-energizing its brand with well-executed humor and a clear target audience. It proves that when done right, funny campaigns aren't just memorable, they're effective. [S9]\n\n**Black Friday deals are already everywhere, not just tomorrow.**\nRetailers aren't waiting for the official date, with major discounts live now on everything from Garmin watches to MacBook Neo laptops and streaming services. If your campaign isn't live, you're already behind. [S1][S2][S19][S22][S25]\n\n🎯 THE PMM DESK\n\n**The AI Agent market is hitting peak saturation.**\nProduct Hunt is drowning in new AI agent launches, from \"WhipDesk\" for controlling agents on your phone to \"Claude-Mem Cloud Sync\" for cross-device memory. For PMMs, this means the battle for attention and differentiation is about to get brutal. [S5][S16][S63][S64]\n\n**OpenAI is merging ChatGPT experiences and tightening usage.**\nThe company is combining its Chat and Work experiences and warned that heavy users might hit limits sooner. This is a classic product lifecycle move: as a product matures, PMMs need to manage user expectations around pricing, packaging, and usage tiers. [S59]\n\n🧠 PMM 101\n\n**The concept: Product Differentiation**\nWhat it is: Product differentiation is about highlighting the unique features, benefits, or overall value that makes your product stand out from competitors in the market. It's not just about being *different*, but about being *better* or *uniquely suited* to a specific need.\nWhy it matters: In a crowded market, clear differentiation is essential for capturing attention, justifying pricing, and winning customer loyalty.\nSee it today: Look at the flood of new AI agent tools on Product Hunt. Many likely do similar things; the ones that succeed will have clearly articulated what makes them *different* and *better* for a specific user or use case. [S5][S10][S16]\nTry it: For a product you're familiar with, list its top three competitors. Then, for each competitor, identify one thing your product does significantly better or uniquely. This helps you start thinking about your unique value proposition.\n\n🧩 PRODUCT CORNER\n\n**Next-gen bionic hands can actually *feel* pressure.**\nResearchers have developed experimental bionic hands wired to nerves, allowing users like Avi Davidson to feel delicate objects. This incredible leap in product design transforms prosthetics from functional tools into integrated extensions of the body. [S30][S44]\n\n🔧 TOOL DROP\n\n**Claude-Mem Cloud Sync** — Keep your AI agents' memory synced across all your devices.\nBest for: AI power users, developers, and anyone managing multiple AI agents who needs seamless context switching. · Free tier: Trial · Honest take: Genuinely useful. As AI agents become more personal and integrated into workflows, remembering context across devices is a real pain point this solves.\n\n⚡ SPEED ROUND\n\n🍎 The MacBook Neo is getting a rare $100 Black Friday discount, its biggest drop since a price hike earlier this year. [S19]\n🎮 Grand Theft Auto VI's incredibly realistic version of Florida is a major factor in its massive popularity. [S27]\n📺 Samsung's new R95H TV boasts the widest color gamut measured this year, showing off RGB LED's potential. [S29]\n🤖 Android Auto just got smarter with the integration of Gemini AI, making navigation and in-car interactions better. [S34]\n🎬 Black Friday streaming deals mean Disney+, Hulu, and HBO Max are all offering over 50% off subscriptions. [S25]\n🚨 Android app developers will soon be required to publicly share their addresses, thanks to new EU regulations impacting worldwide. [S20]",
+  "sources": [
+    {
+      "id": 1,
+      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 3,
+      "title": "Product Marketing Summit | Chicago, 2026",
+      "url": "https://www.productmarketingalliance.com/product-marketing-summit-chicago-2026/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 4,
+      "title": "Product Marketing Summit | Toronto, 2026",
+      "url": "https://www.productmarketingalliance.com/product-marketing-summit-toronto-2026/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 5,
+      "title": "Claude-Mem Cloud Sync",
+      "url": "https://www.producthunt.com/products/claude-mem",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 6,
+      "title": "Fairwind",
+      "url": "https://www.producthunt.com/products/fairwind",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 7,
+      "title": "Brands race to systematize how to know what makes creator content worth paying for",
+      "url": "https://digiday.com/marketing/brands-race-to-systematize-how-to-know-what-makes-creator-content-worth-paying-for/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 8,
+      "title": "Dick’s Sporting Goods is turning youth sports into a premium ad business",
+      "url": "https://digiday.com/marketing/dicks-sporting-goods-is-turning-youth-sports-into-a-premium-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 9,
+      "title": "For some brands, humor plus niche targeting is a winning formula",
+      "url": "https://www.marketingbrew.com/stories/humor-niche-targeting-marketing-columbia-goodwipes?utm_source=&utm_medium=syndication&utm_campaign=feed",
+      "source": "Marketing Brew"
+    },
+    {
+      "id": 10,
+      "title": "Superframes",
+      "url": "https://www.producthunt.com/products/superframes-ai-video-editor",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 11,
+      "title": "Pax by Pydantic",
+      "url": "https://www.producthunt.com/products/pydantic",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 12,
+      "title": "AgentDE",
+      "url": "https://www.producthunt.com/products/agentde",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 13,
+      "title": "SuperLoupe",
+      "url": "https://www.producthunt.com/products/superloupe",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 14,
+      "title": "Doodle",
+      "url": "https://www.producthunt.com/products/doodle-5",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 15,
+      "title": "Upsolve Harness 2.0",
+      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 16,
+      "title": "WhipDesk",
+      "url": "https://www.producthunt.com/products/whipdesk",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 17,
+      "title": "MeetFolks",
+      "url": "https://www.producthunt.com/products/meetfolks",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 18,
+      "title": "Ground",
+      "url": "https://www.producthunt.com/products/ground-2",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 19,
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 20,
+      "title": "Android app developers will soon have to share their address publicly",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "source": "The Verge"
+    },
+    {
+      "id": 21,
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 22,
+      "title": "The best Black Friday deals we’ve already found",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 23,
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "source": "The Verge"
+    },
+    {
+      "id": 24,
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 25,
+      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 26,
+      "title": "GTA VI developers vote against unionization",
+      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+      "source": "The Verge"
+    },
+    {
+      "id": 27,
+      "title": "Why GTA VI’s version of Florida feels so real",
+      "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+      "source": "The Verge"
+    },
+    {
+      "id": 28,
+      "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
+      "url": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 29,
+      "title": "Samsung’s R95H TV shows what RGB LED is capable of",
+      "url": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
+      "source": "The Verge"
+    },
+    {
+      "id": 30,
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 31,
+      "title": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
+      "url": "https://www.wired.com/gallery/best-meal-kit-services-1/",
+      "source": "Wired"
+    },
+    {
+      "id": 32,
+      "title": "10 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+      "url": "https://www.wired.com/gallery/best-office-chairs/",
+      "source": "Wired"
+    },
+    {
+      "id": 33,
+      "title": "The Best MagSafe Wallets for Your Everyday Carry (2026)",
+      "url": "https://www.wired.com/gallery/best-magsafe-wallets/",
+      "source": "Wired"
+    },
+    {
+      "id": 34,
+      "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
+      "url": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
+      "source": "Wired"
+    },
+    {
+      "id": 35,
+      "title": "8 Best Keyboards (2026): My Honest Picks After Testing Dozens",
+      "url": "https://www.wired.com/gallery/best-keyboards/",
+      "source": "Wired"
+    },
+    {
+      "id": 36,
+      "title": "A First Drive With the Fiat Topolino in New York City",
+      "url": "https://www.wired.com/story/fiat-topolino-first-drive/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "Best Gaming Mouse (2026): My Picks After Testing Dozens of Mice",
+      "url": "https://www.wired.com/gallery/best-gaming-mouse/",
+      "source": "Wired"
+    },
+    {
+      "id": 38,
+      "title": "Thuma Dupes: Japanese Joinery Bed Frames That Stack Up (2026)",
+      "url": "https://www.wired.com/gallery/japanese-joinery-bed-frames/",
+      "source": "Wired"
+    },
+    {
+      "id": 39,
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "source": "Wired"
+    },
+    {
+      "id": 40,
+      "title": "Best Robot Vacuum of 2026: Shark, Eufy, Roborock",
+      "url": "https://www.wired.com/story/best-robot-vacuum/",
+      "source": "Wired"
+    },
+    {
+      "id": 41,
+      "title": "How Do Cooking Pros Decide the ‘Best’ Recipe for Something?",
+      "url": "https://www.wired.com/story/how-do-cooking-pros-decide-what-the-best-recipe-is/",
+      "source": "Wired"
+    },
+    {
+      "id": 42,
+      "title": "The Best Bed Frames, Tested in Our Own Rooms (2026)",
+      "url": "https://www.wired.com/story/best-bed-frames/",
+      "source": "Wired"
+    },
+    {
+      "id": 43,
+      "title": "Octopuses Use a Multi-Step Process to Squeeze Into Tiny Spaces",
+      "url": "https://www.wired.com/story/octopuses-use-a-multi-step-process-to-squeeze-into-tiny-spaces/",
+      "source": "Wired"
+    },
+    {
+      "id": 44,
+      "title": "The next generation of bionic hands is here—and they can feel",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 45,
+      "title": "Lenovo Coupon Codes: 15% Off in November 2026",
+      "url": "https://www.wired.com/story/lenovo-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 46,
+      "title": "Chewy Promo Codes: 50% Off November 2026",
+      "url": "https://www.wired.com/story/chewy-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 47,
+      "title": "Office Depot Coupons: $20 Off November 2026",
+      "url": "https://www.wired.com/story/office-depot-promo-codes/",
+      "source": "Wired"
+    },
+    {
+      "id": 48,
+      "title": "LG Promo Code: 40% Off for November 2026",
+      "url": "https://www.wired.com/story/lg-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 49,
+      "title": "30% Off Canon Promo Codes | November 2026",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 50,
+      "title": "50% Off DoorDash Promo Code | November 2026",
+      "url": "https://www.wired.com/story/doordash-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 51,
+      "title": "Disney Plus Discount Codes: 52% Off November 2026",
+      "url": "https://www.wired.com/story/disney-plus-discounts/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "Paramount+ Coupon Codes and Deals for 2026",
+      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "AT&T Promo Codes: $50 Off This November 2026",
+      "url": "https://www.wired.com/story/att-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+      "url": "https://www.wired.com/story/legalzoom-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "20% Off Samsung Promo Code | November 2026",
+      "url": "https://www.wired.com/story/samsung-promo-codes/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Design Within Reach Promo Codes: 30% Off | November 2026",
+      "url": "https://www.wired.com/story/design-within-reach-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 57,
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 58,
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 59,
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 60,
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 61,
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 62,
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 63,
+      "title": "WhipDesk",
+      "url": "https://www.producthunt.com/products/whipdesk",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 64,
+      "title": "Claude-Mem Cloud Sync",
+      "url": "https://www.producthunt.com/products/claude-mem",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 65,
+      "title": "Superframes",
+      "url": "https://www.producthunt.com/products/superframes-ai-video-editor",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 66,
+      "title": "Ground",
+      "url": "https://www.producthunt.com/products/ground-2",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 67,
+      "title": "Fairwind",
+      "url": "https://www.producthunt.com/products/fairwind",
+      "source": "Product Hunt"
+    }
+  ]
+}
