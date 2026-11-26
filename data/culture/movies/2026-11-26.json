@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T19:51:05.488491+00:00",
+  "tonight": {
+    "title": "Avengers: Doomsday",
+    "meta": "2026 · Science Fiction · 2h 45m",
+    "why": "Tonight, dive into the unsettling psyche of a notorious tech mogul with 'You Can See Everything.' This docu-thriller offers an unnervingly intimate portrait of a convicted founder's final days of freedom, blurring the lines between confession and continued manipulation.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg"
+  },
+  "releases": [
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "take": "Before Katniss, there was another Quarter Quell, proving Panem's favorite pastime has always been brutal reality TV.",
+      "score": 78,
+      "geo": "world"
+    },
+    {
+      "title": "The Odyssey",
+      "take": "Odysseus's commute home makes your worst traffic jam look like a leisurely stroll through Elysium.",
+      "score": 80,
+      "geo": "world"
+    },
+    {
+      "title": "Hexed",
+      "take": "Suburban angst meets magical mayhem, proving that some teenage rebellions come with a side of spellcasting.",
+      "score": 59,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "You Can See Everything",
+    "blurb": "For an epic journey that truly tests the human spirit, 'The Odyssey' delivers a visually stunning and emotionally resonant adaptation of the classic tale. It's a grand adventure that reminds us why some stories endure for millennia.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
