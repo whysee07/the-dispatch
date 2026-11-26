@@ -1,0 +1,585 @@
+{
+  "feed": "brief",
+  "feed_name": "Daily Brief",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T19:39:55.049214+00:00",
+  "raw_text": "Alright, buckle up, buttercup. It's Thursday, November 26, 2026, and your favorite news-junkie-slash-hot-take-machine is here to drop the daily download. Forget the turkey coma, the real feast is in these headlines.\n\n***\n\nMoney Talk\n\n- **Trump claims \"record setting error\" on GDP.**\n  President Trump is fuming over a massive upward revision to Q3 GDP data, calling it a \"mistake\" and demanding an \"immediate investigation.\" Because, you know, good economic news *must* be fake if it doesn't fit the narrative. [S1][S16]\n- **Semiconductor chips officially the new black gold.**\n  For the first time ever, semiconductor exports have blown past oil and gas in 2026, driven by insatiable AI demand. If you're not investing in silicon, you're missing the next era of resource wars. [S3]\n- **Spain's de Cos to helm European Central Bank.**\n  Pablo Hernández de Cos, former Bank of Spain governor, is set to take the reins at the ECB, succeeding Christine Lagarde. He's walking into a political minefield with choppy growth ahead – good luck, pal. [S5][S15]\n- **UK road projects axed for defense spending.**\n  Two major East Midlands road schemes, including A38 upgrades, are getting shelved. £400m diverted to defense. Regional mayors are calling it \"disappointing and short-sighted,\" probably because they still have to drive on those roads. [S11]\n- **Norse Atlantic teeters on the brink of collapse.**\n  The airline has suspended all flights and is desperately seeking urgent funding to avoid bankruptcy. Another one bites the dust in the hyper-competitive world of budget air travel. [S9]\n\nWorld Lore\n\n- **North Korea's Kim doubles down on nukes.**\n  Kim Jong Un is reportedly visiting nuclear ingredient facilities, vowing to build more weapons to counter threats from the U.S. and South Korea. So, same old song, just louder bass. [S22]\n- **Trump \"urged Putin to pull back\" in Europe.**\n  President Trump claims he talked to Putin about de-escalating military aggression in Europe and believes a deal between Russia and Ukraine is possible. Because a quick chat is all it takes, apparently. [S34]\n- **Congo Ebola outbreak hits 12,000 cases amidst fighting.**\n  The fast-moving Ebola outbreak in eastern Congo is now at 12,000 cases, with conflict between rebels and the army actively messing up containment efforts. It’s a tragic reminder that geopolitics doesn't pause for pandemics. [S21]\n- **Trial begins for alleged Russian spy in Berlin.**\n  A Berlin woman accused of spying for Russia, using her military contacts to funnel German defense info and Ukraine intel, is finally facing trial after health delays. Talk about a holiday buzzkill. [S31]\n- **Iraqi Kurdistan protests Baghdad's oil takeover.**\n  Thousands are demonstrating in Iraqi Kurdistan's capital, pushing back against Baghdad's plans to seize control of oil operations and border crossings. More internal friction in a region that really doesn't need it. [S35]\n\nTech Tea\n\n- **Musk's SpaceX gets green light for orbital AI data centers.**\n  The FCC has approved Elon Musk’s ambitious plan to launch one million Starmind satellites for in-space data processing. Supporters tout energy efficiency, but expect some celestial traffic jams. [S13][S45]\n- **X finally adds parental controls after two decades.**\n  Elon Musk's social network X (formerly Twitter) has *finally* introduced parental controls for teenagers. Only took twenty years to realize kids might be on the internet. Better late than never, I guess? [S41]\n- **S&P eyes Nvidia downgrade over \"key man\" risks.**\n  Credit rating agency S&P is considering lowering Nvidia's credit rating, citing governance concerns and \"key man\" risks. Even chip titans aren't immune to scrutiny, especially when they're essentially the new oil. [S44]\n- **Android devs forced to dox themselves.**\n  Google is requiring independent Android app developers to publicly share their phone number and address starting next year, citing EU regulations. Privacy concerns are, understandably, through the roof. [S48]\n- **AI turns Thanksgiving sous-chef (and maybe therapist).**\n  From cookbooks to YouTube to ChatGPT, AI is now officially in the kitchen, helping plan holiday menus. Just make sure your chatbot isn't trying to replace Grandma's secret recipe for passive aggression. [S19]\n\nCreator Szn\n\n- **Brands desperately trying to score creator content.**\n  As social trends move faster than a TikTok dance challenge, brands like General Mills are trying to systematize how they measure a creator's post for \"shareability.\" Good luck quantifying organic buzz, marketing folks. [S56]\n- **Dick's Sporting Goods enters ad game with youth sports.**\n  Dick's is betting big on youth sports, turning its GameChanger platform into a premium ad business. Monetizing pee-wee leagues? That's a bold play, Cotton. [S57]\n- **The \"clipping economy\" faces platform crackdown.**\n  The wild west of content clipping is getting tamed as platforms tighten up, forcing creators to rethink how they manage and control their bite-sized content. Time to get creative or get sued. [S59]\n- **AI is shaping holiday shopping research.**\n  Shoppers are increasingly turning to AI for product research ahead of Black Friday, leaving marketers scrambling to figure out how to pivot. If your AI isn't recommending the perfect gadget, it's not doing its job. [S60]\n- **New customer acquisition is holiday season's top priority.**\n  With Black Friday Cyber Monday upon us, brands like A-Frame and Ritual are laser-focused on reeling in new customers. It's a crowded market out there, so expect your inbox to be a war zone. [S58]\n\nSupply Lines\n\n- **UPS acquires Smartways Logistics to boost healthcare footprint.**\n  UPS is making a big move in Australia and New Zealand's healthcare logistics sector by acquiring Smartways Logistics. This deal adds couriers reaching ~1,300 hospitals daily, seriously expanding UPS's specialized delivery network down under. [S76][S77][S78][S79]\n- **FedEx MD-11 overshoots Miami runway.**\n  A FedEx cargo jet ran off the runway at Miami airport on Thanksgiving Eve, ending up in a grassy field. Déjà vu for Miami, and definitely not the kind of \"special delivery\" anyone wants. [S61][S85]\n- **DHL partners across Africa to empower SMEs.**\n  DHL is making serious moves in Africa, teaming up with Equity Bank to support SMEs in five African markets, engaging with Ghana's Trade Minister, and partnering with the Chinese Chamber to boost Nigeria-China trade. Talk about a multimodal efficiency play. [S80][S81][S82][S83][S84]\n- **Ex-Convoy CEO's new startup raises $277 million in stealth.**\n  The former Convoy CEO's new logistics startup has emerged from stealth mode with a massive $277 million in funding. Another big player is entering the freight tech arena, signaling continued innovation (and probably more disruption). [S96]\n- **Ocean freight rates still double last year, congestion lingers.**\n  DHL reports ocean rates are still 138% higher than 2025, with 3.6 million TEUs stuck in congestion. Shippers are prioritizing resilience over price for the 2027 RFQ season, because nobody wants a repeat of the past few years. [S63]\n- **Nvidia halts server shipments to parts of Asia due to US export rules.**\n  New US export controls have caused Nvidia to tell manufacturing partners to stop shipping servers with its chips to Malaysia, Singapore, Thailand, and Indonesia. This could seriously impact airfreight for high-value tech goods. [S71]\n- **Cargo crime gangs exploit staffing shortages for holiday heists.**\n  Verisk CargoNet warns that criminals are infiltrating US haulage firms by posing as drivers and dispatchers to steal shipments, with data center hardware and metals being prime targets. Staffing shortages are making the industry a juicy target for these patient planners. [S72]\n\nSpeed Round\n\n- Donald Trump pledges two SpaceX shares for every child in America, an $18 billion giveaway.\n- Macy's Thanksgiving Day Parade postponed for the first time ever due to an impending nor'easter.\n- An East Coast storm is disrupting Thanksgiving travel and could cause coastal flooding.\n- Federal judge blocks the FCC from reviewing ABC's licenses early, upholding free speech.\n- Elon Musk's MacBook Neo and Garmin Forerunner are seeing rare Black Friday discounts.\n- PETA alleges animal abuse in PepsiCo’s sugar sourcing supply chain.\n- The EU Court is putting Amazon-style delivery networks in its regulatory crosshairs.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 2,
+      "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+      "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 3,
+      "title": "Semiconductor chips are the new oil. Here's why",
+      "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 4,
+      "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+      "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 5,
+      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "source": "CNBC"
+    },
+    {
+      "id": 6,
+      "title": "When will Poundland shops close? Five key questions answered",
+      "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 7,
+      "title": "When will Poundland shops close? Five key questions answered",
+      "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 8,
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 9,
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 10,
+      "title": "Millions of people to see average monthly mortgage payments rise by £100",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business"
+    },
+    {
+      "id": 11,
+      "title": "Major East Midlands road projects shelved to divert funding to defence",
+      "url": "https://www.theguardian.com/world/2026/nov/26/major-east-midlands-road-projects-shelved-to-divert-funding-to-defence",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 12,
+      "title": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
+      "url": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 13,
+      "title": "Can Elon Musk really put AI datacentres in space? - The Latest",
+      "url": "https://www.theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 14,
+      "title": "Some old-school advice for Burnham: boost competition if you want growth | Nils Pratley",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/26/old-school-advice-burnham-boost-competition-if-you-want-growth",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 15,
+      "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+      "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+      "source": "Guardian Business"
+    },
+    {
+      "id": 16,
+      "title": "Trump demands investigation into GDP data revisions",
+      "url": "https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics",
+      "source": "Axios"
+    },
+    {
+      "id": 17,
+      "title": "Musk makes $18 billion SpaceX stock pledge for every kid in America",
+      "url": "https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts",
+      "source": "Axios"
+    },
+    {
+      "id": 18,
+      "title": "The pros and cons of Medicare for All",
+      "url": "https://www.axios.com/2026/11/26/medicare-for-all-pros-and-cons",
+      "source": "Axios"
+    },
+    {
+      "id": 19,
+      "title": "Cookbook GPT: When AI becomes a Thanksgiving sous-chef",
+      "url": "https://www.axios.com/2026/11/26/ai-thanksgiving-meals-chefs",
+      "source": "Axios"
+    },
+    {
+      "id": 20,
+      "title": "Macy's Thanksgiving parade postponed for the first time in the event's history",
+      "url": "https://www.axios.com/2026/11/25/macys-thanksgiving-parade-2026-balloons-weather",
+      "source": "Axios"
+    },
+    {
+      "id": 21,
+      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+      "source": "NPR World"
+    },
+    {
+      "id": 22,
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+      "source": "NPR World"
+    },
+    {
+      "id": 23,
+      "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+      "source": "NPR World"
+    },
+    {
+      "id": 24,
+      "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+      "source": "NPR World"
+    },
+    {
+      "id": 25,
+      "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+      "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+      "source": "NPR World"
+    },
+    {
+      "id": 26,
+      "title": "The Top 10 Reasons to Be Thankful in 2026",
+      "url": "https://foreignpolicy.com/2026/11/26/thanksgiving-trump-thankful-list/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 27,
+      "title": "The Chaos Theory of International Relations",
+      "url": "https://foreignpolicy.com/2026/11/26/the-chaos-theory-of-international-relations/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 28,
+      "title": "Europe’s Economic Sovereignty Is All Talk and Little Action",
+      "url": "https://foreignpolicy.com/2026/11/26/eu-europe-economic-security-sovereignty-derisking-decoupling-dependence-united-states-china/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 29,
+      "title": "Pedro Sánchez’s Big Bet",
+      "url": "https://foreignpolicy.com/2026/11/26/spain-election-housing-crisis-sanchez-feijoo/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 30,
+      "title": "Against an Axis of Anything",
+      "url": "https://foreignpolicy.com/2026/11/25/against-axis-of-anything/",
+      "source": "Foreign Policy"
+    },
+    {
+      "id": 31,
+      "title": "Trial of Berlin woman accused of spying for Russia begins after delay",
+      "url": "https://www.dw.com/en/trial-of-berlin-woman-accused-of-spying-for-russia-begins-after-delay/a-80057677?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 32,
+      "title": "Saudi pop music is thriving — but for the right reasons?",
+      "url": "https://www.dw.com/en/saudi-pop-music-is-thriving-but-for-the-right-reasons/a-80036013?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 33,
+      "title": "On farewell trip, Steinmeier calls for more investment in Africa",
+      "url": "https://www.dw.com/en/on-farewell-trip-steinmeier-calls-for-more-investment-in-africa/a-80067717?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 34,
+      "title": "Trump says he urged Putin to 'pull back' military aggression in Europe",
+      "url": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 35,
+      "title": "Protests in Iraqi Kurdistan at plans for government in Baghdad to take over oil, border crossings",
+      "url": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-all-1573-rdf",
+      "source": "DW"
+    },
+    {
+      "id": 36,
+      "title": "George Whitesides, 1939-2026",
+      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+      "source": "Hacker News"
+    },
+    {
+      "id": 37,
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 38,
+      "title": "YouTube Ad Punisher – Bypass anti-adblock",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "source": "Hacker News"
+    },
+    {
+      "id": 39,
+      "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning",
+      "url": "https://github.com/deepseek-ai/deepseek-math",
+      "source": "Hacker News"
+    },
+    {
+      "id": 40,
+      "title": "Tracking Diseases Cured by AI",
+      "url": "https://diseasescuredbyai.com/",
+      "source": "Hacker News"
+    },
+    {
+      "id": 41,
+      "title": "X finally gets parental controls after 20 years",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 42,
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 43,
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 44,
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 45,
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 46,
+      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "source": "The Verge"
+    },
+    {
+      "id": 47,
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 48,
+      "title": "Android app developers will soon have to share their address publicly",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "source": "The Verge"
+    },
+    {
+      "id": 49,
+      "title": "The best Black Friday deals we’ve already found",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 50,
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "source": "The Verge"
+    },
+    {
+      "id": 51,
+      "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
+      "url": "https://www.wired.com/gallery/best-meal-kit-services-1/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "10 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+      "url": "https://www.wired.com/gallery/best-office-chairs/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "The Best MagSafe Wallets for Your Everyday Carry (2026)",
+      "url": "https://www.wired.com/gallery/best-magsafe-wallets/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
+      "url": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Brands race to systematize how to know what makes creator content worth paying for",
+      "url": "https://digiday.com/marketing/brands-race-to-systematize-how-to-know-what-makes-creator-content-worth-paying-for/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 57,
+      "title": "Dick’s Sporting Goods is turning youth sports into a premium ad business",
+      "url": "https://digiday.com/marketing/dicks-sporting-goods-is-turning-youth-sports-into-a-premium-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 58,
+      "title": "Digiday+ Research: A-Frame Brands, Ritual and other brands prioritize new customer acquisition this holiday season",
+      "url": "https://digiday.com/marketing/digiday-research-a-frame-brands-ritual-and-other-brands-prioritize-new-customer-acquisition-this-holiday-season/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 59,
+      "title": "The clipping economy is changing as platforms crack down and creators seek control",
+      "url": "https://digiday.com/media/the-clipping-economy-is-changing-as-platforms-crack-down-and-creators-seek-control/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 60,
+      "title": "In Graphic Detail: How shoppers are adopting AI for product research ahead of Black Friday",
+      "url": "https://digiday.com/marketing/in-graphic-detail-how-shoppers-are-adopting-ai-for-product-research-ahead-of-black-friday/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 61,
+      "title": "Déjà vu in Miami as FedEx MD-11 freighter overshoots runway",
+      "url": "https://www.freightwaves.com/news/deja-vu-in-miami-as-fedex-md-11-freighter-overshoots-runway",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 62,
+      "title": "5 non-domiciled drivers want CDLs reinstated as battle separately moves through courts",
+      "url": "https://www.freightwaves.com/news/5-non-domiciled-drivers-want-cdls-reinstated-as-battle-separately-moves-through-courts",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 63,
+      "title": "Ocean rates still double last year as congestion idles 3.6 million TEUs",
+      "url": "https://www.freightwaves.com/news/ocean-rates-still-double-last-year-as-congestion-idles-3-6-million-teus",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 64,
+      "title": "Asia-US West Coast container spot rates fall below $8,000 as US avoids LA-Long Beach port strike",
+      "url": "https://www.freightwaves.com/news/asia-us-west-coast-container-spot-rates-fall-below-8000-as-us-avoids-la-long-beach-port-strike",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 65,
+      "title": "Shein feels impact of EU import fees as revenue slides 6%",
+      "url": "https://www.freightwaves.com/news/shein-feels-impact-of-eu-import-fees-as-revenue-slides-6",
+      "source": "FreightWaves"
+    },
+    {
+      "id": 66,
+      "title": "Molson Coors, Primo Brands use fuel hedging to tackle logistics costs",
+      "url": "https://www.supplychaindive.com/news/molson-coors-primo-brands-use-fuel-hedging-to-tackle-logistics-costs/875552/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 67,
+      "title": "US readies tariffs over manufacturing capacity, production concerns",
+      "url": "https://www.supplychaindive.com/news/us-readies-tariffs-over-manufacturing-capacity-production-concerns/875639/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 68,
+      "title": "PETA alleges animal abuse in PepsiCo’s supply chain",
+      "url": "https://www.supplychaindive.com/news/peta-alleges-animal-abuse-in-pepsicos-supply-chain/875654/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 69,
+      "title": "USPS to upgrade 16 sites just before peak season rush",
+      "url": "https://www.supplychaindive.com/news/usps-to-upgrade-16-sites-just-before-peak-season-rush/875592/",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "id": 70,
+      "title": "Green shipping needs global, rather than costlier regional, rules",
+      "url": "https://theloadstar.com/green-shipping-needs-global-rather-than-costlier-regional-rules/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 71,
+      "title": "Nvidia halts server shipments to Asian markets as new US export rules bite",
+      "url": "https://theloadstar.com/nvidia-halts-server-shipments-to-asian-markets-as-new-us-export-rules-bite/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 72,
+      "title": "Cargo crime gangs are patient, and they ‘plan around the calendar’",
+      "url": "https://theloadstar.com/cargo-crime-gangs-are-patient-and-they-plan-around-the-calendar/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 73,
+      "title": "‘Aramex + Noatum’ – what I thought I knew and then I didn’t",
+      "url": "https://theloadstar.com/aramex-noatum-what-i-thought-i-knew-and-then-i-didnt/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 74,
+      "title": "Cosco looks forward to fleet expansion as revenue and profits rise",
+      "url": "https://theloadstar.com/cosco-looks-forward-to-fleet-expansion-as-revenue-and-profits-rise/",
+      "source": "The Loadstar"
+    },
+    {
+      "id": 75,
+      "title": "Watch Marc Levinson on How UPS Created Modern Logistics - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0JNdnc0RVlZS3lMLV9Ub0JMbjdIa2ZuSzFpNDRyUGt1ME5wd3VuTkZSaDNvZ3VhcEJwdUZlRWpEa1NObUFEb050ZkZTU0pmamVmSnlrWHNjRVo4MndMWFMweHNlTzBRMTV1dlAwTHRlMUotSTlJV1dpLWNFd1YwQUdkSjEwZEticklBLXFHczVrdWRQeTZUQnNyX3B3NkxLM1JwbW1Uaw?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 76,
+      "title": "UPS to acquire Smartways Logistics - Logistics Magazine - Australia",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjBoXzUyejU3OTdEWldKbVMtNWp0Y2VwZnlPbjVoOEMtRUxnLUlFeWNTaEp1d2FrTHNkUW54SEp4MkNnOEx4dm5jaXZYNUUzMThremVoM0RxQVpra1Q5SDVKbGIzWms5VzFCMGlUTVFWcTBrZkZJRDFPRmRUS0x5UEhB?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 77,
+      "title": "UPS Targets Australia And New Zealand Healthcare Logistics With Smartways Acquisition - London Insider",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2EwTjlfUzZLVzl6VTN1eVhvT2l5WHU3SWg5SGpaTjZiUEZHRlhBQnNUZHVyWmViVmRYbHBsQjVhZE12dnQxMjB0N3Z6NmRWSXRraHZ1Wkt5LVlnc2M0R3RBcWpJWnhIVWdjdXJ5a2NtYUMxT0cxOWVPRU9Pd1pPNEVCaC1KbjFiNWJPa25mTi0yVnlLc04xV1ViNVIwdzBibjAtbGV4ZGg3RmdrQ01TUG43aE8?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 78,
+      "title": "UPS's Smartways deal adds couriers reaching about 1,300 hospitals a day - MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRldHZ2tWQlU2czlZQjJmWmJadXM5a1lOa0lYVTNIRDdXb2NCNjNrMWJ1TkF1TnNKSjBNMGZyemZNRExJUjEtTEVWWlJ4UHY1VlVCN3ljTzZuM1hJdVlVNXhRaXZnOHJVVlVUS1ZZVHYtSXItLXlHVi1HZFp6Z1ZKRkpFZWxoMnc5THkwazByRnVTeVdNRm5JUzNmNVhqR1U0MmlCTlhEX1hyN1NHdGNseDdzaW96N09yOWFCeWJVWmk?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 79,
+      "title": "UPS Targets Health Care Logistics Growth With Smartways Acquisition Across Australia And New Zealand - London Insider",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUE9RNkRzSm90TS05S1R0cHdZVVgxMVR6eGZ1VnpMNG51R3dnZDRFMXk0SG9tYmJNdXE2cHFFVnVMS3NCdklBSXA1NFpVVEFINHNTUWV6WDIyNThsdFdwVGVGZHctRm02cTI2RVVpUDNLdmlmajlMQlNpdFVBZFZ3aWlvT2RtVE4zMWNrajk4YV9oTktXMFE3Vlpuc00yYmFLSG1paXVmT05iV3N0WjcydGJsSUlEZ0gwOS1BY29RYzBRU3RKdnFZYQ?oc=5",
+      "source": "UPS News"
+    },
+    {
+      "id": 80,
+      "title": "Trade Minister engages DHL, Volkswagen to boost logistics and automotive investment in Ghana - MyJoyOnline",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnBLT1VqU2ktbWJNZk9UQy1FajBkTUEwbWJWQm42UEphOXJ5ZlJqYUdadll2aGN3Wjc3N2w2WTNEdkpMOVNVdlRKZkUtbkh1cEltOTdTUkR1YkRLVTV6SnRfM3gxQmNRTXJsREVmXzNtTlBBQ1ZhYmVJWDFnWF8tVkFPdWVROGFPb0ZaQ0d0SmYzaWQtR0FUVDBtUU40QklsWGlldlNmcHY1V1JQTThTNUljSWE2SjdUWEFQRQ?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 81,
+      "title": "Equity Bank, DHL team up to support SMEs in five African markets - Capital FM Africa",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV213ZzhxR1RpdWJpS0pPS1VnQmFKV1BiazZPVWNKbFVrU21xQ00yaVJ0NXFZcWM1RU5aaXViMDVEZWlDMTdCVGdLRHhDdFU2U2syYnYyNzUzUC1EQmI3Y0x3S2tRNmJxVXhMal91Zmw4aEJWQmFiNjY0Y202YkJlUjFPaXpfNEh3VFBCM09FUHY4R0E?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 82,
+      "title": "DHL: A Multimodal Navigation for Group Efficiency - Supply Chain Digital Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnZVcTAyVkZIcWU4UlNzY04yR0N2Q3BGQ09tQXlvckxHWVlaNTd3eUFwN3lTZ2Q2T2hzWUFkTnFObXZVdzFZN0FsQVZURzF0TUtHb25Jc0JiZHNHRTBJR3JOSFdHUC02WXpWMW5UYTM4MHR3Mmx3aEh3Q2lvZVBoMzZQWW8xYktXN0JmQQ?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 83,
+      "title": "DHL Express and Equity Bank partner to boost cross-border trade for African SMEs - HapaKenya -",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSG0ycHJLbklpWmRKUzJrMVhNbEI4WjRTdzdjV2pEZ2lMWFdGTFFWQ0NoN1R4SVQ3cHhTWDBrbW80WjU3Y0dXWGc5QTRtVmN4SHRwUG5NU1FOLUxRN2tzUExYdUZiTGNWRy03WDJXWXlvaWUxTHZ4WXRScURnQ0Y0ZXpFWElUZ0Zkb1BEUE02YlhMT1ZOSUZDdzZxTkxHSVNCY0NVS0puZmNWLXpUUDVJNUlXTFk?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 84,
+      "title": "DHL, Chinese Chamber Partner to Boost Nigeria-China Trade, Support Businesses - Independent Newspaper Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSFkybnhUaWluNWZDUF9zYUlmdmRqVnZWTzQxbzFUQ3hORWZjQWlaWDE1Q01zMkNEMWV1UnE1V0JBLTZoWkZDWWg3SUxDU0N1MUNUaDZvdWJVN3ZQSE5Lb2EtM3lnVnNiUUN1Wmp6X0RjM0o4aDFKSHdDOURBSW5ZbjI4RkFvSjBJdzRDc1ZHNWQxZjBhLUNHbzVGeFAyUm9N?oc=5",
+      "source": "DHL News"
+    },
+    {
+      "id": 85,
+      "title": "FedEx Plane Overshoots Runway at Miami Airport on Thanksgiving Eve - Tempo.co English",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWJLaDhod1E2eUJzeTNIWFhUTzdDVEpQRG55THdzTDN1WGV4ZEtYcGg1T3RkUW5nSExPNHNkUGZ2UFFVZ0dOTXlNQWhlaTJsUWJ0QXVwcTdkY1NubHhmUnhsTWNqbEFsTEtId0VVenF2VW4ybTVSVXBTOTVQNGdZcGpScWtRQUFDcFBFU3lqSzRqTmU3QXlrTk1hXzk3cDZj?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 86,
+      "title": "FedEx stock at EUR 282.35, up 1.93% vs. Wednesday's Xetra close - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmlvb2xPRXJYVVVCSGY3SGF2X2FneGIyR3RlS3BPWWlKNWIxN2d2NTctbVZCT3Z6aGtTbmJmWUVlM2RUNTZuQ2EweldKYzQ3YW1SVTZOOEtESUE3elFsTjBWOXp1R3dQbjBkbHdyQ1V3U3RRLUxPaHdoUjZYeDJVRXZfZG1SMVFDOFV0dkxFZjhUTXhaazNwRFZGNXJfREVnYjhJTFUyeFNVZGFVSEFfLWtzMHpnYWtSMWc?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 87,
+      "title": "FedEx invests in Brazil's largest logistics center in Latin America, expands storage over 60%, reaching 90,000 pallet positions - CPG Click Oil and Gas",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPblNWUnl2MU9XYTA5ODZnMmpORkRLVGtoS1FpTWJMS0RzV2VNdHRqU0lzbDZoZy1ZZ3J4NGpFbWtZUHZ6YmRiREpxOEtJSmRDTG5OTlI1d01qZGlVMHhlaDE5M3BWXy1lai1qRmdGNTVQdWVOci1Na3phbHFRZ09kcDBzQ192dlItSXRJMjRQTHBhYnozc19sMUE3OHI2UDV4RzJ4MHNyMGkxNV9RaU1HMzlDU3dGdnpMbDFVLS1vRUxicmdMeWcwc0pYNXlHY1owSjB1SGVtNVVHRkEtakFDWUs0aFB3OEM1RnNKSlRJeklvcXA4V1ZKRFlJT0c0S0NZNmJBYjRnNA?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 88,
+      "title": "FedEx, UPS implement holiday shipping fee for oversized packages - WSVN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03MHczbDFhWHNLYmRFNF9FcDV0ems2UHdmQmlCSzBLZlcweGV1SkNhQ3d0X3JfNUtGa2h4NzZPZVN2UnhDTmd3dmNqeVVvNG05b3ZZYWRHOXY3ZzR5d21vMXZsemZKbXM5OFlZa1NQX2hhbzJfekZ3aA?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 89,
+      "title": "Banks, Post Offices, UPS, FedEx Close Thanksgiving - Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSVU0ZjRqMWVxNDdpdFRKeHU1SVM4T05wVE9YY1dKU3pKMnNFYkhkVnBXOVBNbk9kYTRWQU1SZS1rMmlOVHpCOHhXTFVzWF83ZkhPeWFTenNuLUhmbG1SUk9NenJJc0M4TWZSVVhMLV9rdmFKNFRweUpPdGZjS1d3RlhpOFRhS0lVSFJaUkp2b1lGeFZMaGN2ZnB3?oc=5",
+      "source": "FedEx News"
+    },
+    {
+      "id": 90,
+      "title": "Amazon delivery service turns a simple shampoo order into a federal investigation - https://latination.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOHZCYXEtS1p2VjdJQjBBdGJ3YXgxVFQ1b2FsRHl5bTdncmRScXJrM0lOLVl0ajRyeXFLN2ExZWljTjJOakd1VWVZRmxfVDdWWWl1OGRZWlV1YUhaZ2JIcWZycG1tcFVleF96NXB2RGJlaHh1cUw5YVAyVlRHdlRITXNCbFU0akE?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 91,
+      "title": "Corsair’s 16-button wireless MMO mouse is half its list price, but delivery could take a while - MIXED News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHdOOHJkVTFJd0tCcmlJdEpOaUp4MVJ5djktT0FNMGFuckVZUUF0OW9IZV9Wd2FPQzlmaWZfcExmajV6X091RkFvNGZEYk5iVVNya2IyUU9oWDR6Q3JuSXIxSW9TOEZNVDE5YlVRUGlyQ2Q1Rm8zX2JQQmx5anFXNDkxbEQ0NXprdFVV?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 92,
+      "title": "EU Court Puts Amazon-Style Delivery Networks in the Regulatory Crosshairs - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSW85Qnhac2FkWUtiNUlvbnZxcVBqeFFyUmpRQXBJOXkwOWN5MWJsUEtnb3FuNEhURFFPRkl3WE81UHhDUERyZzVoNk05emp0UVJuUDlPYVRDNUJvTGt4OEI1X01QMUozRFExcGQ3aWc0aHd6OG51UW5na3MzN0NRbUxUaklfSlNnbFp6UTRQaFJnZGdMQnlUUE9FeXEzalRnREpPTTg3cDFHeDFnLUpZNjV6ZWk4NkV5V2VHWlpyYXQ5eTdScEE?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 93,
+      "title": "Shooter in SUV follows Amazon driver, fires multiple rounds at his vehicle in Barrington Hills - Lake and McHenry County Scanner",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcl90bm9QdmtDWHZ3NnZISWVicjRySWg5S1NhLXFISnJVTWNfRlltbEdCemtnRWVyVWs1ZE44eFZ1dlQ0am05QVVoQmUtbFhhUzFxOVFtOU1uMVRfc2x4UFRQeGktVXVEYzF3Ri1ybTg3TkJXaGJQelE1YjQyQW9PNVRqdE92c1h2TXNET1JwVDB5eExvWG9jT1RJNXJvdzRvalUxampiRjdQSEJRZDZQSGxxTWxPZlNqYXo5clZfalgxV2t6ZDNETGtPX19WWUZJNmZKM0NDQQ?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 94,
+      "title": "Amazon Drone Complaints Hit Canyon County. It Can't Regulate Airspace - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1NDLTNaWkZ0U2Z1QUxfNXItUnAycVZOMENYNDVzXzAyRmREcHVuMFhDclgtd3l1UDJESllpSzF3SVJrWVVWaFpKU0VJckpGUWdVc1p4Y1NBT0VsTm9BbWxwTTRVREVway13bU0tejFvQmZTejd0YTVsZ2RjQmUtS3dwRW1ZVU5VRXVxTUVQNlRmSWdsRVJR?oc=5",
+      "source": "Amazon Logistics"
+    },
+    {
+      "id": 95,
+      "title": "Startup news and updates: Daily roundup (November 25, 2026) - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEdUQVdZVnZ6em5LNlE2ZWlGbXp1M1pTZFZZQVlobUhIMDYzY0x6Y09Wc0xFVXQwX0tVeGRxYWRKY1FObm1VWXJOai1HWlpIVzN4Vk9PNXZWZ3U5bU56RXQ0MVdYMDJWRGZ6TVpDMVQ0MmRNT0hTTjk0RlV2SlYyNkltUWs1c1Q4aFBhNUd3?oc=5",
+      "source": "Logistics Startups"
+    },
+    {
+      "id": 96,
+      "title": "Ex-Convoy CEO's new startup emerges from stealth with $277 million - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOby0tT2xpX1lTTlItSTQ2X3BpdkxDbklsQkl3NVZ3Z2lBY1NMc0w2X1BSN0o0MzBkOGlueVR5TjF6YXA2TDZlZmNDQTZEdkFvd0pnWEpydGJONC1RU2dhTkY4Z2g1TVV1aHRvZHJnaUFiVF9CSVJkNjdWWWZGSENURTB1MzVQVmFGY2hOMk9YMHVIZWh0UnpnR2tyelR1TDYxMHJsNWNSVGY?oc=5",
+      "source": "Logistics Startups"
+    }
+  ]
+}
