@@ -1,0 +1,46 @@
+{
+  "section": "movies",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T19:40:17.475325+00:00",
+  "tonight": {
+    "title": "Avengers: Doomsday",
+    "meta": "2026 · Science Fiction · 2h 45m",
+    "why": "Forget your troubles and dive headfirst into the ultimate superhero mashup where three universes collide! This isn't just a movie; it's a cataclysmic event you won't want to miss.",
+    "where": [],
+    "geo": "world",
+    "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg"
+  },
+  "releases": [
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "take": "Before Katniss, there was another Quarter Quell, proving Panem's penchant for brutal entertainment has always been disturbingly strong.",
+      "score": 78,
+      "geo": "world"
+    },
+    {
+      "title": "The Odyssey",
+      "take": "Odysseus's commute home makes your worst traffic jam look like a leisurely stroll, complete with mythological monsters and divine interference.",
+      "score": 80,
+      "geo": "world"
+    },
+    {
+      "title": "Street Fighter",
+      "take": "Ryu and Ken are back to kick some serious butt, because apparently, the only way to settle differences is with a global tournament of fists, fate, and fury.",
+      "score": 62,
+      "geo": "world"
+    }
+  ],
+  "critic": {
+    "title": "You Can See Everything",
+    "blurb": "For a journey that truly tests the human spirit against gods and monsters, *The Odyssey* stands as an unrivaled epic. It’s a timeless tale of cunning and resilience, a true literary masterpiece brought to the screen.",
+    "where": ""
+  },
+  "services": [
+    "Netflix",
+    "Prime Video",
+    "Max",
+    "Apple TV+",
+    "JioHotstar",
+    "MUBI"
+  ]
+}
