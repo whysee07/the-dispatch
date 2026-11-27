@@ -1,0 +1,429 @@
+{
+  "feed": "pmm",
+  "feed_name": "Marketing Brief",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T19:09:56.028618+00:00",
+  "raw_text": "☕ THE LEAD\n\nHappy Black Friday, marketers! Or should I say, Happy Black Friday *Season*? Because if your Black Friday strategy still thinks this is a single, frantic 24-hour dash, you're missing the forest for the heavily discounted trees. This year, like many before it, the \"floodgates\" of deals opened weeks ago, turning a high-stakes sprint into a prolonged, exhausting marathon for both brands and consumers [S1][S2]. The sheer volume of promotions across every category – from AirPods to robot vacuums to smart rings – is staggering, with retailers like Amazon, Best Buy, and Walmart pushing \"lowest prices ever\" and \"up to X% off\" messages relentlessly [S13][S17][S21][S22][S24][S28][S35]. What this means for marketers is that the traditional peak day is now just one inflection point in an extended sales cycle. The real challenge isn't just cutting through the noise on Friday, but building sustained engagement and anticipating consumer fatigue across the entire month of November. The one thing to remember: your Black Friday campaign needs a long game, not just a game day.\n\n📣 QUICK HITS\n\n**Creator Economy Gets Corporate**\nGaming superstar Cody \"Clix\" Conrod, boasting over 26 million followers across platforms, just launched his own holding company. This isn't just about sponsorships anymore; it’s a clear signal that top-tier creators are becoming media moguls, building businesses that transcend individual content creation. [S8]\n\n**Platforms: Show Your Safety Homework**\nAdweek is calling on social platforms to ditch the \"black box\" approach and provide verifiable data on their safety decisions for brands. With brand safety still a major concern, platforms need to offer more transparency if they want to build advertiser trust and keep those ad dollars flowing. [S4]\n\n**Gen Z Still Hits the Mall, But Differently**\nTurns out, mall rats never really went away, but Gen Z's Black Friday mall habits are distinct from previous generations. Marketers shouldn't write off physical retail for this demographic entirely, but understanding their specific in-store motivations is key. [S5]\n\n**AI Chips Get a Lighter Touch**\nA German company, Q.ANT, is developing a new type of chip that runs AI models using waves of light, aiming to drastically cut the energy consumption of complex AI calculations. This could be a game-changer for scaling AI applications, making them more sustainable and accessible. [S52]\n\n🎯 THE PMM DESK\n\n**B2B PMMs, Learn from B2C Growth Playbooks**\nThe Product Marketing Alliance is urging B2B product marketers to \"steal\" growth lessons from their B2C counterparts, particularly focusing on the customer journey, time to value (TTV) frameworks, and churn reduction strategies. It’s a smart reminder that customer experience isn’t just for consumer products. [S3]\n\n**AI for YouTube Creators: Onset Automates Content Prep**\nA new tool called Onset launched, offering AI-powered reviews, titles, and thumbnails specifically for YouTube creators. This is a classic PMM play: targeting a specific niche (creators) with a clear value proposition (saving time on content optimization) for a known platform (YouTube). [S12][S69]\n\n🧠 PMM 101\n\n**The concept:** Time to Value (TTV)\nWhat it is: TTV measures how quickly a new customer or user experiences the promised benefit or solves their problem using your product. It's the sprint from signup to \"aha!\" moment.\nWhy it matters: A shorter TTV leads to higher customer satisfaction, better retention, and stronger word-of-mouth.\nSee it today: The Product Marketing Alliance highlighted TTV frameworks as a key growth lesson B2B PMMs should adopt from B2C strategies. [S3]\nTry it: Pick a product you use regularly. Map out the first 24-48 hours of your experience with it. What was the first \"win\" you felt? What could have made that happen faster?\n\n🧩 PRODUCT CORNER\n\n**X Finally Adds Parental Controls (After Two Decades)**\nIn a move that's about 20 years overdue, X (formerly Twitter) has finally rolled out parental controls, allowing guardians to manage what teenagers see on the platform. While better late than never, this highlights the long-standing tension between platform growth, user safety, and regulatory pressure in product development. [S65]\n\n🔧 TOOL DROP\n\n**Depost AI** — The LinkedIn AI agent that learns what works for your brand. [S7][S66]\nBest for: Marketers, content creators, and social media managers looking to optimize their LinkedIn presence and content strategy.\nFree tier: No, but Product Hunt launches often have trials or special offers. [S7][S66]\nHonest take: Genuinely useful. LinkedIn is a beast, and having an AI that understands your brand voice and content performance could save serious time and boost engagement. This isn't just generating posts; it's learning *what resonates*.\n\n⚡ SPEED ROUND\n\n✨ Black Friday deals started weeks ago, with \"floodgates\" officially opening today, not just a single-day event. [S1]\n🎧 Apple's AirPods Pro 3 are $100 off, making them the same price as the newer, less impressive AirPods 5. Wild pricing. [S21]\n💍 The Oura Ring 5 hit an all-time low price of $299 for Black Friday. Smart rings are officially mainstream. [S28]\n🎮 Scientists are using Grand Theft Auto's detailed 3D maps to model the effects of climate change like rising sea levels. [S44]\n🇬🇧 The British government is subtly encouraging its citizens to become \"preppers,\" focusing on backup power and community, not bunkers. [S46]\n🛑 Nvidia just paused chip shipments to Southeast Asia amidst US efforts to keep AI chips out of China. Supply chain drama continues. [S63]",
+  "sources": [
+    {
+      "id": 1,
+      "title": "The absolute best Black Friday deals we’ve found (so far)",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "source": "The Verge"
+    },
+    {
+      "id": 2,
+      "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 3,
+      "title": "The B2C growth lessons  B2B product marketers should steal",
+      "url": "https://www.productmarketingalliance.com/b2c-growth-lessons-b2b-pmms-should-steal/",
+      "source": "Product Marketing Alliance"
+    },
+    {
+      "id": 4,
+      "title": "Show Your Work: Platforms Must Make Safety Decisions That Brands Can Verify",
+      "url": "https://www.adweek.com/social-marketing/show-your-work-platforms-must-make-safety-decisions-that-brands-can-verify/",
+      "source": "Adweek"
+    },
+    {
+      "id": 5,
+      "title": "5 Black Friday Truths About Gen Z Shoppers and the Mall",
+      "url": "https://www.adweek.com/brand-marketing/5-black-friday-truths-about-gen-z-shoppers-and-the-mall/",
+      "source": "Adweek"
+    },
+    {
+      "id": 6,
+      "title": "Woomool",
+      "url": "https://www.producthunt.com/products/woomool",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 7,
+      "title": "Depost AI",
+      "url": "https://www.producthunt.com/products/depost-ai",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 8,
+      "title": "The gaming creator with more than 26 million followers just launched his own holding company",
+      "url": "https://digiday.com/media/the-gaming-creator-with-more-than-26-million-followers-just-launched-his-own-holding-company/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday"
+    },
+    {
+      "id": 9,
+      "title": "RightFont 2026",
+      "url": "https://www.producthunt.com/products/rightfont",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 10,
+      "title": "Ploid",
+      "url": "https://www.producthunt.com/products/ploid",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 11,
+      "title": "Form Action Store",
+      "url": "https://www.producthunt.com/products/form-action-store",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 12,
+      "title": "Onset",
+      "url": "https://www.producthunt.com/products/onset",
+      "source": "Product Hunt Daily"
+    },
+    {
+      "id": 13,
+      "title": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
+      "url": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 14,
+      "title": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)",
+      "url": "https://www.wired.com/story/black-friday-coffee-espresso-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 15,
+      "title": "Here are the best Black Friday deals you can grab for $30 or less",
+      "url": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 16,
+      "title": "Best CurrentBody Black Friday Deals (2026): 20% Off LED Masks and More",
+      "url": "https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 17,
+      "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
+      "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 18,
+      "title": "Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More",
+      "url": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 19,
+      "title": "Walking Pad Deals to Shop This Black Friday (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-27-26/",
+      "source": "Wired"
+    },
+    {
+      "id": 20,
+      "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
+      "url": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 21,
+      "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 22,
+      "title": "The 24 Very Best Amazon Black Friday Deals (2026): Up to 60% Off",
+      "url": "https://www.wired.com/story/amazon-black-friday-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 23,
+      "title": "Buying a laptop right now is rough, but these Black Friday deals help",
+      "url": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
+      "source": "The Verge"
+    },
+    {
+      "id": 24,
+      "title": "Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to $700 Off",
+      "url": "https://www.wired.com/story/black-friday-robot-vacuum-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 25,
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge"
+    },
+    {
+      "id": 26,
+      "title": "This gaming mouse should be a Logitech-killer, but it has one big flaw",
+      "url": "https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions",
+      "source": "The Verge"
+    },
+    {
+      "id": 27,
+      "title": "The Best Black Friday Sonos Deals (2026): Up to 34% Off",
+      "url": "https://www.wired.com/story/best-black-friday-sonos-deals-11-27-26/",
+      "source": "Wired"
+    },
+    {
+      "id": 28,
+      "title": "The Oura Ring 5 just got its biggest discount ever for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale",
+      "source": "The Verge"
+    },
+    {
+      "id": 29,
+      "title": "Our Favorite Merino Wool is 30% Off During the Unbound Merino Black Friday Sale (2026)",
+      "url": "https://www.wired.com/story/unbound-merino-black-friday-sale-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 30,
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 31,
+      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories",
+      "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 32,
+      "title": "Best Dyson Vacuum Black Friday Deals for 2026: Up to $400 Off",
+      "url": "https://www.wired.com/story/best-black-friday-dyson-vacuum-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 33,
+      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+      "url": "https://www.wired.com/story/best-black-friday-headphone-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 34,
+      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+      "url": "https://www.wired.com/story/black-friday-headphone-deals-11-27-26/",
+      "source": "Wired"
+    },
+    {
+      "id": 35,
+      "title": "15 Best Buy Black Friday Deals on Hot Tech (2026): Up to 65% Off",
+      "url": "https://www.wired.com/story/black-friday-best-buy-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 36,
+      "title": "Welcome to the Repair Café, Where Neighbors Fight Throwaway Culture",
+      "url": "https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/",
+      "source": "Wired"
+    },
+    {
+      "id": 37,
+      "title": "The 6 Best Black Friday Deals on Expert-Tested Laptops (2026): Up to $470 Off",
+      "url": "https://www.wired.com/story/black-friday-laptop-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 38,
+      "title": "Best Black Friday Google Pixel Deals (2026): Up to $400 Off",
+      "url": "https://www.wired.com/story/best-google-pixel-black-friday-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 39,
+      "title": "Best Kindle and E-Reader Black Friday Deals (2026): Up to $180 Off",
+      "url": "https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 40,
+      "title": "The Best Black Friday iPad Deals On the Latest 2026 Models: Get $100 Off",
+      "url": "https://www.wired.com/story/best-black-friday-ipad-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 41,
+      "title": "Best Kitchen Gifts for Home Cooks (2026)",
+      "url": "https://www.wired.com/story/the-best-gifts-for-cooks-who-love-cooking/",
+      "source": "Wired"
+    },
+    {
+      "id": 42,
+      "title": "Our 2027 Innovators Under 35 competition is now open",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 43,
+      "title": "Best Black Friday Toy Deals (2026): Up to 50% Off Lego, Board Games, and Toys",
+      "url": "https://www.wired.com/story/best-black-friday-toy-deals-11-27-26/",
+      "source": "Wired"
+    },
+    {
+      "id": 44,
+      "title": "Scientists Use ‘Grand Theft Auto’ to Model the Effects of Climate Change",
+      "url": "https://www.wired.com/story/scientists-use-grand-theft-auto-to-model-the-effects-of-climate-change/",
+      "source": "Wired"
+    },
+    {
+      "id": 45,
+      "title": "I Found the Best Black Friday Streaming Deals (2026): Apple TV, Disney, and Paramount Over Half Off",
+      "url": "https://www.wired.com/story/black-friday-streaming-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 46,
+      "title": "The British Government is Turning Everyone Into a Prepper",
+      "url": "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/",
+      "source": "Wired"
+    },
+    {
+      "id": 47,
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "id": 48,
+      "title": "The 10 Best Black Friday TV Deals (2026): Save Up to 53% Off",
+      "url": "https://www.wired.com/story/early-black-friday-tv-deals-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 49,
+      "title": "I Found the 20 Best Black Friday Tech Deals, Up to 50% Off (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-tech-deals-11-27-26/",
+      "source": "Wired"
+    },
+    {
+      "id": 50,
+      "title": "I Found the Best Black Friday Deals on Phones (2026): iPhone, Pixel, and Moto Up to 50% Off",
+      "url": "https://www.wired.com/story/best-black-friday-phone-deals-11-27-26/",
+      "source": "Wired"
+    },
+    {
+      "id": 51,
+      "title": "22 Best Black Friday Deals Under $100 (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-deals-under-100-11-27-2026/",
+      "source": "Wired"
+    },
+    {
+      "id": 52,
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "source": "Wired"
+    },
+    {
+      "id": 53,
+      "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
+      "url": "https://www.wired.com/story/ulta-coupon/",
+      "source": "Wired"
+    },
+    {
+      "id": 54,
+      "title": "Home Depot Promo Codes: 30% Off in November 2026",
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 55,
+      "title": "Peacock Promo Codes: 40% Off November 2026",
+      "url": "https://www.wired.com/story/peacock-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 56,
+      "title": "Dell Coupon Codes: 20% Off for November 2026",
+      "url": "https://www.wired.com/story/dell-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 57,
+      "title": "Nike Promo Codes and Discounts: 30% for November 2026",
+      "url": "https://www.wired.com/story/nike-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 58,
+      "title": "eBay Coupons: 20% Off in November 2026",
+      "url": "https://www.wired.com/story/ebay-coupon-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 59,
+      "title": "Newegg Promo Codes and Coupons for November 2026",
+      "url": "https://www.wired.com/story/newegg-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 60,
+      "title": "Whoop Promo Codes: 20% Off This November 2026",
+      "url": "https://www.wired.com/story/whoop-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 61,
+      "title": "Squarespace Promo Codes: 55% Off in November 2026",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 62,
+      "title": "Dyson Promo Codes: 25% Off in November 2026",
+      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "source": "Wired"
+    },
+    {
+      "id": 63,
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 64,
+      "title": "Is Alice Huang a spy or not?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 65,
+      "title": "X finally gets parental controls after 20 years",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "source": "TechCrunch"
+    },
+    {
+      "id": 66,
+      "title": "Depost AI",
+      "url": "https://www.producthunt.com/products/depost-ai",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 67,
+      "title": "Woomool",
+      "url": "https://www.producthunt.com/products/woomool",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 68,
+      "title": "Ploid",
+      "url": "https://www.producthunt.com/products/ploid",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 69,
+      "title": "Onset",
+      "url": "https://www.producthunt.com/products/onset",
+      "source": "Product Hunt"
+    },
+    {
+      "id": 70,
+      "title": "Form Action Store",
+      "url": "https://www.producthunt.com/products/form-action-store",
+      "source": "Product Hunt"
+    }
+  ]
+}
