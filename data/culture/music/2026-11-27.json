@@ -1,0 +1,124 @@
+{
+  "section": "music",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T21:44:08.928516+00:00",
+  "genres": [
+    "Rock",
+    "Indie",
+    "Pop",
+    "House",
+    "Indie Indian",
+    "Bollywood",
+    "Desi hip-hop"
+  ],
+  "news": [
+    {
+      "title": "The Killers’ Dave Keuning Survived a “Major Stroke” This Month",
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/story/the-killers-dave-keuning-survived-a-major-stroke-this-month/",
+      "age": "1d"
+    },
+    {
+      "title": "King Crimson Co-Founder Michael Giles Dies at 84",
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/story/king-crimson-co-founder-michael-giles-dies-at-84/",
+      "age": "2d"
+    },
+    {
+      "title": "Tidal Bans AI Songs",
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/story/tidal-bans-ai-songs/",
+      "age": "2d"
+    }
+  ],
+  "tracks": [
+    {
+      "title": "Miss This Christmas",
+      "artist": "Olivia Rodrigo",
+      "why": "A melancholic holiday track showcasing her signature emotional depth and songwriting prowess.",
+      "genre": "Pop",
+      "geo": "world"
+    },
+    {
+      "title": "The Window",
+      "artist": "Heartworms",
+      "why": "A 'spiritual' new single that delves into themes of time, escape, and self-reflection with a compelling edge.",
+      "genre": "Indie",
+      "geo": "world"
+    },
+    {
+      "title": "Gracias x Todo",
+      "artist": "Snoop Dogg ft. Feid",
+      "why": "A smooth Thanksgiving collaboration bringing together a hip-hop legend and a rising Latin star.",
+      "genre": "Desi hip-hop",
+      "geo": "world"
+    },
+    {
+      "title": "Subliminals",
+      "artist": "Pz' ft. Don Toliver",
+      "why": "A fresh track featuring Don Toliver that promises a captivating listen for fans of modern hip-hop and R&B.",
+      "genre": "Pop",
+      "geo": "world"
+    },
+    {
+      "title": "Paiinted Feeliings",
+      "artist": "Talwiinder",
+      "why": "This track exemplifies the artist's goal of creating lasting, impactful music within the vibrant Desi hip-hop scene.",
+      "genre": "Indie Indian",
+      "geo": "india"
+    },
+    {
+      "title": "What If",
+      "artist": "Sarah Black",
+      "why": "An emerging Indian indie artist delivering a compelling soundscape that resonates with modern sensibilities.",
+      "genre": "Bollywood",
+      "geo": "india"
+    }
+  ],
+  "charts": {
+    "global": [
+      {
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift"
+      },
+      {
+        "title": "Paint The Town Red",
+        "artist": "Doja Cat"
+      },
+      {
+        "title": "greedy",
+        "artist": "Tate McRae"
+      },
+      {
+        "title": "Is It Over Now? (Taylor's Version) (From The Vault)",
+        "artist": "Taylor Swift"
+      },
+      {
+        "title": "Lovin On Me",
+        "artist": "Jack Harlow"
+      }
+    ],
+    "india": [
+      {
+        "title": "Arjan Vailly",
+        "artist": "Manan Bhardwaj"
+      },
+      {
+        "title": "Jamal Kudu",
+        "artist": "Harshavardhan Rameshwar"
+      },
+      {
+        "title": "Heeriye",
+        "artist": "Jasleen Royal & Arijit Singh"
+      },
+      {
+        "title": "Pehle Bhi Main",
+        "artist": "Vishal Mishra"
+      },
+      {
+        "title": "Hua Main",
+        "artist": "Raghav Chaitanya"
+      }
+    ]
+  }
+}
